@@ -32,7 +32,7 @@ Les données de recherche sont souvent l'accomplissement crucial de nombreux pro
 ### Composantes clés
 ## <img src="/Images/Icons/brain.png" width="150" height="150" height="150" /><img src="/Images/Icons/gears.png" width="150" height="150" />
 ##### Connaissances et compétences
-####### Principes de l'équité
+###### Principes de l'équité
 
 En 2014, un ensemble de principes de base a été rédigé afin d'optimiser la réutilisabilité des données de recherche, appelé les [Principes de données FAIR](https://www.force11.org/group/fairgroup/fairprinciples). Il s'agit d'un ensemble de lignes directrices et de pratiques élaborées par la communauté pour garantir que les données ou tout objet numérique soient **F**indable \("Trouvables"\), **A**ccessibles  **I**nteropérables et **R**éutilisables :
 
@@ -48,31 +48,31 @@ En 2014, un ensemble de principes de base a été rédigé afin d'optimiser la r
 
 ![](/Images/02%20Open%20Science%20Basics/02_open_research_data_material.png)
 
-##### Data publishing
+###### Publication de données
 
-Most researchers are more or less familiar with Open Access publishing of research articles and books \(see chapter 5\). More recently, and for the reasons mentioned above, data publishing has gained increasing attention. More and more funders expect the data produced in research projects they finance to be findable, accessible and as open as possible.
+La plupart des chercheurs sont plus ou moins familiers avec la publication en libre accès d'articles de recherche et de livres \(voir chapitre 5\). Plus récemment, et pour les raisons mentionnées ci-dessus, la publication de données a suscité une attention croissante. De plus en plus de bailleurs de fonds s'attendent à ce que les données produites dans le cadre des projets de recherche qu'ils financent soient disponibles, accessibles et aussi ouvertes que possible.
 
-There are several distinct ways to make research data accessible, including \([Wikipedia](https://en.wikipedia.org/wiki/Data_publishing)\):
+Il existe plusieurs façons distinctes de rendre les données de recherche accessibles, notamment \([Wikipedia](https://en.wikipedia.org/wiki/Data_publishing)\) :
 
-* Publishing data as supplemental material associated with a [research article](https://en.wikipedia.org/wiki/Research_article), typically with the data files hosted by the publisher of the article.
+* Publication de données en tant que matériel supplémentaire associé à un [article de recherche](https://en.wikipedia.org/wiki/Research_article), généralement avec les fichiers de données hébergés par l'éditeur de l'article.
 
-* Hosting data on a publicly-available website, with files available for download.
+* Hébergement des données sur un site Web accessible au public, avec fichiers disponibles pour téléchargement.
 
-* Depositing data in a repository that has been developed to support data publication, e.g., [Dataverse](https://en.wikipedia.org/wiki/Dataverse), [Dryad](https://en.wikipedia.org/wiki/Dryad_(repository)), [figshare](https://en.wikipedia.org/wiki/Figshare), [Zenodo](https://en.wikipedia.org/wiki/Zenodo).
+* Dépôt de données dans un dépôt qui a été conçu pour la publication des données, p. ex. [Dataverse](https://en.wikipedia.org/wiki/Dataverse), [Dryad](https://en.wikipedia.org/wiki/Dryad_(dépôt)), [figshare](https://en.wikipedia.org/wiki/Figshare), [Zenodo](https://en.wikipedia.org/wiki/Zenodo).
 
-* A large number of general and domain or subject specific data repositories exist which can provide additional support to researchers when depositing their data.
+* Il existe un grand nombre de dépôts de données générales et de dépôts de données spécifiques à un domaine ou à un sujet qui peuvent fournir un soutien supplémentaire aux chercheurs lorsqu'ils déposent leurs données.
 
-* Publishing a data paper about the dataset, which may be published as a preprint, in a journal, or in a data journal that is dedicated to supporting data papers. The data may be hosted by the journal or hosted separately in a data repository. Examples of data journals include [Scientific Data](https://www.nature.com/sdata/) \(by SpringerNature\) and the [Data Science Journal](http://www.codata.org/publications/data-science-journal) \(by CODATA\). For a comprehensive review of data journals, see [Candela et al](https://doi.org/10.1002%2Fasi.23358).
+* Publication d'un document sur l'ensemble de données, qui peut être publié sous forme de préimpression, dans un journal ou dans un journal dédié aux documents de données. Les données peuvent être hébergées par la revue ou séparément dans un dépôt de données. Des exemples de journaux de données comprennent [Scientific Data](https://www.nature.com/sdata/) \(par SpringerNature\) et le [Data Science Journal](http://www.codata.org/publications/data-science-journal) \(par CODATA\). Pour une revue complète de ce type de journaux, voir [Candela et al](https://doi.org/10.1002%2Fasi.23358).
 
-The CESSDA ERIC [Expert tour guide on Data Management](https://www.cessda.eu/Research-Infrastructure/Training/Expert-tour-guide-on-Data-Management/6.-Archive-Publish/Data-publishing-routes) provides an overview of pros and cons of different data publication routes. Sometimes, your funder or another external party requires you to use a specific repository. If you are free to choose, you may consider the order of preference in the [recommendations by OpenAIRE](https://www.openaire.eu/opendatapilot-repository-guide):
+Le CESSDA ERIC [Expert tour guide on Data Management](https://www.cessda.eu/Research-Infrastructure/Training/Expert-tour-guide-on-Data-Management/6.-Archive-Publish/Data-publishing-routes) donne un aperçu des avantages et des inconvénients des différentes voies de publication des données. Parfois, votre bailleur de fonds ou une autre partie externe vous demande d'utiliser un référentiel spécifique. Si vous êtes libre de choisir, vous pouvez considérer l'ordre de préférence dans les [recommandations par OpenAIRE](https://www.openaire.eu/opendatapilot-repository-guide) :
 
-1. Use an external data archive or repository already established for your research domain to preserve the data according to recognised standards in your discipline.
+1. Utilisez une archive ou un référentiel de données externe déjà établis pour votre domaine de recherche afin de préserver les données conformément aux normes reconnues dans votre discipline.
 
-2. If available, use an institutional research data repository, or your research group’s established data management facilities.
+2. Si possible, utilisez un dépôt de données de recherche institutionnel ou les installations de gestion des données établies de votre groupe de recherche.
 
-3. Use a cost-free data repository such as [Dataverse](https://dataverse.org/), [Dryad](https://datadryad.org/pages/faq#depositing-cost), [figshare](https://figshare.com/) or [Zenodo](https://zenodo.org/).
+3. Utilisez un référentiel de données gratuit tel que [Dataverse](https://dataverse.org/), [Dryad](https://datadryad.org/pages/faq#depositing-cost), [figshare](https://figshare.com/) ou [Zenodo](https://zenodo.org/).
 
-4. Search for other data repositories in [re3data](https://www.re3data.org/). There is no single filter option in re3data covering the FAIR principles, but considering the following filter options will help you to find FAIR-compatible repositories: access categories, data usage licenses, trustworthy data repositories \(with a certificate or explicitly adhering to archival standards\) and whether a repository gives the data a persistent identifier \(PID\). Another aspect to consider is whether the repository supports versioning.
+4. Recherchez d'autres dépôts de données dans [re3data](https://www.re3data.org/). Il n'y a pas d'option de filtrage unique dans re3data couvrant les principes de FAIR, mais considérer les options de filtrage suivantes vous aidera à trouver des référentiels compatibles FAIR : catégories d'accès, licences d'utilisation de données, référentiels de données fiables \(avec un certificat ou en respectant explicitement les normes archivistiques\) et si un référentiel donne un identifiant permanent aux données \(PID\). Un autre aspect à considérer est de savoir si le référentiel supporte le versioning.
 
 ## <img src="/Images/Icons/archive.png" width="150" height="150" />
 You should consider where to deposit and publish your data already in your research data management plan. CESSDA offers some practical questions, which are recommended to be considered. For example: Which data and associated metadata, documentation and code will be deposited? How long does the data need to be retained? For how long should the data remain reusable? How will the data be made available? What access category will you choose? For more questions check [Adapt your DMP: part 6](https://www.cessda.eu/Research-Infrastructure/Training/Expert-Tour-Guide-on-Data-Management/6.-Archive-Publish/Adapt-your-DMP-part-6). On the other hand don’t forget to check if a chosen repository meets requirements of your research and of your funder. Some repositories have already gained certification, like CoreTrustSeal, which certifies them to be trustworthy and to be able to meet Core Trustworthy Data Repositories Requirements. It is worth mentioning that some domain specific repositories may accept only high-quality data with a potential for reuse and that can be publicly shared.
