@@ -1,109 +1,108 @@
 ## <img src="/Images/Icons/cloud.png" width="200" height="200" />
-## 1. Open Concepts and Principles
+## 1. Concepts et principes de l'Open Science
 
-### What is it?
+### Qu'est-ce que c'est ?
 
-Open Science is the practice of science in such a way that others can collaborate and contribute, where research data, lab notes and other research processes are freely available, under terms that enable reuse, redistribution and reproduction of the research and its underlying data and methods ([FOSTER Open Science Definition](https://www.fosteropenscience.eu/foster-taxonomy/open-science-definition)). In a nutshell, Open Science is transparent and accessible knowledge that is shared and developed through collaborative networks \(Vicente-Sáez & Martínez-Fuentes 2018\).
+La science ouverte est la pratique de la science de telle sorte que d'autres puissent collaborer et contribuer, là où les données de recherche, les notes de laboratoire et autres processus de recherche sont librement disponibles, dans des conditions qui permettent la réutilisation, la redistribution et la reproduction de la recherche et de ses données et méthodes sous-jacentes ([FOSTER Open Science Definition](https://www.fosteropenscience.eu/foster-taxonomy/open-science-definition)). En résumé, la science ouverte est un savoir transparent et accessible qui est partagé et développé par des réseaux de collaboration \(Vicente-Sáez & Martínez-Fuentes 2018\).
 
-Open Science is about increased rigour, accountability, and reproducibility for research. It is based on the principles of inclusion, fairness, equity, and sharing, and ultimately seeks to change the way research is done, who is involved and how it is valued. It aims to make research more open to participation, review/refutation, improvement and \(re\)use for the world to benefit.
+La science ouverte vise à accroître la rigueur, la responsabilisation et la reproductibilité de la recherche. Il est fondé sur les principes d'inclusion, de justice, d'équité et de partage, et vise en fin de compte à changer la façon dont la recherche est effectuée, qui y participe et comment elle est valorisée. Il vise à rendre la recherche plus ouverte à la participation, à l'examen/à la réfutation, à l'amélioration et à la (re)mise à profit pour le monde entier.
 
-There are several definitions of "openness" with regards to various aspects of science; the [Open Definition](http://opendefinition.org/) defines it thus: “Open data and content can be freely used, modified, and shared by anyone for any purpose”. Open Science encompasses a variety of practices, usually including areas like open access to publications, open research data, open source software/tools, open workflows, citizen science, open educational resources, and alternative methods for research evaluation including open peer review \([Pontika et al., 2015](https://f1000research.com/articles/6-588/v2#ref-59)\).![](/Images/image_0.png)Pontika et al. \(2015\)
+Il existe plusieurs définitions de l'"ouverture" en ce qui concerne divers aspects de la science ; l a[Définition de l'open] (http://opendefinition.org/) la définit ainsi : "Les données et les contenus ouverts peuvent être librement utilisés, modifiés et partagés par n'importe qui à n'importe quelle fin ". La science ouverte englobe une variété de pratiques, incluant habituellement des domaines comme le libre accès aux publications, les données de recherche ouvertes, les logiciels et outils libres, les flux de travail ouverts, la science citoyenne, les ressources éducatives ouvertes et les méthodes alternatives d'évaluation de la recherche, y compris l'examen ouvert par les pairs \([Pontika et al., 2015](https://f1000research.com/articles/6-588/v2#ref-59)\). ![](/Images/image_0.png) Pontika et al. \(2015)
 
-The aims and assumptions underlying the push to implement these various practices have been analysed by Fecher & Friesike \([2013](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2272036)\), whose analyses of the literature found five broad concerns, or "schools of thought". These are:
+Les objectifs et les hypothèses qui sous-tendent les efforts déployés pour mettre en œuvre ces diverses pratiques ont été analysés par Fecher & Friesike \([2013](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2272036)\), dont les analyses de la littérature ont révélé cinq grandes préoccupations, ou "écoles de pensée". Celles-ci sont :
 
-* **Democratic school:** Believing that there is an unequal distribution of access to knowledge, this area is concerned with making scholarly knowledge \(including publications and data\) available freely for all.
+* **L'école démocratique** : Pensant qu'il y a une distribution inégale de l'accès au savoir, ce domaine s'intéresse à rendre le savoir savant \(y compris les publications et les données\) accessible gratuitement à tous.
 
-* **Pragmatic school:** Following the principle that the creation of knowledge is made more efficient through collaboration and strengthened through critique, this area seeks to harness network effects by connecting scholars and making scholarly methods transparent.
+* **L'école pragmatique** : Suivant le principe selon lequel la création de connaissances est rendue plus efficace par la collaboration et renforcée par la critique, ce domaine cherche à exploiter les effets de réseau en reliant les chercheurs et en rendant les méthodes savantes transparentes.
 
-* **Infrastructure school:** This thread is motivated by the assumption that efficient research requires readily available platforms, tools and services for dissemination and collaboration.
+* **L'école infrastructurelle** : Ce fil conducteur est motivé par l'hypothèse qu'une recherche efficace nécessite des plates-formes, des outils et des services de diffusion et de collaboration facilement disponibles.
 
-* **Public school:** Based on the recognition that true societal impact requires societal engagement in research and readily understandable communication of scientific results, this area seeks to bring the public to collaborate in research through citizen science, and make scholarship more readily understandable through lay summaries, blogging and other less formal communicative methods.
+* **L'éÉcole publique** : En se fondant sur la reconnaissance du fait qu'un véritable impact sociétal exige un engagement sociétal dans la recherche et une communication facile à comprendre des résultats scientifiques, ce domaine vise à amener le public à collaborer à la recherche par la science citoyenne et à rendre l'érudition plus facile à comprendre par des résumés simples, des blogus et autres méthodes moins officielles de communication.
 
-* **Measurement school:** Motivated by the acknowledgement that traditional metrics for measuring scientific impact have proven problematic \(by being too heavily focused on publications, often only at the journal-level, for instance\), this strand seeks "alternative metrics" which can make use of the new possibilities of digitally networked tools to track and measure the impact of scholarship through formerly invisible activities.
+* **L'école des mesures** : Motivé par la reconnaissance du fait que les métriques traditionnelles de mesure de l'impact scientifique se sont avérées problématiques \(en se concentrant trop sur les publications, souvent uniquement au niveau des revues, par exemple\), ce volet cherche des "métriques alternatives" qui peuvent utiliser les nouvelles possibilités des outils numériques en réseau pour suivre et mesurer l'impact des travaux de recherche par des activités auparavant invisibles.
 
-### Rationale
+### Raison d'être
 
-Open Science, as defined above, encompasses a huge number of potential structural changes to academic practice, whose culture can often be hierarchical and conservative. Moreover, even where researchers are sympathetic to the aims of Open Science, they might not yet see the worth in taking them up, as existing incentive mechanisms do not yet reflect this new culture of openness and collaboration. As a consequence, convincing researchers of the need to change their practices will require a good understanding not only of the ethical, social and academic benefits, but also of the ways in which taking up Open Science practices will actually help them succeed in their work. This section will describe some of the core concepts, principles, actors, and practices in Open Science, and how these fit within a broader research ecosystem.
+La science ouverte, telle que définie ci-dessus, englobe un grand nombre de changements structurels potentiels dans la pratique universitaire, dont la culture peut souvent être hiérarchique et conservatrice. De plus, même lorsque les chercheurs sont favorables aux objectifs de l'Open Science, ils ne voient peut-être pas encore l'intérêt de les adopter, car les mécanismes d'incitation existants ne reflètent pas encore cette nouvelle culture d'ouverture et de collaboration. Par conséquent, pour convaincre les chercheurs de la nécessité de changer leurs pratiques, il faudra une bonne compréhension non seulement des avantages éthiques, sociaux et académiques, mais aussi de la manière dont l'adoption des pratiques de la science ouverte les aidera réellement à réussir dans leur travail. Cette section décrit certains des concepts, principes, acteurs et pratiques de base de la science ouverte, et comment ils s'intègrent dans un écosystème de recherche plus large.
 
 ![](/Images/image_1.png)
 
 ## <img src="/Images/Icons/finish.png" width="150" height="150" />
-### Learning objectives
+### Objectifs d'apprentissage
 
-1. Understand the social, economical, legal, and ethical principles and concepts underpinning Open Science.
+1. Comprendre les principes et concepts sociaux, économiques, juridiques et éthiques qui sous-tendent la science ouverte.
 
-2. Become familiar with the history of Open Science, and the disparity and diversity of views from different research communities, disciplines and cultures.
+2. Se familiariser avec l'histoire de la science ouverte, la disparité et la diversité des points de vue des différentes communautés de recherche, disciplines et cultures.
 
-3. Gain insight into the developments around Open Science, and the personal impact these can have on researchers, research, and society more broadly.
+3. Obtenir un aperçu des développements autour de la science ouverte et de l'impact personnel qu'ils peuvent avoir sur les chercheurs, la recherche et la société en général.
 
-### Key components
+### Composants clés
 ## <img src="/Images/Icons/brain.png" width="150" height="150" /><img src="/Images/Icons/gears.png" width="150" height="150" />
 
 ![](/Images/02%20Open%20Science%20Basics/02_open_concepts_and_principles.png)
 
 #### Knowledge & Skills
-* Open Science is the movement to help make the results of scholarly research more accessible, including code, data, and research papers.
+* La science ouverte est le mouvement visant à rendre les résultats de la recherche scientifique plus accessibles, y compris les codes, les données et les documents de recherche.
 
-  * It encompasses many different but often related aspects impacting the entire research lifecycle, including open publishing, open data, open source software, open notebook science, open peer review, open dissemination, and open materials \(see glossary for definitions\).
+  * Il englobe de nombreux aspects différents mais souvent liés qui ont un impact sur l'ensemble du cycle de vie de la recherche, y compris la publication ouverte, les données ouvertes, les logiciels libres, les logiciels libres, la science du cahier ouvert, l'examen ouvert par les pairs, la diffusion ouverte et les matériaux ouverts \(voir glossaire pour les définitions\).
 
+* Histoire de la science ouverte, et les motivations derrière le mouvement.
 
-* History of Open Science, and the motivations behind the movement.
+  * Les origines de l'édition académique remontent au XVIIe siècle avec les premières revues académiques.
+  
+  * Accroître la motivation à partager les ressources entre les disciplines de recherche, ainsi que la transparence pour plus d'efficacité, de rigueur, de responsabilité, de durabilité pour les générations futures et de reproductibilité.
 
-  * The origins of academic publishing began in the 17th century with the first academic journals.
+  * Cas éthiques où une transparence accrue peut réduire la fraude, la manipulation des données et la communication sélective des résultats.
 
-  * Increasing motivation to share resources between research disciplines, as well as increased transparency for greater efficiency, rigour, accountability, sustainability for future generations, and reproducibility.
+* L'état actuel résulte des pressions exercées par les académies de recherche et les gouvernements pour que la recherche financée par l'État soit partagée plus ouvertement, souvent dans le but d'accélérer la croissance sociale ou économique et l'innovation.
 
-  * Ethical cases whereby increased transparency can reduce fraud, data manipulation, and selective reporting of results.
+  * Les résultats de la recherche financée par des fonds publics devraient être accessibles au public.
 
-* Present state arose from pressure from research academies and governments for publicly-funded research to be shared more openly, often for the purpose of accelerated societal or economic growth and innovation.
+  * Nécessité de susciter un changement culturel dans la recherche et parmi les chercheurs.
 
-  * Publicly funded research outputs should be publicly available.
+  * Adoption d'outils et de technologies Web pour faciliter la collaboration scientifique.
 
-  * Need to drive cultural change in research and amongst researchers.
+* Différences et points communs dans les pratiques, les principes et les communautés de la science ouverte.
 
-  * Embracing of Web-based tools and technologies to facilitate scientific collaboration.
+  * Il est généralement admis que la science ouverte a un impact accru associé à un partage et à une réutilisation plus larges \(par exemple, ce qu'on appelle "[l'avantage du libre accès pour la citation](https://sparceurope.org/what-we-do/open-access/sparc-europe-open-access-resources/open-access-citation-advantage-service-oaca/oaca-list/)"\).
 
-* Differences and commonalities within Open Science practices, principles and communities.
+  * La science ouverte pourrait accroître la confiance dans la science et dans la fiabilité des résultats scientifiques.
 
-  * It is generally accepted that Open Science leads to increased impact associated with wider sharing and re-use \(e.g., the so-called "[open access citation advantage](https://sparceurope.org/what-we-do/open-access/sparc-europe-open-access-resources/open-access-citation-advantage-service-oaca/oaca-list/)"\).
+* Science ouverte et relations à la licence, questions de droits d'auteur.
 
-  * Open Science could increase trust in science and in the reliability of scientific results.
-
-* Open Science and relations to licensing, copyright issues.
-
-  * Typically, open research outputs are openly licensed in order to maximize re-use while allowing the creator to retain ownership and receive credit for their work.
-
+  * Généralement, les résultats de la recherche ouverte font l'objet d'une licence ouverte afin de maximiser la réutilisation tout en permettant au créateur de conserver la propriété et de recevoir le crédit pour son travail.
+  
 ## <img src="/Images/Icons/questions.png" width="150" height="150" />
-### Questions, obstacles, and common misconceptions
+### Questions, obstacles et idées fausses
 
-Q: "What is the difference between Open Science and ‘science’?"
+Q : "Quelle est la différence entre science ouverte et "science" ?"
 
-A: Open Science refers to doing traditional science with more transparency involved at various stages, for example by openly sharing code and data. Many researchers do this already, but don’t call it Open Science.
+R : La science ouverte consiste à faire de la science traditionnelle avec plus de transparence à différentes étapes, par exemple en partageant ouvertement le code et les données. Beaucoup de chercheurs le font déjà, mais ne l'appellent pas Open Science.
 
-Q: "Does ‘Open Science’ exclude the Humanities and Social Sciences?"
+Q : "La science ouverte exclut-elle les sciences humaines et sociales ?"
 
-A: No, the term Open Science is inclusive. Indeed, the case is that sometimes Open Science is more broadly referred to as ‘Open Research’ or ‘Open Scholarship’ to be more inclusive of other disciplines, principles and practices. However, Open Science is a commonly used term at multiple levels and so it makes sense to adopt it for communication purposes, with the proviso that it includes all research disciplines.
+R : Non, le terme Open Science est inclusif. En fait, la science ouverte est parfois plus largement appelée "recherche ouverte" ou "bourse d'études ouverte" afin d'englober d'autres disciplines, principes et pratiques. Cependant, la science ouverte est un terme communément utilisé à plusieurs niveaux et il est donc logique de l'adopter à des fins de communication, à condition qu'il englobe toutes les disciplines de recherche.
 
-Q: "Does Open Science lead to misuse or misunderstanding of research?"
+Q : "La science ouverte mène-t-elle à une mauvaise utilisation ou à une mauvaise compréhension de la recherche ?"
 
-A: No, the application of Open Science principles is in fact a safeguard against misuse or misunderstanding. Transparency breeds trust, confidence and allows others to verify and validate the research process.
+R : Non, l'application des principes de la science ouverte est en fait une protection contre les abus ou les malentendus. La transparence engendre la confiance et permet aux autres de vérifier et de valider le processus de recherche.
 
-Q: "Will Open Science lead to too much information overload?"
+Q : "La science ouverte entraînera-t-elle une surabondance d'informations ?"
 
-A: It is better to have too much information and deal with it, than to have too little and live with the risk of missing the important parts. And there are technologies such as RSS feeds, machine learning and artificial intelligence that are making content aggregation easier.
+R : Il vaut mieux avoir trop d'informations et s'en occuper que d'en avoir trop peu et vivre avec le risque de manquer les parties importantes. Et il existe des technologies telles que les flux RSS, l'apprentissage automatique et l'intelligence artificielle qui facilitent l'agrégation de contenu.
 
 ## <img src="/Images/Icons/output.png" width="150" height="150" />
-### Learning outcomes
+### Résultats des apprentissages
 
-1. Be able to explain the core underlying academic, economic, and societal principles and concepts supporting Open Science, and why this matters to you in terms of broader impacts.
+1. Être capable d'expliquer les principes et concepts académiques, économiques et sociétaux fondamentaux qui sous-tendent la science ouverte, et pourquoi cela est important pour vous en termes d'impacts plus larges.
 
-2. Develop an understanding of the numerous dimensions of Open Science, and some of the tools and practices involved in this.
+2. Développer une compréhension des nombreuses dimensions de la science ouverte et de certains des outils et pratiques impliqués dans ce domaine.
 
-3. Be familiar with the present state of Open Science, and the diversity of perspectives that this encompasses.
+3. Connaître l'état actuel de la science ouverte et la diversité des perspectives qu'elle englobe.
 
 ## <img src="/Images/Icons/magnifying_glass.png" width="150" height="150" />
 
-### Further reading
+### Lectures complémentaires
 
 * European Commission's Directorate-General for Research & Innovation (RTD) (2016). Open innovation, Open Science, open to the world - a vision for Europe. [ec.europa.eu/digital-single-market/en/news/open-innovation-open-science-open-world-vision-europe](https://ec.europa.eu/digital-single-market/en/news/open-innovation-open-science-open-world-vision-europe)
 
