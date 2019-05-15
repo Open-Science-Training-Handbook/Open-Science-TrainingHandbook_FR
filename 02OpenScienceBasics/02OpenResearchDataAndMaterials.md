@@ -1,51 +1,50 @@
 ## <img src="/Images/Icons/open_data.png" width="200" height="200" />
 ## 2. Open Research Data and Materials
 
-### What is it?
+### Qu'est-ce que c'est ?
 
-Open research data is data that can be freely accessed, reused, remixed and redistributed, for academic research and teaching purposes and beyond. Ideally, open data have no restrictions on reuse or redistribution, and are appropriately licensed as such. In exceptional cases, e.g. to protect the identity of human subjects, special or limited restrictions of access are set. Openly sharing data exposes it to inspection, forming the basis for research verification and reproducibility, and opens up a pathway to wider collaboration. At most, open data may be subject to the requirement to attribute and sharealike \(see the [Open Data Handbook](http://opendatahandbook.org/guide/en/what-is-open-data)\).
-
+Les données de recherche ouverte sont des données qui peuvent être librement consultées, réutilisées, remaniées et redistribuées, à des fins de recherche universitaire, d'enseignement et autres. Idéalement, les données ouvertes n'ont aucune restriction quant à la réutilisation ou à la redistribution, et sont soumises à des licences appropriées. Dans des cas exceptionnels, par exemple pour protéger l'identité d'individus, des restrictions spéciales ou limitées d'accès sont fixées. Le partage ouvert des données les expose à l'inspection, ce qui constitue la base de la vérification et de la reproductibilité de la recherche, et ouvre la voie à une collaboration plus large. Tout au plus, les données ouvertes peuvent être soumises à l'obligation d'attribuer et de partager des données \(voir le [Open Data Handbook](http://opendatahandbook.org/guide/en/what-is-open-data)\).
 
 ## <img src="/Images/Icons/data2.png" width="150" height="150" />
-### Rationale
 
-Research data are often the most valuable output of many research projects, they are used as primary sources that underpin scientific research and enable derivation of theoretical or applied findings. In order to make findings/studies replicable, or at least reproducible or reusable \(see [Reproducible Research And Data Analysis](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/blob/master/02OpenScienceBasics/04ReproducibleResearchAndDataAnalysis.md)\) in any other way, the best practice recommendation for research data is to be as open and [FAIR](https://www.force11.org/fairprinciples) as possible, while accounting for ethical, commercial and privacy constraints with sensitive data or proprietary data.
+### Justification
 
+Les données de recherche sont souvent l'accomplissement crucial de nombreux projets de recherche, elles sont utilisées comme sources primaires qui sous-tendent la recherche scientifique et permettent de dériver des résultats théoriques ou appliqués. Afin de rendre les résultats/études réplicables, ou du moins reproductibles ou réutilisables \(voir [Reproducible Research And Data Analysis](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/blob/master/02OpenScienceBasics/04ReproducibleResearchAndDataAnalysis.md)\) d'une certaine manière, la meilleure pratique recommandée pour les données de recherche doit être aussi ouverte et [FAIR](https://www.force11.org/fairprinciples) que possible, en respectant les contraintes éthiques, commerciales et la confidentialité des données sensibles ou exclusives.
 
 ## <img src="/Images/Icons/finish.png" width="150" height="150" />
 
-### Learning objectives
+### Objectifs d'apprentissage
 
-1. Gain an understanding of the basic characteristics and principles of open and FAIR research data, including appropriate packaging and documentation, to enable others to understand, reproduce, and re-use in alternative ways.
+1. Comprendre les caractéristiques et les principes de base des données de recherche ouvertes et équitables, y compris l'assemblage approprié et la documentation, afin de permettre à d'autres de comprendre, de reproduire et de réutiliser les données de manière alternative.
 
-2. Familiarity with the sorts of data that might be considered sensitive, and the restrictions or constraints on openly sharing them.
+2. Familiarité avec les types de données qui peuvent être considérées comme sensibles et les restrictions ou contraintes liées au partage ouvert de ces données.
 
-3. Be able to convert a ‘closed’ dataset into one which is ‘open’ by implementing the necessary measures in a data management plan, with appropriate data stewardship and metadata.
+3. Pouvoir convertir un ensemble de données "fermées" en un ensemble "ouvert" en mettant en œuvre les mesures nécessaires dans un plan de gestion des données, avec une gestion appropriée des données et des métadonnées.
 
-4. Be able to use research data management plan and to make your research results findable and accessible, even if it contains sensitive data.
+4. Être en mesure d'utiliser le plan de gestion des données de recherche et de rendre les résultats de vos recherches accessibles et trouvables, même s'ils contiennent des données sensibles.
 
-5. Understand the pros and cons of openly sharing different types of data \(e.g., privacy, sensitivity, de-identification, mediated access\).
+5. Comprendre les avantages et les inconvénients du partage ouvert de différents types de données \(p. ex. confidentialité, sensibilité, dépersonnalisation, accès par médiation\).
 
-6. Understand the importance of appropriate metadata for sustainable archiving of research data.
+6. Comprendre l'importance de métadonnées appropriées pour l'archivage durable des données de recherche.
 
-7. Understand the basic workflows and tools for sharing research data.
+7. Comprendre les flux de travail de base et les outils de partage des données de recherche.
 
-### Key components
-## <img src="/Images/Icons/brain.png" width="150" height="150" /><img src="/Images/Icons/gears.png" width="150" height="150" />
-#### Knowledge & Skills
-##### FAIR principles
+### Composantes clés
+## <img src="/Images/Icons/brain.png" width="150" height="150" height="150" /><img src="/Images/Icons/gears.png" width="150" height="150" />
+##### Connaissances et compétences
+####### Principes de l'équité
 
-In 2014, a core set of principles were drafted in order to optimize the reusability of research data, named the [FAIR Data Principles](https://www.force11.org/group/fairgroup/fairprinciples). They represent a community-developed set of guidelines and best practices to ensure that data or any digital object are **F**indable, **A**ccessible, **I**nteroperable and **R**e-usable:
+En 2014, un ensemble de principes de base a été rédigé afin d'optimiser la réutilisabilité des données de recherche, appelé les [Principes de données FAIR](https://www.force11.org/group/fairgroup/fairprinciples). Il s'agit d'un ensemble de lignes directrices et de pratiques élaborées par la communauté pour garantir que les données ou tout objet numérique soient **F**indable \("Trouvables"\), **A**ccessibles  **I**nteropérables et **R**éutilisables :
 
-**Findable:** The first thing to be in place to make data reusable is the possibility to find them. It should be easy to find the data and the metadata for both humans and computers. Automatic and reliable discovery of datasets and services depends on machine-readable persistent identifiers \(PIDs\) and metadata.
+**Findable :** La première chose à faire pour rendre les données réutilisables est de les retrouver. Il devrait être facile de trouver les données et les métadonnées pour les humains et les ordinateurs. La découverte automatique et fiable des ensembles de données et des services dépend des identificateurs pérennes détectables par des machines \(PIDs\) et des métadonnées.
 
-**Accessible:** The \(meta\)data should be retrievable by their identifier using a standardized and open communications protocol, possibly including authentication and authorisation. Also, metadata should be available even when the data are no longer available.
+**Accessible :** Les \(méta\)données doivent pouvoir être récupérées par leur identifiant à l'aide d'un protocole de communication standardisé et ouvert, incluant éventuellement une authentification et une autorisation. De plus, les métadonnées devraient être disponibles même lorsque les données ne sont plus disponibles.
 
-**Interoperable:** The data should be able to be combined with and used with other data or tools. The format of the data should therefore be open and interpretable for various tools, including other data records. The concept of interoperability applies both at the data and metadata level. For instance, the \(meta\)data should use vocabularies that follow FAIR principles.
+**Interopérable :** Les données doivent pouvoir être combinées et utilisées avec d'autres données ou outils. Le format des données devrait donc être ouvert et interprétable pour divers outils, y compris d'autres enregistrements de données. Le concept d'interopérabilité s'applique tant au niveau des données qu'à celui des métadonnées. Par exemple, les \(méta\)données devraient utiliser des vocabulaires qui suivent les principes FAIR.
 
-**Re-usable:** Ultimately, FAIR aims at optimizing the reuse of data. To achieve this, metadata and data should be well-described so that they can be replicated and/or combined in different settings. Also, the reuse of the \(meta\)data should be stated with \(a\) clear and accessible license\(s\).
+**Réutilisable :** En fin de compte, FAIR vise à optimiser la réutilisation des données. Pour ce faire, les métadonnées et les données doivent être bien décrites afin qu'elles puissent être reproduites et/ou combinées dans différents contextes. De plus, la réutilisation des \(méta\)données devrait être indiquée avec une \(des\) licences claire\(s\) et accessible\(s\).
 
-Distinct from peer initiatives that focus on the human scholar, the FAIR principles put a specific emphasis on enhancing the ability of machines to automatically find and use data or any digital object, in addition to supporting its reuse by individuals. The FAIR principles are guiding principles, not standards. FAIR describes qualities or behaviours that are required to make data maximally reusable \(e.g., description, citation\). Those qualities can be achieved by different standards.
+À la différence des initiatives entre pairs qui se concentrent sur l'intellect humain, les principes FAIR mettent l'accent sur l'amélioration de la capacité des machines à trouver et à utiliser automatiquement des données ou tout objet numérique, en plus de favoriser sa réutilisation par les individus. Les principes FAIR sont des guides et non des normes. FAIR décrit les qualités ou les comportements nécessaires pour que les données soient réutilisables au maximum \(p. ex., description, citation\). Ces qualités peuvent être atteintes par des normes différentes.
 
 ![](/Images/02%20Open%20Science%20Basics/02_open_research_data_material.png)
 
