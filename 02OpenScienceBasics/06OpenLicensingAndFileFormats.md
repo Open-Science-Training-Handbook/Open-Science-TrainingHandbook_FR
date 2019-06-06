@@ -5,7 +5,7 @@
 
 Une licence est un document légal qui accorde des droits spécifiques à l'utilisateur pour réutiliser et redistribuer un matériel sous certaines conditions. Tout droit qui n'est pas accordé par défaut par le concédant à travers la licence peut être demandé. Les licences peuvent s'appliquer à tout matériel \(par exemple, son, texte, image, multimédia, logiciel, etc.) pour lequel certains droits d'exploitation ou d'utilisation existent.
 
-[Les licences free content](https://en.wikipedia.org/wiki/List_of_free_content_licenses)[tent license](https://en.wikipedia.org/wiki/List_of_free_content_licenses) sont des licences qui autorisent l'accès, la réutilisation et la redistribution du matériel avec peu ou pas de restrictions. Ces licences vont de très ouvertes à très restrictives. Plus il y a de restrictions, plus il devient difficile de combiner différemment le contenu des licences, ce qui peut empêcher l'interopérabilité.
+[Les licences free content](https://en.wikipedia.org/wiki/List_of_free_content_licenses) sont des licences qui autorisent l'accès, la réutilisation et la redistribution du matériel avec peu ou pas de restrictions. Ces licences vont de très ouvertes à très restrictives. Plus il y a de restrictions, plus il devient difficile de combiner différemment le contenu des licences, ce qui peut empêcher l'interopérabilité.
 
 Un format de fichier est un moyen standard d'encoder l'information en vue de son stockage dans un fichier informatique ; cependant, tous les formats n'ont pas de documents de spécification librement disponibles, en partie parce que certains développeurs considèrent leurs documents de spécification comme des secrets commerciaux.
 
