@@ -161,63 +161,36 @@ R : "C'est un excellent sujet de discussion !"
 
 Obstacle : Les chercheurs peuvent hésiter à partager leurs données parce qu'ils craignent que d'autres ne les réutilisent avant qu'ils n'aient pu en tirer le maximum ou que d'autres ne comprennent pas entièrement les données et ne les utilisent donc pas à mauvais escient.
 
-\(suggested\) A : Vous pouvez publier vos données pour les rendre trouvables avec les métadonnées, mais fixez une période d'embargo sur les données pour vous assurer que vous pouvez publier votre propre article\(s\) en premier.
+\(suggestion\) A : Vous pouvez publier vos données pour les rendre trouvables avec les métadonnées, mais fixez une période d'embargo sur les données pour vous assurer que vous pouvez publier votre \(vos\) propre\(s\) article\(s\) en premier.
 
 Q : "Est-ce que le fait de rendre mes données FAIR représente beaucoup de travail supplémentaire ?"
 
-R : "Pas nécessairement ! Rendre les données FAIRES n'est pas seulement la responsabilité des chercheurs individuels, mais aussi celle de l'ensemble du groupe. La meilleure façon de vous assurer que vos données sont FAIR est de créer un plan de gestion des données et de tout planifier à l'avance. Pendant la collecte et le traitement des données, suivre les normes et les mesures disciplinaires recommandées par un référentiel.
+R : "Pas nécessairement ! Rendre les données FAIR n'est pas seulement la responsabilité des chercheurs individuels, mais aussi celle de l'ensemble du groupe. La meilleure façon de vous assurer que vos données sont FAIR est de créer un plan de gestion des données et de tout planifier à l'avance. Pendant la collecte et le traitement des données, suivre les normes et les mesures disciplinaires recommandées par un référentiel.
 
 Q : "Je veux partager mes données. Comment devrais-je les licencier ?"
 
-R : "C'est une bonne question. Tout d'abord, à qui appartiennent les données ? Un bailleur de fonds de la recherche ou un établissement pour lequel vous travaillez. Ensuite, pensez à la paternité de l'œuvre. L'application d'une licence appropriée à vos données est cruciale afin de les rendre réutilisables. Pour plus d'informations sur les licences, voir[6. licences ouvertes et formats de fichier] (https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/tree/master/02OpenScienceBasics/06OpenLicensingAndFileFormats).
+R : "C'est une bonne question. Tout d'abord, à qui appartiennent les données ? Un bailleur de fonds de la recherche ou un établissement pour lequel vous travaillez. Ensuite, pensez à la paternité de l'œuvre. L'application d'une licence appropriée à vos données est cruciale afin de les rendre réutilisables. Pour plus d'informations sur les licences, voir [6. Open Licensing and File Formats](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/tree/master/02OpenScienceBasics/06OpenLicensingAndFileFormats).
 
 Q : " Je ne peux pas rendre mes données directement accessibles - elles sont trop volumineuses pour être partagées de façon pratique / elles comportent des restrictions liées à la protection de la vie privée. Que dois-je faire ?"
 
 R : "Vous devriez parler à des experts en référentiels spécifiques à un domaine sur la façon de fournir des instructions suffisantes pour rendre vos données trouvables et accessibles".
 
-### Questions, obstacles, and common misconceptions
-
-Q: "Is it sufficient to make my data openly available?"
-
-A: "No—openness is a necessary but not sufficient condition for maximum reuse. Data have to be FAIR in addition to open."
-
-Q: "What do the FAIR principles mean/imply for different stakeholders/audiences?"
-
-A: "This is a great topic for discussion!"
-
-Obstacle: Researchers may be reluctant to share their data because they are afraid that others will reuse them before they have extracted the maximum usage from them, or that others might not fully understand the data and therefore mis-use them.
-
-\(suggested\) A: You may publish your data to make them findable with metadata, but set an embargo period on the data to make sure that you can publish your own article\(s\) first.
-
-Q: "Is making my data FAIR a lot of extra work?"
-
-A: "Not necessarily! Making data FAIR is not only the responsibility of the individual researchers but of the whole group. The best way to ensure that your data is FAIR is to create a Data Management Plan and plan everything beforehand. During the data collection and data processing follow the discipline standards and measures recommended by a repository.
-
-Q: "I want to share my data. How should I license them?"
-
-A: "That’s a good question. First of all think about who owns the data? A research funder or an institution that you work for. Then, think about authorship. Applying a suitable license to your data is crucial in order to make them reusable. For more information about licensing, please see [6. Open Licensing and File Formats](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/tree/master/02OpenScienceBasics/06OpenLicensingAndFileFormats).
-
-Q: "I cannot make my data directly available—they are too large to share conveniently / have restrictions related to privacy issues. What should I do?"
-
-A: "You should talk to experts in domain specific repositories on how to provide sufficient instructions to make your data findable and accessible."
-
-
 ## <img src="/Images/Icons/output.png" width="150" height="150" />
-### Learning outcomes
+### Résultats d'apprentissage
 
-1. Understand the characteristics of open data, and in particular the FAIR principles.
+1. Comprendre les caractéristiques des données ouvertes, et en particulier les principes FAIR.
 
-2. Be familiar with some of the arguments for and against open data.
+2. Être familier avec certains des arguments pour et contre les données ouvertes.
 
-3. Be able to differentiate and address sensitive data and opFAIR data; these two categories are not necessarily incompatible.
+3. Être capable de différencier et d'adresser des données sensibles et des données FAIR ; ces deux catégories ne sont pas nécessairement incompatibles.
 
-4. Be able to transform a dataset into one that is sufficient for open sharing \(non-proprietary format\), meets the standards of the FAIR principles, and is designed for maximized accessibility, transparency and re-use by providing sufficient metadata.
+4. Être capable de transformer un ensemble de données en un ensemble suffisant pour un partage ouvert \(format non exclusif\), conforme aux normes des principes FAIR, et conçu pour maximiser l'accessibilité, la transparence et la réutilisation en fournissant suffisamment de métadonnées.
 
-5. Know the difference between raw and processed \(or cleaned\) data, and the importance of version labels.
+5. Connaître la différence entre les données brutes et les données traitées (ou nettoyées) et l'importance des étiquettes de version.
 
-6. Know commonly used file formats and community standards for maximum re-usability.
+6. Connaître les formats de fichiers couramment utilisés et les normes communautaires pour une réutilisation maximale.
 
-7. Be able to write a data management plan.
+7. Être capable de rédiger un plan de gestion des données.
 
 ## <img src="/Images/Icons/magnifying_glass.png" width="150" height="150" />
 ### Pour en savoir plus
