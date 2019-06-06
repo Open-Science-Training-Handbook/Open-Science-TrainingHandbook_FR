@@ -1,106 +1,106 @@
 ## <img src="/Images/Icons/open_licenses.png" width="200" height="200" />
 ## 6. Open Licensing and File Formats
 
-### What is it?
+### Qu'est-ce que c'est ?
 
-A license is a legal document that grants specific rights to user to reuse and redistribute a material under some conditions. Any right that is not granted by default by the licensor through the license can be asked. Licenses can be applied to any material \(e.g., sound, text, image, multimedia, software\) where some exploitation or usage rights exist.
+Une licence est un document légal qui accorde des droits spécifiques à l'utilisateur pour réutiliser et redistribuer un matériel sous certaines conditions. Tout droit qui n'est pas accordé par défaut par le concédant à travers la licence peut être demandé. Les licences peuvent s'appliquer à tout matériel \(par exemple, son, texte, image, multimédia, logiciel, etc.) pour lequel certains droits d'exploitation ou d'utilisation existent.
 
-[Free con](https://en.wikipedia.org/wiki/List_of_free_content_licenses)[tent license](https://en.wikipedia.org/wiki/List_of_free_content_licenses)[s](https://en.wikipedia.org/wiki/List_of_free_content_licenses) are licenses that grant permission to access, re-use, and redistribute material with few or no restrictions. Those licenses range from very open to very restrictive. The more restrictions, the more difficult it becomes to combine differently licenses content—thus potentially preventing interoperability.
+[Les licences free content](https://en.wikipedia.org/wiki/List_of_free_content_licenses)[tent license](https://en.wikipedia.org/wiki/List_of_free_content_licenses) sont des licences qui autorisent l'accès, la réutilisation et la redistribution du matériel avec peu ou pas de restrictions. Ces licences vont de très ouvertes à très restrictives. Plus il y a de restrictions, plus il devient difficile de combiner différemment le contenu des licences, ce qui peut empêcher l'interopérabilité.
 
-A file format is a standard way that information is encoded for storage in a computer file; however, not all formats have freely available specification documents, partly because some developers view their specification documents as trade secrets.
+Un format de fichier est un moyen standard d'encoder l'information en vue de son stockage dans un fichier informatique ; cependant, tous les formats n'ont pas de documents de spécification librement disponibles, en partie parce que certains développeurs considèrent leurs documents de spécification comme des secrets commerciaux.
 
 ![](/Images/02%20Open%20Science%20Basics/02_open_licensing.png)
 
-### Rationale
+### Justification
 
-Applying an open license to a scientific work \(whether it is an article, dataset or other type of research output\) is a way for the copyright holder to express the conditions under which the work can be accessed, re-used and modified.
+L'application d'une licence ouverte à une œuvre scientifique (qu'il s'agisse d'un article, d'un ensemble de données ou d'un autre type de résultat de recherche) est un moyen pour le titulaire du droit d'auteur d'exprimer les conditions dans lesquelles l'œuvre peut être accessible, réutilisée et modifiée.
 
-It is important to know that a license builds on existing copyright regulations. In other words: you can only license content if you are the rights owner, and you cannot license any forms of reuse if they do not fall under existing copyright regulations.
+Il est important de savoir qu'une licence s'appuie sur la réglementation existante en matière de droit d'auteur. En d'autres termes : vous ne pouvez concéder une licence sur le contenu que si vous en êtes le titulaire des droits, et vous ne pouvez concéder de licence sur aucune forme de réutilisation si elle ne relève pas de la réglementation existante sur le droit d'auteur.
 
-When sharing any open content it is not enough to attach a license you must take into account the format. A choice of a non-open file format may make impossible to reuse the content. For that reason is important to know the options available when deciding in which format you want to share your content.
+Lorsque vous partagez un contenu ouvert, il ne suffit pas de joindre une licence, vous devez prendre en compte le format. Le choix d'un format de fichier non ouvert peut rendre impossible la réutilisation du contenu. Pour cette raison, il est important de connaître les options disponibles lorsque vous décidez dans quel format vous voulez partager votre contenu.
 
 ## <img src="/Images/Icons/finish.png" width="150" height="150" />
-### Learning objectives
+### Objectifs d'apprentissage
 
-1. Participants should learn about differences among licenses and how they can suit some open-science definitions, open-science requirements, or how they fit into different research outcomes.
+1. Les participants devraient se renseigner sur les différences entre les licences et sur la façon dont elles peuvent convenir à certaines définitions d'open-science, aux exigences scientifiques ouvertes ou à la façon dont elles s'inscrivent dans différents résultats de recherche.
 
-2. Learn about the different building blocks of licenses, such as attribution, \(non-\)commercial, derivatives, etc.
+2. Renseignez-vous sur les différents éléments constitutifs des licences, tels que l'attribution, le \(non-\)commercial, les produits dérivés, etc.
 
-3. Learn the importance of defining who holds the copyright or related rights of research output.
+3. Apprenez l'importance de définir qui détient les droits d'auteur ou les droits connexes des résultats de la recherche.
 
-4. Learn about the differences between proprietary and open file formats, and how these can prevent or facilitate reusability and interoperability.
+4. Découvrez les différences entre les formats de fichiers propriétaires et ouverts, et comment ceux-ci peuvent empêcher ou faciliter la réutilisation et l'interopérabilité.
 
-### Key components
+### Composantes clés
 
 ## <img src="/Images/Icons/brain.png" width="150" height="150" /> <img src="/Images/Icons/gears.png" width="150" height="150" />
-#### Knowledge & Skills
+#### Connaissances et compétences
 
-Basic concepts of copyright are needed in order to understand how the licenses work. Since copyright laws are not internationally harmonized you must refer to the applicable laws in your context.
+Les concepts de base du droit d'auteur sont nécessaires pour comprendre comment fonctionnent les licences. Comme les lois sur le droit d'auteur ne sont pas harmonisées à l'échelle internationale, vous devez consulter les lois applicables dans votre contexte.
 
-Among the range of free content licenses there are the copyleft licenses, originated in the free software community, that allow a broad reuse of materials under the condition that any new material build upon the existing one must be licensed under the same license. This fact has brought some interoperable problems that newer versions overcomed by stating that the derived materials should be licensed under the same terms of the original license.
+Parmi la gamme des licences de contenu libre, il y a les licences gauche d'auteur \(ou copyleft\), issues de la communauté du logiciel libre, qui permettent une large réutilisation du matériel à la condition que tout nouveau matériel basé sur le matériel existant soit sous la même licence. Ce fait a entraîné certains problèmes d'interopérabilité que les nouvelles versions ont surmontés en déclarant que les matériaux dérivés devraient faire l'objet d'une licence selon les mêmes conditions que celles de la licence originale.
 
-The most used licenses for scientific content are [Creative Commons licenses](https://creativecommons.org/licenses/). In general, a CC BY license \(requiring only attribution\) is a good option for works such articles, books, working papers, and reports while a dedication to the public domain using CC Zero (CC0) is recommended for datasets and databases \(NOTE:  In the US and EU, individual facts cannot be copyrighted, although collections of facts that underwent some creative selection or organization may be copyrighted. Additionally, in the EU there is a sui generis right granted to the maker of a database for the investment made in its compilation, even when this does not involve any creativity.\). Creative Commons licenses should not be used for licensing software because they were not designed for that purpose, as the organisation states. Instead, software developers should use appropriate licenses like those collected by the [Open Source Initiative](https://opensource.org/licenses) or [Free Software Foundation](https://www.fsf.org/licensing/). You can check your options at [choosealicense](https://choosealicense.com).
+Les licences les plus utilisées pour le contenu scientifique sont [les licences Creative Commons](https://creativecommons.org/licenses/). En général, une licence CC BY (n'exigeant qu'une attribution) est une bonne option pour les œuvres telles que les articles, les livres, les documents de travail et les rapports, tandis qu'une dédicace au domaine public utilisant CC Zero (CC0) est recommandée pour les ensembles de données et les bases de données \(NOTE : Aux États-Unis et dans l'UE, les faits individuels ne peuvent être protégés par le copyright, même si des collections de faits qui ont été sélectionnés ou organisés de manière créative peuvent être protégés par le copyright. En outre, dans l'UE, il existe un droit sui generis accordé au fabricant d'une base de données pour l'investissement réalisé dans sa compilation, même si cela n'implique pas de créativité.\). Les licences Creative Commons ne devraient pas être utilisées pour l'octroi de licences logicielles parce qu'elles n'ont pas été conçues à cette fin, comme l'indique l'organisation. Au lieu de cela, les développeurs de logiciels devraient utiliser des licences appropriées comme celles collectées par l'[Initiative Open Source](https://opensource.org/licenses) ou la [Free Software Foundation](https://www.fsf.org/licensing/). Vous pouvez vérifier vos options sur [choosealicense](https://choosealicense.com).
 
-CC0 was originally created as a legal tool to release scientific databases without any restriction, and especially to overcome the different treatments of legal protection when publishing a database. CC0 has been seen as a tool for dedicating works to the public domain but it is more than a simple waiver. CC0 is a three-step instrument built to allow its use in jurisdictions where a full public domain dedication is not possible \(for instance in many continental Europe countries\). First, by using CC0, the copyright holder waives any right to the maximum extent allowed by applicable law. Second, if there is any remaining unwaivable right, CC0 acts as a license to grant any of those remaining rights without any restriction or obligation. And finally, the copyright holder asserts not to enforce any right that could not been possible to waive or grant by the applicable law. The idea behind CC0 is to convince researchers to follow community norms instead of using licenses in materials as a database where, in many cases, its contents are uncopyrightable.
+CC0 a été créé à l'origine comme un outil juridique permettant de diffuser des bases de données scientifiques sans aucune restriction, et surtout pour surmonter les différents traitements de la protection juridique lors de la publication d'une base de données. CC0 a été considéré comme un outil permettant de dédier des œuvres au domaine public, mais c'est plus qu'une simple renonciation. Le CC0 est un instrument en trois étapes conçu pour permettre son utilisation dans les juridictions où il n'est pas possible d'accorder un domaine public complet \(par exemple dans de nombreux pays d'Europe continentale\). Premièrement, en utilisant CC0, le titulaire du droit d'auteur renonce à tout droit dans la mesure maximale permise par la loi applicable. Deuxièmement, s'il reste un droit auquel il ne peut être renoncé, CC0 agit comme une licence pour accorder n'importe lequel de ces droits restants sans aucune restriction ou obligation. Enfin, le titulaire du droit d'auteur fait valoir qu'il ne peut faire valoir aucun droit auquel la loi applicable ne permettait pas de renoncer ou d'accorder une telle renonciation. L'idée derrière CC0 est de convaincre les chercheurs de suivre les normes de la communauté au lieu d'utiliser les licences dans les matériels comme une base de données où, dans de nombreux cas, son contenu n'est pas protégeable.
 
-As a trainer, you may show the differences among licenses and how they can suit some of the Open Science definitions, the Open Science requirements or how they fit into different research outcomes. Depending on the prior knowledge of your audience, you can give an overview of the different building blocks \(attribution, \(non\)commercial, derivatives, etc.\) of the licenses in general or provide a detailed analysis of each building block and its effects on re-use and interoperability. As copyright rules vary greatly per jurisdiction \(common law vs. civil law countries, but also within the European Union\), usability of licenses can vary greatly. This can be discussed in detail if the audience has previous knowledge about licensing, but if they are relatively new to the subject this should not be discussed in detail.
+En tant que formateur, vous pouvez montrer les différences entre les licences et comment elles peuvent correspondre à certaines des définitions de l'Open Science, aux exigences de l'Open Science ou comment elles s'inscrivent dans différents résultats de recherche. En fonction des connaissances préalables de votre public, vous pouvez donner un aperçu des différentes composantes \(attribution, \(non\)commercial, dérivés, etc.\) des licences en général ou fournir une analyse détaillée de chaque composante et de ses effets sur la réutilisation et l'interopérabilité. Comme les règles du droit d'auteur varient considérablement d'une juridiction à l'autre (pays de loi commune contre pays de droit civil, mais aussi au sein de l'Union européenne), l'utilisation des licences peut varier considérablement. Cette question peut être discutée en détail si l'auditoire a des connaissances préalables en matière de licence, mais si le sujet est relativement nouveau, il ne faut pas en discuter en détail.
 
-Core licensing items to consider \(from the [Data Packaging Guide](https://github.com/saverkamp/beyond-open-data/blob/master/DataGuide.md)\):
+Principaux éléments à prendre en compte pour l'octroi de licences \(extrait du [Data Packaging Guide](https://github.com/saverkamp/beyond-open-data/blob/master/DataGuide.md)\) :
 
-* Choosing an open license.
+* Choisir une licence ouverte.
 
-* Stating the chosen license clearly and prominently, preferably in a machine readable format.
+* Énoncer la licence choisie de façon claire et bien visible, de préférence dans un format lisible par machine.
 
-* Explain the liberations/limitations of the chosen license, and what barriers or restrictions may apply.
+* Expliquez les libertés/limitations de la licence choisie, et quelles barrières ou restrictions peuvent s'appliquer.
 
-* Let users know where they can find more information about this license.
+* Indiquez aux utilisateurs où ils peuvent trouver plus d'informations sur cette licence.
 
-* Explain that the license applies to the data, and not the content that the data represents \(an open license on the metadata is not the same as the content itself being open, out of copyright, or able to be used freely\).
+* Expliquez que la licence s'applique aux données, et non au contenu que les données représentent \(une licence ouverte sur les métadonnées n'est pas la même chose que le contenu lui-même étant ouvert, hors copyright, ou pouvant être utilisé librement\).
 
-* Explain why this license was chosen.
+* Expliquez pourquoi cette licence a été choisie.
 
-Training should provide an overview of intellectual property policies in universities and public research institutions. It is important to stress the need to define who holds copyright or any other related rights of the research output. The copyright holder is the one who can decide to lift restrictions if they are not lifted by default through the licenses. Regarding research outputs, the copyright holder can be a researcher, a publisher, a scientific society, a research institution, a funder, etc.
+La formation devrait donner une vue d'ensemble des politiques en matière de propriété intellectuelle dans les universités et les établissements publics de recherche. Il est important de souligner la nécessité de définir qui détient le droit d'auteur ou tout autre droit connexe sur les résultats de la recherche. Le titulaire du droit d'auteur est celui qui peut décider de lever les restrictions si elles ne sont pas levées par défaut par les licences. En ce qui concerne les résultats de la recherche, le titulaire du droit d'auteur peut être un chercheur, un éditeur, une société scientifique, une institution de recherche, un bailleur de fonds, etc.
 
-Within the context of Open Science, and for optimal long-term archiving, files should not be compressed and should avoid proprietary or patent-encumbered formats and in favor of open formats based on documented standards. This ensures the access and re-usability of the content. Only unencrypted files should be published and archived. Examples for open file formats are:
+Dans le contexte de l'Open Science, et pour un archivage optimal à long terme, les fichiers ne doivent pas être compressés et doivent éviter les formats propriétaires ou encombrés de brevets et favoriser les formats ouverts basés sur des standards documentés. Ceci garantit l'accès et la réutilisation du contenu. Seuls les fichiers non cryptés doivent être publiés et archivés. Exemples de formats de fichiers ouverts :
 
-* Text: TXT, ODT, PDF/A, XML
+* Texte : TXT, ODT, PDF/A, XML
 
-* Tabular data: CSV, TSV
+* Données tabulaires : CSV, TSV
 
-* Image: TIFF, PNG, JPG 2000, SVG, WebP
+* Image : TIFF, PNG, JPG 2000, SVG, WebP
 
-* Audio: WAV, FLAC, OPUS
+* Audio : WAV, FLAC, OPUS
 
-* Video: MPEG2, Theora, VP8, VP9, AV1, Motion JPG 2000 \(MJ2\),
+* Vidéo : MPEG2, Theora, VP8, VP9, AV1, Motion JPG 2000 \(MJ2\),
 
-* Binary hierarchical data: HDF5
+* Données hiérarchiques binaires : HDF5
 
-Some file formats cannot be converted to open formats, but are nonetheless archived. They are often device-specific, but have a broad user community. Check if the repository where you want to deposit a publication has a list of preferred formats.
+Certains formats de fichiers ne peuvent pas être convertis en formats ouverts, mais sont néanmoins archivés. Ils sont souvent spécifiques à un appareil, mais ont une large communauté d'utilisateurs. Vérifiez si le dépôt où vous voulez déposer une publication a une liste de formats préférés.
 
 ## <img src="/Images/Icons/questions.png" width="150" height="150" />
-### Questions, obstacles, and common misconceptions
+### Questions, obstacles et idées fausses courantes
 
-Q: "Why should I use the CC-BY license for my written/creative content?"
+Q : "Pourquoi devrais-je utiliser la licence CC-BY pour mon contenu écrit/créatif ?"
 
-A: The CC-BY license is the most permissive license that also retains some rights for the creators—the only requirement is that someone who uses, modifies, or distributes the content attributes the original creator. Other attributes of Creative Commons licenses include No Derivatives \(ND\), Non Commercial \(NC\), and Share Alike \(SA\), which add additional restrictions that may limit the potential use and impact of your work. Preventing derivatives with ND strongly limits the impact and use of your work, since no one else will be able to build on what you have done. Similarly, while many researchers may prefer the NC limitation to prevent companies from commercializing or making money on their work, strictly defining commercial use is challenging. Furthermore, the intent of much publicly funded research is to lead to economic development through \(ventual\) commercial use, which would be prevented by this license. Using an SA license allows reuse and distribution, but requires downstream works to apply the same license, limiting use and combination with other works.
+R : La licence CC-BY est la licence la plus permissive qui conserve également certains droits pour les créateurs - la seule exigence est que quelqu'un qui utilise, modifie ou distribue le contenu attribue ce contenu au créateur original. Les autres attributs des licences Creative Commons incluent No Derivatives \(ND\), Non Commercial \(NC\), et Share Alike \(SA\), qui ajoutent des restrictions supplémentaires qui peuvent limiter l'utilisation potentielle et l'impact de votre travail. La prévention des dérivés avec "ND" limite fortement l'impact et l'utilisation de votre travail, car personne d'autre ne sera en mesure de bâtir sur ce que vous avez fait. De même, bien que de nombreux chercheurs puissent préférer la limitation NC pour empêcher les entreprises de commercialiser ou de faire de l'argent avec leurs travaux, il est difficile de définir strictement l'utilisation commerciale. De plus, une grande partie de la recherche financée par les fonds publics vise à favoriser le développement économique par le biais d'une utilisation commerciale (éventuelle) qui serait empêchée par cette licence. L'utilisation d'une licence SA permet la réutilisation et la distribution, mais exige que les ouvrages en aval appliquent la même licence, limitant l'utilisation et la combinaison avec d'autres ouvrages.
 
-A common fear when using CC0 is that the attribution requirement is dropped—however, proponents state that attribution is a key element in good scientific practice, regardless of copyright status of license conditions of the quoted work. Some repositories applying CC0 explicitly mention attribution, cf., e.g., this example from Dataverse: "Our Community Norms as well as good scientific practices expect that proper credit is given via citation. Please use the data citation above, generated by the Dataverse."
+Une crainte fréquente lors de l'utilisation de CC0 est que l'exigence d'attribution soit abandonnée - cependant, les promoteurs affirment que l'attribution est un élément clé d'une bonne pratique scientifique, quel que soit le statut de copyright des conditions de licence de l'ouvrage cité. Certains référentiels appliquant CC0 mentionnent explicitement l'attribution, cf. par exemple, cet exemple de Dataverse : "Nos normes communautaires ainsi que nos bonnes pratiques scientifiques s'attendent à ce que le crédit soit accordé par le biais de citations. Veuillez utiliser la citation de données ci-dessus, générée par Dataverse."
 
-Obstacle: different countries have different copyright laws, which may limit the ability to choose any license or dedicate work to the public domain. For example, in Germany and other European countries it is not possible to fully waive copyright, and thus fully dedicating work to the public domain is not legally possible. Instead, the CC0 license can be used as an "effective" public domain license that allows unrestricted use.
+Obstacle : les lois sur le droit d'auteur diffèrent d'un pays à l'autre, ce qui peut limiter la possibilité de choisir une licence ou de dédier une œuvre au domaine public. Par exemple, en Allemagne et dans d'autres pays européens, il n'est pas possible de renoncer totalement au droit d'auteur, de sorte qu'il n'est pas légalement possible de consacrer entièrement des œuvres au domaine public. Au lieu de cela, la licence CC0 peut être utilisée comme une licence "effective" du domaine public qui permet une utilisation sans restriction.
 
-Interoperability of licenses: be aware that sometimes when you mix content licensed differently it may be impossible to release the derivative work. For example, material distributed with an SA license can only be combined with other SA-licensed content.
+Interopérabilité des licences : sachez que parfois, lorsque vous mélangez du contenu sous des licences différentes, il peut être impossible de publier l'œuvre dérivée. Par exemple, le matériel distribué avec une licence SA ne peut être combiné qu'avec d'autres contenus sous licence SA.
 
-Suitability of licenses: for instance, CC licenses should not be used for software, there are specific licenses for databases \(Open Data Commons\), and CC licenses were not suitable for databases before version 4.0.
+Pertinence des licences : par exemple, les licences CC ne doivent pas être utilisées pour les logiciels, il existe des licences spécifiques pour les bases de données \(Open Data Commons\), et les licences CC n'étaient pas adaptées aux bases de données avant la version 4.0.
 
 ## <img src="/Images/Icons/output.png" width="150" height="150" />
-### Learning outcomes
+### Résultats d'apprentissage
 
-1. Will be able to use existing resources to choose an appropriate license for written research work, based on the desired freedom/limitation for others to use/reuse.
+1. Sera en mesure d'utiliser les ressources existantes pour choisir une licence appropriée pour les travaux de recherche écrits, en fonction de la liberté/limitation souhaitées pour l'utilisation/réutilisation par d'autres.
 
-2. Will be able to use existing resources to choose an appropriate license for data, based on the desired freedom/limitation for others to use/reuse.
+2. Sera en mesure d'utiliser les ressources existantes pour choisir une licence appropriée pour les données, en fonction de la liberté/limitation souhaitées pour l'utilisation/réutilisation par d'autres.
 
 ## <img src="/Images/Icons/magnifying_glass.png" width="150" height="150" />
-### Further reading
+### Pour en savoir plus
 
 * Creative Commons License Picker. [creativecommons.org](https://creativecommons.org/choose/)
 
