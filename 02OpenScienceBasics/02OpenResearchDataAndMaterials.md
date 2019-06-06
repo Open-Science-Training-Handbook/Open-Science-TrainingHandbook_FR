@@ -149,6 +149,32 @@ Un protocole décrit un enregistrement formel ou officiel des observations expé
 L'analyse reproductible est facilitée par l'utilisation d'une programmation lettrée, de la technologie des conteneurs et de la virtualisation. En plus de partager votre code et vos données, partagez également vos notebooks Jupyter, vos images Docker ou tout autre matériel d'analyse ou dépendance logicielle. Partagez vos notebooks avec des services Open tels que [mybinder](http://mybinder.org) qui permettent au public de visualiser et d'exécuter l'intégralité du notebook sur des ressources partagées. Les conteneurs et les carnets peuvent être partagés avec [Rocker](https://arxiv.org/abs/1710.03675) ou [Code Ocean](https://codeocean.com/). Les logiciels et le matériel utilisés dans le cadre de votre recherche doivent être partagés conformément aux pratiques exemplaires en matière de documentation décrites à la [Section 3](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_FR/blob/master/02OpenScienceBasics/03OpenResearchSoftwareAndOpenSource.md). Les protocoles en lecture seule devraient être déposés dans le registre de votre discipline comme [ClinicalTrials.gov](https://clinicaltrials.gov/) et [SocialScienceRegistry](https://www.socialscienceregistry.org/) ou un registre général comme [Open Science Framework](https://osf.io/). De nombreuses revues, telles que [Trials](https://trialsjournal.biomedcentral.com/), [JMIR Research Protocols](https://www.researchprotocols.org/), ou [Bio-Protocol](https://bio-protocol.org/), publieront votre protocole. Les meilleures pratiques pour la publication de votre protocole en accès libre sont les mêmes que pour la publication de votre rapport en accès libre \(voir [Section 5](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_FR/blob/master/02OpenScienceBasics/05OpenAccessToPublishedResearchResults.md)\).
 
 ## <img src="/Images/Icons/questions.png" width="150" height="150" />
+### Questions, obstacles et idées fausses courantes
+
+Q : "Est-il suffisant de rendre mes données librement accessibles ?"
+
+R : "Non - L'ouverture est une condition nécessaire mais non suffisante pour une réutilisation maximale. Les données doivent être FAIR en plus d'être ouvertes."
+
+Q : "Que signifient les principes de FAIR pour les différentes parties prenantes/publics ?"
+
+R : "C'est un excellent sujet de discussion !"
+
+Obstacle : Les chercheurs peuvent hésiter à partager leurs données parce qu'ils craignent que d'autres ne les réutilisent avant qu'ils n'aient pu en tirer le maximum ou que d'autres ne comprennent pas entièrement les données et ne les utilisent donc pas à mauvais escient.
+
+\(suggested\) A : Vous pouvez publier vos données pour les rendre trouvables avec les métadonnées, mais fixez une période d'embargo sur les données pour vous assurer que vous pouvez publier votre propre article\(s\) en premier.
+
+Q : "Est-ce que le fait de rendre mes données FAIR représente beaucoup de travail supplémentaire ?"
+
+R : "Pas nécessairement ! Rendre les données FAIRES n'est pas seulement la responsabilité des chercheurs individuels, mais aussi celle de l'ensemble du groupe. La meilleure façon de vous assurer que vos données sont FAIR est de créer un plan de gestion des données et de tout planifier à l'avance. Pendant la collecte et le traitement des données, suivre les normes et les mesures disciplinaires recommandées par un référentiel.
+
+Q : "Je veux partager mes données. Comment devrais-je les licencier ?"
+
+R : "C'est une bonne question. Tout d'abord, à qui appartiennent les données ? Un bailleur de fonds de la recherche ou un établissement pour lequel vous travaillez. Ensuite, pensez à la paternité de l'œuvre. L'application d'une licence appropriée à vos données est cruciale afin de les rendre réutilisables. Pour plus d'informations sur les licences, voir[6. licences ouvertes et formats de fichier] (https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/tree/master/02OpenScienceBasics/06OpenLicensingAndFileFormats).
+
+Q : " Je ne peux pas rendre mes données directement accessibles - elles sont trop volumineuses pour être partagées de façon pratique / elles comportent des restrictions liées à la protection de la vie privée. Que dois-je faire ?"
+
+R : "Vous devriez parler à des experts en référentiels spécifiques à un domaine sur la façon de fournir des instructions suffisantes pour rendre vos données trouvables et accessibles".
+
 ### Questions, obstacles, and common misconceptions
 
 Q: "Is it sufficient to make my data openly available?"
