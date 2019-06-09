@@ -1,33 +1,33 @@
 ## <img src="/Images/Icons/collaborate.png" width="200" height="200" />
-## 7. Collaborative Platforms
+## 7. Les plates-formes collaboratives
 
-### What is it?
+### Qu'est-ce que c'est ?
 
-Online collaborative platforms connect geographically-dispersed researchers to enable them to cooperate seamlessly on their research, sharing research objects as well and ideas and experiences. Collaborative platforms are usually online services that provide a virtual environment to which multiple people can concurrently connect and work on the same task. These can range from extensive virtual research environments \(VREs\) which encompass a host of tools to facilitate sharing and collaboration, including web forums and wikis, collaborative document hosting, and discipline-specific tools such as data analysis or visualisation, right down to single specific tools which enable researchers to work together in real time on specific aspects of research \(such as writing or analysis\).
+Les plateformes collaboratives en ligne relient des chercheurs dispersés géographiquement pour leur permettre de coopérer de manière transparente dans leurs recherches, de partager des objets de recherche ainsi que des idées et des expériences. Les plates-formes collaboratives sont généralement des services en ligne qui fournissent un environnement virtuel auquel plusieurs personnes peuvent se connecter et travailler simultanément sur la même tâche. Il peut s'agir d'environnements de recherche virtuels extensifs \(ERV ou VREs en anglais\) qui englobent une foule d'outils pour faciliter le partage et la collaboration, y compris des forums Web et des wikis, l'hébergement de documents collaboratifs et des outils propres à une discipline comme l'analyse ou la visualisation de données, jusqu'aux outils particuliers qui permettent aux chercheurs de travailler ensemble en temps réel à certains aspects de la recherche \(comme la rédaction ou l'analyse par exemple\).
 
 ![](/Images/02%20Open%20Science%20Basics/02_collaborative_platforms.png)
 
-### Rationale
+### Justification
 
-Research collaboration is growing exponentially and teams are becoming ever more interdisciplinary as researchers increasingly work in international and cross-disciplinary consortia to enable a multitude of perspectives on specific research questions. Fostering national and international collaborative research is increasingly a funder priority. It lies, for example, at the heart of EC Research Commissioner Carlos Moedas’ strategy, i.e., ["Open Science, open innovation, open to the world"](https://euraxess.ec.europa.eu/content/open-science-%E2%80%93-open-innovation-%E2%80%93-open-world).
+La collaboration en matière de recherche croît de façon exponentielle et les équipes deviennent de plus en plus interdisciplinaires à mesure que les chercheurs travaillent dans des consortiums internationaux et interdisciplinaires pour permettre une multitude de perspectives sur des questions de recherche précises. L'encouragement de la recherche collaborative nationale et internationale est de plus en plus une priorité des bailleurs de fonds. Elle est, par exemple, au cœur de la stratégie de Carlos Moedas, commissaire européen chargé de la recherche, comme ["Open Science, open innovation, open to the world"](https://euraxess.ec.europa.eu/content/open-science-%E2%80%93-open-innovation-%E2%80%93-open-world).
 
-Virtual Research Environments \(VRE\) and collaborative platforms enable collaboration across continents, time zones and disciplines. In this module you will develop an understanding of collaborative platforms that work today, and how they can greatly enhance your research workflows.
+Les environnements de recherche virtuels \(ERV\) et les plateformes collaboratives permettent la collaboration entre les continents, les fuseaux horaires et les disciplines. Dans ce module, vous développerez une compréhension des plates-formes collaboratives qui fonctionnent aujourd'hui, et comment elles peuvent grandement améliorer vos flux de travail de recherche.
 
 ## <img src="/Images/Icons/finish.png" width="150" height="150" />
-### Learning objectives
+### Objectifs d'apprentissage
 
-1. Learn what major types of collaborative platforms are available and what the use cases for each might be.
+1. Apprenez quels sont les principaux types de plates-formes collaboratives disponibles et quels sont les cas d'utilisation de chacune d'elles.
 
-2. Learn the advantages of such systems.
+2. Découvrez les avantages de ces systèmes.
 
-3. Identify any possible shortcomings of collaborating via such platforms and how to overcome them.
+3. Identifier les éventuelles insuffisances de la collaboration par le biais de ces plates-formes et comment les surmonter.
 
-### Key components
+### Composantes clés
 
 ## <img src="/Images/Icons/brain.png" width="150" height="150" /> <img src="/Images/Icons/gears.png" width="150" height="150" />
-#### Knowledge & Skills
+#### Connaissances et savoir-faire
 
-**Virtual research environments \(VREs\)**
+**Environnements de recherche virtuels \(ERV\)**
 
 Virtual research environments have been defined as "innovative, dynamic, and ubiquitous research supporting environments where scattered scientists can seamlessly access data, software, and processing resources managed by diverse systems in separate administration domains through their browser" \([Candela, Castelli and Pagano, 2013](https://doi.org/10.2481/dsj.GRDI-013)\).
 
