@@ -1,5 +1,5 @@
 ## <img src="/Images/Icons/collaborate.png" width="200" height="200" />
-## 7. Les plates-formes collaboratives
+## 7. Collaborative Platforms
 
 ### Qu'est-ce que c'est ?
 
