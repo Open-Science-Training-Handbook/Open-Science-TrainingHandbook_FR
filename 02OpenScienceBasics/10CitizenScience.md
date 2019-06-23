@@ -16,55 +16,54 @@ La science citoyenne est à la fois un objectif et un catalyseur de la science o
 ## <img src="/Images/Icons/finish.png" width="150" height="150" />
 ### Objectifs d'apprentissage
 
-1. Understand the different aspects of citizen science \(collaborative versus DIY\).
+1. Comprendre les différents aspects de la science citoyenne \(collaborative versus bricolage\).
 
-2. Understand the basic concepts and viewpoints of a variety of stakeholders in science communication.
+2. Comprendre les concepts de base et les points de vue d'une variété d'intervenants en communication scientifique.
 
-3. Management of intellectual property in citizen science projects. A guide for this is available [here](https://www.wilsoncenter.org/sites/default/files/research_brief_guide_for_researchers.pdf).
+3. Gestion de la propriété intellectuelle dans les projets scientifiques citoyens. Un guide à cet effet est disponible [ici](https://www.wilsoncenter.org/sites/default/files/research_brief_guide_for_researchers.pdf).
 
-4. Management of [citizen science data](http://www.ukeof.org.uk/documents/DataAdviceNote2.pdf).
+4. Gestion des [données de projets de science citoyenne](http://www.ukeof.org.uk/documents/DataAdviceNote2.pdf).
 
-5. Identify the best strategies in establishing clear and concise communication of scientific principles.
+5. Identifier les meilleures stratégies pour établir une communication claire et concise des principes scientifiques.
 
-6.  What are the best ways to communicate your research/story, with whom, and using what tools.
+6.  Quelles sont les meilleures façons de communiquer votre recherche ou votre histoire, avec qui et à l'aide de quels outils ?
 
-### 
 
-### Key components
+### Éléments clefs
 
 ## <img src="/Images/Icons/brain.png" width="150" height="150" />
-#### Knowledge
+#### Savoirs
 
-The European Citizen Science Association \(ECSA\) created a best practice guideline on what constitutes good citizen science and wrote the [10 principles of Citizen Science](https://ecsa.citizen-science.net/engage-us/10-principles-citizen-science). This statement has been translated into many languages. Those 10 principles offers a guidance of best practices for any project based on Citizen Science.
+L'Association européenne des sciences citoyennes \(ECSA\) a créé un guide des meilleures pratiques sur ce qui constitue un projet de science citoyenne et a rédigé les [10 principes de la science citoyenne](https://ecsa.citizen-science.net/engage-us/10-principles-citizen-science). Cette déclaration a été traduite en plusieurs langues. Ces 10 principes offrent un guide des meilleures pratiques pour tout projet basé sur la science citoyenne.
 
-When starting a citizen science project there are a few key elements that must be take into account: how are you going to engage citizens? how are you going to ensure data quality? how are you going to deal with ethics and legal issues?
+Lorsqu'on lance un projet scientifique citoyen, il y a quelques éléments clés dont il faut tenir compte : comment allez-vous impliquer les citoyens ? comment allez-vous garantir la qualité des données ? comment allez-vous traiter les questions éthiques et juridiques ?
 
-Although there is still an open debate on how to assess some citizen science activities there are already some examples that can be included as societal impact in evaluation reports like the [cases studies](http://impact.ref.ac.uk/CaseStudies/Results.aspx?val=%22Citizen+Science%22) extracted from the UK Research Excellence Framework.
+Bien qu'il y ait encore un débat ouvert sur la manière d'évaluer certaines activités scientifiques citoyennes, il existe déjà des exemples qui peuvent être inclus en tant qu'impact sociétal dans des rapports d'évaluation comme les [études de cas](http://impact.ref.ac.uk/CaseStudies/Results.aspx?val=%22Citizen+Science%22) extraits du Research Excellence Framework du Royaume-Uni.
 
 ## <img src="/Images/Icons/gears.png" width="150" height="150" />
-#### Skills
+#### Savoir-faire
 
-* Be able to differentiate in different citizen science project approaches: projects where citizens just provide data versus projects where the citizen engagement is along the research project.
+* Etre capable de différencier les différentes approches de projets de science citoyenne : des projets où les citoyens se contentent de fournir des données par rapport à des projets où l'engagement des citoyens est présent tout au long du projet de recherche.
 
-* Be able to provide advice on legal and ethical aspects regarding the collection of data, including personal data from citizens.
+* Être en mesure de fournir des conseils sur les aspects juridiques et éthiques concernant la collecte de données, y compris les données personnelles des citoyens.
 
-* Be able to provide different solutions on sharing research outputs.
+* Être en mesure d'offrir différentes solutions pour le partage des résultats de la recherche.
 
 ## <img src="/Images/Icons/questions.png" width="150" height="150" />
-### Questions, obstacles, and common misconceptions
+### Questions, obstacles et idées fausses courantes
 
-* One of the controversies that usually arise in citizen projects is how researchers make data gathered by citizens publicly available. Researchers should be aware on how this data can be shared taking into account legal and ethical aspects.
+* L'une des controverses qui surgissent habituellement dans les projets citoyens est la façon dont les chercheurs rendent publiques les données recueillies par les citoyens. Les chercheurs devraient savoir comment ces données peuvent être partagées en tenant compte des aspects juridiques et éthiques.
 
-* The lack of rewards for citizen science practices if they do not end in a "traditional" research output: paper, proceeding etc. is a common issue when training on citizen science. Probably a good way to overcome this issue is to start a conversation on how participants would like to get rewarded and which methods they propose.
+* L'absence de récompenses pour les pratiques scientifiques citoyennes si elles ne se terminent pas par un résultat de recherche "traditionnel" : papier, procédure, etc est un problème courant dans la formation à la science citoyenne. Une bonne façon de surmonter ce problème est probablement d'entamer une conversation sur la façon dont les participants aimeraient être récompensés et sur les méthodes qu'ils proposent.
 
 ## <img src="/Images/Icons/output.png" width="150" height="150" />
-### Learning outcomes
+### Résultats d'apprentissage
 
-1. Trainees will be able to know the different approaches of citizen science projects and how to deal with legal and ethical aspects, especially in relation with data management. 
-2. Participants in the training sessions would learn how to engage citizens in their research at any point of their research activities.
+1. Les stagiaires pourront connaître les différentes approches des projets scientifiques citoyens et savoir comment traiter les aspects juridiques et éthiques, en particulier en relation avec la gestion des données. 
+2. Les participants aux séances de formation apprendraient comment faire participer les citoyens à leur recherche à n'importe quel moment de leurs activités de recherche.
 
 ## <img src="/Images/Icons/magnifying_glass.png" width="150" height="150" />
-### Further reading
+### Lectures complémentaires
 
 * Bonn et al. (2016): Green Paper Citizen Science Strategy 2020 for Germany. Bürger Schaffen Wissen (GEWISS) publication. [PDF from buergerschaffenwissen.de](http://www.buergerschaffenwissen.de/sites/default/files/grid/2017/11/21/gewiss_cs_strategy_englisch_0.pdf)
 
