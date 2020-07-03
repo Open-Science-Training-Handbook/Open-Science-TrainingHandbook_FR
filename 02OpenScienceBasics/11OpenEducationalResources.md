@@ -1,54 +1,54 @@
 ## <img src="/Images/Icons/open_education.png" width="200" height="200" />
 ## 11. Open Educational Resources
 
-### What is it?
+#### Qu'est-ce que c'est ?
 
-Open Educational Resources (OER) are defined as "teaching, learning and research materials in any medium – digital or otherwise – that reside in the public domain or have been released under an open license that permits no-cost access, use, adaptation and redistribution by others with no or limited restrictions" ([William and Flora Hewlett Foundation definition](https://www.hewlett.org/strategy/open-educational-resources/)). Open educational resources include full courses, course materials, modules, textbooks, streaming videos, tests,  images, software, and any other tools, materials, or techniques used to support access to knowledge.
+Les ressources éducatives libres (REL) sont définies comme "des matériels d'enseignement, d'apprentissage et de recherche sur tout support - numérique ou autre - qui résident dans le domaine public ou qui ont été publiés sous une licence ouverte qui permet un accès, une utilisation, une adaptation et une redistribution sans frais et sans restrictions ou avec des restrictions limitées" \([Définition Fondation William et Flora Hewlett](https://www.hewlett.org/strategy/open-educational-resources/)\). Les ressources éducatives ouvertes comprennent les cours complets, le matériel didactique, les modules, les manuels, les vidéos en continu, les tests, les images, les logiciels et tout autre outil, matériel ou technique utilisé pour faciliter l'accès au savoir.
 
-### Rationale
+#### Justification
 
-In many cases open educational resources are build upon research findings. If you are an Open Science practitioner it makes sense that your educational resources maintain the level of openness of your research. Moreover other instructors could use your material to elaborate new resources or adapt existing ones. In fact the creation of educational resources can be seen as a cycle similar to the research cycle: find, compose, adapt, use, and share ([wikieducator.org/OER_Handbook/educator/OER_Lifecycle](http://wikieducator.org/OER_Handbook/educator/OER_Lifecycle)).
+Dans de nombreux cas, les ressources éducatives ouvertes s'appuient sur les résultats de la recherche. Si vous êtes un praticien de la science ouverte, il est logique que vos ressources pédagogiques maintiennent le niveau d'ouverture de votre recherche. De plus, d'autres instructeurs pourraient utiliser votre matériel pour élaborer de nouvelles ressources ou adapter celles qui existent déjà. En fait, la création de ressources éducatives peut être considérée comme un cycle similaire au cycle de recherche : trouver, composer, adapter, utiliser et partager \([wikieducator.org/OER_Handbook/educator/OER_Lifecycle](http://wikieducator.org/OER_Handbook/educator/OER_Lifecycle)\).
 
 ## <img src="/Images/Icons/finish.png" width="150" height="150" />
-### Learning objectives
+### Objectifs d'apprentissage
 
-1. Participants should learn the difference between open and non-open educational resources.
-2. Licensing is an essential part and indicates how to easily use and combine OER.
-3. Participants should know where to find and place created OER resources.
+1. Les participants devraient apprendre la différence entre les ressources éducatives ouvertes et non ouvertes.
+2. L'octroi de licences est un élément essentiel et indique comment utiliser et combiner facilement les REL.
+3. Les participants doivent savoir où trouver et placer les ressources créées par REL.
 
-### Key components
+### Composants clés
 ## <img src="/Images/Icons/brain.png" width="150" height="150" /> <img src="/Images/Icons/gears.png" width="150" height="150" />
-#### Knowledge and Skills
+#### Connaissances et savoirs-faires
 
-Open Educational Resources are only OER, if they have an open license. However, there is no clear guideline for the choice of license for your resource. So what kind of license is appropriate? In practice, Creative Commons (CC) licenses are most often used for OER. 
-Open Creative Commons licenses are [CC0 (Public Domain Dedication)](https://creativecommons.org/publicdomain/zero/1.0/), [CC BY (Attribution)](https://creativecommons.org/licenses/by/4.0/) and [CC BY-SA (Attribution-ShareAlike)](https://creativecommons.org/licenses/by-sa/4.0/), which can be used for most educational resources. For the distribution of databases under a free license, Creative Commons is not ideal. Rather, choose a specially suitable open license such as ODbl, ODC-BY or PDDL to be legally compliant.
+Les ressources éducatives libres ne sont des REL que si elles ont une licence ouverte. Cependant, il n'y a pas de directives claires pour le choix de la licence de votre ressource. Alors, quel type de licence est approprié ? En pratique, les licences Creative Commons (CC) sont le plus souvent utilisées pour les REL. 
+Les licences Creative Commons ouvertes sont [CC0 (Public Domain Dedication)](https://creativecommons.org/publicdomain/zero/1.0/), [CC BY (Attribution)](https://creativecommons.org/licenses/by/4.0/) et [CC BY-SA (Attribution-ShareAlike)](https://creativecommons.org/licenses/by-sa/4.0/), qui peuvent être utilisées pour la plupart des ressources pédagogiques. Pour la distribution de bases de données sous licence libre, Creative Commons n'est pas idéal. Choisissez plutôt une licence ouverte spécialement adaptée comme ODbl, ODC-BY ou PDDL pour être légalement conforme.
 
-It is important to stress the need to define who holds copyright or any other related rights of the research output. The copyright holder is the one who can decide to lift restrictions if they are not lifted by default through the licenses. Licenses should therefore be explained in detail to properly attribute authors and to create true OER. This also includes the combination of different license types and its consequences.
+Il est important de souligner la nécessité de définir qui détient le droit d'auteur ou tout autre droit connexe sur les résultats de la recherche. Le titulaire du droit d'auteur est celui qui peut décider de lever les restrictions si elles ne sont pas levées par défaut par les licences. Les licences doivent donc être expliquées en détail afin d'attribuer correctement les auteurs et de créer de véritables REL. Cela inclut également la combinaison de différents types de licences et ses conséquences.
 
-Training should provide an overview of OER platforms and their intended use. OpenCourseWare (OCW) is one of the first open educational resource platforms and one of the key initiators of the open educational resources movement. Initiated at the Massachusetts Institute of Technology (MIT) in 2002, the [Open Education Consortium](http://www.oeconsortium.org) now provides materials from all over the world in form of courses under free licenses. Other pioneers were UNESCO and the William and Flora Hewlett Foundation which are still committed to open educational resources.
+La formation devrait donner un aperçu des plates-formes REL et de leur utilisation prévue. OpenCourseWare \(OCW\) est l'une des premières plateformes de ressources éducatives ouvertes et l'un des principaux initiateurs du mouvement des ressources éducatives ouvertes. Lancé au Massachusetts Institute of Technology (MIT) en 2002, le [Open Education Consortium](http://www.oeconsortium.org) fournit maintenant du matériel provenant du monde entier sous forme de cours sous licence gratuite. D'autres pionniers ont été l'UNESCO et la Fondation William et Flora Hewlett, qui sont toujours attachés aux ressources éducatives libres.
 
-Examples for OER platforms are:
+Voici des exemples pour les plates-formes REL :
 
-- [Creative Commons Search](https://search.creativecommons.org/) for image, audio, and video files
-- [Open Education Consortium](http://www.oeconsortium.org) for open course material
-- [OERCommons](https://www.oercommons.org/) for educational resources
+- [Creative Commons Search](https://search.creativecommons.org/) pour les fichiers image, audio et vidéo
+- [Open Education Consortium](http://www.oeconsortium.org) pour le matériel de cours ouvert
+- [OERCommons](https://www.oercommons.org/) pour les ressources éducatives.
 
 ## <img src="/Images/Icons/questions.png" width="150" height="150" />
-### Questions, obstacles, and common misconceptions
+### Questions, obstacles et idées fausses courantes
 
-Q: How can you ensure quality of the materials?
+Q : Comment pouvez-vous assurer la qualité des matériaux ?
 
-A: This is not always a given. So far there is no quality seal for OER materials. Open user comments, peer review, and the publication of materials on platforms of established institutions like e.g. universities can provide a first indication of quality. Just as with printed text materials, quality can though not be guaranteed. This unsettles many users. The actuality and adaptability of the materials nevertheless speaks for the use of OER. At the end of the day, you only know yourself whether the selected material is suitable for the intended purpose and whether its content is correct.
+R : Ce n'est pas toujours une évidence. Jusqu'à présent, il n'existe pas de label de qualité pour les matériaux REL. Les commentaires ouverts des utilisateurs, l'évaluation par les pairs et la publication de documents sur les plates-formes d'institutions établies, comme les universités, peuvent fournir une première indication de la qualité. Tout comme pour les textes imprimés, la qualité ne peut cependant pas être garantie. Cela perturbe de nombreux utilisateurs. L'actualité et l'adaptabilité des matériaux parlent néanmoins en faveur de l'utilisation des REL. En fin de compte, vous ne savez que vous-même si le matériau choisi convient à l'usage auquel il est destiné et si son contenu est correct.
 
 ## <img src="/Images/Icons/output.png" width="150" height="150" />
-### Learning outcomes
+### Résultats d'apprentissage
 
-1. Trainees will be able to distinguish between copyrighted and free materials. 
-2. The combination of different license types and their effects will be known. 
-3. They will be able to find, use and create Open Educational Resources. 
+1. Les personnels en formation seront en mesure de faire la distinction entre les documents protégés par le droit d'auteur et les documents gratuits. 
+2. La combinaison des différents types de licences et leurs effets seront connus. 
+3. Ils pourront trouver, utiliser et créer des ressources éducatives libres. 
 
 ## <img src="/Images/Icons/magnifying_glass.png" width="150" height="150" />
-### Further reading
+### Pour en savoir plus
 
 * Butcher (2015). A Basic Guide to Open Educational Resources (OER). [hdl.handle.net](http://hdl.handle.net/11599/36)
 
