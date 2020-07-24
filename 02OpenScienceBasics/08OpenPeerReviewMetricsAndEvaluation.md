@@ -1,102 +1,140 @@
-## <img src="/Images/Icons/peer_review.png" width="300" height="300" />
+![](/Images/Icons/peer_review.png)
 
-## 8. Open Peer Review, Metrics, and Evaluation
+## 8. Révision Ouverte par les Pairs, Métriques et Évaluation ouvertes 
 
-### Qu'est-ce que c'est ?
+### De quoi parle t-on ? 
 
-Etre chercheur, c'est se trouver sous évaluation constante. L'académie est une "économie de prestige", où la valeur d'un universitaire repose sur l'évaluation du niveau d'estime que ses pairs, les décideurs et d'autres personnes ont d'eux et de leurs contributions \([Blackmore et Kandiko, 2011](https://doi.org/10/fqrkft)\). Dans cette section, il sera donc utile de faire la distinction entre l'évaluation d'un travail et l'évaluation du chercheur lui-même. La recherche et les chercheurs sont évalués à l'aide de deux méthodes principales : l'évaluation par les pairs et les paramètres, le premier qualitatif et le second quantitatif. 
+Être chercheur implique d'être en évalué en permanence. Le monde de la recherche est une « économie du prestige » dans lequel la valeur académique est fondée sur le niveau d'estime dont bénéficient un chercheur et ses contributions de la part de ses pairs, des décideurs et d'autres acteurs [Blackmore et Kandiko, 2011](https://doi.org/10/fqrkft). Dans ce chapitre, il sera par conséquent important d'établir une distinction entre l'évaluation d'un travail académique et l'évaluation du chercheur lui-même. Mais tant le chercheur que ses travaux sont évalués selon deux méthodes principales : l'évaluation par les pairs et les métriques. La première est qualitative, la seconde est quantitative.
 
-L'évaluation par les pairs sert principalement à juger des éléments de recherche. Il s'agit du mécanisme officiel d'assurance de la qualité par lequel les manuscrits savants (p. ex. articles de journaux, livres, demandes de subventions et communications à des conférences) sont soumis à l'examen minutieux d'autres personnes, dont les commentaires et les jugements sont ensuite utilisés pour améliorer les travaux et prendre des décisions finales concernant la sélection (pour publication, attribution de subventions ou temps de parole). L'évaluation par les pairs ouverte signifie différentes choses pour différentes personnes et communautés et a été défini comme "un terme générique pour un certain nombre de façons dont les modèles d'évaluation par les pairs peuvent être adaptés conformément aux objectifs de la science ouverte " \([Ross-Hellauer, 2017](https://doi.org/10/gc5sjh)\). Ses deux principales caractéristiques sont les "identités ouvertes", où les auteurs et les examinateurs sont tous deux conscients de l'identité de l'autre \(c.-à-d. non aveugles\), et les "rapports ouverts", où les rapports d'évaluation sont publiés avec l'article pertinent. Ces caractéristiques peuvent être combinées, mais ne doivent pas nécessairement l'être, et peuvent être complétées par d'autres innovations, telles que la "participation ouverte", où les membres de la communauté au sens large peuvent contribuer au processus d'examen, l'"interaction ouverte", où la discussion réciproque directe entre auteur·rice·s et examinateur·rice·s, et/ou entre examinateur·rice·s, est autorisée et encouragée, et les "manuscrits ouverts avant évaluation", où les manuscrits sont rendus immédiatement disponibles avant toute procédure officielle d'évaluation par les pairs \(soit dans le cadre du travail des revues ou en dehors par des serveurs de pré-impression\). 
+L'évaluation par les pairs est fondamentalement utilisée pour évaluer des travaux de recherche. Il s'agit du mécanisme formel d'assurance qualité par lequel les manuscrits scientifiques (par exemple, les articles de revues, les livres, les demandes de subvention et les documents de conférence) sont soumis à l'examen d'autres chercheurs, dont le retour et les avis sont ensuite utilisés pour améliorer les travaux soumis et prendre une décision définitive quant à leur publication, l'octroi de subventions ou le temps de parole lors d'une conférence.
 
-Une fois qu'elles ont passé l'évaluation par les pairs, les publications de recherche sont souvent la principale mesure du travail d'un chercheur (d'où l'expression "publier ou périr"). Cependant, l'évaluation de la qualité des publications est difficile et subjective. Bien que certains exercices d'évaluation générale comme le Research Excellence Framework du Royaume-Uni utilisent l'évaluation par les pairs, l'évaluation générale est souvent basée sur des __metriques__ comme le nombre de citations que les publications recueillent \(indice h\), ou même le niveau perçu de prestige de la revue dans laquelle elles ont été publiées \(quantifié par le Journal Impact Factor\). La prédominance de ces mesures et la manière dont elles peuvent fausser les incitations ont été soulignées ces dernières années dans des déclarations comme le [Manifeste de Leiden](http://www.leidenmanifesto.org/) et la [Déclaration de San Francisco sur l'évaluation de la recherche (DORA)](https://sfdora.org/).
+L'évaluation ouverte par les pairs peut s'entendre différemment selon les personnes ou les communautés de chercheurs et a été définie comme un "terme générique englobant un certain nombre de manières plus ou moins distinctes d'adapter les modèles de révision par les pairs aux objectifs de la science ouverte ([Ross-Hellauer, 2017](https://doi.org/10/gc5sjh).
 
-Au cours des dernières années, "Alternative Metrics" ou [altmetrics](https://www.altmetric.com) sont devenus un sujet dans le débat sur une évaluation équilibrée des efforts de recherche qui complètent le comptage des citations en incorporant d'autres mesures en ligne de l'impact de la recherche, notamment les signets, liens, billets de blog, tweets, likes, actions, couverture presse et autres. La base de tous ces problèmes avec les métriques est qu'elles sont beaucoup produites par des entités commerciales (par exemple, Clarivate Analytics et Elsevier) basées sur des systèmes propriétaires, ce qui peut conduire à des problèmes de transparence.
+Ses deux principales caractéristiques sont : "les identités ouvertes", à savoir que les auteurs connaissent l'identité des évaluateurs et réciproquement (pas de révision en simple aveugle), et les "rapports ouverts", à savoir que les rapports de révision sont publiés en même temps que l'article de référence. Ces caractéristiques peuvent être associées, mais pas nécessairement et peuvent être complétées par d'autres innovations, comme la "participation ouverte" permettant à des membres d'une communauté élargie de participer également au processus d'évaluation par les pairs ; les "échanges ouverts" permettant une interaction à double sens entre auteur(s) et évaluateurs, et/ou entre "reviewers" sont autorisés et encouragés. Il existe enfin, la "pré-révision ouverte des manuscrits" selon laquelle les manuscrits sont rendus immédiatement disponibles préalablement à toutes procédures formelles de révision par les pairs (soit en interne dans le cadre d'un processus d'éditorialisation, soit en externe depuis un serveur de prépublication).
 
-## <img src="/Images/Icons/umbrella.png" width="150" height="150" />
-### Justification
+Une fois qu'elles ont été soumises à la révision par les pairs, les publications de recherche constituent souvent la première mesure de la valeur du travail d'un chercheur (d'où le leitmotiv : "Publier ou Périr"). Cependant, évaluer la qualité des publications est une tâche difficile et subjective. Bien que certains exercices d'évaluation globale comme le Cadre d'Excellence pour la Recherche du Royaume-Uni, utilisent l'examen par les pairs, l'évaluation générale est souvent basée sur des **mesure quantitatives** ou **métriques**, comme le nombre de citations produites par les publications (h-index) ou bien une appréciation du prestige de la revue dans laquelle elles ont été publiées (calculée par le Facteur d'Impact de la revue). La prééminence de ces métriques et la façon dont elles pourraient fausser l'incitation à publier ont été mises en évidence ces dernières années dans des déclarations telles que le manifeste de Leyde ([Leiden Manifesto](http://www.leidenmanifesto.org/)) et la déclaration de San Francisco sur l'évaluation de la recherche ([San Francisco Declaration on Research Assessment (DORA](https://sfdora.org/)).
 
-#### Évaluation par les pairs ouverte
-À partir du XVIIe siècle, avec la Royal Society of London (1662) et l'Académie des Sciences de Paris (1699), en tant que privilège de la science de s'autocensurer plutôt que de passer par l'église, il a fallu de nombreuses années pour que l'évaluation par les pairs soit correctement établi dans la science. L'évaluation par les pairs, en tant que mécanisme officiel, est beaucoup plus jeune que beaucoup le supposent. Par exemple, la revue Nature ne l'a introduite qu'en 1967. Bien que les sondages montrent que les chercheurs accordent de l'importance à l'évaluation par les pairs, ils pensent aussi qu'elle pourrait mieux fonctionner. On se plaint souvent que l'évaluation par les pairs prend trop de temps, qu'elle est incohérente, qu'elle ne détecte pas souvent les erreurs et que l'anonymat protège les préjugés. L'évaluation par les pairs ouverte vise donc à accroître la transparence et la participation aux processus formels et informels d'évaluation par les pairs. Le rôle de relecteur·rice offre aux chercheurs l'occasion de participer à de nouvelles recherches, d'établir des réseaux universitaires et d'acquérir de l'expertise, et de perfectionner leurs propres compétences en rédaction. Il s'agit d'un élément crucial du contrôle de la qualité des travaux universitaires. Pourtant, en général, les chercheurs ne reçoivent pas souvent une formation officielle sur la façon de procéder à l'évaluation. Toutefois, même lorsque les chercheurs se croient en confiance avec l'évaluation par les pairs traditionnelle, les nombreuses formes d'évaluation ouverte présentent de nouveaux défis et de nouvelles possibilités. Comme l'évaluation par les pairs ouverte couvre un éventail aussi diversifié de pratiques, les examinateur·rice·s et les auteur·rice·s doivent tenir compte de nombreux facteurs. 
+Ces dernières années, des « métriques alternatives » ([*[altmetrics]*](https://www.altmetric.com/)*)* sont devenues un sujet de débat pour évoquer une évaluation équilibrée des efforts de recherche destinée à compléter le calcul du nombre de citations par la prise en compte d'autres mesures de l'impact en ligne des résultats d'une recherche, comme les signets, les articles de blogs, les tweets, les likes, les partages, la couverture média et d'autres indices de ce type.
 
-## <img src="/Images/02 Open Science Basics/02_open_peer_review.png" />
+Le problème que posent toutes ces métriques est qu'elles sont la propriété d'entités commerciales (par exemple Clarivate Analytics et Elsevier) et fondées sur des systèmes propriétaires, ce qui peut conduire à des problèmes de transparence.
 
-En ce qui concerne l'évaluation, les récompenses et les mesures actuelles en science et en érudition ne sont pas (encore) conformes à l'Open Science. Les paramètres utilisés pour évaluer la recherche \(p. ex. le Journal Impact Factor, l'indice h\) ne mesurent pas - et ne récompensent donc pas - les pratiques de recherche ouvertes. L'activité d'évaluation par les pairs ouverte n'est pas nécessairement reconnue  dans les scénarios d'avancement professionnel \(par exemple, dans de nombreux cas, les évaluateurs de subventions ne considèrent pas même les évaluations les plus brillantes comme des objets savants en soi\). De plus, de nombreux paramètres d'évaluation - en particulier certains types de bibliométrie - ne sont pas aussi ouverts et transparents que la communauté le souhaiterait.
+![](/Images/Icons/umbrella.png)
 
-Dans ces circonstances, au mieux, les pratiques de science ouverte sont considérées comme un fardeau supplémentaire sans récompense. Dans le pire des cas, ils sont perçus comme nuisant activement aux chances de financement et de promotion futurs ainsi qu'à la pérénnisation. Un récent [rapport de la Commission européenne (2017)](https://doi.org/10.2777/75255) reconnaît qu'il existe essentiellement deux approches à la mise en œuvre de la science ouverte et la façon dont les récompenses et l'évaluation peuvent soutenir cela :
+### Fondement 
 
-1. Il suffit d'appuyer le statu quo en encourageant une plus grande ouverture, en établissant des mesures connexes et en quantifiant les résultats ;
+#### La révision ouverte par les pairs
 
-2. Expérimenter des pratiques de recherche et d'évaluation alternatives, des données ouvertes, la science citoyenne et l'éducation ouverte.
+Dès le 17 ème siècle avec la Société Royale de Londres (1662) et l'Académie Royale des Sciences de Paris (1669), et à mesure que la communauté scientifique obtenait le privilège de s'évaluer elle-même plutôt que de s'en référer à l'Eglise, il a fallu de nombreuses années pour que la Science se dote d'un processus complet d'évaluation par les pairs.
 
-De plus en plus de bailleurs de fonds et d'institutions prennent des mesures dans ce sens, par exemple en s'éloignant des simples comptages et en incluant dans leurs exercices d'évaluation des récits et des indications sur l'impact sociétal. D'autres mesures prises par les organismes financeurs permettent un plus grand nombre de types de résultats de recherche \(comme les pré-impressions\) dans les demandes et financent différents types de recherche \(comme les études de réplication\).
+L'évaluation par les pairs, en tant que mécanisme formel, est bien plus récente qu'on ne le suppose habituellement. A titre d'exemple, la revue *Nature* ne l'a introduite qu'en 1967. Bien que les enquêtes montrent que les chercheurs accordent une grande importance à l'évaluation par les pairs, ils trouvent aussi que le système pourrait mieux fonctionner. On reproche souvent au processus d'évaluation par les pairs de prendre trop de temps, d'être parfois de qualité inégale ou qu'il ne permet souvent pas de détecter des erreurs, et l'anonymat peut dissimuler des biais. L'évaluation ouverte par les pairs (OPR en anglais) vise donc à garantir plus de transparence et de participation aux processus formels et informels de la révision par les pairs.
 
-## <img src="/Images/Icons/finish.png" width="150" height="150" />
-### Objectifs d'apprentissage
+Être « reviewer » donne aux chercheurs l'occasion de s'impliquer dans une recherche innovante, de se créer un réseau, de gagner en expertise, et d'améliorer ses propres compétences rédactionnelles.
 
-1. Reconnaître les éléments clés de l'évaluation ouverte et leurs avantages et inconvénients potentiels.
-2. Comprendre les différences entre les types de mesures utilisées pour évaluer la recherche et les chercheurs.
-3. S'engager dans le débat sur la façon dont le schéma d'évaluation influe sur la façon dont la recherche est effectuée.
+C'est un élément crucial dans le contrôle qualité du travail académique.
 
-### Composantes clés
-## <img src="/Images/Icons/brain.png" width="150" height="150" />
+Néanmoins, les chercheurs ne sont généralement pas formés à pratiquer la révision par les pairs. Même lorsque les chercheurs se déclarent à l'aise avec la révision par les pairs traditionnelle, les nombreuses formes de révision ouverte représentent de nouveaux défis et de nouvelles opportunités.
+
+Dans la mesure où la révision ouverte par les pairs recoupe une grande variété de pratiques, il appartient aux auteurs ainsi qu'aux reviewers de prendre celle-ci en compte.
+
+![](/Images/02 Open Science Basics/02_open_peer_review.png)
+
+Concernant l'évaluation, le système actuel de récompenses et les métriques appliquées à la Science et à la recherche universitaire ne sont pas (encore) alignés avec la science ouverte. Les métriques utilisées pour évaluer la recherche (par exemple, le facteur d'impact de la revue, l'indice h) ne mesurent pas - et dès lors ne récompensent pas - les pratiques de recherche ouverte.
+
+
+L'activité de pratique de la révision en mode ouvert n'est pas forcément reconnue comme un travail universitaire dans les scénarios d'avancement professionnels (par exemple, dans bien des cas, les jurys de bourses ne considèrent même pas les révisions ouvertes les plus brillantes comme des productions académiques à part entière). En outre, plusieurs métriques servant à l'évaluation - notamment certains types d'indicateurs bibliométriques - ne sont pas aussi ouverts et transparents que la communauté le souhaiterait.
+
+Dans ces circonstances, les pratiques de la science ouverte sont perçues dans le meilleur des cas comme un fardeau supplémentaire qui ne récompense pas le chercheur. Au pire, elles sont considérées comme compromettant notoirement les chances de financements ultérieurs, d'avancement ou de titularisation.
+
+Un [rapport récent de la Commission Européenne (2017)](https://doi.org/10.2777/75255) reconnaît qu'il existe fondamentalement deux approches de mise en œuvre de la science ouverte et de la manière dont des leviers d'incitation et d'évaluation peuvent la soutenir :
+
+1.  Promouvoir simplement le statu quo en encourageant davantage d'ouverture, en construisant des métriques appropriées et en quantifiant les résultats ;
+
+2.  Expérimenter des pratiques alternatives de recherche et d'évaluation, miser sur les données ouvertes, la science citoyenne et l'éducation ouverte.
+
+
+![](/Images/Icons/finish.png)
+
+
+### Objectifs de la formation 
+
+1.  Reconnaître les éléments-clés de la révision ouverte par les pairs, ses avantages et inconvénients potentiels.
+
+2.  Comprendre les différences entre les types de métriques utilisées pour évaluer la recherche et les chercheurs.
+
+3.  Prendre part au débat sur la manière dont le système d'évaluation affecte la conduite des travaux de recherche.
+
+### Éléments clés 
+
+![](/Images/Icons/brain.png)
+
+
 ### Connaissances
-#### L'évaluation ouverte
 
-Parmi les lieux de diffusion les plus populaires de l'évaluation ouverte figurent les revues d'éditeurs tels que Copernicus, Frontiers, BioMed Central, eLife et F1000research.
+#### Révision ouverte par les pairs
 
-L'évaluation ouverte, sous ses différentes formes, présente de nombreux avantages potentiels pour les évaluateurs et les auteurs :
+Les références célèbres en matière de révision ouverte par les pairs incluent des revues scientifiques appartenant à des éditeurs comme Copernicus, Frontiers, Biomed Central, eLife et F1000research
 
-* Les identités ouvertes (non aveugles) favorisent une plus grande responsabilisation parmi les examinateurs et réduisent les possibilités de partialité ou de conflits d'intérêts non divulgués.
+La révision ouverte par les pairs, sous ses différentes formes, présente beaucoup d'avantage potentiels pour les reviewers et les auteurs :
 
-* Les rapports d'évaluation ouverts ajoutent un autre niveau d'assurance de la qualité, permettant à la communauté élargie d'examiner les évaluations pour déterminer les processus décisionnels.
+* Une révision dont l'identité des auteurs est connue (non-aveugle) engage davantage la responsabilité des reviewers et réduit les risques de biais ou de conflits d'intérêt non déclarés.
 
-* En combinaison, les identités ouvertes et les rapports ouverts sont théorisés pour mener à de meilleures évaluations, car l'idée que leur nom soit publiquement lié à une œuvre ou que leur évaluation soit publiée encourage les examinateurs à être plus rigoureux.
+* Les rapports ouverts de révision apportent un niveau supplémentaire d'assurance qualité, en permettant à une plus large communauté de passer les révisions au crible avant d'engager les processus de prise de décision.
 
-* Les identités ouvertes et les rapports ouverts permettent aux examinateurs d'obtenir le crédit du public pour leur travail de relecture, ce qui encourage cette activité vitale et permet de citer le travail d'évaluation dans d'autres publications et dans les activités de développement de carrière liées à la promotion et à la pérennisation.
+* La combinaison des identités ouvertes et des rapports ouverts donne en théorie lieu à de meilleures révisions, dans la mesure où associer publiquement son nom à un travail universitaire ou voir son travail de révision exposé, encourage les reviewers à être plus rigoureux.
 
-* Une participation ouverte pourrait permettre de surmonter les problèmes associés à la sélection éditoriale des examinateurs (p. ex. préjugés, réseaux fermés, élitisme). Surtout pour les chercheurs en début de carrière qui ne reçoivent pas encore d'invitation à l'évaluation, de tels processus ouverts peuvent aussi leur donner l'occasion d'établir leur réputation en recherche et de mettre en pratique leurs compétences en évaluation.
+* Les identités ouvertes et les rapports ouverts apportent aux reviewers de la crédibilité auprès du public pour leur travail de révision, les motivent à s'engager dans cette activité cruciale et permet qu'un travail de révision soit cité dans d'autres publications et dans d'autres activités professionnelles en lien avec une promotion ou une titularisation.
 
-Il y a des pièges potentiels à éviter, notamment :
+* La participation ouverte pourrait permettre de surmonter les problèmes liés à la sélection des reviewers par les éditeurs (par exemple : biais, esprit de club ou choix élitistes). Pour les chercheurs en début de carrière qui ne sont pas encore invités à faire de la révision par les pairs, ces procédures ouvertes constitueraient tout particulièrement une opportunité de bâtir leur réputation de chercheur et d'acquérir des compétences de reviewer.
 
-* Les identités ouvertes suppriment les conditions d'anonymat pour les évaluateurs \(simple-aveugle\) ou les auteurs et évaluateurs \(double-aveugle\) qui sont traditionnellement en place pour contrer les préjugés sociaux \(bien que l'efficacité d'un tel anonymat ne soit pas démontrée avec force\). Il est donc important que les examinateurs remettent constamment en question leurs hypothèses pour s'assurer que leurs jugements ne reflètent que la qualité du manuscrit, et non le statut, l'historique ou les affiliations de l'auteur\(s\). Les auteurs devraient faire de même lorsqu'ils reçoivent des commentaires d'évaluation par les pairs.
+Il existe néanmoins d'éventuelles chausse-trappes auxquelles il faut être vigilant :
 
-* Donner et recevoir des critiques est souvent un processus chargé de réactions émotionnelles inévitables - les auteurs et les réviseurs peuvent subjectivement être d'accord ou non sur la façon de présenter les résultats et/ou sur ce qui doit être amélioré, modifié ou corrigé. Dans les identités ouvertes et/ou les rapports ouverts, la transparence pourrait exacerber ces difficultés. Il est donc essentiel que les examinateurs s'assurent qu'ils communiquent leurs arguments de manière claire et courtoise, afin de maximiser les chances qu'ils soient reçus sous forme de commentaires précieux de la part de l'auteur.
+* L'identité ouverte met fin à l'anonymat des reviewers (simple-aveugle) ou des auteurs et des reviewers (double-aveugle), alors qu'il est traditionnellement utilisé pour contrecarrer les biais sociaux (bien qu'il y ait peu de preuves de l'efficacité de l'anonymat en la matière). Il est donc important que les reviewers interrogent constamment leurs présupposés afin de s'assurer que leurs jugements ne portent que sur la qualité du manuscrit et non le statut, l'histoire personnelle ou les affiliations de l'auteur/des auteurs. Il est recommandé aux auteurs d'en faire de même lorsqu'ils reçoivent les commentaires de leurs évaluateurs.
 
-* Le manque d'anonymat des examinateurs dans le cadre d'une évaluation ouverte pourrait renverser le processus en décourageant les examinateurs de formuler des critiques sévères, surtout à l'endroit de leurs collègues de rang supérieur.
+* Émettre ou recevoir une critique est un processus inévitablement chargé de réactions émotionnelles - La subjectivité des auteurs et des reviewers peut les amener à un accord ou un désaccord quant à la manière de présenter les résultats de la recherche et/ou les aspects à améliorer, modifier ou corriger. Avec des identités ouvertes et/ou des rapports ouverts, la transparence peut potentiellement exacerber ces difficultés. Il est par conséquent essentiel que les évaluateurs veillent à communiquer leur point de vue de manière claire et pondérée, pour avoir le maximum de chances que cette restitution soit admise comme valable par l'auteur/les auteurs.
 
-* Enfin, compte tenu de ces questions, les examinateurs potentiels pourraient être plus susceptibles de refuser de procéder à l'évaluation.
+* L'absence d'anonymat pour les reviewers induite par l'évaluation ouverte peut faire dévier le processus en dissuadant les évaluateurs de porter des critiques de fonds, particulièrement à l'encontre de collègues de statut supérieur au leur.
 
-#### Les indicateurs de performances ouverts
+Enfin, compte tenu de ces questions, des reviewers potentiels seraient plus susceptibles de décliner le travail d'évaluation.
 
-La [Déclaration de San Francisco sur l'évaluation de la recherche \(DORA\)](https://sfdora.org/) recommande de s'éloigner des évaluations fondées sur des revues, d'examiner tous les types de résultats et d'utiliser diverses formes d'indicateurs de performances et d'évaluation de la narration en parallèle. DORA a été signé par des milliers de chercheurs, d'institutions, d'éditeurs et de bailleurs de fonds, qui se sont maintenant engagés à le mettre en pratique. Le [Manifeste de Leyde](http://www.leidenmanifesto.org/) fournit des conseils sur la façon d'utiliser les mesures de manière responsable.
+### Les métriques ouvertes
 
-En ce qui concerne l'altimétrie, [Priem et al. \(2010\)](http://altmetrics.org/manifesto/) indiquent que ces paramètres présentent les avantages suivants : ils s'accumulent plus rapidement que les citations ; ils permettent de mesurer l'impact des résultats de recherche autres que les publications (p. ex. ensembles de données, codes, protocoles, blogues, tweets, etc.) ; et elle peut fournir diverses mesures des effets pour chaque objet. L'actualité de l'altimétrie présente un avantage particulier pour les chercheurs en début de carrière, dont l'impact sur la recherche peut ne pas encore se traduire par un nombre important de citations, mais dont la progression de carrière dépend d'évaluations positives. De plus, l'altimétrie peut aider à identifier rapidement les recherches influentes et les liens potentiels entre les chercheurs. Un rapport récent du groupe d'experts de la CE sur l'altmétrie ([Wilsdon et al. \(Commission européenne\), 2017](https://ec.europa.eu/research/openscience/pdf/report.pdf)) a identifié les défis de l'altmétrie, y compris le manque de robustesse et de sensibilité au "jeu"; que toute mesure cesse d'être une bonne mesure lorsqu'elle devient une cible \("loi Goodhart"\); le manque relatif d'adoption des médias sociaux dans certaines disciplines et régions géographiques; et une dépendance sur les entités commerciales pour les données de base.
+La [Déclaration de San Francisco sur l'Evaluation de la Recherche](https://sfdora.org/) (DORA) recommande de prendre ses distances avec l'évaluation menée par les revues et de prendre en considération tous types de résultats et d'utiliser en parallèle différents types de métriques et d'évaluation narrative. Cette déclaration a été signée par des milliers de chercheurs, d'institutions, d'éditeurs et de bailleurs de fonds, qui se sont aujourd'hui engagés à la mettre en pratique. Le [Manifeste de Leyde](http://www.leidenmanifesto.org/) fournit un mode d'emploi pour un usage responsable des métriques.
 
-## <img src="/Images/Icons/gears.png" width="150" height="150" />
-### Savoir-faire
+Concernant les Métriques alternatives (*altmetrics*), Priem et al. (2010) font remarquer qu'elles présentent les avantages suivants : elles augmentent plus rapidement que le nombre de citations ; elles peuvent jauger l'impact de résultats scientifiques autres que les publications (par exemple, jeux de données, code, protocoles, articles de blog, tweets, etc.) et elles peuvent fournir différentes mesures d'impact pour un même objet scientifique. La mise à jour des métriques alternatives présente un intérêt particulier pour les chercheurs débutants dont l'impact peut ne pas être reflété par un nombre significatif de citations, mais dont l'évolution de carrière dépend des évaluations positives. En outre, les métriques alternatives peuvent aider à repérer précocement une recherche influente ou des connexions potentielles à établir entre chercheurs. Un rapport récent produit par le Groupe d'Experts de la Commission Européenne sur les Métriques Alternatives (EC Expert Group on Altmetrics - Wilsdon et al. (European Commission), 2017) a identifié les défis des métriques alternatives, dont le manque de robustesse et la vulnérabilité à la manipulation. Le rapport rappelle la loi de Goodhart : «Lorsqu'une mesure devient un objectif, elle cesse d'être une bonne mesure » ; il pointe également le manque d'engagement sur les réseaux sociaux dans certaines disciplines ou sur certains territoires géographiques et le fait de devoir compter sur des entités commerciales pour la gestion des données sous-jacentes.
+
+![](/Images/Icons/gears.png)
+
+### Compétences
 
 Exemples d'exercices
 
-* Les personnels en formation travaillent par groupes de trois. Chacun d'eux rédige individuellement une évaluation d'un court texte académique.
+* Les participants travaillent par groupes de trois. Chacun rédige individuellement une révision d'un court texte académique. 
 
-* Révision d'un article sur un serveur de pré-impression
+* Procéder à la révision d'un article déposé sur un serveur de prépublications.
 
-* Utiliser un service gratuit de bibliométrie ou d'altmétrie \(par exemple [Impactstory](https://impactstory.org/), [Paperbuzz](https://paperbuzz.org/), [Altmetric bookmarklet](https://www.altmetric.com/products/free-tools/bookmarklet/), [Dimensions.ai](https://www.dimensions.ai/)\) pour rechercher des mesures pour un article, puis écrivez une brève explication sur la façon dont sont calculés exactement différents paramètres déclarés par chaque service \(c'est plus difficile qu'on ne le pense, car cela implique de trouver la documentation appropriée des paramètres, y compris les services apparemment plus transparents\).
+* [Utiliser un service gratuit de bibliométrie ou de métrique alternative (par exemple [Impactstory](https://impactstory.org/) [Paperbuzz](https://paperbuzz.org/)[Altmetric bookmarklet](https://www.altmetric.com/products/free-tools/bookmarklet/)[Dimensions.ai](https://www.dimensions.ai/) pour analyser les métriques d'un article, puis écrire un court texte explicatif sur la façon exacte dont les différentes métriques utilisées par chacun de ces services sont calculées (c'est plus compliqué qu'il n'y paraît, c'est une gageure de trouver une documentation complète sur ces métriques même avec des services qui semblent les plus transparents.
 
-## <img src="/Images/Icons/questions.png" width="150" height="150" height="150" />
-### Questions, obstacles et idées fausses courantes
-Q : L'évaluation de la recherche est-elle équitable ?
 
-R : L'évaluation de la recherche est aussi équitable que ses méthodes et ses techniques d'évaluation. Les mesures et l'altimétrie tentent de mesurer la qualité de la recherche à l'aide de la quantité de résultats de la recherche, qui peut être exacte, mais qui ne doit pas nécessairement l'être.
+![](/Images/Icons/questions.png)
 
-## <img src="/Images/Icons/output.png" width="150" height="150" />
-### Résultats d'apprentissage
+### Questions, obstacles et idées fausses reçues 
 
-1. Les personnels en formation seront en mesure d'identifier les revues avec évaluation ouverte par les pairs.
-2. Les personnels en formation seront au courant d'une série d'indicateurs de performances, de leurs avantages et de leurs inconvénients.
+Q: L'évaluation de la recherche est-elle équitable ?
 
-## <img src="/Images/Icons/magnifying_glass.png" width="150" height="150" />
-### Pour en savoir plus
+R: L'évaluation de la recherche est aussi équitable que le sont les méthode et techniques qu'elle utilise. Les métriques traditionnelles et les métriques alternatives tentent de mesurer la qualité de la recherche en mesurant son impact en termes quantitatifs, ce qui peut se faire avec exactitude, sans que cela soit obligatoire.
+
+![](/Images/Icons/output.png)
+
+### Acquis de la formation 
+
+1.  Les participants seront en mesure d'identifier des revues appliquant l'évaluation ouverte par les pairs.
+
+2.  Les participants feront connaissance avec un large spectre de métriques, leurs avantages et leurs inconvénients.
+
+![](/Images/Icons/magnifying_glass.png)
+
+
+### Lectures complémentaires 
 
 * Directorate-General for Research and Innovation (European Commission) (2017). Evaluation of Research Careers Fully Acknowledging Open Science Practices: Rewards, Incentives and/or Recognition for Researchers Practicing Open Science. [doi.org/10.2777/75255](https://doi.org/10.2777/75255)
 
@@ -109,16 +147,16 @@ R : L'évaluation de la recherche est aussi équitable que ses méthodes et ses 
 
 * Make Data Count. [makedatacount.org](https://makedatacount.org/)
 
-* NISO Alternative Assessment Metrics \(Altmetrics\) Initiative. [niso.org](http://www.niso.org/standards-committees/altmetrics)
+* NISO Alternative Assessment Metrics (Altmetrics) Initiative. [niso.org](http://www.niso.org/standards-committees/altmetrics)
 
 * Open Rev. [openrev.org](https://en.wikipedia.org/wiki/Open_Rev)
 
 * OpenUP Hub. [openuphub.eu](https://www.openuphub.eu/review)
 
-* Peer Reviewers’ Openness Initiative. [opennessinitiative.org](https://opennessinitiative.org/)
+* Peer Reviewers' Openness Initiative. [opennessinitiative.org](https://opennessinitiative.org/)
 
-* Peerage of Science. A free service for scientific peer review and publishing. [peerageofscience.org](https://www.peerageofscience.org/)
+* Peerage of Science. Un service gratuit de révision par les pairs et de publication. [peerageofscience.org](https://www.peerageofscience.org/)
 
 * Responsible Metrics. [responsiblemetrics.org](https://responsiblemetrics.org/)
 
-* Snowball Metrics. Standardized research metrics - by the sector for the sector. [snowballmetrics.com](https://www.snowballmetrics.com/)
+* Snowball Metrics. Des métriques de recherche standardisées -- par le secteur pour le secteur. [snowballmetrics.com](https://www.snowballmetrics.com/)

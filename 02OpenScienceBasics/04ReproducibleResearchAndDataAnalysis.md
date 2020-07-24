@@ -1,169 +1,186 @@
 ## <img src="/Images/Icons/reuse.png" width="200" height="200" /> <img src="/Images/Icons/research.png" width="200" height="200" />
 
-## 4. Recherche reproductible et analyse des données
+## 4. Recherche reproductible et Analyse des Données
 
-### Qu'est-ce que c'est ?
+### De quoi parle t-on ?
 
-La reproductibilité signifie que les données de recherche et le code sont mis à disposition afin que d'autres puissent atteindre les mêmes résultats que ceux qui sont revendiqués dans les résultats scientifiques. Le concept de réplicabilité, c'est-à-dire le fait de répéter une méthodologie scientifique pour arriver à des conclusions similaires, est étroitement lié. Ces concepts sont au cœur de la recherche empirique.
+La reproductibilité signifie que les données et les codes de la recherche sont mis à disposition pour que d'autres personnes aient la possibilité de parvenir aux mêmes résultats que ceux revendiqués par les productions scientifiques. Un concept proche, la réplicabilité, est quant à lui, l'acte de répéter une méthodologie scientifique afin d'obtenir des conclusions similaires. Ces deux concepts sont des éléments clés de la recherche empirique.
 
-L'amélioration de la reproductibilité entraîne une rigueur et une qualité accrues des résultats scientifiques, et donc une plus grande confiance dans la science. Il y a eu un besoin et une volonté croissants d'exposer les flux de travail de recherche depuis le lancement d'un projet et la collecte des données jusqu'à l'interprétation et à la communication des résultats. Ces développements sont accompagnés de leurs propres défis, y compris la conception de flux de travaux de recherche intégrés qui peuvent être adoptés par les collaborateurs tout en maintenant des normes élevées d'intégrité.
+L'amélioration de la reproductibilité conduit à une rigueur et une qualité accrues des résultats scientifiques et donc à une plus grande confiance dans la science. Exposer au monde la succession des étapes de la recherche, du lancement d'un projet et la collecte de données jusqu'à l'interprétation et la communication des résultats, répond à une nécessité et une volonté croissante. Ces développements amènent leurs défis propres, y compris la conception de méthodes de recherche intégrées pouvant être adoptées par des collaborateurs, tout en maintenant de hauts standards d'intégrité.
 
-Le concept de reproductibilité est directement appliqué à la méthode scientifique, pierre angulaire de la science, et en particulier aux cinq étapes suivantes :
+Le concept de reproductibilité s'applique directement à la méthode scientifique, pierre angulaire de la science, et notamment aux cinq étapes suivantes :
 
-1. Formuler une hypothèse
+1.  Formulation d'une hypothèse
 
-2. Conception de l'étude
+2.  Conception de l'étude
 
-3. Réalisation de l'étude et collecte des données
+3.  Conduite de l'étude et collecte des données
 
-4. Analyse des données
+4.  Analyse des données
 
-5. Rapport de l'étude
+5.  Compte-rendu de l'étude.
 
-Chacune de ces étapes devrait faire l'objet d'un rapport clair et ouvert, ce qui rendrait l'étude transparente et reproductible.
+Chacune de ces étapes doit être clairement rapportée en fournissant une documentation claire et accessible, en rendant ainsi l'étude transparente et reproductible.
 
 ![](/Images/02%20Open%20Science%20Basics/02_reproducible_research_data_analysis.png)
 
-### Raison d'être
 
-\[Overarching factors\]\[NdT: pas d'équivalent en français\] peuvent contribuer davantage aux causes de la non-reproductibilité, mais peuvent également conduire à la mise en œuvre de mesures spécifiques pour s'attaquer à ces causes. La culture et l'environnement dans lesquels se déroule la recherche constituent un important facteur global "descendant". D'un point de vue ascendant, l'éducation et la formation continues des chercheurs peuvent sensibiliser et diffuser les bonnes pratiques.
+### Fondement 
 
-Bien qu'il soit important de comprendre l'ensemble des facteurs qui contribuent à la reproductibilité, il peut également être difficile de décomposer ces facteurs en étapes qui peuvent être immédiatement adoptées dans un programme de recherche existant et améliorer immédiatement sa reproductibilité. L'une des premières mesures à prendre est d'évaluer l'état actuel des choses et de suivre les améliorations à mesure que des mesures sont prises pour accroître encore davantage la reproductibilité. Certains des problèmes courants liés à la reproductibilité de la recherche sont illustrés dans la figure ci-dessous.
+Des facteurs globaux peuvent contribuer davantage aux causes de la non-reproductibilité, mais peuvent également conduire à la mise en œuvre de mesures spécifiques pour traiter ces causes. La culture et l'environnement dans lesquels se déroule la recherche constituent un facteur global "descendant" important. Dans une perspective "ascendante", l'éducation permanente et la formation continue des chercheurs peuvent contribuer à sensibiliser et diffuser les bonnes pratiques.
+
+S'il est important de comprendre toute la gamme des facteurs qui contribuent à la reproductibilité, il peut également s'avérer difficile de les décomposer en mesures immédiatement applicables dans un programme de recherche existant et d'en améliorer immédiatement la reproductibilité. L'une des premières mesures à prendre consiste à évaluer l'état actuel des choses et à suivre les améliorations alors que des mesures sont prises pour accroître encore davantage la reproductibilité. Certains des problèmes courants liés à la reproductibilité de la recherche sont illustrés dans le schéma ci-après.
 
 ![](/Images/image_2.png)
 
-Source: Symposium report, October 2015. Reproducibility and reliability of biomedical research: improving research practice [PDF](https://acmedsci.ac.uk/viewFile/56314e40aac61.pdf).
+Source: Rapport du symposium « Reproductibilité et fiabilité de la recherche biomédicale : Comment améliorer les pratiques de recherche » Octobre 2015 [PDF](https://acmedsci.ac.uk/viewFile/56314e40aac61.pdf).
 
-[Goodman, Fanelli, & Ioannidis \(2016\)](https://doi.org/10/gc5sjs) note qu'en épidémiologie, en biologie computationnelle, en économie et dans les essais cliniques, la reproductibilité est souvent définie comme suit :
+[Goodman, Fanelli, & Ioannidis (2016)](https://doi.org/10/gc5sjs) notent qu'en épidémiologie, en biologie computationnelle, en économie et dans les essais cliniques, la reproductibilité est souvent définie comme :
 
-_"la capacité d'un chercheur de reproduire les résultats d'une étude antérieure en utilisant les mêmes matériaux que ceux utilisés par le chercheur initial. Autrement dit, un deuxième chercheur pourrait utiliser les mêmes données brutes pour créer les mêmes fichiers d'analyse et mettre en œuvre la même analyse statistique dans le but d'obtenir les mêmes résultats"._
+_"*la capacité d'un chercheur à reproduire les résultats d'une étude antérieure en utilisant les mêmes matériaux que ceux utilisés par le chercheur initial. C'est-à-dire qu'un deuxième chercheur pourra utiliser les mêmes données brutes pour construire les mêmes fichiers d'analyse et mettre en œuvre la même analyse statistique afin de tenter de produire les mêmes résultats*"._
 
-Ceci est différent de la réplicabilité : "qui fait référence à la capacité d'un chercheur de reproduire les résultats d'une étude antérieure si les mêmes procédures sont suivies mais que de nouvelles données sont recueillies". Une façon plus simple d'y penser pourrait être que la reproductibilité est axée sur les méthodes, alors que la replicabilité est axée sur les résultats.
+Ceci est distinct de la réplicabilité : "*qui fait référence à la capacité d'un chercheur à reproduire les résultats d'une étude antérieure en suivant les mêmes procédures, mais en collectant de nouvelles données*". Une façon plus simple de définir cela pourrait être de dire que la reproductibilité porte sur les méthodes, alors que la réplicabilité porte sur les résultats.
 
-La reproductibilité peut être évaluée à plusieurs niveaux : au niveau d'un projet individuel (par exemple, un article, une expérience, une méthode ou un ensemble de données), un chercheur individuel, un laboratoire ou un groupe de recherche, une institution ou même un domaine de recherche. Des critères et des points d'évaluation légèrement différents peuvent s'appliquer à ces différents niveaux. Par exemple, un établissement maintient des pratiques de reproductibilité s'il instaure des politiques qui récompensent les chercheurs qui effectuent des recherches reproductibles. D'autre part, un domaine de recherche pourrait être considéré comme ayant un niveau de reproductibilité plus élevé s'il développe des ressources maintenues par la communauté qui favorisent et permettent des pratiques de recherche reproductibles, telles que des dépôts de données ou des normes communes de partage des données.
+La reproductibilité peut être évaluée à plusieurs niveaux différents : au niveau d'un projet individuel (par exemple : un article, une expérience, une méthode ou un jeu de données), au niveau d'un chercheur individuel, d'un laboratoire ou d'un groupe de recherche, d'une institution ou même d'un domaine de recherche. Des critères et des points d'évaluation légèrement différents peuvent s'appliquer à ces différents niveaux.
 
-## <img src="/Images/Icons/finish.png" width="150" height="150" />
-### Objectifs d'apprentissage
+Par exemple, une institution maintiendra des pratiques de reproductibilité si elle institue des politiques récompensant les chercheurs qui mènent des recherches reproductibles. D'autre part, un domaine de recherche pourra être considéré comme ayant un niveau de reproductibilité plus élevé, s'il développe des ressources gérées par la communauté favorisant et permettant des pratiques de recherche reproductibles, telles que les dépôts de données, ou des normes communes de partage des données.
 
-Il y a trois objectifs majeurs qui doivent être abordés ici :
+![](Images/Icons/finish.png)
 
-1. Comprendre l'impact important de la création d'une recherche reproductible.
+### Objectifs de la formation 
 
-2. Comprendre l'organisation générale d'une recherche reproductible \(y compris la conception du flux de travail, la gestion des données et les rapports dynamiques\).
+Trois objectifs majeurs doivent être abordés ici :
 
-3. Connaître les différentes étapes du processus de reproductibilité, ainsi que les ressources correspondantes qui peuvent être utilisées.
+1.  Comprendre l'importance de la création de recherches reproductibles.
 
-### Éléments-clés
+2.  Comprendre la mise en place globale de la recherche reproductible (y compris le choix de la méthode de travail, la gestion des données et les comptes-rendus dynamiques).
 
-## <img src="/Images/Icons/brain.png" width="150" height="150" />
+3.  Garder en tête les différentes étapes du processus de reproductibilité, ainsi que les ressources pouvant être utilisées.
+
+### Éléments clés 
+
+![](/Images/Icons/brain.png)
+
 #### Connaissances
 
-Voici une liste indicative des points à retenir sur la reproductibilité :
+Voici une liste indicative de points à retenir sur la reproductibilité:
 
-* Ce qu'est la "crise de la reproductibilité", et les méta-analyses de la reproductibilité.
+* Ce qu'est la «crise de la reproductibilité», les méta-analyses de la reproductibilité.
 
-* Les principes de reproductibilité, d'intégrité et d'éthique dans la recherche.
+* Les principes de reproductibilité, d'intégrité et d'éthique en matière de recherche.
 
-* Quelles sont les options et les environnements informatiques qui permettent une mise en place collaborative et reproductible ?
+* Les options et environnements informatiques qui permettent une configuration collaborative et reproductible.
 
-* Les facteurs qui influent sur la reproductibilité de la recherche.
+* Les facteurs qui affectent la reproductibilité de la recherche.
 
-* La ocumentation de l'analyse des données et workflows de recherche ouverts.
+* Les documentations d'analyse des données et des flux de travail en recherche ouverte.
 
-* L'environnements d'analyse reproductibles (virtualisation).
+* Les environnements d'analyse reproductibles (virtualisation).
 
-* Prendre en compte les "degrés de liberté des chercheurs". \([Wicherts et al., 2016](https://doi.org/10/gc5sjn)\).
+* Comment aborder les «Degrés de liberté des chercheurs» ([Wicherts et al., 2016](https://doi.org/10/gc5sjn)).
 
-## <img src="/Images/Icons/gears.png" width="150" height="150" />
-#### Savoir-faire
+![](/Images/Icons/gears.png)
 
-Il y a plusieurs conseils pratiques de reproductibilité qu'il faut garder à l'esprit lorsqu'on définit les compétences particulières nécessaires pour y parvenir. Les meilleures pratiques en matière de reproductibilité s'inspirent plus généralement des pratiques de la science ouverte, mais leur intégration présente des avantages pour les chercheurs eux-mêmes, qu'ils choisissent ou non de partager leurs recherches. La raison pour laquelle l'intégration des pratiques exemplaires en matière de reproductibilité profite au chercheur individuel est qu'elle améliore la planification, l'organisation et la documentation de la recherche. Nous présentons ci-dessous un exemple de mise en œuvre de la reproductibilité dans un flux de travail de recherche avec des références à ces pratiques dans le manuel.
+### Compétences 
 
-## <img src="/Images/Icons/task.png" width="150" height="150" />
-##### **1. Planifiez la reproductibilité avant de commencer**
+Il y a plusieurs conseils pratiques à garder à l'esprit lorsqu'on souhaite lister les compétences particulières nécessaires pour assurer la reproductibilité de la recherche. Les bonnes pratiques en matière de reproductibilité empruntent aux pratiques générales de la science ouverte, mais leur intégration apporte des avantages aux chercheurs eux-mêmes, qu'ils choisissent ou non de partager leur recherche. La raison pour laquelle intégrer les bonnes pratiques de reproductibilité bénéficie au chercheur individuel est que celles-ci améliorent la planification, l'organisation et la documentation de la recherche. Ci-dessous, nous décrivons un exemple de mise en œuvre de la reproductibilité dans un cycle de recherche avec des références à ces pratiques dans le manuel.
 
-###### Créer un plan d'étude ou un protocole
 
-Commencez la documentation dès le début de l'étude en rédigeant un plan ou un protocole d'étude qui comprend le plan et les méthodes proposés pour l'étude. Suivez les lignes directrices du [Réseau Équateur](http://www.equator-network.org/), s'il y a lieu. Suivez les modifications apportées à votre plan d'étude ou à votre protocole à l'aide du contrôle de version \(référence au contrôle de version\). Calculez la puissance ou la taille de l'échantillon nécessaire et rapportez ce calcul dans votre protocole car les études sous-alimentées sont sujettes à l'irréproductibilité.
+![](/Images/Icons/task.png)
 
-###### Choisir des outils et des matériaux reproductibles
+###### 1. Planifiez la reproductibilité avant de commencer
 
-Sélectionnez les anticorps qui fonctionnent à l'aide d'un moteur de recherche d'anticorps comme [CiteAb](https://www.citeab.com/). Éviter l'irréproductibilité par des lignées cellulaires mal identifiées en choisissant celles qui sont authentifiées par le [International Cell Line Authentication Committee](http://iclac.org/). Dans la mesure du possible, choisissez des outils logiciels et matériels qui vous permettent de conserver la propriété de vos recherches et de les transférer hors de la plate-forme pour les réutiliser (voir Logiciels de recherche ouverts et Open Source).
+###### Créez un plan d'étude ou un protocole.
 
-###### Configurez un projet reproductible
+Commencez la documentation dès le lancement de l'étude en rédigeant un plan ou un protocole d'étude qui inclue la conception et les méthodes d'étude que vous proposez. Utilisez les directives du réseau Equateur ([Equator Network](http://www.equator-network.org/)), le cas échéant. Faites le suivi des modifications apportées à votre plan ou protocole d'étude à l'aide de logiciel de contrôle de versions (Version Control). Calculez la puissance ou la taille d'échantillon nécessaires et rapportez ce calcul dans votre protocole, car les études qui manquent de puissance ont moins de chances d'être reproductibles.
 
-Centralisez et organisez la gestion de vos projets à l'aide d'une plate-forme en ligne, d'un référentiel central ou d'un dossier pour tous vos fichiers de recherche. Vous pouvez utiliser GitHub comme un endroit pour stocker les fichiers de projet ensemble ou pour tout gérer à l'aide d'un cahier de laboratoire électronique tel que [Benchling](https://benchling.com/), [Labguru](https://www.labguru.com/), ou [SciNote](https://scinote.net/). Au sein de votre projet centralisé, suivez les meilleures pratiques en séparant vos données de votre code dans différents dossiers. Faites vos données brutes en lecture seule et séparez-les des données traitées \(référence à la gestion des données\).
+###### Choisissez des outils et matériels reproductibles
 
-Lorsque vous sauvegardez et sauvegardez vos fichiers de recherche, choisissez des formats et des noms de fichiers informatifs qui permettent la réutilisation. Les noms de fichiers doivent être à la fois lisibles par machine et par l'homme \(référence à Data Management\). Dans votre analyse et votre code logiciel, utilisez des chemins relatifs. Évitez les formats de fichiers propriétaires et utilisez des formats de fichiers ouverts \(voir 6 Licences et formats de fichiers ouverts\).
+Sélectionnez des anticorps qui fonctionnent en utilisant un moteur de recherche d'anticorps comme[CiteAb](https://www.citeab.com/). Augmentez vos chances d'être reproductible en utilisant des lignées cellulaires authentifiées par le Comité International d'Authentification des Lignées Cellulaires [International Cell Line Authentication Committee](http://iclac.org/)). Dans la mesure du possible, choisissez des logiciels et matériels avec lesquels vous pouvez conserver la propriété de vos recherches et qui vous permettent de migrer vos recherches hors de la plate-forme pour les réutiliser (voir la section Logiciels de Recherche Libres et Codes Source Ouverts).
 
-## <img src="/Images/Icons/handson.png" width="150" height="150" />
-##### **2. Gardez une trace des choses**
+###### Mettez en œuvre un projet reproductible
 
-###### Pré-enregistrement
+Centralisez et organisez la gestion de votre projet à l'aide d'une plateforme en ligne, une centrale de dépôt en ligne, ou d'un dossier pour tous vos fichiers de recherche. Vous pouvez utiliser GitHub pour stocker des fichiers de projet ensemble ou tout gérer à l'aide d'un cahier de laboratoire électronique tel que [Benchling](https://benchling.com/)[Labguru](https://www.labguru.com/)[SciNote](https://scinote.net/). Au sein de votre projet centralisé, adoptez les bonnes pratiques en séparant vos données de votre code dans différents dossiers. Paramétrez vos données brutes en lecture seule et séparez-les des données traitées (référence à la gestion des données).
 
-Pré-enregistrez l'information importante sur la conception et l'analyse de l'étude afin d'accroître la transparence et de contrer le biais de publication des résultats négatifs. Des outils gratuits pour vous aider à vous inscrire pour la première fois comprennent [AsPredicted](https://aspredicted.org/), [Open Science Framework](https://osf.io/), et [Registered Reports](https://cos.io/rr/). Les essais cliniques devraient utiliser [Clinicaltrials.gov](https://clinicaltrials.gov/).
+Lors de la sauvegarde et de l'enregistrement de vos fichiers de recherche, choisissez des formats et des noms de fichiers informatifs permettant la réutilisation. Les noms de fichiers doivent être lisibles à la fois par la machine et par l'homme (référence à Gestion des Données). Dans votre analyse et votre code logiciel, utilisez des chemins relatifs. Évitez les formats de fichiers propriétaires et utilisez des formats de fichiers ouverts (voir 6 Formats de fichiers et licences ouvertes).
 
-###### Contrôle de version
 
-Suivez les modifications apportées à vos fichiers, en particulier votre code d'analyse, à l'aide du contrôle de version \(voir Open Research Software et Open Source\).
+![](Images/Icons/handson.png)
+
+#### 2. Gardez des traces de vos travaux 
+
+###### Consignation dans un registre
+
+Consignez à l'avance les informations importantes relatives à la conception et à l'analyse des études afin d'accroître la transparence et de contrer le biais consistant à ne pas publier des résultats négatifs. Parmi les outils gratuits que vous pouvez utiliser pour votre premier enregistrement, on trouve : [AsPredicted](https://aspredicted.org/)[Open Science Framework](https://osf.io/) et [Registered Reports](https://cos.io/rr/). Il est recommandé aux essais cliniques d'utiliser [Clinicaltrials.gov](https://clinicaltrials.gov/).
+
+###### Contrôle de versions
+
+Suivez les modifications apportées à vos fichiers, en particulier à votre code d'analyse, grâce au contrôle de versions (Voir la section Logiciels de recherche libres et Codes Source Ouverts).
 
 ###### Documentation
 
-Documenter tout ce qui est fait à la main dans un fichier README. Créez un dictionnaire de données \(également connu sous le nom de livre de codes\) pour décrire les informations importantes concernant vos données. Pour une introduction facile, utilisez : [Module d'organisation des données de Karl Broman](http://kbroman.org/dataorg/pages/dictionary.html) et se référer à Gestion des données.
+Documentez tout ce qui a été fait à la main dans un fichier LISEZMOI. Créez un dictionnaire de données (également appelé "codebook", "livre de code") pour décrire les informations importantes concernant vos données. Pour une introduction facile, utilisez le [module d'organisation des données de Karl Broman](http://kbroman.org/dataorg/pages/dictionary.html) et référez à la section Gestion des données.
 
-###### Programmation lettrée (literate programming)
+######Programmation lettrée
 
-Envisagez d'utiliser [Jupyter Notebooks](http://jupyter.org/), [KnitR](https://yihui.name/knitr/), [Sweave](https://support.rstudio.com/hc/en-us/articles/200552056-Using-Sweave-and-knitr), ou d'autres approches de programmation alphabétisée pour intégrer votre code à votre récit et votre documentation.
+Envisagez d'utiliser[notebooks](http://jupyter.org/)[ Jupyter](http://jupyter.org/)[KnitR](https://yihui.name/knitr/)[Sweave](https://support.rstudio.com/hc/en-us/articles/200552056-Using-Sweave-and-knitr) ou d'autres approches de la programmation lettrée pour intégrer votre code à votre récit et à votre documentation.
 
 ## <img src="/Images/Icons/open_licenses.png" width="150" height="150" />
-##### **3. Partagez et indiquez une licence pour vos recherches**
+
+##### 3. Partagez vos recherches et attribuez-leur des licences
 
 ###### Données
 
-Évitez les annexes, optez pour une licence permissive acceptable et partagez vos données en utilisant un référentiel. Suivre les pratiques exemplaires décrites dans le chapitre Données et matériel de recherche ouverte.
+Évitez les fichiers annexes, faîtes le choix d'une licence permissive acceptable et partagez vos données à l'aide d'un dépôt. Suivez les bonnes pratiques décrites dans le chapitre Données et Matériels de la Recherche Ouverte.
 
-###### Matériaux
+###### Matériels
 
-Partagez votre matériel pour qu'il puisse être réutilisé. Déposer les réactifs dans des dépôts tels que [Addgene] (https://www.addgene.org/), [The Bloomington Drosophila Stock Center](https://bdsc.indiana.edu/), et [ATCC] (https://www.atcc.org/) pour les rendre facilement accessibles aux autres chercheurs. Pour en savoir plus, consultez la sous-section Matériaux ouverts de [Données et matériaux de recherche ouverts] (https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/blob/master/02OpenScienceBasics/02OpenResearchDataAndMaterials.md).
+Partagez vos documents afin qu'ils puissent être réutilisés. Stockez les réactifs dans des entrepôts tels que [Addgene](https://www.addgene.org/)[The Bloomington Drosophila Stock Center](https://bdsc.indiana.edu/) et [ATCC](https://www.atcc.org/) pour les rendre facilement accessibles à d'autres chercheurs. Pour plus d'informations, consultez le paragraphe [Matériaux ouverts](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/blob/master/02OpenScienceBasics/02OpenResearchDataAndMaterials.md) dans la section "Données et matériaux de la Recherche ouverte".
 
 ###### Logiciels, notebooks et conteneurs
 
-Licencez votre code pour informer sur la façon dont il peut être utilisé (reutilisé). Partagez vos notebooks avec des services tels que [mybinder](http://mybinder.org) qui permettent au public de visualiser et d'exécuter l'intégralité du bloc-notes sur des ressources partagées. Partagez des conteneurs ou des ordinateurs portables avec des services tels que [Rocker] (https://arxiv.org/abs/1710.03675) ou [Code Ocean](https://codeocean.com/). Suivre les meilleures pratiques décrites dans Open Research Software et Open Source.
+Attribuez une licence à votre code pour indiquer les conditions auxquelles vous permettez qu'il soit (ré)utilisé. Partagez les notebooks avec des services tels que [mybinder](http://mybinder.org/) qui permettent de visualiser et d'exécuter l'intégralité du notebook sur des ressources partagées. Partagez des conteneurs ou des notebooks avec des services tels que[Rocker](https://arxiv.org/abs/1710.03675) ou [Code Ocean](https://codeocean.com/). Suivez les meilleures pratiques décrites dans le chapitre Logiciels de recherche libres et Code source ouvert.
 
-## <img src="/Images/Icons/open_scholarship.png" width="150" height="150" />
-##### ** Rédigez vos rapports de recherche de manière transparente**
+![](Images/Icons/open_scholarship.png)
 
-Rapportez et publiez vos méthodes et interventions de manière explicite, transparente et complète afin de permettre leur réplication. Les lignes directrices du [Réseau Équateur](http://www.equator-network.org/), des outils comme [Protocols.io] (https://www.protocols.io/) ou des processus comme [Registered Reports](https://cos.io/rr/) peuvent vous aider à produire des rapports reproductibles. N'oubliez pas d'afficher vos résultats sur votre plateforme d'inscription publique (comme [ClinicalTrials.gov](https://www.socialscienceregistry.org/) ou le [SocialScienceRegistry](https://www.socialscienceregistry.org/)\) dans l'année suivant la fin de votre étude, peu importe la nature ou l'orientation de vos résultats.
+##### 4. Rendez compte de vos recherches de manière transparente
 
-## <img src="/Images/Icons/questions.png" width="150" height="150" />
-### Questions, obstacles et idées fausses courantes
+Rendez compte de vos méthodes et interventions et publiez-les de manière explicite, transparente et exhaustive, afin de permettre leur réplication. Les lignes directrices du réseau Equateur ([Equator Network]](http://www.equator-network.org/)), les outils tels que [Protocols.io](https://www.protocols.io/) ou des processus tels que [Registered Reports](https://cos.io/rr/) peuvent vous aider à rendre compte de manière reproductible. N'oubliez pas de publier vos résultats sur une plateforme d'enregistrement publique (telle que [ClinicalTrials.gov](https://www.socialscienceregistry.org/) ou [SocialScienceRegistry](https://www.socialscienceregistry.org/)) dans l'année suivant la fin de votre étude, quelle que soit la nature ou l'orientation de vos résultats.
 
-Q : "Tout est dans le journal ; n'importe qui peut reproduire ceci à partir de là !"
+![](/Images/Icons/questions.png)
 
-R : C'est l'une des idées fausses les plus courantes. Même une description extrêmement détaillée des méthodes et des flux de travail utilisés pour atteindre le résultat final ne suffira pas, dans la plupart des cas, à le reproduire. Cela peut être dû à plusieurs aspects, y compris des environnements de calcul différents, des différences dans les versions des logiciels, des biais implicites qui n'ont pas été clairement énoncés, etc.
 
-Q : "Je n'ai pas le temps d'apprendre et d'établir un flux de travail reproductible."
+### Questions, obstacles et idées fausses reçues 
 
-R : En plus d'un nombre important de services en ligne disponibles gratuitement qui peuvent être combinés et qui facilitent la mise en place d'un flux de travail complet, le fait de consacrer du temps et de l'énergie à l'élaboration de ces services augmentera à la fois la validité scientifique des résultats finaux et réduira le temps nécessaire pour les exécuter de nouveau ou les prolonger dans des études ultérieures.
+Q : "Tout est dans l'article ; n'importe qui peut reproduire cette recherche à partir de là !
 
-Q : "Les terminologies décrivant la reproductibilité sont difficiles."
+R : C'est l'une des idées fausses les plus répandues. Même en disposant d'une description extrêmement détaillée des méthodes et du processus de travail utilisées pour parvenir au résultat final, cela ne suffira pas, dans la plupart des cas, pour le reproduire. Il peut y avoir plusieurs raisons à cela, notamment à des environnements de calcul différents, des différences entre les versions de logiciel, des biais implicites qui n'ont pas été clairement énoncés, etc.
 
-R : Voir Barba \(2018\) pour une discussion sur la terminologie décrivant la reproductibilité.
+Q : "Je n'ai pas le temps d'apprendre à mettre en place un processus de travail reproductible".
 
-## <img src="/Images/Icons/output.png" width="150" height="150" />
-### Résultats d'apprentissage
+R : Outre le nombre important de services en ligne disponibles gratuitement que l'on peut associer et qui facilitent la mise en place d'un processus de travail complet, consacrer du temps et des efforts à un processus reproductible augmentera la validité scientifique de vos résultats finaux, tout en réduisant au minimum le temps nécessaire pour relancer le processus ou l'étendre lors d'études ultérieures.
 
-1. Comprendre la nécessité d'une recherche reproductible et son raisonnement.
+Q : "La terminologie décrivant la reproductibilité est difficile à saisir".
 
-2. Etre capable d'établir un workflow reproductible dans le cadre d'une tâche d'exemple.
+R : Cf. Barba (2018) : Discussion sur la terminologie décrivant la reproductibilité et la réplicabilité.
 
-3. Connaître les outils qui peuvent soutenir une recherche reproductible.
 
-## <img src="/Images/Icons/magnifying_glass.png" width="150" height="150" />
-### Lectures supplémentaires
+![](/Images/Icons/output.png)
+
+### Acquis de la formation 
+
+1.  Comprendre la nécessité d'une recherche reproductible et son raisonnement.
+
+2.  Être capable d'établir un processus de travail reproductible pour une tâche servant d'exemple.
+
+3.  Connaître les outils de soutien à la recherche reproductible.
+
+![](/Images/Icons/magnifying_glass.png)
+
+
+### Lectures complémentaires
 
 * Button et al. (2013). Power failure: why small sample size undermines the reliability of neuroscience. [doi.org/10.1038/nrn3475](https://doi.org/10.1038/nrn3475)
 
+
 * Karl Broman (n.y.). Data Organization. Choose good names for things. [kbroman.org](http://kbroman.org/dataorg/pages/names.html)
-
-

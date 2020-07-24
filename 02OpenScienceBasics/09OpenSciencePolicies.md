@@ -1,95 +1,105 @@
-## <img src="/Images/Icons/open_government.png" width="200" height="200" />
-## 9. Open science basics
 
-#### Qu'est-ce que c'est ?
+![](/Images/Icons/open_government.png)
 
-Nous pourrions définir les politiques de science ouverte comme des stratégies et des actions visant à promouvoir les principes de la science ouverte et à reconnaître les pratiques de science ouverte. Ces politiques sont habituellement établies par des établissements d'exécution de la recherche, des bailleurs de fonds de la recherche, des gouvernements ou des éditeurs. Les politiques initiales visaient à exiger une diffusion ouverte des résultats de la recherche fondée sur l'idée que les résultats de la recherche financée par des fonds publics devraient être accessibles au public sans aucune restriction. Cependant, la portée des politiques s'est maintenant élargie et nous pourrions trouver des politiques nationales qui encouragent les pratiques de science ouverte à n'importe quel point du niveau de la recherche. En outre, nous pourrions trouver des dispositions spécifiques dans les lois, règlements ou directives nouveaux et existants.
+## 9. Politiques de Science Ouverte
 
-## <img src="/Images/02 Open Science Basics/02_open_policies.png" />
+### De quoi parle t-on ? 
 
-### Justification
+Nous pourrions définir les politiques de science ouverte comme les stratégies et actions visant à promouvoir les principes de science ouverte et à reconnaître les pratiques de science ouverte. Ces politiques sont généralement établies par des institutions de recherche, des bailleurs de fonds, des gouvernements ou des éditeurs. Les politiques initiales visaient à exiger une diffusion ouverte des résultats de la recherche en se fondant sur l'idée que les résultats obtenus par la recherche financée par des fonds publics devraient être disponibles au public sans aucune restriction. Cependant, la portée de ces politiques s'est aujourd'hui élargie et les politiques nationales encouragent les pratiques de science ouverte à tous les stades de la recherche. De plus, il existe également des dispositions spécifiques dans les lois, règlementations et directives nouvelles ou déjà existantes.
 
-Étant donné que l'un des principaux moteurs de la science ouverte sont les politiques actuelles établies par les institutions, les bailleurs de fonds, les gouvernements et les éditeurs, il est important de savoir comment elles affectent tout chercheur. Si vous envisagez de concevoir une politique visant l'adoption et la reconnaissance des pratiques de la science ouverte, il est important de connaître les politiques existantes afin d'éviter tout chevauchement ou contradiction. Par conséquent, les chercheurs et les décideurs devraient avoir une connaissance des politiques actuelles et devraient être en mesure de comprendre comment elles les affectent.
+![](f/Images/02 Open Science Basics/02_open_policies.png)
 
-## <img src="/Images/Icons/finish.png" width="150" height="150" />
-### Objectifs d'apprentissage
+### Fondement
 
-1. Selon votre public, les objectifs de la session de formation seront différents. Nous pouvons faire une large division entre les chercheurs \(au sens large\) et les décideurs \(au sein d'une institution ou des bailleurs de fonds - au sens large\).
+Les politiques actuelles établies par les institutions, les bailleurs de fonds, les gouvernements et les éditeurs, constituent l'un des principaux moteurs de la science ouverte. Il est important de savoir dans quelle mesure elles affectent les chercheurs. Si vous envisagez de concevoir une politique visant à l'adoption et à la reconnaissance des pratiques de science ouverte, il est essentiel de connaître les politiques existantes afin d'éviter tout chevauchement ou contradiction. Les chercheurs et les décideurs politiques doivent donc connaître les politiques actuelles et être en mesure de comprendre comment celles-ci les influencent.
 
-2. Si votre programme de formation s'adresse principalement aux chercheurs, y compris à tous les "niveaux", alors l'objectif principal est d'examiner comment les politiques de science ouverte les affectent.
+![](/Images/Icons/finish.png)
 
-3. Si votre programme de formation s'adresse aux décideurs, vous pourriez vous concentrer sur la conception et la mise en œuvre d'une politique visant à promouvoir la science ouverte.
 
-4. Si nous voulons former des bailleurs de fonds ou des décideurs au sein d'une institution, il devrait être important de montrer comment concevoir, élaborer, mettre en œuvre et surveiller une politique.
+### Objectifs de la formation 
 
-### Composantes clés
+1.  En fonction de votre public, les objectifs des sessions de formation seront différents : On peut distinguer les chercheurs (au sens large) et les décideurs politiques (au sein d'une institution ou des bailleurs de fonds -- au sens large).
 
-## <img src="/Images/Icons/brain.png" width="150" height="150" />
-#### Connaissances
+2.  Si votre programme de formation s'adresse principalement aux chercheurs, quel que soit leur "niveau", alors l'objectif principal est d'analyser dans quelle mesure ils sont impactés par les politiques de science ouverte.
 
-Vous devez passer en revue toutes les politiques qui touchent votre public cible de formation. Tout d'abord, vérifiez toutes les politiques  au niveau institutionnel, par exemple, le droit d'auteur, la propriété intellectuelle, le libre accès, les données de recherche.
+3.  Si votre programme de formation s'adresse aux décideurs politiques, vous vous concentrerez plutôt sur la conception et la mise en œuvre d'une politique visant à promouvoir la science ouverte.
 
-Deuxièmement, vous pouvez examiner toute politique ou loi nationale susceptible d'affecter les chercheurs dans le cadre de la science ouverte, par exemple les lois comportant des dispositions relatives au libre accès ou les décrets affectant les thèses de doctorat, les appels à projets.
+4.  Si vous voulez former des bailleurs de fonds ou des décideurs politiques au sein d'une institution, il est important de leur montrer comment concevoir, développer, mettre en œuvre et assurer le suivi d'une politique.
 
-Au niveau national, il pourrait y avoir des lois ou des décrets qui, directement ou indirectement, pourraient influencer une politique ou imposer certaines exigences. Par exemple, vous pouvez consulter les politiques nationales de libre accès en Europe disponibles sur [OpenAIRE](https://www.openaire.eu/member-states-overview).
+### Éléments clés 
 
-Puisque la science est internationale, alors nous devrions revoir toute politique internationale qui pourrait affecter votre public, provenant principalement de bailleurs de fonds internationaux. Au niveau européen, nil y a les politiques provenant du [Cadre de recherche H2020](https://www.google.com/url?q=https://ec.europa.eu/research/participants/data/ref/h2020/grants_manual/hi/oa_pilot/h202020-hi-oa-pilot-guide_en.pdf&sa=D&ust=1521447690441000&usg=AFQjCNHsEo1FZkHkLDRxIUQr7BpfirASbQ) concernant la diffusion des résultats des recherches mais également d'autres politiques touchant d'autres aspects du cycle de recherche.
+![](/Images/Icons/brain.png)
 
-Toujours au niveau international, certains éditeurs ont introduit de nouvelles politiques, notamment en ce qui concerne la publication des données de recherche lorsqu'ils soumettent un article.
+#### Connaissances 
 
-Si votre auditoire de formation est disposé à élaborer une feuille de route ou un programme de mise en œuvre d'une politique nationale de science ouverte, il pourrait être souhaitable de comparer ce qui a été fait dans d'autres domaines. Comme point de départ, l'[Appel à action d'Amsterdam 2016](https://www.government.nl/documents/reports/2016/04/04/amsterdam-call-for-action-on-open-science) pourrait montrer certaines des questions qui doivent être prises en compte et à qui elles sont adressées. Des exemples de [Pays-Bas](https://www.openscience.nl/), [Portugal](http://www.ciencia-aberta.pt) ou [Finlande](https://openscience.fi/) peuvent aider à planifier des politiques nationales, à décrire certaines actions et à trouver comment mesurer leur mise en œuvre.
+Vous devez analyser toutes les politiques qui touchent votre public de formation. Tout d'abord, vérifiez toutes les politiques institutionnelles au niveau de l'établissement, par exemple : le droit d'auteur, la propriété intellectuelle, le libre accès, les données de recherche.
 
-## <img src="/Images/Icons/gears.png" width="150" height="150" />
-##### Savoir-faire
+Ensuite, vous pouvez examiner toute politique ou loi nationale susceptible d'avoir un impact sur les chercheurs dans le cadre de la science ouverte, par exemple les lois comportant des dispositions relatives au libre accès ou les décrets concernant les thèses de doctorat ou les appels à projets.
 
-Les personnels en formation devraient identifier les principales caractéristiques de chaque politique, surtout : à qui s'adresse la politique, quelles sont les exigences, comment elles se chevauchent les unes les autres.
+Au niveau national, il peut y avoir des lois ou des décrets qui, directement ou indirectement, peuvent influencer une politique ou imposer certaines exigences. Par exemple, vous pouvez consulter les politiques nationales d'accès ouvert en Europe disponibles sur [OpenAIRE](https://www.openaire.eu/os-eu-countries).
 
-Vous pourriez montrer comment les chercheurs peuvent appliquer les différentes politiques : où sont les services, les outils que l'établissement peut fournir, mais aussi où ils peuvent trouver des alternatives. Par exemple, une institution peut ne pas fournir d'infrastructure pour le dépôt et la publication des données de recherche, mais elle peut proposer des solutions externes qui répondent aux exigences de la politique. Il est également utile de comparer ces solutions avec d'autres options externes dont les caractéristiques ne sont pas souhaitées.
+La science étant internationale, vous devrez examiner toute politique internationale susceptible d'influencer votre public, provenant principalement des bailleurs de fonds internationaux. Au niveau européen, il faut prendre en compte les politiques issues du Cadre de Recherche Horizon 2020 ([H2020 Research Framework](https://ec.europa.eu/research/participants/data/ref/h2020/grants_manual/hi/oa_pilot/h2020-hi-oa-pilot-guide_en.pdf)), concernant la diffusion des résultats de la recherche, mais il se peut qu'il existe d'autres politiques affectant d'autres parties du cycle de recherche.
 
-Lors de la conception d'une politique de science ouverte, l'auditoire en formation devrait être capable de définir les principaux objectifs d'une telle politique et d'établir les objectifs ou les changements qu'ils poursuivent. Une fois définis, ils doivent être en mesure de trouver des indicateurs de rendement clés pour mesurer si la politique a atteint ses objectifs et ils doivent être en mesure d'examiner et de mettre à jour la politique si les objectifs ne sont pas atteints.
+Toujours au niveau international, certains éditeurs ont introduit de nouvelles politiques, notamment en ce qui concerne la publication des données de recherche lors de la soumission d'un article.
 
-## <img src="/Images/Icons/questions.png" width="150" height="150" />
-### Questions, obstacles et idées fausses courantes
+Si votre public de formation est disposé à élaborer une feuille de route ou un programme pour mettre en œuvre une politique nationale de science ouverte, il pourrait être utile de comparer avec ce qui a été fait dans d'autres domaines. On pourrait choisir comme point de départ l'Appel à l'action d'Amsterdam pour la Science ouverte ([2016 Amsterdam Call for Action](https://www.government.nl/documents/reports/2016/04/04/amsterdam-call-for-action-on-open-science) qui présente les principales questions à prendre en compte et à qui elles s'adressent. Les exemples des [Pays-Bas](https://www.openscience.nl/), du [Portugal](http://www.ciencia-aberta.pt/) ou de la [Finlande](https://openscience.fi/) peuvent aider à planifier les politiques nationales, à définir certaines actions et à trouver comment mesurer leur mise en œuvre.
 
-La principale question que se posent les chercheurs qui participent à des séances de formation sur les politiques est de savoir comment ils peuvent satisfaire aux exigences sans perdre la liberté de décider où publier, par exemple. En tant que formateur, vous pouvez décrire toutes les options qui s'offrent aux chercheurs parce qu'en général, les politiques de science ouverte offrent une gamme d'options.
+![](/Images/Icons/gears.png)
 
-Une autre question souvent soulevée est celle de savoir ce qui se passe si les chercheurs ne satisfont pas aux exigences. Dans ce cas, vous pouvez donner des exemples de projets suivis par les bailleurs de fonds ou des avertissements reçus par les chercheurs.
+### Compétences
 
-Une idée fausse courante concernant la politique sur les données de recherche est que les chercheurs devraient partager ouvertement toutes les données. Pour le surmonter, vous devez mettre en évidence les différents extraits dans le texte d'une politique où l'on explique quelles sont les données concernées par la politique et quand elles doivent être partagées. Nous pourrions également faire remarquer tous les choix d'opt-out que les politiques incluent. Une bonne ressource pour clarifier ces questions peut être une infographie comme [celle d'Horizon 2020](https://www.google.com/url?q=https://ec.europa.eu/research/press/2016/pdf/opendata-infographic_072016.pdf&sa=D&ust=152144769067000000&usg=AFQjCNG6Qegy5MwM3bjNJ1ovWp1YlQSswQ).
+Les apprenants devront identifier dans leurs grandes lignes les principales caractéristiques de chaque politique : à qui s'adresse-t-elle, quelles sont les prérequis, comment s'imbriquent-elles les unes aux les autres ?
 
-Lors de la planification d'une politique est important de savoir ce que vous avez l'intention de réaliser ou de résoudre. Parfois, des politiques sont créées à la suite d'autres initiatives sans réfléchir à la nécessité d'en créer une autre et à la question de savoir si votre nouvelle politique fera double emploi avec d'autres politiques existantes. Le principal défi lors de l'élaboration d'une politique est de l'aligner sur d'autres initiatives et d'éviter les contradictions avec les lois ou les règlements.
+Vous pourriez montrer comment les chercheurs peuvent appliquer ces différentes politiques : quels services sont à leur disposition, les outils que l'institution peut fournir, mais aussi où ils peuvent trouver des alternatives. Par exemple, si une institution ne peut pas fournir d'infrastructure pour le dépôt et la publication des données de recherche, elle peut indiquer des solutions externes répondant aux exigences de la politique. Il peut aussi s'avérer utile de comparer les solutions internes avec d'autres options externes dont les caractéristiques ne répondent pas aux attentes.
 
-## <img src="/Images/Icons/output.png" width="150" height="150" />
-#### Résultats d'apprentissage
+Lors de la conception d'une politique de science ouverte, le public apprenant devra être en mesure de définir les principales motivations d'une telle politique et de définir les objectifs ou les changements qu'ils poursuivent. Une fois ceux-ci définis, ils devront être capables de choisir des indicateurs de performance clés pour mesurer si la politique a atteint ses objectifs afin de pouvoir la modifier et l'actualiser si les objectifs ne sont pas atteints.
 
-1. Les personnels en formation seront en mesure d'identifier les exigences de toute politique qui pourrait les affecter lorsqu'ils effectuent des activités scientifiques ouvertes.
-2. Ils seront en mesure de faire la distinction entre les politiques générales comme le droit d'auteur ou la protection des données et les politiques spécifiques liées à la science ouverte, par exemple en ce qui concerne la manière de diffuser les résultats de la recherche. 
-3. Ils seront en mesure de décrire les étapes à suivre pour mettre en œuvre une certaine politique.
-4. Les personnels en formation participant à une session visant à l'élaboration de politiques seraient en mesure de planifier une politique de science ouverte, d'établir des objectifs et des indicateurs pour mesurer sa mise en œuvre.
+![](/Images/Icons/questions.png)
 
-## <img src="/Images/Icons/magnifying_glass.png" width="150" height="150" />
-### Pour en savoir plus
+### Questions, obstacles et idées fausses reçues 
+
+La principale question que se posent les chercheurs lors des sessions de formation concernant les politiques est de savoir comment ils peuvent satisfaire aux exigences demandées sans perdre leur liberté de décider où publier, par exemple. En tant que formateur, vous pourrez décrire toutes les options dont disposent les chercheurs car, en général, les politiques de science ouverte offrent un large éventail de possibilités.
+
+Une autre question souvent posée est de savoir ce qui se passe si les chercheurs ne remplissent pas les conditions requises. Dans ce cas, vous pourrez donner des exemples de projets contrôlés par les bailleurs de fonds ou d'avertissements reçus par les chercheurs.
+
+Un malentendu fréquent concernant la politique des données de recherche est de penser que les chercheurs devraient partager toutes les données ouvertement. Pour y remédier, vous devrez mettre en évidence les différents extraits du texte d'une politique où l'on explique quelles sont les données concernées par la politique et à quelle occasion elles doivent être partagées. On peut aussi mettre l'accent sur toutes les options d'exclusion proposées. Une bonne ressource pour clarifier ces questions peut être une infographie comme celle disponible sur [Horizon 2020](https://ec.europa.eu/research/press/2016/pdf/opendata-infographic_072016.pdf).
+
+Lorsque vous planifiez une politique, il est important de savoir quel but vous poursuivez ou la situation que vous cherchez à résoudre. Les politiques sont parfois créées dans la suite d'autres initiatives sans demander si la nouvelle politique ne fera pas double emploi avec d'autres initiatives existantes. Le principal défi lors de l'élaboration d'une politique est de s'aligner sur les autres initiatives et d'éviter les conflits avec les lois et réglementations.
+
+
+![](/Images/Icons/output.png)
+
+### Acquis de la formation
+
+1.  Les apprenants seront capables d'identifier les exigences de toute politique, susceptibles de les impacter dans leurs activités de science ouverte.
+
+2.  Ils seront capables de faire la distinction entre les politiques générales comme le droit d'auteur ou la protection des données et les politiques spécifiques liées à la science ouverte, par exemple, comment diffuser les résultats de la recherche.
+
+3.  Ils seront capables de définir les étapes à suivre pour mettre en œuvre une certaine politique.
+
+4.  Les stagiaires participant à une session visant à l'élaboration de politiques seront capables de planifier une politique de science ouverte, en établissant des objectifs et des indicateurs pour en mesurer la mise en œuvre.
+
+![](/Images/Icons/magnifying_glass.png)
+
+### Lectures complémentaires 
 
 * EC Working Group on Education and Skills under Open Science (2017). Providing researchers with the skills and competencies they need to practise Open Science. [ec.europa.eu](https://ec.europa.eu/research/openscience/index.cfm?pg=skills_wg)
 
-* Open Research Funders Group & SPARC. Open Policies 101. [PDF from orfg.org](https://static1.squarespace.com/static/5817749f8419c25c3b5b318d/t/5b75bfc1352f53d3f2e4409f/1534443459039/Grantee.pdf) 
+* Open Research Funders Group & SPARC. Open Policies 101. [PDF de orfg.org](https://static1.squarespace.com/static/5817749f8419c25c3b5b318d/t/5b75bfc1352f53d3f2e4409f/1534443459039/Grantee.pdf)
+
 
 * Model Policy for Research Data Management (RDM) at Research Institutions/Institutes. In: Leaders Activating Research Networks (LEARN) (ed.) LEARN Toolkit of Best Practice for Research Data Management. (pp. 133-136). [learn-rdm.eu](http://discovery.ucl.ac.uk/id/eprint/1546606)
 
 * Guidance for Developing a Research Data Management (RDM) Policy. In: Leaders Activating Research Networks, LEARN Project (ed.) LEARN Toolkit of Best Practice for Research Data Management. (pp. 137-140). [learn-rdm.eu](https://doi.org/10.14324/000.learn.27)
 
-### Projects and initiatives
+### Projets et nitiatives 
 
-* FOSTER. Designing Successful Open Access and Open Data Policies: Introductory. [fosteropenscience.eu](https://www.fosteropenscience.eu/node/2081) 
 
-* FOSTER. Designing Successful Open Access and Open Data Policies: Intermediate. [fosteropenscience.eu](https://www.fosteropenscience.eu/node/2075)
+* FOSTER. Designing Successful Open Access and Open Data Policies: Débutant. [fosteropenscience.eu](https://www.fosteropenscience.eu/node/2081)
+
+* FOSTER. Designing Successful Open Access and Open Data Policies: Intermediaire. [fosteropenscience.eu](https://www.fosteropenscience.eu/node/2075)
 
 * LEARN Project 2015-2017. Toolkit of Best Practice for Research Data Management [learn-rdm.eu](http://learn-rdm.eu/en/about/)
- 
 
 * Pasteur4OA. [pasteur4oa.eu](http://www.pasteur4oa.eu/)
-
-
-
-
 
