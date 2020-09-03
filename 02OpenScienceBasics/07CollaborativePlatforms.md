@@ -1,91 +1,101 @@
-## <img src="/Images/Icons/collaborate.png" width="200" height="200" />
-## 7. Collaborative Platforms
+![](/Images/Icons/collaborate.png)
 
-### Qu'est-ce que c'est ?
+## 7. Plateformes collaboratives
 
-Les plateformes collaboratives en ligne relient des chercheurs dispersés géographiquement pour leur permettre de coopérer de manière transparente dans leurs recherches, de partager des objets de recherche ainsi que des idées et des expériences. Les plates-formes collaboratives sont généralement des services en ligne qui fournissent un environnement virtuel auquel plusieurs personnes peuvent se connecter et travailler simultanément sur la même tâche. Il peut s'agir d'environnements de recherche virtuels extensifs \(ERV ou VREs en anglais\) qui englobent une foule d'outils pour faciliter le partage et la collaboration, y compris des forums Web et des wikis, l'hébergement de documents collaboratifs et des outils propres à une discipline comme l'analyse ou la visualisation de données, jusqu'aux outils particuliers qui permettent aux chercheurs de travailler ensemble en temps réel à certains aspects de la recherche \(comme la rédaction ou l'analyse par exemple\).
+### De quoi parle t-on ? 
+
+Les plateformes collaboratives en ligne relient des chercheurs dispersés géographiquement pour leur permettre de coopérer de manière transparente dans leurs recherches, de partager des objets de recherche ]aussi bien que [des idées et des expériences. Les plateformes collaboratives sont généralement des services en ligne qui fournissent un environnement virtuel auquel plusieurs personnes peuvent se connecter et travailler simultanément sur la même tâche. Il peut s'agir d'environnements virtuels de recherche extensifs (EVR) qui englobent une multitude d'outils pour faciliter le partage et la collaboration, y compris des forums Web et des wikis, l'hébergement de documents collaboratifs et des outils propres à une discipline tels que l'analyse ou la visualisation de données, jusqu'à des outils spécifiques uniques permettant aux chercheurs de travailler ensemble en temps réel sur certains aspects de la recherche (comme la rédaction ou l'analyse).
 
 ![](/Images/02%20Open%20Science%20Basics/02_collaborative_platforms.png)
 
-### Justification
+### Fondement 
 
-La collaboration en matière de recherche croît de façon exponentielle et les équipes deviennent de plus en plus interdisciplinaires à mesure que les chercheurs travaillent dans des consortiums internationaux et interdisciplinaires pour permettre une multitude de perspectives sur des questions de recherche précises. L'encouragement de la recherche collaborative nationale et internationale est de plus en plus une priorité des bailleurs de fonds. Elle est, par exemple, au cœur de la stratégie de Carlos Moedas, commissaire européen chargé de la recherche, comme ["Open Science, open innovation, open to the world"](https://euraxess.ec.europa.eu/content/open-science-%E2%80%93-open-innovation-%E2%80%93-open-world).
+La recherche collaborative connaît une croissance exponentielle et les équipes deviennent de plus en plus interdisciplinaires, à mesure que les chercheurs travaillent dans des consortiums internationaux et interdisciplinaires pour permettre de multiples perspectives sur des questions de recherches spécifiques. Encourager la recherche collaborative nationale et internationale est une priorité croissante pour les financeurs. La recherche collaborative se situe ainsi au cœur de la stratégie du Commissaire Européen à la Recherche, Carlos Moedas : ["Science ouverte, innovation ouverte, ouvertes sur le monde"](https://euraxess.ec.europa.eu/content/open-science-%E2%80%93-open-innovation-%E2%80%93-open-world).
 
-Les environnements de recherche virtuels \(ERV\) et les plateformes collaboratives permettent la collaboration entre les continents, les fuseaux horaires et les disciplines. Dans ce module, vous développerez une compréhension des plates-formes collaboratives qui fonctionnent aujourd'hui, et comment elles peuvent grandement améliorer vos flux de travail de recherche.
+Les environnements virtuels de recherche et les plateformes collaboratives permettent la collaboration à travers les continents, les fuseaux horaires et les disciplines. Dans ce module, vous allez acquérir des connaissances sur les plateformes collaboratives qui fonctionnent actuellement, et découvrir comment elles peuvent grandement améliorer vos processus de recherche.
 
-## <img src="/Images/Icons/finish.png" width="150" height="150" />
-### Objectifs d'apprentissage
+![](/Images/Icons/finish.png)
 
-1. Apprenez quels sont les principaux types de plates-formes collaboratives disponibles et quels sont les cas d'utilisation de chacune d'elles.
+### Objectifs de la formation 
 
-2. Découvrez les avantages de ces systèmes.
+1.  Découvrir les principaux types de plateformes collaboratives disponibles et les cas d'utilisation de chacune.
 
-3. Identifier les éventuelles insuffisances de la collaboration par le biais de ces plates-formes et comment les surmonter.
+2.  Découvrir les avantages de ces systèmes.
 
-### Composantes clés
+3.  Identifier les éventuelles lacunes de la collaboration via de telles plateformes et comment les surmonter.
 
-## <img src="/Images/Icons/brain.png" width="150" height="150" /> <img src="/Images/Icons/gears.png" width="150" height="150" />
-#### Connaissances et savoir-faire
+### Éléments clés 
 
-**Environnements de recherche virtuels \(ERV\)**
+![](/Images/Icons/brain.png)
+![](/Images/Icons/gears.png)
 
-Les environnements de recherche virtuels ont été définis comme "des environnements innovants, dynamiques et omniprésents soutenant la recherche où des scientifiques dispersés peuvent accéder de manière transparente aux données, aux logiciels et aux ressources de traitement gérés par divers systèmes dans des domaines d'administration distincts par le biais de leur navigateur " \([Candela, Castelli et Pagano, 2013](https://doi.org/10.2481/dsj.GRDI-013)\).
 
-Un aspect important à cet égard est la nature propre à la discipline de bon nombre de ces outils. La Commission européenne a financé une série d'ERV communautaires dans le cadre de son volet eInfrastructure afin de permettre aux chercheurs d'exécuter en collaboration des tâches complexes telles que l'intégration de données hétérogènes provenant de sources multiples, la modélisation, la simulation, l'exploration, l'exploitation et la visualisation des données :
+#### Connaissances & Compétences
 
-* [VI-SEEM](https://vi-seem.eu/) - VRE for regional Interdisciplinary communities in Southeast Europe and the Eastern Mediterranean \(ERV pour les communautés régionales interdisciplinaires en Europe du Sud-Est et en Méditerranée orientale\)
+** Les Environnements de Recherche Virtuels (VRE en anglais) **
 
-* [MuG ](https://www.multiscalegenomics.eu/)- Multi-Scale Complex Genomics \(Génomique complexe multi-échelle\)
+Les environnements virtuels de recherche ont été définis comme «des environnements de soutien à la recherche innovants, dynamiques et omniprésents où des scientifiques dispersés peuvent accéder en toute transparence aux données, aux logiciels et aux ressources de traitement gérées par divers systèmes dans des domaines d'administration distincts via leur navigateur» ([Candela, Castelli et Pagano, 2013](https://doi.org/10.2481/dsj.GRDI-013) ).
 
-* [OpenDreamKit](http://opendreamkit.org/) - Open Digital Research Environment Toolkit for the Advancement of Mathematics \(Boîte à outils de l'environnement ouvert de recherche numérique pour l'avancement des mathématiques\)
+Un aspect important ici est la nature disciplinaire spécifique à bon nombre de ces outils. La Commission européenne a financé une gamme d'EVR spécifiques à la communauté dans le cadre de son flux de financement e-infrastructure, pour permettre aux chercheurs d'effectuer en collaboration des tâches complexes telles que l'intégration de données hétérogènes provenant de sources multiples, la modélisation, la simulation, l'exploration de données, l'exploitation minière et la visualisation:
 
-* [BlueBRIDGE](http://www.bluebridge-vres.eu/) - Building Research environments for fostering Innovation, Decision making, Governance and Education to support Blue growth \(Créer des environnements de recherche pour favoriser l'innovation, la prise de décision, la gouvernance et l'éducation à l'appui de Blue Growth\)
+* [VI-SEEM](https://vi-seem.eu/) - EVR pour les communautés interdisciplinaires régionales en Europe du Sud-Est et en Méditerranée orientale
 
-* [VRE4EIC](https://www.vre4eic.eu/) - A Europe-wide Interoperable Virtual Research Environment to Empower Multidisciplinary Research Communities and Accelerate Innovation and Collaboration \(Un environnement de recherche virtuel interopérable à l'échelle européenne pour renforcer les communautés de recherche multidisciplinaires et accélérer l'innovation et la collaboration\)
+* [MuG](https://www.multiscalegenomics.eu/) - Génomique complexe multi-échelles
 
-* [West-Life](https://about.west-life.eu/network/west-life/west-life) - World-wide E-infrastructure for structural biology \(Infrastructure électronique mondiale pour la biologie structurale\)
+* [OpenDreamKit](http://opendreamkit.org/) - Boîte à outils de l'environnement de recherche numérique ouvert pour l'avancement des mathématiques
+
+* [BlueBRIDGE](http://www.bluebridge-vres.eu/) - Création d'environnements de recherche pour favoriser l'innovation, la prise de décision, la gouvernance et l'éducation pour soutenir la croissance bleue
+
+* [VRE4EIC](https://www.vre4eic.eu/) - Environnement virtuel de recherche interopérable à l'échelle européenne pour autonomiser les communautés de recherche multidisciplinaires et accélérer l'innovation et la collaboration
+
+* [West-Life](https://about.west-life.eu/network/west-life/west-life) - E-infrastructure mondiale pour la biologie structurale
 
 ![](/Images/Icons/datamining.png)
 
-Certaines bibliothèques offrent déjà des ERV personnalisés pour des projets spécifiques. Par exemple, la [bibliothèque de l'Université de Leiden](https://www.library.universiteitleiden.nl/research-and-publishing/collaboration-tools) offre des ERV pour tous les projets de plus de cinq personnes financés de l'extérieur.
+Certaines bibliothèques proposent déjà des EVR personnalisés pour des projets spécifiques. Par exemple, la bibliothèque de l'université de Leyde propose des EVR pour tous les projets associant plus de cinq personnes, financés par l'extérieur.
 
-Une plate-forme collaborative particulièrement importante dans le contexte de la science ouverte est le [Open Science Framework](https://osf.io/) \(OSF\). Basé sur des technologies open source et créé par l'organisme à but non lucratif [Center for Open Science](https://cos.io/), l'OSF se présente comme "un bien commun savant pour relier l'ensemble du cycle de recherche". L'OSF permet aux chercheurs de travailler sur des projets en privé avec un nombre limité de collaborateurs et de rendre public tout ou partie de leur projet. Il se connecte directement à de nombreux autres systèmes collaboratifs tels que Dropbox, GitHub et Google Docs, et peut être utilisé pour stocker et archiver des données, protocoles et documents de recherche.
+Une plateforme de collaboration particulièrement importante dans le contexte de la science ouverte est l'Open Science Framework (OSF). Basé sur des technologies à source ouverte et créé par le Center for Open Science, une organisation à but non lucratif, l'OSF se présente comme un "bien commun scientifique permettant de relier l'ensemble du cycle de recherche". L'OSF permet aux chercheurs de travailler sur des projets en privé avec un nombre limité de collaborateurs et de rendre une partie ou la totalité de leur projet public. L'OSF se connecte directement à de nombreux autres systèmes de collaboration tels que dropbox, GitHub et Google Docs, et peut être utilisé pour stocker et archiver des données, des protocoles et matériels de recherche.
 
-**Les plates-formes d'écriture collaboratives**
+**Plateformes d'écriture collaboratives**
 
-L'écriture est une tâche essentielle dans la vie des chercheurs, en particulier dans la culture de la recherche qui prédomine aujourd'hui, celle qui consiste à "publier ou à périr". Plusieurs outils et plates-formes en ligne permettent maintenant aux chercheurs de travailler ensemble sur des documents en temps réel et d'éviter ainsi le va-et-vient de l'envoi de documents Word par courriel. Les plates-formes comprennent [Overleaf](https://www.overleaf.com/), [Authorea](https://www.authorea.com/), [Fidus Writer](https://www.fiduswriter.org ShareLaTeX](https://www.sharelatex.com) et [Google Docs](https://www.google.com/docs). Notez que plusieurs de ces outils sont basés sur des technologies propriétaires et que certains nécessitent un paiement pour des fonctionnalités avancées.
+Dans la culture "publier ou périr" qui prédomine actuellement dans le monde de la recherche, écrire est une tâche essentielle dans la vie des chercheurs. Plusieurs outils et plateformes en ligne permettent désormais aux chercheurs de travailler ensemble sur des documents en temps réel, et d'éviter ainsi le va-et-vient de versions de documents Word par courrier électronique. Parmi ces plateformes, citons Overleaf, Authorea, Fidus Writer, ShareLaTeX et Google Docs. Notez que nombre de ces outils sont basés sur des technologies propriétaires et que certains nécessitent le paiement de fonctionnalités avancées.
 
-**Gestion des références et découverte**
+**Gestion et découverte des références**
 
-Il existe de nombreux outils qui permettent aux groupes de stocker et de gérer les références. Citons par exemple [Zotero](https://www.zotero.org/), [Citavi](http://www.citavi.com/) et [CiteUlike](http://www.citeulike.org/). [Mendeley](http://www.mendeley.com/) intègre un gestionnaire de référence partageable, ainsi qu'un réseau social et des outils de visualisation d'articles. Dans le même ordre d'idées, [BibSonomy](http://www.bibsonomy.org/) permet aux chercheurs de partager des signets et des listes de littérature.
+Il existe de nombreux outils permettant aux groupes de stocker et de gérer les références.
 
-**Annotation et revue**
+Citons par exemple Zotero, Citavi et CiteUlike. Mendeley intègre un gestionnaire de références partageables, ainsi qu'un réseau social et des outils de visualisation d'articles. De même, BibSonomy permet aux chercheurs de partager des signets et des listes de littérature.
 
-La puissance du Web permet de nouveaux modes de révision collaborative post-publication par le biais de services tels que [PubPeer](https://pubpeer.com/) et [Academic Karma](http://academickarma.org/), ainsi que des outils d'annotation comme [Hypothes.is](http://hypothes.is/) et [PaperHive](https://paperhive.org/).
+**Annotation et révision**
+
+La puissance du Web permet de nouveaux modes de révision collaborative post-publication grâce à des services comme PubPeer et Academic Karma, ainsi qu'à des outils d'annotation comme Hypothes.is et PaperHive.
 
 **Réseaux sociaux universitaires**
 
-Les chercheurs utilisent depuis longtemps le Web pour le réseautage social - soit par l'intermédiaire de réseaux sociaux grand public comme [Twitter](https://twitter.com/), [Facebook ](https://www.facebook.com/) et [Linkedin](https://www.linkedin.com/) ou de réseaux sociaux universitaires spécialisés comme [ResearchGate](https://www.researchgate.net/), [Academia.edu](http://www.academia.edu/) et [Loop](http://community.frontiersin.org/).
+Les chercheurs utilisent depuis longtemps le web pour collaborer via les réseaux sociaux, que ce soit via les réseaux sociaux grand public comme Twitter, Facebook et Linkedin ou les réseaux sociaux universitaires spécialisés comme [ResearchGate](https://www.researchgate.net/), [Academia.edu](http://www.academia.edu/) and [Loop](http://community.frontiersin.org/).
 
-## <img src="/Images/Icons/questions.png" width="150" height="150" />
-### Questions, obstacles et idées fausses courantes
+![](/Images/Icons/questions.png)
 
-Q : "Pourquoi devrais-je ajouter une autre couche de complexité à mon processus de collaboration ? Partager le fichier doc est suffisant !"
+### Questions, obstacles et idées fausses reçues 
 
-R : C'est incorrect ; bien qu'il puisse sembler que vous introduisiez des outils et des plates-formes supplémentaires dans votre approche de travail habituelle, ils résolvent en fait des problèmes de communication dont vous n'étiez probablement pas au courant en premier lieu. Par exemple, l'utilisation d'un fichier doc \(avec ou sans modifications de suivi\), ne montre que le niveau d'information le plus élevé et généralement seulement à la fin du processus scientifique entier. Travailler dans le contexte d'un environnement collaboratif, de la conception à la production de rapports, établit à la fois une communication claire et une provenance adéquate.
+Q: "Pourquoi devrais-je ajouter une autre couche de complexité à mon processus de collaboration? Partager le fichier doc est suffisant!"
 
-## <img src="/Images/Icons/output.png" width="150" height="150" />
-### Résultats d'apprentissage
+R: C'est inexact. Bien qu'il puisse vous sembler que vous introduisez des outils et des plateformes supplémentaires dans votre approche de travail habituelle, ils résolvent en fait des problèmes de communication dont vous n'étiez probablement pas conscient en premier lieu. Par exemple, l'utilisation d'un simple fichier doc (avec ou sans suivi des modifications) ne montre que le niveau d'informations le plus élevé et généralement uniquement à la fin de l'ensemble du processus scientifique. Travailler dans le contexte d'un environnement collaboratif, de la conception jusqu'au rapport, établit à la fois une communication claire et une provenance adéquate.
 
-1. Le chercheur se familiarisera avec la gamme d'options qui s'offrent à lui pour favoriser une plus grande collaboration dans la recherche.
+![](/Images/Icons/output.png)
 
-2. Après avoir décidé de ce qui fonctionne le mieux pour son flux de travail, le chercheur pourra utiliser des outils collaboratifs tels que GitHub et l'Open Science Framework pour une collaboration accrue pour le processus de recherche, la rédaction et le partage des résultats de vos recherches.
 
-3. Le chercheur pourra collaborer avec ses collègues pour rédiger des documents en collaboration, annoter des articles et partager cette discussion. 
+### Acquis de la formation 
 
-## <img src="/Images/Icons/magnifying_glass.png" width="150" height="150" />
-### Pour en savoir plus
+1. Le chercheur se familiarisera avec la gamme d'options disponibles en faveur d'une plus grande recherche collaborative.
 
+2. Après avoir décidé de ce qui fonctionne de manière optimale pour leur flux de travail, le chercheur pourra utiliser des outils collaboratifs tels que GitHub et Open Science Framework pour une collaboration accrue pour le processus de recherche, la rédaction / création et le partage de vos résultats de recherche.
+
+3. Le chercheur pourra collaborer avec des collègues pour rédiger des documents de manière collaborative, annoter des articles et partager la discussion.
+
+![](/Images/Icons/magnifying_glass.png)
+
+### Lectures complémentaires 
 * Candela et al. (2013). Virtual Research Environments: An Overview and a Research Agenda. Data Science Journal. 12, pp.GRDI75–GRDI81. [doi.org/10.2481/dsj.GRDI-013](http://doi.org/10.2481/dsj.GRDI-013)
 
 * Open Science Framework. The promise of Open Science collaboration. [osf.io](https://osf.io/vmrgu/wiki/home/)

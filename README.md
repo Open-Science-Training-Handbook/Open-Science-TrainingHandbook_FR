@@ -1,54 +1,91 @@
 ![](/Images/Icons/balloon_thought.png) <img src="/Images/Icons/planning_design.png" width="200" height="200" />
-## The Open Science Training Handbook
 
-Un groupe de quatorze auteurs s'est réuni en février 2018 à la TIB \(Bibliothèque nationale allemande des sciences et technologies\) à Hanovre pour créer un manuel ouvert et vivant sur la formation scientifique ouverte. Des formations de haute qualité sont fondamentales lorsqu'il s'agit d'opérer un changement culturel vers la mise en œuvre des principes de la science ouverte. Les ressources d'enseignement fournissent un grand soutien aux instructeurs et aux formateurs de la science ouverte. Le manuel de formation sur la science ouverte sera une ressource clé et un premier pas vers l'élaboration de programmes d'études et d'andragogies sur le libre accès et la science ouverte. En soutenant et en mettant en relation une nouvelle communauté scientifique ouverte qui souhaite transmettre ses connaissances en tant que multiplicateurs, le manuel enrichira les activités de formation et permettra à la communauté de réaliser son plein potentiel.
+## Dans les coulisses de la version française : le sprint en ligne 2020
 
-Partageant leur expérience et leurs compétences en matière de transmission des principes de la science ouverte, les auteurs \(voir[ci-dessous](#the-authors-and-the-book-sprint-facilitators)\) ont produit une ressource pédagogique et des connaissances ouvertes axée sur l'enseignement pratique. L'objectif du nouveau manuel n'est pas de diffuser les idées de l'Open Science, mais de montrer **comment** diffuser ces idées le plus efficacement possible. La forme d'un sprint de livre comme processus d'écriture collaborative a maximisé la créativité et l'innovation, et a assuré la production d'une ressource précieuse en quelques jours seulement.
+Le sprint a été financé par le [Comité pour la science ouverte](https://www.ouvrirlascience.fr/) et la Mission de la pédagogie et du numérique pour l'enseignement supérieur (Mipnes) et est soutenu par Foster Open Science.
 
-Rassemblant des méthodes, des techniques et des pratiques, le manuel vise à soutenir les éducateurs de la science ouverte. Le résultat se veut un guide utile sur la façon de transmettre les connaissances sur les principes de la science ouverte à nos réseaux, établissements, collègues et étudiants. Il instruira et inspirera les formateurs sur la façon de créer des formations de haute qualité et engageantes. En relevant les défis et en apportant des solutions, il renforcera la communauté des formateurs de l'Open Science qui s'éduquent, s'informent et s'inspirent.
+Les passages du manuel déjà traduits en français par l'association HackYourResearch ont été mis à disposition des sprinters.
 
-## Aidez-nous à améliorer ce manuel
 
-Nous vous invitons à nous faire part de vos commentaires et de vos réactions, peu importe votre expertise ou votre cursus. La façon la plus simple de le faire est de laisser un commentaire[ici même](https://book.fosteropenscience.eu/) en cliquant sur n'importe quel paragraphe avec le pointeur de votre souris et en cliquant sur le signe plus qui apparaît à côté de ce paragraphe. Si cela ne fonctionne pas pour vous, vous pouvez envisager d'utiliser[hypothes.is] (https://via.hypothes.is/https://open-science-training-handbook.gitbook.io/book). De plus, vous pouvez créer des pull requests, soit à partir du site Web ou de l'application Gitbook, soit avec n'importe quel outil de votre choix. Le contenu du manuel est maintenu en tant que[ce dépôt GitHub](https://github.com/Open-Science-Training-Handbook).
+Le 26 juin 2020 s'est déroulé le sprint traduction en ligne du manuel de formateurs [*[Open Science Training Handbook]*](https://github.com/Open-Science-Training-Handbook)[[, de Foster Open Science]](https://github.com/Open-Science-Training-Handbook), lui-même issu d'un book sprint organisé en 2018. Les sprinters ont traduit en français l'intégralité de l'ouvrage en une journée, grâce au soutien de Gisèle Massol, traductrice professionnelle et d'Elisa de Castro Guerra, facilitatrice du sprint.
 
-## Organisons ensemble une formation Open Science
+En binôme ou en trio, les sprinters ont travaillé à distance depuis différentes villes de France et même du Royaume-Uni.
 
-Êtes-vous intéressé(e) à animer ou à participer à des formations ou à des webinaires qui utilisent le Manuel de formation scientifique ouverte ? N'hésitez pas à nous contacter à [elearning@fosteropenscience.eu](mailto:elearning@fosteropenscience.eu) - nous espérons avoir de vos nouvelles.
+Le défi du sprint se redoublait d'une gageure en termes d'organisation : comment faire collaborer à distance une vingtaine de personnes qui ne se connaissent pas ? Comment tenir la contrainte de temps imposée par le format du sprint tout en offrant aux participants un cadre de travail convivial et stimulant ?
+
+Le sprint devait initialement se tenir dans deux centres de traduction qui auraient travaillé en parallèle la même journée : l'un était basé à Paris et était coordonné par l'association HackYourResearch, l'autre était installé à Bordeaux et coordonné par l'Unité régionale de formation à l'information scientifique et technique (Urfist).
+
+Le contexte sanitaire lié à la crise de la Covid-19 ayant rendu caduques ces modalités, la facilitatrice, la traductrice et la conservatrice de l'Urfist de Bordeaux ont donc conçu une organisation fondée sur 3 principes :
+
+-   les outils s'utilisent sans formation préalable : les sprinters ont travaillé avec des documents texte collaboratifs comportant des renvois vers les passages précis à traduire plutôt que directement dans un entrepôt GitHub.
+
+-   le sprint est l'opportunité de découvrir l'ensemble du manuel : plutôt que de répartir les textes selon un découpage linéaire, la traductrice a conçu des lots comportant des passages issus de différents chapitres du manuel. Chaque équipe de sprinteurs a ainsi pu traduire un chapitre relatif aux concepts-clés de la science ouverte, un autre sur les aspects organisationnels de la formation et une série d'exercices. L'introduction et le glossaire avaient été traduits et fournis aux participants avant le sprint.
+
+-   la communication est adaptable à différentes échelles de travail : la journée a été jalonnée par des séances de visioconférence en plénière, programmées à l'avance. Le déroulé du sprint avait été transmis aux participants en amont. Chaque équipe de sprinters disposait d'un salon en ligne de visioconférence qui lui était propre, en plus de celui dédié aux plénières. Les échanges devant rester publics pour faciliter la collaboration, les propositions étaient faites par commentaires interposés dans les documents. Dès qu'un commentaire était saisi, les organisatrices le recevaient sous forme de notification et pouvaient identifier les questions leur revenant. Les échanges se sont aussi tenus par téléphone : les équipes pouvaient à tout moment joindre la facilitatrice et la traductrice.
+
+Enfin, pour maintenir le suspense, la composition des équipes et les contenus des lots ont été annoncés le jour même.
+
+
+## Le Manuel de Formation à la Science Ouverte
+
+Un groupe de quatorze auteurs s'est réuni en février 2018 au TIB (la bibliothèque nationale allemande des sciences et technologies) à Hanovre afin de créer un manuel ouvert et vivant de formation à la science ouverte. Des formations de haut niveau de qualité sont fondamentales lorsqu'on vise un changement culturel tendant à la mise en œuvre des principes de la science ouverte. Disposer de ressources pédagogiques est essentiel pour les instructeurs et formateurs en science ouverte*. Le Manuel de* *formation à la* *science* *ouverte* constituera une ressource clé et un premier pas vers le développement de contenus de formations et d'approches andragogiques sur les thèmes du libre accès et de la science ouverte. En soutenant et en mettant en relation une communauté émergente adepte de la science ouverte et désireuse de transmettre ses connaissances en tant qu'ambassadeurs de celle-ci, le manuel contribuera à enrichir les activités de formation et à libérer le plein potentiel de la communauté.
+
+En partageant leur expérience et leurs compétences en matière de transmission des principes de la science ouverte, les auteurs (voir [ci-dessous] {#les-auteurs-et-facilitateurs-du-sprint-de-rédaction-du-manuel} ont produit de la connaissance ouverte et une ressource pédagogique destinée à un enseignement pratique. L'objet de ce nouveau manuel n'est pas de diffuser les principes de la science ouverte, mais de montrer **comment** les diffuser le plus efficacement possible. La formule du sprint de rédaction d'un livre en tant que processus d'écriture collaborative a maximisé la créativité et l'innovation, et a permis la production d'une ressource précieuse, en seulement quelques jours.
+
+Rassemblant des méthodes, techniques et pratiques, le manuel vise à accompagner les éducateurs en science ouverte. L'ouvrage final est conçu comme un guide pratique sur la façon de transmettre les connaissances relatives aux principes de la science ouverte à nos réseaux, institutions, collègues et étudiants. Il instruira et inspirera les formateurs sur la manière de créer des formations attrayantes et de grande qualité. En abordant les défis et en proposant des solutions, le manuel renforcera la communauté des formateurs en science ouverte dans leur propre démarche de formation, d'information et de recherche d'inspiration.
+
+
+## Aidez-nous à améliorer le manuel
+
+Les commentaires et les réactions de tous sont les bienvenus, quels que soient votre niveau d'expertise ou votre expérience. Le moyen le plus simple pour cela est d'utiliser hypothes.is. Vous pouvez également générer des requêtes à partir du site internet ou de l'application gitbook, soit à l'aide de tout autre outil de votre choix. Le contenu du manuel est conservé, comme ce dépôt GitHub est disponible à l'adresse https://github.com/Open-Science-Training-Handbook/Open-Science-TrainingHandbook_FR .
+
+
+## Organisons une formation à la science ouverte ensemble 
+
+Vous souhaitez organiser une formation, participer à des formations ou à des webinaires en utilisant *Le Manuel de* *formation à la* *science* *ouverte* ? Contactez-nous à l'adresse [elearning@fosteropenscience.eu](mailto:elearning@fosteropenscience.eu) - Nous serons ravis d'avoir de vos nouvelles.
+
 
 ## <img src="/Images/Icons/research_group.png" width="150" height="150" />
 
-## Comment citer le manuel
+## Comment faire référence au manuel ? 
 
-Veuillez songer à citer le manuel lorsque vous utilisez le contenu. Pour citer le livre, nous vous recommandons soit de vous référer à 
+N'oubliez pas de citer le manuel lorsque vous en utilisez le contenu. Pour citer le livre, nous vous recommandons de vous référer soit à :
 
-* https://book.fosteropenscience.eu/, qui est la façon la plus conviviale de lire le livre (également disponible en [PDF](https://legacy.gitbook.com/download/pdf/book/open-science-training-handbook/book), [ePub](https://legacy.gitbook.com/download/epub/book/open-science-training-handbook/book) et [Mobi](https://legacy.gitbook.com/download/mobi/book/open-science-training-handbook/book)), de commenter et de suggérer des changements, _ou_ 
+* https://book.fosteropenscience.eu/, la façon la plus conviviale de lire le livre (également disponible en formats [PDF](https://book.fosteropenscience.eu/en/book.pdf) et [ePub](https://book.fosteropenscience.eu/en/book.epub)), de faire des commentaires et de suggérer des modifications, *ou*
 
-* https://doi.org/10.5281/zenodo.1212496, qui est un DOI se référant à un dump archivé (difficilement compréhensible) du livre.
+* https://doi.org/10.5281/zenodo.1212496,, un DOI citable se référant à un chargement archivé (difficilement compréhensible) du livre.
 
-## Les auteurs et les facilitateurs du sprint de livre
+* Si vous recherchez d'autres langues ou formats, vous pouvez vous rendre sur le portail Foster, auquel sont reliés tous les éléments de [cette page](https://www.fosteropenscience.eu/content/open-science-training-handbook).
 
-Pour en savoir plus sur les auteurs et les animateurs du sprint, leurs expériences et leur inspiration, ainsi que leur affiliation, leurs coordonnées, leurs profils Twitter et ORCID, consultez le [dernier chapitre du manuel] (./08AboutTheAuthorsAndFacilitators).
+
+## Les auteurs et facilitateurs du sprint de rédaction du manuel 
+
+Si vous souhaitez en savoir davantage sur les auteurs et les facilitateurs du sprint de rédaction du livre, leur expérience, leur inspiration, ainsi que leur affiliation, leurs coordonnées de contact, profils Twitter et ORCID, consultez le dernier chapitre du manuel.
 
 ## <img src="/Images/Icons/heart.png" width="150" height="150" />
 
-## Remerciements à
 
-* Gwen Franck \(EIFL, Belgique\) pour avoir couvert le sprint du livre sur les médias sociaux et pour nous avoir motivé avec  avec des _energizers_
+## Merci à  
 
-* Patrick Hochstenbach \(Université de Gent, Belgique\) pour avoir dessiné les superbes BDs et images
+* Gwen Franck (EIFL, Belgique) pour la couverture qu'elle a assuré sur les réseaux sociaux pendant le sprint de rédaction du livre, pour nous avoir motivés et dynamisés
 
-* Vasso Kalaitzi \(LIBER, Pays-Bas\) pour l'enregistrement des très belles vidéos
+* Patrick Hochstenbach (Université de Gand, Belgique) pour ses superbes dessins et illustrations
 
-* Matteo Cancellieri \(Open University, Grande-Bretagne\) pour nous avoir aidé à résoudre tous les problèmes techniques et à créer le gitbook
+* Vasso Kalaitzi (LIBER, Pays-Bas) pour avoir tourné de très belles vidéos
 
-* Simon Worthington \(TIB, Hannovre, Allemagne\) pour avoir fourni des conseils sur la tenue à jour et la conversion des métadonnées bibliographiques 
+* Matteo Cancellieri (Open University, Royaume-Uni) pour son soutien sur les questions techniques et la création du gitbook
 
-## Déclaration de droits d'auteur
+* Simon Worthington (TIB, Hanovre, Allemagne) pour ses conseils sur le maintien et la conversion des métadonnées bibliographiques.
 
-L'Open Science Training Handbook est une ressource pédagogique ouverte, et est donc disponible sous la licence [Creative Commons Public Domain Dedication \(CC0 1.0 Universal\)](https://creativecommons.org/publicdomain/zero/1.0/). Vous n'avez pas besoin de nous demander la permission de réutiliser et de copier les informations contenues dans ce manuel. Prenez note que certains des documents mentionnés dans ce livre pourraient être protégés par le droit d'auteur - si c'est le cas, cela sera indiqué dans le texte. 
+## Déclaration de droits d'auteur {
 
-Nous avons essayé d'indiquer toutes nos sources. Si, pour une raison quelconque, nous avons oublié de vous fournir les crédits appropriés, cela n'a pas été fait avec une intention malveillante. N'hésitez pas à nous contacter à l'adresse [elearning@fosteropenscience.eu](mailto:elearning@fosteropenscience.eu) pour toute correction.
+*Le Manuel de formation à la science ouverte* est une ressource éducative ouverte et est par conséquent disponible selon les termes du [Creative Commons Public Domain Dedication (CC0 1.0 Universal)](https://creativecommons.org/publicdomain/zero/1.0/). Vous n'avez pas à nous demander la permission pour réutiliser et copier les informations contenues dans ce manuel.
 
-## Financement
+Veuillez noter toutefois que certains outils référencés dans ce livre sont protégés par des droits d'auteur. Si tel est le cas, cela sera indiqué dans le texte.
 
-Ce projet a été financé par le programme de recherche et d'innovation Horizon 2020 de l'Union européenne dans le cadre de la convention de subvention n° 741839.
+Nous nous sommes efforcés de citer toutes nos sources. Si, pour une raison quelconque, nous avons oublié de vous fournir les crédits appropriés, cela n'a pas été fait avec une intention malveillante. N'hésitez pas à nous contacter à l'adresse :  [elearning@fosteropenscience.eu](mailto:elearning@fosteropenscience.eu) pour toute correction.
+
+## Financement 
+
+Ce projet a reçu un financement de l'Union Européenne dans le cadre du programme de recherche et d'innovation Horizon 2020. Convention de financement N° 741839.
+

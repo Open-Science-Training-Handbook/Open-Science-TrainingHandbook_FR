@@ -1,7 +1,10 @@
-## <img src="/Images/Icons/public.png" width="200" height="200" /> <img src="/Images/Icons/handson.png" width="200" height="200" />
-# About the authors & facilitators
 
-## Authors at the sprint event
+![](/Images/Icons/public.png)
+![](/Images/Icons/handson.png)
+
+# À propos des auteurs & facilitateurs
+
+## Les auteurs lors du sprint de rédaction
 
 ### Sonja Bezjak
 
@@ -11,9 +14,9 @@
 
 [![Video - Writing the Open Science Training Handbook - an author's perspective by Sonja Bezjak](http://img.youtube.com/vi/qygm7Byc9eA/0.jpg)](http://www.youtube.com/watch?v=qygm7Byc9eA "Writing the Open Science Training Handbook - an author's perspective by Sonja Bezjak")
 
-In the Social Science Data Archives I am primarily engaged with issues related to open access to research data. One of my roles is to train different stakeholders on research data policy, research data management planning, data citation, data publications etc. As a member of CESSDA ERIC training group I try to share my knowledge and experience internationally.
+Au service Archives de données des sciences sociales, je m'occupe principalement des questions liées au libre accès aux données de recherche. L'un de mes rôles est de former les différents intervenants à la politique des données de recherche, la planification de la gestion des données de recherche, la citation des données, les publications de données, etc. En tant que membre du groupe de formation ERIC du CESSDA, j'essaie de partager mes connaissances et mon expérience au niveau international.
 
-I was taught about scientific values, including transparency and reproducibility while studying sociology. But only later from my friends, a physicist and an engineer, I learnt about the Open Source movement. I immediately understood the importance of spreading the idea of not hiding your findings and sharing your knowledge with others as soon as possible. Only when I started to work at the Social Science Data Archives \(University of Ljubljana, Slovenia\) and became heavily involved in the Open data project I realized how much effort was needed to change the culture and to be able to get over the barriers of not openly sharing research outputs. I hope this handbook will help in making science as open and understandable as possible.
+J'ai été formée aux valeurs scientifiques, notamment la transparence et la reproductibilité, tout en étudiant la sociologie. Mais ce n'est que plus tard, grâce à des amis, un physicien et un ingénieur, que j'ai appris l'existence du mouvement Accès ouvert. J'ai immédiatement compris l'importance de diffuser l'idée de ne pas cacher ses découvertes et de partager ses connaissances avec les autres dès que possible. Ce n'est que lorsque j'ai commencé à travailler aux Archives de données des sciences sociales à l'Université de Ljubljana, Slovénie et que je me suis fortement impliquée dans le projet Données ouvertes, que j'ai réalisé à quel point il était essentiel de faire des efforts pour changer de culture et pouvoir surmonter les obstacles liés au non-partage ouvert des résultats de la recherche. J'espère que ce manuel contribuera à rendre la science aussi ouverte et compréhensible que possible.
 
 ### Philipp Conzett
 
@@ -22,11 +25,12 @@ I was taught about scientific values, including transparency and reproducibility
 * [@philippconzett](https://twitter.com/philippconzett)
 * [0000-0002-6754-7911](https://orcid.org/0000-0002-6754-7911)
 
-Trained as a linguist, I only had a vague understanding of Open Science when I started to work as a research librarian at UiT The Arctic University of Norway back in 2014. Luckily, I soon was involved in developing and running research support services, including repositories for open research data, starting with a discipline-specific one \(TROLLing\), then an institutional one \(UiT Open Research Data\), and finally a nationwide one \(DataverseNO\). Participating in the Open Science book sprint has been a fruitful contribution to my training competence.
+Linguiste de formation, je n'avais qu'une vague compréhension de la science ouverte lorsque j'ai commencé à travailler comme bibliothécaire de recherche à l'UiT, l'Université Arctique de Norvège, en 2014. Heureusement, j'ai rapidement participé au développement et à la gestion de services d'appui à la recherche, notamment les dépôts de données de recherche ouverte, en commençant par un dépôt spécifique à la discipline (TROLLing), puis un dépôt institutionnel (UiT Open Research Data) et enfin un dépôt national (DataverseNO). Participer au sprint de rédaction du manuel Open Science a été une contribution enrichissante pour mes compétences en matière de formation.
 
-There are two major pitfalls for Open Science trainers, as I see it. One, novice trainers may feel so overwhelmed by the topics to cover, and the available resources that they don’t get started. Two, experienced trainers promoting Open Science may turn their efforts too much into a movement only accessible for the initiated. I hope this book can help to overcome both obstacles.
+Selon moi, les formateurs en science ouverte sont confrontés à deux grands écueils : Premièrement, les formateurs novices peuvent se sentir tellement dépassés par les sujets à couvrir et les ressources disponibles qu'ils ne se lancent pas. Deuxièmement, les formateurs expérimentés qui assurent la promotion de la science ouverte peuvent en faire trop, au risque de la transformer en un mouvement uniquement accessible aux initiés. J'espère que ce livre pourra aider à surmonter ces deux obstacles.
 
-### Pedro L. Fernandes
+
+### Pedro L. Fernandes 
 
 * Instituto Gulbenkian de Ciência, Portugal
 * [pfern@igc.gulbenkian.pt](mailto:pfern@igc.gulbenkian.pt)
@@ -35,11 +39,11 @@ There are two major pitfalls for Open Science trainers, as I see it. One, novice
 
 [![Video - Writing the Open Science Training Handbook - an author's perspective by Pedro Fernandes](http://img.youtube.com/vi/r9k729JROEE/0.jpg)](http://www.youtube.com/watch?v=r9k729JROEE "Writing the Open Science Training Handbook - an author's perspective by Pedro Fernandes")
 
-I run a training program in Bioinformatics at the Instituto Gulbenkian de Ciência, in Oeiras, PT since 1999. More than 5000 course participants in 19 years. Extending this activity with distance and e-learning, to better reach for 21st century learners.  I am an advocate of Open Access, Open Data, Open Source and Open Science that takes any possible chance to put these causes through via training. I am conscious that this movement needs to scale-up and reach for non-scientists as well, so I am very interested in its amplification and diffusion.
+Je dirige un programme de formation en bio-informatique à l'Instituto Gulbenkian de Ciência, à Oeiras, Portugal, depuis 1999. Cela présente plus de 5000 participants en 19 ans. J'ai étendu cette activité à la formation à distance et en ligne pour mieux atteindre les apprenants du XXIe siècle. Je suis un fervent défenseur de l'accès ouvert, des données ouvertes, des sources ouvertes et de la science ouverte et je saisis toutes les occasions possibles pour promouvoir ces causes par la formation. Je suis conscient que ce mouvement doit monter en puissance pour atteindre également les non-scientifiques ; c'est pourquoi je suis très intéressé par son amplification et sa diffusion.
 
-Open Science is an attitude that requires a large but feasible education step. Advocates like me need to join forces and make it happen every day. Training in Open Science is needed at a wide range of levels. To address the entry level, together with Rutger A.Vos, we prepared the free e-book "Open Science, Open Data, Open Source" in 2017 \([http://osodos.org](http://osodos.org)\). More advocacy and training to come.
+La Science Ouverte est une attitude qui nécessite une étape d'éducation importante, mais réalisable. Ses défenseurs comme moi doivent unir leurs forces et faire en sorte que cela se produise chaque jour. Une formation en science ouverte est nécessaire à de nombreux niveaux. Pour répondre aux besoins au niveau seuil, Rutger A.Vos et moi avons conçu le livre électronique gratuit "Open Science, Open Data, Open Source" en 2017 ([http://osodos.org](http://osodos.org/)). D'autres actions de sensibilisation et de formation sont au programme.
 
-### Edit Görögh
+### Edit Görögh 
 
 * University of Göttingen, Germany
 * [goeroegh@sub.uni-goettingen.de](mailto:goeroegh@sub.uni-goettingen.de)
@@ -48,11 +52,13 @@ Open Science is an attitude that requires a large but feasible education step. A
 
 [![Video - Writing the Open Science Training Handbook - an author's perspective by Edit Görögh](http://img.youtube.com/vi/4OOSU4V__RQ/0.jpg)](http://www.youtube.com/watch?v=4OOSU4V__RQ "Writing the Open Science Training Handbook - an author's perspective by Edit Görögh")
 
-I am currently working at the University of Göttingen as a project officer for OpenUP, an EU funded project which aims at developing a cohesive framework for new methods, indicators and tools for peer review, dissemination of research results, and impact measurement. I have been in involved in knowledge management and open science/access related programs for more than 10 years.
+Je travaille actuellement à l'Université de Göttingen en tant que responsable de projet pour OpenUP, un projet financé par l'UE qui vise à développer un cadre de cohésion pour de nouvelles méthodes, de nouveaux indicateurs et outils pour l'évaluation par les pairs, la diffusion des résultats de la recherche et la mesure de l'impact. Je suis impliquée dans la gestion des connaissances et les programmes liés à la science ouverte et à l'accès à la science depuis plus de 10 ans.
 
-Working for Open Science projects, I had the chance to get acquainted with both the diverse community of Open Science advocates and the reluctant, skeptical groups of researchers and decision makers, which both urged me to get more immersed in the Open Science discourse and follow developments and learn about the tools and methods to speak effectively about the benefits and challenges we face in the changing world of research communications.
+En travaillant pour des projets de science ouverte, j'ai eu la chance de faire connaissance à la fois avec la communauté diversifiée des défenseurs de la science ouverte et avec des groupes de chercheurs et de décideurs réticents et sceptiques, qui m'ont tous deux incitée à m'immerger davantage dans le discours de la science ouverte, à en suivre les développements et à me former aux outils et les méthodes permettant de parler efficacement des avantages et des défis auxquels nous sommes confrontés dans le monde changeant de la communication de la recherche.
 
-### Kerstin Helbig
+
+### Kerstin Helbig 
+
 
 * Humboldt-Universität zu Berlin, Germany
 * [kerstin.helbig@cms.hu-berlin.de](mailto:kerstin.helbig@cms.hu-berlin.de)
@@ -61,22 +67,22 @@ Working for Open Science projects, I had the chance to get acquainted with both 
 
 [![Video - Writing the Open Science Training Handbook - an author's perspective by Kerstin Helbig](http://img.youtube.com/vi/uC02v5JuTlo/0.jpg)](http://www.youtube.com/watch?v=uC02v5JuTlo "Writing the Open Science Training Handbook - an author's perspective by Kerstin Helbig")
 
-I am research data management coordinator at Humboldt-Universität zu Berlin, Germany. In my consultative capacity, I assist researchers in the management of their research data and organize training as well as information sessions.
+Je suis coordinatrice de la gestion des données de recherche à l'Université Humboldt de Berlin, en Allemagne. En ma qualité de conseillère, j'aide les chercheurs à gérer leurs données de recherche et j'organise des formations ainsi que des réunions d'information.
 
-For me the biggest challenge with open science training is to show researchers that open science is more than a political aim or a moral responsibility. It is essential to show that there are levels of open science. One can start with a little step without having to open up completely from one day to another. In my trainings, I especially like the mix of backgrounds, disciplines and prior knowledge. They make the training all the more interesting. I remember one training course in particular: one participant \(a professor\) registered an ORCID on the spot while I was talking about the advantages of persistent identifiers.
+Pour moi, le plus grand défi de la formation en science ouverte est de montrer aux chercheurs que la science ouverte est plus qu'un objectif politique ou une responsabilité morale. Il est essentiel de leur montrer qu'il existe plusieurs niveaux de science ouverte. On peut commencer par un petit pas sans avoir à « s'ouvrir » complètement du jour au lendemain. Dans mes formations, j'aime particulièrement le mélange des expériences individuelles, des disciplines et des connaissances préalables. C'est ce qui rend la formation d'autant plus intéressante. Je me souviens d'un stage en particulier : un participant (un professeur) a enregistré un ORCID pendant la session, alors que je présentais les avantages des identifiants persistants.
 
-### Bianca Kramer
+### Bianca Kramer 
 
 * Utrecht University, Netherlands
 * [b.m.r.kramer@uu.nl](mailto:b.m.r.kramer@uu.nl)
 * [@MsPhelps](https://twitter.com/MsPhelps)
 * [0000-0002-5965-6560](https://orcid.org/0000-0002-5965-6560)
 
-By day, I am a librarian for life sciences and medicine. My after hours project is [101 Innovations in Scholarly Communication](https://101innovations.wordpress.com) together with Jeroen Bosman. We do research, training and advocacy on open science, to make research more relevant, robust and equitable. 
+La journée, je suis bibliothécaire en sciences de la vie et médecine. Après le travail, je me consacre au projet [101 Innovations in Scholarly Communication](https://101innovations.wordpress.com/) (101 innovations en communication scientifique) en collaboration avec Jeroen Bosman. Nous faisons de la recherche, de la formation et la promotion de la science ouverte, afin de rendre la recherche plus pertinente, plus fiable et plus équitable.
 
-Training in open science is rewarding because it is not just about teaching people new skills, it's about discussing fundamental concepts and exchanging different viewpoints and opinions. As a participant in one of our courses said: 'I came to learn practical things to apply in my research, but I discovered I am now part of a movement'. To me, a successful training should be interactive and hands-on, to  encourage people to explore and challenge their perceptions. That includes my own role as a trainer: always be open to try new things and learn from the people participating in your training.   
+Former à la science ouverte est enrichissant, car il ne s'agit pas seulement d'enseigner de nouvelles compétences aux personnes, mais également de débattre de concepts fondamentaux et d'échanger différents points de vue et opinions. Comme l'a dit un participant à l'un de nos stages : "Je suis venu pour acquérir des connaissances pratiques à appliquer dans ma recherche, mais j'ai découvert que je fais maintenant partie d'un mouvement". Pour moi, une formation réussie doit être interactive et pratique, afin d'encourager les apprenants à explorer de nouvelles voies et à remettre en question leurs perceptions. Cela s'applique aussi à mon propre rôle de formatrice : Avoir toujours l'esprit ouvert pour essayer de nouvelles choses et apprendre des personnes qui participent à ma formation.
 
-### Ignasi Labastida
+### Ignasi Labastida 
 
 * Universitat de Barcelona, Catalonia
 * [ilabastida@ub.edu](mailto:ilabastida@ub.edu)
@@ -85,11 +91,11 @@ Training in open science is rewarding because it is not just about teaching peop
 
 [![Video - Writing the Open Science Training Handbook - an author's perspective by Ignasi Labastida](http://img.youtube.com/vi/VTGYlyTnBFg/0.jpg)](http://www.youtube.com/watch?v=VTGYlyTnBFg "Writing the Open Science Training Handbook - an author's perspective by Ignasi Labastida")
 
-PhD in Physics, Universitat de Barcelona (UB), 2000. Now, devoted to openness: Head of the [Office for the Dissemination of Knowledge](http://crai.ub.edu/en/crai-services/intellectual-property) at the CRAI of the UB and public leader of Creative Commons in Spain since its beginning in 2003.
+Docteur en physique de l'Université de Barcelone (UB), 2000. Se consacre désormais à la science ouverte en tant que Chef du Bureau de diffusion des connaissances au CRAI de l'UB et leader public des Creative Commons en Espagne depuis leurs débuts en 2003.
 
-I hope in the near future there will be no need to train about open science because those practices, now described here, will be the default ones. There will be no need to attach the open tag anymore, and researchers would need to justify why they close some of their results or activities. I think this book may help to achieve this situation by showing a lot of robust examples and viable cases to perform research openly.
+« J'espère que dans un avenir proche, il ne sera plus nécessaire de se former à la science ouverte, car les pratiques qui sont décrites ici, seront les pratiques par défaut. Il ne sera plus nécessaire d'attacher l'étiquette "open" sur les outils et les chercheurs devront justifier pourquoi ils verrouillent certains de leurs résultats ou activités. Je pense que ce livre peut aider à parvenir à cette situation en montrant beaucoup d'exemples solides et de cas viables pour effectuer des recherches de manière ouverte. »
 
-### Kyle Niemeyer
+### Kyle Niemeyer 
 
 * Oregon State University, USA
 * [kyle.niemeyer@oregonstate.edu](mailto:kyle.niemeyer@oregonstate.edu)
@@ -98,11 +104,11 @@ I hope in the near future there will be no need to train about open science beca
 
 [![Writing the Open Science Training Handbook - an author's perspective by Kyle Niemeyer](http://img.youtube.com/vi/93CERDH4Lq0/0.jpg)](http://www.youtube.com/watch?v=93CERDH4Lq0 "Writing the Open Science Training Handbook - an author's perspective by Kyle Niemeyer")
 
-I am an Assistant Professor of Mechanical Engineering at Oregon State University in Corvallis, Oregon, USA. My research group studies combustion and fluid flows using computer simulations, and develop numerical methods and parallel computing strategies. Open science advocate!
+Je suis professeur assistant en Génie mécanique à l'Université de l'Orégon à Corvallis, Oregon, États-Unis. Mon groupe de recherche étudie la combustion et les flux de fluides à l'aide de simulations informatiques et développe des méthodes numériques et des stratégies de calcul parallèle. Je suis un farouche défenseur de la science ouverte !
 
-As a graduate student, I frequently faced roadblocks in my research due to software not being shared openly; now, as the leader of a research group, my students and I face data availability and formatting challenges when working with results in the literature. However, simply showing others how easy it can be to share research products openly can be enough to catalyze change, as can leading by example.
+Lorsque j'étais étudiant de troisième cycle, je me suis souvent heurté à des obstacles dans mes recherches en raison de logiciels qui n'étaient pas partagés avec des codes ouverts. Aujourd'hui, en tant que chef d'un groupe de recherche, mes étudiants et moi sommes confrontés à des problèmes de disponibilité et de formatage des données lorsque nous travaillons sur des résultats issus de la littérature. Cependant, le simple fait de montrer aux autres combien il est facile de partager ouvertement les résultats de sa recherche peut suffire à accélérer le changement, tout comme le fait de montrer l'exemple.
 
-### Fotis Psomopoulos
+### Fotis Psomopoulos 
 
 * Center for Research and Technology Hellas, Greece
 * [fpsom@issel.ee.auth.gr](mailto:fpsom@issel.ee.auth.gr)
@@ -111,22 +117,23 @@ As a graduate student, I frequently faced roadblocks in my research due to softw
 
 [![Video - Writing the Open Science Training Handbook - an author's perspective by Fotis Psomopoulos](http://img.youtube.com/vi/_uNxt3rUlSY/0.jpg)](http://www.youtube.com/watch?v=_uNxt3rUlSY "Writing the Open Science Training Handbook - an author's perspective by Fotis Psomopoulos")
 
-Fotis is a Bioinformatician at the Institute of Applied Biosciences \(INAB\|CERTH\) in Thessaloniki, Greece. He was awarded his PhD in Electrical and Computer Engineering in 2010 with a focus on Bioinformatics and e-infrastructures, and a particular appreciation to open and reproducible methods. He spends significant time in training activities, both within formal academic structures as well as through the Carpentries as a certified Instructor and Trainer. He rambles about bits and pieces on his website.
+Fotis est bio-informaticien à l'Institut des Biosciences Appliquées (INAB|CERTH) de Thessalonique, en Grèce. Il a obtenu son doctorat en génie électrique et informatique en 2010, avec une spécialisation en bio-informatique et en infrastructures électroniques, avec une mention particulière sur les méthodes ouvertes et reproductibles. Il consacre une grande partie de son temps à des activités de formation, tant au sein de structures universitaires formelles qu'au sein des *Charpenteries* en tant qu'instructeur et formateur certifié. Il est toujours à naviguer entre les outils sur son site internet.
 
-Convincing people that spending the extra time to put together a Jupyter notebook with all the text, notes, scripts and data currently stored in various "dusty" and forgotten folders on their computer, will actually help them become a bit more organized. \#smallvictories \#reproducibility
+Parmi ses missions : Convaincre les gens que passer le temps supplémentaire nécessaire à assembler un carnet Jupyter avec tous les textes, notes, scripts et données actuellement stockés dans divers dossiers "poussiéreux" et oubliés sur leur ordinateur, les aidera en fait à devenir un peu plus organisés. #petitesvictoires #reproductibilité
 
-### Tony Ross-Hellauer
+### Tony Ross-Hellauer 
 
 * Know-Center GmbH, Austria
 * [tross@know-center.at](mailto:tross@know-center.at)
 * [@tonyR\_H](https://twitter.com/tonyR_H)
 * [0000-0003-4470-7027](https://orcid.org/0000-0003-4470-7027)
 
-Tony Ross-Hellauer is Senior Researcher \(Open Science\) at Know-Center, Graz, Austria. He has a PhD in Information Studies \(University of Glasgow, 2012\) and is an enthusiastic advocate of Open Access and Open Science whose research interests include peer review, metadata, and the philosophy/history of technology.
+Tony Ross-Hellauer est chercheur principal en sciences ouvertes au Know-Center de Graz, en Autriche. Il est titulaire d'un doctorat en Sciences de l'Information (Université de Glasgow, 2012) et est un défenseur enthousiaste de l'accès ouvert et de la science ouverte. Ses intérêts en matière de recherche portent principalement sur l'examen par les pairs, les métadonnées et la philosophie/l'histoire de la technologie.
 
-Although creating and delivering training events is very daunting, training others not only to do Open Science, but also to see the value of it for their everyday research, is one of the most rewarding aspects of working in this area. As a trainer, when learners are engaged to share their own experiences and you can feel how they are able to relate their new knowledge to these experiences, it is very exciting.
+Bien que la création et l'organisation d'événements de formation soient très intimidantes, former d'autres personnes non seulement à pratiquer la science ouverte, mais aussi à en percevoir la valeur pour leur recherche au quotidien, est l'un des aspects les plus gratifiants du travail dans ce domaine. En tant que formateur, lorsque les apprenants sont motivés à partager leurs propres expériences et que vous êtes témoin de la manière dont ils peuvent relier leurs nouvelles connaissances à leurs expériences, c'est très stimulant.
 
-### René Schneider
+### René Schneider 
+
 
 * HES//SO - Geneva School of Business Administration, Switzerland
 * [rene.schneider@hesge.ch](mailto:rene.schneider@hesge.ch)
@@ -135,11 +142,14 @@ Although creating and delivering training events is very daunting, training othe
 
 [![Video - Writing the Open Science Training Handbook - an author's perspective by René Schneider](http://img.youtube.com/vi/PoaqS3cp6PI/0.jpg)](http://www.youtube.com/watch?v=PoaqS3cp6PI "Writing the Open Science Training Handbook - an author's perspective by René Schneider")
 
-René Schneider is a professor in Information Science at Geneva School of Business Administration \(being part of the University of Applied Sciences and Arts Western Switzerland\). Originally trained as a computational linguist, he is mainly interested in data and all of its aspects.
 
-I discovered the field of research data management  quite lately and mainly got engaged because of the complexity and high potential of open science. After having managed a project on how to train librarians to become instructors for research data management \(www.researchdatamanagement.ch\), I experienced myself that open science open doors, leads to a better understanding and reuse of scientific outcomes and finally links the academic ivory tower to the world outside.
+René Schneider est professeur en Sciences de l'information à l'Ecole d'Administration des Entreprises de Genève (faisant partie de la Haute Ecole Spécialisée de la Suisse Occidentale). Formé à l'origine en tant que linguiste informatique, il s'intéresse principalement aux données et à tous leurs aspects.
 
-### Jon Tennant
+J'ai découvert le domaine de la gestion des données de recherche assez récemment et je m'y suis principalement engagé en raison de la complexité et du potentiel élevé de la science ouverte. Après avoir dirigé un projet sur la formation de bibliothécaires pour en faire des instructeurs en gestion des données de recherche (www.researchdatamanagement.ch), j'ai constaté par moi-même que la science ouverte ouvre des portes, amène à une meilleure compréhension et réutilisation des résultats scientifiques et relie enfin la tour d'ivoire universitaire au monde extérieur.
+
+
+### Jon Tennant 
+
 
 * Open Science MOOC, Germany
 * [jon.tennant.2@gmail.com](mailto:jon.tennant.2@gmail.com)
@@ -148,56 +158,60 @@ I discovered the field of research data management  quite lately and mainly got 
 
 [![Video - Writing the Open Science Training Handbook - an author's perspective by Jon Tennant](http://img.youtube.com/vi/KbD-CdhgC9A/0.jpg)](http://www.youtube.com/watch?v=KbD-CdhgC9A "Writing the Open Science Training Handbook - an author's perspective by Jon Tennant")
 
-Jon finished his award-winning PhD in Palaeontology at Imperial College London in 2017, and became the Communications Director of ScienceOpen for two years in 2015. Now, he is independently continuing his research into dinosaur evolution, while working on building an Open Science MOOC to help train the next generation of researchers in open practices. He has published papers on Open Access and Peer Review, is currently leading the development of the Foundations for Open Science Strategy document, and is the founder of the digital publishing platform paleorXiv. Jon is also an ambassador for ASAPbio and the Center for Open Science, a Mozilla Open Leadership mentor, and the co-runner of the Berlin Open Science meetup. He is also a freelance science communicator and consultant, and has written a kids book called Excavate Dinosaurs.
+Jon a terminé un doctorat en Paléontologie récompensé par un prix, à l'Imperial College de Londres en 2017, deux ans après être devenu directeur de la communication de ScienceOpen, en 2015. Il poursuit désormais ses recherches de manière indépendante sur l'évolution des dinosaures, tout en travaillant à la création d'un MOOC consacré à la science ouverte, pour aider à former la prochaine génération de chercheurs aux pratiques ouvertes. Il est l'auteur d'articles sur le libre accès et l'évaluation par les pairs, il dirige actuellement l'élaboration du document stratégique sur les Fondements de la Science Ouverte et est le fondateur de la plateforme de publication numérique paleorXiv. Jon est également ambassadeur pour l'ASAPbio et le Center for Open Science, mentor du Mozilla Open Leadership et co-organisateur de la Rencontre de Berlin sur la Science Ouverte. Il est également médiateur et consultant scientifique indépendant et l'auteur d'un livre pour enfants intitulé *Excavate Dinosaurs.*
 
-I think the most challenging aspect of Open Science is education. It is an enormously complex paradigm, with its own lexicon, practices, principles, and represents a quite high learning barrier in many cases. However, watching others develop their knowledge and skills is incredibly rewarding, and I find myself learning more with every new experience too. Ultimately, we all have the same thing in mind - a fairer, more equitable, transparent and rigorous system of scientific research, and watching the huge steps the global research community, and especially younger generations, are taking towards this is very inspiring.
+Je pense que l'aspect le plus stimulant de la science ouverte est l'éducation. C'est un paradigme extrêmement complexe, avec son propre lexique, ses pratiques, ses principes, et qui représente une barrière d'apprentissage assez élevée dans de nombreux cas. Toutefois, observer d'autres personnes développer leurs connaissances et leurs compétences est incroyablement gratifiant, et je me retrouve à en apprendre davantage à chaque nouvelle expérience. En définitive, nous avons tous le même objectif en tête : un système de recherche scientifique plus juste, plus équitable, plus transparent et plus rigoureux, et c'est une grande source d'inspiration que de voir les énormes progrès réalisés en la matière par la communauté mondiale des chercheurs, en particulier les jeunes générations.
 
-### Ellen Verbakel
+### Ellen Verbakel 
 
 * 4TU.Centre for Research Data, Netherlands
 * [p.m.verbakel@tudelft.nl](mailto:p.m.verbakel@tudelft.nl)
 * [@Ellen4TUData](https://twitter.com/Ellen4TUData)
 * [0000-0002-8194-6724](https://orcid.org/0000-0002-8194-6724)
 
-Ellen is a librarian by education. She has a long experience in faculty librarianship at the TU Delft. After that she worked at the Delft University Press and organised peer review process for three journals. She also designed the open access or the journals, back in 2000! As from 2005 she developed the publication repository from TU Delft and she moved to 4TU.Centre for Research Data \(at that time 3TU.Datacentrum\) in 2009. In 2013 she co-designed the training Essentials 4 Data Support, she is since then an enthusiastic trainer.
 
-Where would we be without training? We need to be aware of all aspects of Open Science and be able to enthusiasm many others! This Handbook helps educators to make their training more effective in order to make Open Science the standard.
+Ellen est bibliothécaire de formation. Elle possède une longue expérience de bibliothécaire à la Technology University de Delft. Elle a ensuite travaillé aux Presses Universitaires de Delft et a organisé le processus d'examen par les pairs pour trois revues scientifiques. Elle a également mis en place l'accès ouvert et les revues, dès 2000 ! À partir de 2005, elle a développé le dépôt de publications de la TU Delft et elle est passée en 2009 au 4TU, le Centre des Données de Recherche des Pays-Bas (à l'époque 3TU.Datacentrum). En 2013, elle a co-construit la formation *Essentials 4 Data Support* et est depuis lors une formatrice enthousiaste.
 
-## Authors at the sprint event remotely
+Où en serions-nous sans la formation ? Nous devons être conscients de tous les aspects de la science ouverte et être capables de susciter l'enthousiasme chez beaucoup d'autres personnes ! Ce manuel a pour but d'aider les éducateurs à rendre leur formation plus efficace, afin que la science ouverte devienne la norme.
 
-### April Clyburne-Sherin
+
+## Auteurs participant au sprint à distance 
+
+### April Clyburne-Sherin 
 
 * Code Ocean, USA
 * [april.clyburne.sherin@gmail.com](mailto:april.clyburne.sherin@gmail.com)
 * [@april\_cs](https://twitter.com/april_cs) & [@methodpodcast](https://twitter.com/methodpodcast)
 * [0000-0002-5401-7751](https://orcid.org/0000-0002-5401-7751)
 
-April is an epidemiologist, methodologist, and expert in open science tools, methods, training, and community stewardship. She holds an MS in Population Medicine (Epidemiology). Since 2014, she has focussed on training scientists in open and reproducible research methods (Center for Open Science, Sense About Science, SPARC). In her current role of Outreach Scientist, she trains scientists in computational reproducibility best practices using Code Ocean.
+April est épidémiologiste, méthodologue et experte en outils, méthodes, formation et gestion communautaire de la science ouverte. Elle est titulaire d'un master en médecine des populations (épidémiologie). Depuis 2014, elle se consacre à la formation des scientifiques aux méthodes de la recherche ouverte et reproductible (Center for Open Science, Sense About Science, SPARC). Dans son rôle actuel de scientifique de proximité, elle forme les scientifiques aux meilleures pratiques de reproductibilité informatique en utilisant Code Ocean.
 
-I have been lucky enough to make a living out of training other scientists how to science better. My community of support grows with each workshop and I hope this handbook might help grow the open research training community. Conversations about open research often occur in echo-chambers of well-meaning researchers \(like myself\) and librarians with similar worldviews. Training in open research can be similarly siloed with Western or Northern perspectives being taught as though universal. Adding context and new perspectives to open research conversations is the only way to make knowledge work for everyone. The content we captured during this sprint is limited by our own experiences, but as other authors add and edit based on their own experiences, we can aim for a handbook that can improve how we talk and train others in open research.
+J'ai la chance de gagner ma vie en formant d'autres scientifiques à améliorer leur pratique de la science. Ma communauté de soutien grandit à l'occasion de chaque atelier et j'espère que ce manuel pourra contribuer à élargir la communauté de formateurs en recherche ouverte. Les débats sur la science ouverte ont souvent lieu dans les chambres d'écho de chercheurs bien intentionnés (comme moi) et de bibliothécaires qui partagent ma vision du monde. De la même manière, la formation à la recherche ouverte peut être cloisonnée selon une perspective nord occidentale que l'on enseigne comme si elle était universelle. Prendre en compte le contexte et ajouter de nouvelles perspectives aux débats sur la recherche ouverte est la seule voie pour que le savoir fonctionne pour tout le monde. Le contenu que nous avons produit pendant ce sprint se limite à nos propres expériences, mais grâce à l'ajout et aux apports d'autres auteurs sur la base de leurs propres expériences, nous nous rapprocherons d'un manuel susceptible d'améliorer notre façon de parler de la science ouverte et de former d'autres personnes à cette discipline.
 
-## Facilitators on site
+## Les facilitateurs sur site 
 
 [![Video - Writing the Open Science Training Handbook - Helene Brinken and Lambert Heller](http://img.youtube.com/vi/on49K7y8Mlk/0.jpg)](http://www.youtube.com/watch?v=on49K7y8Mlk "Writing the Open Science Training Handbook - an author's perspective by Helene Brinken and Lamber Heller")
 
-### Helene Brinken
+### Helene Brinken 
 
 * University of Göttingen, State and University Library, Germany
 * [brinken@sub.uni-goettingen.de](mailto:brinken@sub.uni-goettingen.de)
 * [@helenebrinken](https://twitter.com/helenebrinken)
 * [0000-0002-3278-0422](https://orcid.org/0000-0002-3278-0422)
 
-Responsible for Outreach and Advocacy in the FOSTER project at Göttingen University since May 2017. Background in Information Science with focus on e-learning and usability & user experience, now developing learning materials and facilitating workshops.
+Responsable de la sensibilisation et de la promotion dans le cadre du projet FOSTER à l'université de Göttingen depuis mai 2017. Formée en sciences de l'information, spécialiste de l'apprentissage en ligne, de la convivialité et de l'expérience utilisateur, elle développe actuellement des supports d'apprentissage et anime des ateliers de formation.
 
-Before working for FOSTER I worked with young activists engaging for worldwide education and against social injustice. I learned how important group dynamics are and what can be achieved when combining forces. Culture change starts at the level of individuals. Bringing together the researchers interested in Open Science can be a great step forward to foster OS at your institution. If they get support, meet other enthusiasts and learn they can soon be multiplicators themselves.
+Avant de travailler pour FOSTER, j'ai travaillé avec de jeunes activistes luttant pour l'éducation au niveau mondial et contre l'injustice sociale. J'ai appris à quel point la dynamique de groupe est importante et l'importance des résultats que l'on peut obtenir en associant nos forces. Le changement de culture commence au niveau des individus. Rassembler les chercheurs intéressés par la science ouverte peut être un grand pas en avant pour promouvoir la science ouverte dans votre institution. Soutenez-les, rencontrez d'autres enthousiastes et formez-les pour qu'à leur tour ils deviennent bientôt des ambassadeurs.
 
-### Lambert Heller
+
+### Lambert Heller 
 
 * TIB - German National Library of Science and Technology, Hannover, Germany
 * [lambert.heller@tib.eu](mailto:lambert.heller@tib.eu)
 * [@Lambo](https://twitter.com/Lambo)
 * [0000-0003-0232-7085](https://orcid.org/0000-0003-0232-7085)
 
-With a background in social sciences, I’m a librarian by training, working as a subject specialist at a university library for several years, and kicked of the Open Science Lab at TIB \(German National Library for Science and Technology\) in 2013, now running a number of grant projects. Facilitating and advising book sprints since 2014. Helped to make VIVO, a free current research information system \(CRIS\) based entirely on Linked Open Data, popular in Germany. Kicked of a few discussions in libraryland and elsewhere, e.g. on Blockchain for Science.
 
-When giving workshops \(e.g., a half day workshop for PhD students and PostDocs from Leibniz Research Association in Germany in 2017, on the matter of scholarly profile and collaborative writing services\) it’s always a pleasure to tap into the curiosity of learners. Even the busiest student has experiences, questions and imagines how things could work best for them. I love to make use of this positive energy! And it makes it much easier for a trainer to run a training session.
+Ayant étudié les sciences sociales, je suis bibliothécaire de formation et je travaille comme spécialiste de la discipline dans une bibliothèque universitaire depuis plusieurs années. En 2013, j'ai lancé le Laboratoire de Science Ouverte chez TIB (la Bibliothèque Nationale Allemande pour la Science et la Technologie), qui gère actuellement un certain nombre de projets subventionnés. Intervenir en tant que facilitateur et conseiller lors de sprints de rédaction de livres depuis 2014, a contribué à rendre populaire en Allemagne VIVO, un système d'information sur les recherches en cours (CRIS), gratuit et entièrement basé sur des données ouvertes liées. Cela a donné lieu à quelques discussions dans le monde des bibliothèques et ailleurs, par exemple sur la chaîne de diffusion des sciences, Blockchain for Science.
+
+Lorsque j'organise des ateliers (par exemple, un atelier d'une demi-journée pour les doctorants et les post-docs de l'Association de recherche Leibniz en Allemagne depuis 2017, sur la question du profil scientifique et des services de rédaction collaborative), c'est toujours un plaisir d'exploiter la curiosité des apprenants. Même l'étudiant le plus occupé a des expériences, des questions et imagine comment les choses pourraient fonctionner au mieux pour lui. J'aime utiliser cette énergie positive ! Et cela permet à un formateur d'animer beaucoup plus facilement une session de formation.

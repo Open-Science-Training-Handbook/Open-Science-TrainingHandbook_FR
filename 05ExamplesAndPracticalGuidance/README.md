@@ -1,1531 +1,1897 @@
-## <img src="/Images/Icons/live_event.png" width="200" height="200" /> <img src="/Images/Icons/balloon_thought.png" width="200" height="200" />
-### Examples & Practical Guidance: adopt, adapt, develop
+![](/Images/Icons/live_event.png)
+![](/Images/Icons/balloon_thought.png)
 
-In this chapter, you will find a wealth of materials to help you actively engage your trainees in critically examining Open Science issues.
 
-We recommend you approach all of these materials with the motto "Adopt, adapt, develop" in mind—meaning that its best to re-use what exists where possible. Hence, before you start developing training resources from scratch you should find out whether there are existing resources you may use. We give some example resources here, with tips for how they could be adapted for your purposes. We also provide links and strategies to help you find further material. In some cases, existing resources may be used as they are, so you may simply **adopt** them. An example at stake may be an openly available video tutorial about open file formats which you may point your audience to. In other cases, you may have to **adapt** existing resources somewhat in order to make them fit your purposes. For example, you may need to add/replace some institution- or country-specific references to an existing overview of Open Access requirements issued by research funders. Only as a last resort you should **develop** your own training resources from scratch. If you want to develop your own training materials, be sure to develop Open Educational Resources so that other trainers can reuse and adapt your materials.
+### Exemples et conseils pratiques à adopter, adapter et développer 
 
-### Example training structures
+Dans ce chapitre, vous trouverez une mine de documents pour vous aider à engager activement vos stagiaires à l'examen critique des questions de science ouverte.
 
-**Open Science Göttingen Meet-ups **at the University Library at Uni Göttingen** (3 hours)**
+Nous vous recommandons d'aborder tous ces documents avec la devise "Adopter, adapter, développer" à l'esprit, ce qui signifie qu'il vaut mieux réutiliser ce qui existe quand c'est possible. Par conséquent, avant de commencer à développer des ressources de formation à partir de zéro, renseignez-vous sur les ressources existantes que vous pourriez réutiliser. Nous vous donnons ici quelques exemples de ressources, avec des conseils sur la manière dont elles pourraient être adaptées à vos besoins. Nous fournissons également des liens et des pistes pour vous aider à trouver des ressources supplémentaires. Dans certains cas, les ressources existantes peuvent être utilisées telles quelles, vous pouvez donc simplement les **adopter**. Un exemple-type serait un tutoriel vidéo sur les formats de fichiers ouverts, vers lequel vous pouvez rediriger votre public. Dans d'autres cas, vous devrez peut-être modifier un peu les ressources existantes afin de les **adapter** à vos besoins. Par exemple, vous devrez peut-être ajouter ou remplacer des références spécifiques à une institution ou à un pays par une vue d'ensemble des exigences en matière de libre accès émises par les de la recherche. Ce n'est qu'en dernier recours que vous devriez **développer** vos propres ressources de formation en partant de zéro. Si vous souhaitez développer vos propres supports de formation, assurez-vous de produire des ressources éducatives en libre accès afin que d'autres formateurs puissent réutiliser et adapter vos supports.
 
-The Open Science Network Göttingen, a group of researchers and librarians who support open science practices and knowledge exchange regularly organize these meet-up events where various open science related topics are discussed. The network unites people interested in Open Science topics at the Göttingen Campus and is open to everyone. They have become quite popular attracting scholars from different disciplines who are eager to discuss their experiences with open scholarship and to learn about new methods, tools, and practices. Invited speakers usually introduce the topics which is followed by small group discussions with a more in-depth view on related issues. 
 
-* More information: [State and University Library Göttingen - Open Science](https://www.sub.uni-goettingen.de/en/electronic-publishing/open-science/)
+### Exemples de structures de cours formation 
 
-**Mozilla Study groups (a series of 2–3 hour meetings)**
+**Rencontres Science Ouverte à la Bibliothèque universitaire de l'Université de Göttingen (3 heures)**
 
-Study groups are communities of peers (e.g., from the same institution) committed to learning and teaching each other. They’re fun, informal meetups allowing participants to share skills, experiences, and ideas around open science, open source, code, and community in research. The goal of the [Mozilla Study Group Project](https://science.mozilla.org/programs/studygroups) is to support this kind of peer-to-peer study by providing a simple set of tools, template lesson plans, and access to an international community of like-minded researchers and avid learners in code
-(text adapted from [science.mozilla.org/programs/studygroups](https://science.mozilla.org/programs/studygroups))
+L'Open Science Network Göttingen, groupe de chercheurs et de bibliothécaires qui soutiennent les pratiques de science ouverte et l'échange des connaissances, organise régulièrement ces rencontres pendant lesquelles sont abordés divers sujets liés à la science ouverte. Le réseau réunit toute personne intéressée par les sujets de science ouverte sur le campus de Göttingen et est ouvert à tous. Il est devenu très populaire et attire des universitaires de différentes disciplines désireux de discuter de leurs expériences en matière de science ouverte et de découvrir de nouvelles méthodes, de nouveaux outils et de nouvelles pratiques. Les conférenciers invités introduisent généralement les thèmes, puis des discussions en petits groupes permettent d'approfondir des questions connexes.
 
-**Reproducible analysis and Research Transparency (a single full-day workshop)**
+* Plus d'informations sont disponibles sur le site de la Bibliothèque d'État et universitaire de Göttingen - Rubrique Science ouverte : [State and University Library Göttingen - Open Science](https://www.sub.uni-goettingen.de/en/electronic-publishing/open-science/)
 
-Transparency, open sharing, and reproducibility are core values of science, but not always part of daily practice. A first iteration of this workshop took place within the context of the [Open Science Tools, Data & Technologies for Efficient Ecological & Evolutionary Research](https://nioo.knaw.nl/en/open-science-tools) event, organized by NIOO-KNAW and DANS-KNAW. It provides an overview of current status in reproducible analysis in order to provide transparency in research. The workshop covers methodological topics (such as the use of the Open Science Framework and reporting guidelines) as well as software tools (such as Git, Docker, RMarkdown / knitr, and Jupyter). Going beyond simple listing and presentations, the second half of the workshop focuses on hands-on skill building, with exercises and tutorials covering most of the software aspects. Material and content is available here: [reproducible-analysis-workshop.readthedocs.io](http://reproducible-analysis-workshop.readthedocs.io)
 
-**Open Science: what’s in it for me? (1-2 days)**
+**Groupes d'étude Mozilla (Série de réunions de 2-3 heures)**
 
-The aim of the workshop is to provide researchers and administrators with hands-on examples of Open Science tools and workflow examples across various disciplines, and to start applying and discussing these. For this, we present an overview of Open Science practices and tools that are used throughout the scientific workflow, with practical examples, audience polling and interactive discussions. The second day is oriented at application and sharing. In various rounds participants explore and where possible try out or apply tools and practices. They do this in small groups and individually and also in a lively marketplace. In a final session we have a discussion on obstacles and incentives for switching to open science in your own research.
+Les groupes d'étude sont des communautés de pairs (par exemple, de la même institution) qui s'engagent à apprendre les uns des autres et à s'enseigner les uns aux autres. Ce sont des rencontres amusantes et informelles qui permettent aux participants de partager leurs compétences, leurs expériences et idées autour de la science ouverte, du code source libre et des pratiques communautaires de recherche. L'objectif du projet [Groupes d'étude de Mozilla](https://science.mozilla.org/programs/studygroups) est de soutenir ce mode d'étude entre pairs, en fournissant un ensemble simple d'outils, des modèles de plans de cours et l'accès à une communauté internationale de chercheurs partageant le même état d'esprit et d'apprenants passionnés par le code (Texte adapté de [science.mozilla.org/programs/studygroups](https://science.mozilla.org/programs/studygroups))
 
-* [Open Science - what’s in it for me](https://www.authorea.com/users/111423/articles/200860-open-science-workshop-what-s-in-it-for-me-postmortem-report) (Vienna, 2017, workshop report)
+**Analyse reproductible et recherche transparente (Atelier d'une journée entière)**
 
-* [Open Science - what’s in it for me](http://www.oa.unito.it/new/open-science-whats-in-it-for-me-torino-8-e-9-marzo-2018/) (Torino, 2018, workshop program)
+La transparence, le partage ouvert et la reproductibilité sont des valeurs fondamentales de la science, mais ne font pas toujours partie de la pratique quotidienne. Une première itération de cet atelier a eu lieu dans le contexte de l'événement "[Open Science Tools, Data & Technologies for Efficient Ecological & Evolutionary Research](https://nioo.knaw.nl/en/open-science-tools)", organisé par NIOO-KNAW et DANS-KNAW. La formation vise à donner un aperçu de l'état actuel de l'analyse reproductible afin d'assurer la transparence dans la recherche. L'atelier présente des sujets méthodologiques (tels que l'utilisation d'un cadre scientifique ouvert et de lignes directrices pour l'établissement de rapports) ainsi que des outils logiciels (tels que Git, Docker, RMarkdown / knitr et Jupyter). Au-delà d'une simple énumération sous forme de présentations, la seconde moitié de l'atelier met l'accent sur le renforcement de compétences pratiques, par le biais d'exercices et de tutoriels couvrant la plupart des aspects logiciels. Le matériel et le contenu sont disponibles ici : [reproductible-analysis-workshop.readthedocs.io](http://reproducible-analysis-workshop.readthedocs.io/)
 
-**Carpentry workshops (2 days)**
 
-A Carpentry workshop is a hands-on two-day event that covers the core skills needed to be productive in a small research team. Short tutorials alternate with practical exercises, and all instruction is done via live coding. Software Carpentry was founded in 1998 and Data Carpentry was founded in 2013. Both focus on computational skills, run two-day workshops taught by volunteer instructors, and strive to fill gaps in current training for researchers. However, they differ in their content and intended audience. Data Carpentry workshops focus on best practices surrounding data. Its learners are not people who want to learn about coding, but rather those who have a lot of data and don’t know what to do with it. Data Carpentry workshops are aimed at pure novices, are domain-specific, and present a full curriculum centered around a single data set. Software Carpentry workshops are intended for people who need to program more effectively to solve their computational challenges, are not domain-specific, and are modular—each Software Carpentry lesson is standalone.
+**Science ouverte : Qu'est-ce que j'y gagne ? (1 à 2 jours)**
 
-* [Software Carpentry](https://software-carpentry.org)
+L'objectif de l'atelier est de fournir aux chercheurs et aux administrateurs de la recherche des exemples pratiques d'outils de science ouverte et des exemples de flux de travail dans diverses disciplines, afin de commencer à les appliquer et d'en discuter. Pour cela, nous présentons un aperçu des pratiques et des outils de la science ouverte utilisés tout au long du processus de travail scientifique, avec des exemples pratiques, des recueils d'opinion et des discussions interactives. Le deuxième jour de la formation est axé sur la mise en application et le partage. Au cours des différentes sessions, les participants explorent et, si possible, testent ou mettent en pratique les outils et les modes de travail. Ils le font en petits groupes et individuellement, ainsi que sur un forum. La dernière session est l'occasion de revenir sur les obstacles et les incitations à passer à la science ouverte dans ses recherches personnelles .
 
-* [Data Carpentry](http://www.datacarpentry.org/)
+* [La science ouverte - qu'est-ce que j'y gagne ?](https://www.authorea.com/users/111423/articles/200860-open-science-workshop-what-s-in-it-for-me-postmortem-report) (Vienne, 2017, compte-rendu d'atelier)
 
-**EIFL Train-the-Trainer program (4 days)**
+* [La science ouverte - qu'est-ce que j'y gagne](http://www.oa.unito.it/new/open-science-whats-in-it-for-me-torino-8-e-9-marzo-2018/) ? (Turin, 2018, programme de l'atelier)
 
-EIFL organized a train-the-trainers program for five universities in EIFL partner countries (Ethiopia, Ghana, Zimbabwe, Tanzania, and Nepal) that have committed to integrating open access, open science and open research data into courses for PhD students. Day 1 covered open access and open data. Day 2 and 3 were dedicated to open science across the research workflow, including current practices at participant’s universities. On Day 4, participants designed and prepared their own training program. 
 
-* [EIFL Train-the-trainer program](https://osf.io/qf76a/) (Addis Ababa, 2017, program and materials)
+**Ateliers de "Charpenterie" (2 jours)**
 
-**Open Science summer schools (5 days)**
+Un atelier "carpentry" ou charpenterie est un événement pratique de deux jours qui aborde les compétences de base nécessaires pour être productif dans une petite équipe de recherche. De courts tutoriels alternent avec des exercices pratiques et toutes les instructions sont données en direct par l'intermédiaire de lignes de code. Software Carpentry (la charpenterie logicielle) a été fondé en 1998 et Data Carpentry (charpenterie de données) en 2013. Toutes deux cherchent à développer les compétences informatiques, organisent des ateliers de deux jours animés par des instructeurs bénévoles et s'efforcent de combler les lacunes dans la formation actuelle des chercheurs. Toutefois, ils diffèrent par leur contenu et le public auquel ils souhaitent s'adresser. Les ateliers de Data Carpentry se concentrent sur les bonnes pratiques en matière de données. Ses apprenants ne sont pas des personnes désireuses d'apprendre à coder, mais plutôt des personnes disposant de beaucoup de données et qui ne savent pas quoi en faire. Les ateliers de Data Carpentry s'adressent à de purs novices, sont spécifiques à un domaine et proposent un programme complet centré sur un seul ensemble de données. Les ateliers de charpenterie logicielle sont destinés aux personnes qui ont besoin de programmer plus efficacement pour résoudre leurs problèmes de calcul, ils ne sont pas spécifiques à un domaine et sont modulaires - chaque leçon de charpenterie logicielle est indépendante.
 
-Various universities across Europe organize weeklong summer schools on open science, primarily aimed at early career researchers. These events cover a variety of topics in five days, usually with many hands-on activities to apply open science into daily practice. 
+* Charpenterie logicielle ([Software Carpentry](https://software-carpentry.org/))
 
-* [EPFL Summer school Open Science in Practice ](http://archiveweb.epfl.ch/osip2017.epfl.ch/page-146300-fr.html)(2017, program overview)
+* Charpenterie de données ([Data Carpentry](http://www.datacarpentry.org/))
 
-* [Utrecht University Summer school Open Science and Scholarship](https://tinyurl.com/sumsopenscience2017) (2017, program and materials)
+**Programme "Formation de formateurs" de l'EIFL (4 jours)**
 
-* [Essex Summer school in Social Science and Data Analysis - Introduction in Open Science](https://www.fosteropenscience.eu/event/essex-summer-school-social-science-data-analysis-introduction-open-science) (2017, program overview) 
+L'EIFL a organisé un programme de formation de formateurs pour cinq universités dans les pays partenaires de l'EIFL (Ethiopie, Ghana, Zimbabwe, Tanzanie et Népal) qui se sont engagés à intégrer le libre accès, la science ouverte et les données de recherche ouvertes dans leurs cours de doctorat. La première journée a été consacrée à l'accès ouvert et aux données ouvertes. Les journées 2 et 3 ont été consacrées à la science ouverte dans l'ensemble du flux de recherche, ainsi qu'aux pratiques actuelles dans les universités des participants. Le quatrième jour, les participants ont conçu et préparé leur propre programme de formation.
 
-* [LERU Doctoral Summer school on Data Stewardship](https://www.graduateacademy.uni-heidelberg.de/md/gradakad/akademie/leru_summer_school_2016_description.pdf) (2016, description, learning objectives) 
+* [Programme de formation de formateurs de l'EIFL](https://osf.io/qf76a/) (Addis-Abeba, 2017, Programme et supports)
 
+**Universités d'été en Science ouverte (5 jours)**
 
-![image alt text](/Images/image_6.png)
+Plusieurs universités européennes organisent des universités d'été d'une semaine consacrées à la science ouverte, principalement à destination des chercheurs en début de carrière. Ces événements couvrent des sujets divers sur cinq jours, avec généralement de nombreuses activités pratiques pour appliquer la science ouverte dans la pratique quotidienne.
 
-*Program schedule Summer School Open Science and Scholarship, Utrecht University 2017*
+* [Ecole d'été de l'EPFL sur la science ouverte en pratique](http://archiveweb.epfl.ch/osip2017.epfl.ch/page-146300-fr.html) (2017, aperçu du programme)
 
-### Example Exercises
+* [Université d'Utrecht - Université d'été Science ouverte et carrière universitaire](https://tinyurl.com/sumsopenscience2017) (2017, programme et matériel)
 
-#### Master Template
+* [Cours d'été de l'Université d'Essex en sciences sociales et analyse des données - Introduction à la Science ouverte](https://www.fosteropenscience.eu/event/essex-summer-school-social-science-data-analysis-introduction-open-science) (2017, aperçu du programme)
 
-* Format, time needed 
+* [Université d'été doctorale du LERU sur la gestion de données](https://www.graduateacademy.uni-heidelberg.de/md/gradakad/akademie/leru_summer_school_2016_description.pdf) (2016, description, objectifs d'apprentissage)
 
-* Topic \([see Open Science Basics](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/blob/master/02OpenScienceBasics/README.md)\)
+![](Images/image_6)
 
-* Learning objectives 
+*Programme de l'Université d'Eté de la Science Ouverte et Recherche -- Université d'Utrecht 2017*
 
-* Exercise description
+### Exemples d'exercices
 
-* Materials and tools needed
+### Plan type 
 
-* Level of prior knowledge needed
+* Format, durée nécessaire  
 
-* Things to bear in mind
+* Sujet (voir [Open Science Basics](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/blob/master/02OpenScienceBasics/README.md))   
 
-* How to adapt for other purposes
+* Objectifs d'apprentissage  
 
-**Use [this Google form](https://goo.gl/forms/wxyx6pk80mHUHTRu1) to suggest additional exercises!**
+* Description de l'exercice 
 
-#### Types of exercises
+* Matériel et outils nécessaires  
 
+* Prérequis nécessaire(s) 
 
-    * quick warm-up / short break exercises 
+* Éléments à garder à l'esprit 
 
-    * small group exercises
+* Comment adapter l'exercice à d'autres usages 
 
-        * role-play
+* Utilisez [ce formulaire Google](https://goo.gl/forms/wxyx6pk80mHUHTRu1) pour suggérer des exercices supplémentaires ! 
 
-        * discuss OS topics/statements
+**Types d'exercices**
 
-        * marketplace: exchange experiences/expertise
+* Échauffement rapide / Petits exercices récréatifs
 
-        * meeting with researchers / policy makers
+* Exercices en petits groupes
+    
+    * jeu de rôle
+    
+    * Débat sur les thèmes et les thèses de la Science Ouverte
+    
+    * Forum : partage d'expériences et d'expertise
+    
+    * rencontre avec des chercheurs / des décideurs
+    
+    * ...
 
-        * ...
+* exercices en séance plénière
 
-    * plenary exercises
+    * cartographie collaborative
 
-        * collaborative mapping
+    * jeu de mise en situation
 
-        * simulation game 
+    * inventaire
 
-        * inventorizing
+    * jeux de cartes
 
-        * card games
+* exposés
 
-    * presentations
+    * jeu de rôle
 
-        * role-play
+    * présentation de cas réels et d'exemples (également par les participants)
 
-        * present real-life cases/examples (also by participants)
+    * présentation d'un concept en une minute
 
-        * one-minute presentations of a concept (by participants) 
+    * conférenciers invités
 
-        * guest lecturers
+    * ...
 
-        * ...
+* exercices de mise en pratique (seul ou en binôme)
 
-    * hands-on exercises (individual or in pairs)
+    * visualisation
 
-        * visualizing
+    * explorer et tester des outils et des plateformes
 
-        * explore / try out tools & platforms
+    * Introduisez une pratique de science ouverte dans votre propre travail de recherche
 
-        * implement an open science practice in your own research
+    * Vérifiez la reproductibilité d'un article scientifique
 
-        * check reproducibility of a research paper
+    * ...
 
-        * … 
-
-#### Example exercises (including materials)
+#### Exemples d'exercices (avec indication des outils)
 
 <table>
-  <tr>
-    <td></td>
-    <td>Title</td>
-    <td>Topic</td>
-    <td>Type</td>
-    <td>Duration</td>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Line up!</td>
-    <td>general</td>
-    <td>whole group</td>
-    <td>5-10 min</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Prioritization of training needs</td>
-    <td>Open Concepts and Principles</td>
-    <td>whole group</td>
-    <td>10 min</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>Selection of Open Science practices</td>
-    <td>Open Concepts and Principles</td>
-    <td>whole group</td>
-    <td>1-1.5 hour</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>Open Science discussion topics</td>
-    <td>Open Concepts and Principles</td>
-    <td>small groups</td>
-    <td>20-30 min</td>
-  </tr>
-  <tr>
-    <td>5</td>
-    <td>LIBER Open Science café</td>
-    <td>Open Concepts and Principles</td>
-    <td>small groups</td>
-    <td>1.5 hour</td>
-  </tr>
-  <tr>
-    <td>6</td>
-    <td>What is research data for me?</td>
-    <td>Open Research Data and Materials</td>
-    <td>individual / pairs</td>
-    <td>15 min</td>
-  </tr>
-  <tr>
-    <td>7</td>
-    <td>Why not share data?</td>
-    <td>Open Research Data and Materials</td>
-    <td>small groups</td>
-    <td>20 min</td>
-  </tr>
-  <tr>
-    <td>8</td>
-    <td>"Open Data Excuse" Bingo</td>
-    <td>Open Research Data and Materials</td>
-    <td>whole group</td>
-    <td>20-30 min</td>
-  </tr>
-  <tr>
-    <td>9</td>
-    <td>Me and my data - Datagramms</td>
-    <td>Open Research Data and Materials</td>
-    <td>whole group</td>
-    <td>1-4 hours</td>
-  </tr>
-  <tr>
-    <td>10</td>
-    <td>Find your data publisher</td>
-    <td>Open Research Data and Materials</td>
-    <td>individual / pairs</td>
-    <td>10-15 min</td>
-  </tr>
-  <tr>
-    <td>11</td>
-    <td>What do you need for a data publication?</td>
-    <td>Open Research Data and Materials</td>
-    <td>whole group</td>
-    <td>10 min</td>
-  </tr>
-  <tr>
-    <td>12</td>
-    <td>Creating metadata</td>
-    <td>Open Research Data and Materials</td>
-    <td>individual / pairs</td>
-    <td>5 min</td>
-  </tr>
-  <tr>
-    <td>13</td>
-    <td>Get started with sharing software openly</td>
-    <td>Open Research Software / Open Source</td>
-    <td>individual / pairs</td>
-    <td>20-30 min</td>
-  </tr>
-  <tr>
-    <td>14</td>
-    <td>Establishing a Reproducible Data Analysis Workflow</td>
-    <td>Reproducible Research and Data Analysis</td>
-    <td>individual / pairs</td>
-    <td>4-8 hours</td>
-  </tr>
-  <tr>
-    <td>15</td>
-    <td>Choose the right version for the repository</td>
-    <td>Open Access to Published Research Results</td>
-    <td>individual / pairs</td>
-    <td>15-20 min</td>
-  </tr>
-  <tr>
-    <td>16</td>
-    <td>Open file formats</td>
-    <td>Open Licensing and File Formats</td>
-    <td>whole group</td>
-    <td>10-15 min</td>
-  </tr>
-  <tr>
-    <td>17</td>
-    <td>Creative Commons License matching</td>
-    <td>Open Licensing and File Formats</td>
-    <td>whole group</td>
-    <td>5-10 min</td>
-  </tr>
-  <tr>
-    <td>18</td>
-    <td>OER Remix</td>
-    <td>Open Licensing and File Formats
-
-Open Educational Resources</td>
-    <td>whole group</td>
-    <td>10-15 min</td>
-  </tr>
-  <tr>
-    <td>19</td>
-    <td>Open peer review - participants openly review each others’ texts</td>
-    <td>Open Peer Review, Metrics, and Evaluation</td>
-    <td>small groups</td>
-    <td>90 min</td>
-  </tr>
-  <tr>
-    <td>20</td>
-    <td>Open peer review - your 2 cents</td>
-    <td>Open Peer Review, Metrics, and Evaluation</td>
-    <td>whole group</td>
-    <td>1.5 hour</td>
-  </tr>
-  <tr>
-    <td>21</td>
-    <td>Taking a stance</td>
-    <td>Open Science Policies</td>
-    <td>whole group</td>
-    <td>10 min</td>
-  </tr>
-  <tr>
-    <td>22</td>
-    <td>Plain language explanations (in progress)</td>
-    <td>Citizen Scientists and Science Communication
-
-Collaborative Platforms</td>
-    <td>small groups</td>
-    <td>2-3 hours</td>
-  </tr>
-  <tr>
-    <td>23</td>
-    <td>Devil’s advocate - convincing the skeptics</td>
-    <td>Open Advocacy</td>
-    <td>small groups</td>
-    <td>30 min</td>
-  </tr>
-  <tr>
-    <td>24</td>
-    <td>Set up OSF project & link to other platforms (in progress)</td>
-    <td>Open Research Data and Materials</td>
-    <td>individually or in pairs</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>25</td>
-    <td>The publishing trap (in progress)</td>
-    <td>Open Access to Published Research Results</td>
-    <td>small group exercise</td>
-    <td>2 hours</td>
-  </tr>
-   <tr>
-    <td>26</td>
-    <td> (in progress)</td>
-    <td>Open Research Data and Materials</td>
-    <td>small group exercise</td>
-    <td>4 days (5 hrs/day)</td>
-  </tr>
-   <tr>
-    <td>27</td>
-    <td>Train-the-trainer card game for Open Science training</td>
-    <td>Open Advocacy</td>
-    <td>small group exercise</td>
-    <td>2 hours</td>
-  </tr>
+	<tr>
+		<td>
+		</td>
+		<td>
+			<b>Intitulé</b>
+		</td>
+		<td>
+			<b>Sujet</b>
+		</td>
+		<td>
+			<b>Type</b>
+		</td>
+		<td>
+			<b>Durée</b>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			1
+		</td>
+		<td>
+			En ligne !
+		</td>
+		<td>
+			Général
+		</td>
+		<td>
+			Groupe entier
+		</td>
+		<td>
+			5-10 minutes
+		</td>
+	</tr>
+	<tr>
+		<td>
+			2
+		</td>
+		<td>
+			Hiérarchisation des besoins
+			de formation
+		</td>
+		<td>
+			Concepts et principes de la
+			science ouverte
+		</td>
+		<td>
+			Groupe entier
+		</td>
+		<td>
+			10 minutes
+		</td>
+	</tr>
+	<tr>
+		<td>
+			3
+		</td>
+		<td>		
+			Sélection
+			de pratiques de la science ouverte
+		</td>
+		<td>			
+			Concepts
+			et principes de la science ouverte
+		</td>
+		<td>			
+			Groupe
+			entier
+		</td>
+		<td>
+			1h - 1h30					
+		</td>
+	</tr>
+	<tr>
+		<td>			
+			4
+		</td>
+		<td>			
+			Thèmes
+			de discussion autour de la science ouverte
+		</td>
+		<td>		
+			Concepts
+			et principes de la science ouverte
+		</td>
+		<td>
+			Petits groupes
+		</td>
+		<td>
+			20-30
+			minutes
+		</td>
+	</tr>
+	<tr>
+		<td>			
+			5
+		</td>
+		<td>				
+			Café
+			LIBER pour la science ouverte
+		</td>
+		<td>			
+			Concepts
+			et principes de la science ouverte
+		</td>
+		<td>
+			Petit groupes
+		</td>
+		<td>			
+			1h30
+		</td>
+	</tr>
+	<tr>
+		<td>			
+			6
+		</td>
+		<td>			
+			Qu’est-ce
+			qu’une donnée de recherche pour moi ?
+		</td>
+		<td>			
+			Données
+			et matériaux de la recherche ouverte
+		</td>
+		<td>
+			Seul ou en binôme
+		</td>
+		<td>		
+			15
+			minutes
+		</td>
+	</tr>
+	<tr>
+		<td>			
+			7
+		</td>
+		<td>	
+			Pourquoi
+			ne pas partager les données ?
+		</td>
+		<td>		
+			Données
+			et matériaux de la recherche ouverte
+		</td>
+		<td>
+			Petits groupes
+		</td>
+		<td>		
+			20
+			minutes
+		</td>
+	</tr>
 </table>
 
 
-##### **Example 1: Line up!**
-
-* Format, time needed 
-
-    * Group exercise, 5–10 minutes
-
-* Topic 
-
-    * Icebreaker, can be on topic or unrelated 
-
-* Learning objectives 
-
-    * Get participants to loosen up
-
-* Exercise description
-
-    * Imaginary line in the room forms a spectrum between ‘strongly agree’ and ‘strongly disagree’. One participant, or the moderator, makes a statement (can be on topic ‘closed data should not be cited’ or off-topic ‘leggings are not trousers’. All participants have to position themselves along the imaginary line. The moderator asks some participants to explain their (literal) standpoint. 
-
-* Materials and tools needed
-
-    * None
-
-* Level of prior knowledge needed
-
-    * None
-
-* Things to bear in mind
-
-    * Make sure not only the opinionated people are talking. Ask people who linger in the middle to explain their point of view. 
-
-* How to adapt for other purposes
-
-    * Adapt the type of question to the situation. For a new group, allow people to make an off-topic or trivial statement, but the technique can also be used to test the waters on certain controversial subjects related to the topic of the workshop, especially with people who have been working together for a while already (e.g., on a second day of a workshop)
-
-##### **Example 2: Prioritization of training needs**
-
-* Format, time needed 
-
-    * Plenary, ~10 minutes
-
-* Topic
-
-    * [Open Concepts and Principles](/02OpenScienceBasics/01OpenConceptsAndPrinciples.md)
-
-* Learning objectives
-
-    * Identify knowledge gaps / areas participants feel they would most benefit from training in.  
-
-    * (optional) Identify areas participants feel knowledgeable about (and can thus share their own knowledge).
-
-* Exercise description
-
-    * Briefly introducing the research cycle and activities therein.
-
-    * Ask participants to individually identify two to three activities they would most benefit getting training in (in relation to open science).
-
-    * Optionally, also ask participants which two to three areas they already feel knowledgeable about (again, in relation to open science).
-
-    * On individual printouts, participants add sticky dots for each question.
-
-    * Participants then add similar sticky dots to the communal printout.
-
-    * Discuss the results with the full group. Make sure people when seeing the dots also realize there may be a big opportunity for learning from other participants.
-
-![image alt text](/Images/image_7.png)
-
-* Materials and tools needed
-
-    * Printout of [research cycle with activities](https://www.dropbox.com/s/l6wvhxm0rj6pdiy/OS-handbook_exercise_BK-1.png?dl=0): one for each participant and a  communal one
-
-    * Sticky dots in two colors
-
-![image alt text](/Images/image_8.png)
-
-* Level of prior knowledge needed
-
-    * None; some familiarity with the research cycle is helpful.
-
-* Things to bear in mind
-
-    * Best at the beginning of a longer training program where multiple topics will be covered.
-
-    * For the sticky dots, choose a combination that is colour-blind friendly.
-
-    * The number of activities to choose depends on the number of participants (e.g., three for smaller groups, two for larger groups).
-
-    * Individual printouts are used to prevent peer pressure / bias.
-
-    * Individual printouts can be kept for reference during the remaining of the training.
-
-* How to adapt for other purposes
-
-    * This exercise can easily be adapted to prioritize other topics.
-
-##### **Example 3: Selection of open science practices**
-
-* Format, time needed
-
-    * Plenary, 1–1.5 hours
-
-* Topic
-
-    * [Open Concepts and Principles](/02OpenScienceBasics/01OpenConceptsAndPrinciples.md)
-
-* Learning objectives 
-
-    * See the spectrum of open science practices across the full research workflow.
-
-    * Assess which practices would the most feasible and effective to focus on. 
-
-* Exercise description
-
-    * Prior to the exercise, sort the cards according to research phase/activity and spread them across the room (e.g., on tables, or on a large section of the floor).
-
-    * Mark a large section of a wall (windows or pinboards can also be used) with the different phases of the research cycle (e.g., preparation, discovery, analysis, writing, publication, outreach, assessment).
-
-    * Ask participants to select practices they feel are really important for open science, and hang them on the wall, grouped by research phase.
-
-    * Encourage people to add research practices that are not included in the cards.
-
-    * Divide participants in seven groups.
-
-    * Each group looks at the selected practices for one research phase, and chooses the two practices that they feel are *most feasible to implement* and *most effective to make research more open*. Either move these cards higher up on the wall, or remove the other cards.
-
-    * The small groups explain their choice to all participants. 
-
-    * Together, the selected research practices can form a blueprint of an open science workflow. 
-
-    * As a follow-up exercise, participants can discuss possible steps to implement these practices: 
-
-        1. what tools/platforms can be used
-
-        2. what potential incentives and barriers would be
-
-        3. what support would be needed
-
-        4. what policy changes would be needed
-
-![image alt text](/Images/image_9.png)
-
-![image alt text](/Images/image_10.png)
-
-![image alt text](/Images/image_11.png)
-
-* Materials and tools needed
-
-    * Large wall, windows, or multiple pinboards to hang materials on
-
-    * Enough room to move around
-
-    * Printed [cards with open science practices](https://doi.org/10.6084/m9.figshare.4627954.v1) (also available as [editable powerpoint slides](https://doi.org/10.6084/m9.figshare.4627999.v1) or in a [Google spreadsheet](https://docs.google.com/spreadsheets/d/1TmrfhfLlCvyCPw5Xo7cMY0FAKzVlVQa1603IsTs-02o/edit#gid=114671496))
-
-    * Empty cards, pens / markers
-
-    * Pins or tape 
-
-* Level of prior knowledge needed
-
-    * None, some familiarity with the research process is helpful
-
-* Things to bear in mind
-
-    * Depending on the number of participants, small groups can prioritize practices for more than one research phase.
-
-    * Test tape on windows / walls first, some types are really hard to remove :-) 
-
-    * The whole group may not agree with the small group’s selection of practices for a given research phase. Decide beforehand whether to stick with the choices made, or whether there is room for discussion and consensus-based swapping of practices.
-
-* How to adapt for other purposes
-
-    * The exercise could be modified to focus on specific activities / a specific phase of the research cycle (e.g., publication or assessment).
-
-    * Other selection criteria could be used, e.g. practices participants use themselves, or practices that would be most ideal (independent of feasibility/efforts needed).
-
-##### **Example 4: Open Science discussion topics**
-
-* Format, time needed 
-
-    * Small groups, 20–30 minutes 
-
-* Topic 
-
-    * [Open Concepts and Principles](/02OpenScienceBasics/01OpenConceptsAndPrinciples.md)
-
-* Learning objectives 
-
-    * Confront own experiences and opinions on open science with perspectives from others.
-
-![image alt text](/Images/image_12.png)
-
-* Exercise description
-
-    * Divide participants in groups of four or five and distribute discussion topics (e.g., printed out on paper).
-
-    * Have groups discuss the topics from participants’ own perspectives.
-
-    * (optional) Have each group summarize most important points that came up for the whole group .
-
-    * Suggestions for discussion topics:
-
-        5. "Working in an Open Science manner makes research more fun"
-
-        6. "Scooping is a real and existing problem that makes Open Science a hard choice"
-
-        7. "APCs (article processing charges) are the main obstacle to publishing more in Open Access"
-
-        8. "We need more explicit support for Open Science from funders and the  government"
-
-        9. "Engaging in open peer review is problematic for young researchers that want to make a career"
-
-        10. "We should take citizen scientists more seriously, and also not just see them as data suppliers"
-
-        11. "Impact factors are a symptom and not the cause of the publishing rat-race"
-
-        12. "There is absolutely no reason we should not publish a paper as a preprint as soon as it is ready"
-
-        13. "Just sharing our data is fine, but to speed up science we need to also work on interoperability and reusability of those data"
-
-        14. "Sharing ideas and projects through ResearchGate is a good way of doing outreach for our research"
-
-        15. "Demands of our PIs are probably the main reason why young researchers do not engage more in Open Science"
-
-        16. "We should strive to create a kind of ‘commons’ where we share all our research outcomes/objects to foster collaboration and reuse"
-
-* Materials and tools needed
-
-    * Printouts of discussion topics
-
-* Level of prior knowledge needed
-
-    * Some familiarity with the research system.
-
-* Things to bear in mind
-
-    * This exercise is best suited to researchers (rather than support people), because they can directly relate to their own situation and speak from their own experience .
-
-* How to adapt for other purposes
-
-    * By changing the discussion statements, this exercise can be adapted to other topics.
-
-##### **Example 5: LIBER Open Science café**
-
-* Format, time needed
-
-    * small groups, 1.5 hour
-
-* Topic
-
-    * [Open Concepts and Principles](/02OpenScienceBasics/01OpenConceptsAndPrinciples.md)
-
-* Learning objectives
-
-    * Have knowledge of different aspects of open science.
-
-    * Connect different stakeholders to discuss statements and topics.
-
-* Materials and tools needed
-
-    * The [LIBER Science Café card deck](https://www.fosteropenscience.eu/content/open-science-cafe-card-deck), or a prepared stack of written statements based on [World Café](http://www.theworldcafe.com/wp-content/uploads/2015/07/Cafe-To-Go-Revised.pdf)
-
-    * one table per 6-8 persons
-
-* Exercise description
-
-    * The set-up: 6-8 people gather around a table with 1 moderator and 1 note taker. To initiate conversations, they are provided with a deck of cards with statements and questions related to open science and the involved projects. These statements  serve as conversation starters. Someone can pick a card, the group talks about it for some time, and then they can move on to the next card. In this way, people learn from each other and start to think about the bigger picture. Meanwhile, you can collect valuable input from different stakeholders.
-
-    * The note taker: collects interesting points of the conversation in two different ways:
-
-        17. The mindmap cards: You can use these cards for topics that get a lot of attention in the conversation. If things go too fast, don’t be afraid to stop the conversation and ask people to provide input for this mindmap. Write down the main topic in the centre, and work from there. Is it hard to find connections? You can also collect random thoughts and statements here.
-
-        18. Brilliant quotes and ideas: Sometimes someone says something that’s just WOW, just spot on or somehow very useful. For this you have the ‘brilliant quote and ideas’ card. You only have one, so here you have to be very selective. Make a point of it if you think something is so
-good that it deserves to go on this card. 
-
-    * After 20-30 minutes, have the group change tables. Moderators and note takers remain seated.
-
-    * At the end, each moderator reports on what has been said by the different groups at their table. 
-
-##### **Example 6: What is research data for me?**
-
-* Format, time needed
-
-    * Individual/pairs, 15 minutes
-
-* Topic
-
-    * [Open Research Data and Materials](/02OpenScienceBasics/02OpenResearchDataAndMaterials.md)
-
-* Learning objectives
-
-    * Know their own research data and data in their field of research
-
-* Exercise description
-
-    * Let the participants think about the last articles they wrote/read. Was there supplementary material (e.g., tables, images)? Let them write down examples and types of research data in their field of work. What information or data would they need in order to reanalyze the study? What would be needed for their own dissertation/article to be understood properly? Let them present their results either in pairs/groups and then in the plenary
-
-* Materials and tools needed
-
-    * A piece of paper and a pen
-
-* Level of prior knowledge needed
-
-    * No prior knowledge needed
-
-* Things to bear in mind
-
-    * Give the participants enough time to brainstorm
-
-* How to adapt for other purposes:
-
-You can shorten the activity by skipping the pair/group work and just discuss in the plenary
-
-##### **Example 7: Why not share data?**
-
-* Format, time needed 
-
-    * Small groups, ~20 minutes
-
-* Topic
-
-    * [Open Research Data and Materials](/02OpenScienceBasics/02OpenResearchDataAndMaterials.md)
-
-* Learning objectives:
-
-    * Get participants thinking about the ethical and practical barriers to data sharing, and to critically examine their beliefs in this area.
-
-* Exercise description
-
-    * In pairs or small groups, participants have five minutes to make a list as long as possible of all the reasons why researchers might not wish to share their data. Participants then report back on their reasons, discussing whether these are valid reasons or not, and strategies for how to overcome legitimate concerns. The team with the most reasons listed wins (prize optional).
-
-* Materials and tools needed
-
-    * Note taking equipment (pen, paper, or online document); optional: prize. 
-
-* Level of prior knowledge needed
-
-    * Working knowledge of working with data
-
-* Things to bear in mind
-
-    * The exercise should be fun, and participants should be encouraged to come up with fun as well as serious examples. 
-
-* How to adapt for other purposes
-
-    * The same format could easily be adapted for many other elements of Open Science, e.g., Open Access (why not publish OA, etc.)
-
-##### **Example 8: "Open Data Excuse" Bingo**
-
-* Format, time needed
-
-    * Group exercise, 20–30 minutes
-
-* Topic:
-
-    * [Open Research Data and Materials](/02OpenScienceBasics/02OpenResearchDataAndMaterials.md)
-
-* Learning objectives:
-
-    * Being able to recognize stereotypes that prevent sharing research data and understand the advantages of opening research data.
-
-* Exercise description:
-
-    * This exercise should be used at the beginning of the training event. Participants split at least in two groups or more (depends on the group size). A trainer takes care that one group will develop pro and the other contra arguments. In small groups participants discuss excuses already defined at the "Open Data Excuse" Bingo, these are common arguments used by researchers when explaining why they can't share their data. For the last 10 minutes the groups should confront their arguments. A trainer helps participants to develop arguments for open their data and to better understand the idea of sharing their data.
-
-* Materials and tools needed:
-
-    * Printed sheets of[ "Open Data Excuse" Bingo](http://data.dev8d.org/devbingo/bingo.php?n=1&w=4&h=4&title=%22Open+Data+Excuse%22+Bingo&tag=%23openDataExcuses&statements=Terrorists+will+use+it%0D%0AData+Protection%0D%0ALawyers+want+a+custom+License%0D%0APoor+Quality%0D%0AThieves+will+use+it%0D%0AWe%27ll+get+spam%0D%0AIt%27s+not+very+interesting%0D%0AIt%27s+too+complicated%0D%0AThere%27s+no+API%0D%0AWhat+if+we+want+to+sell+it+later%0D%0AI+don%27t+mind,+but+someone+else+might%0D%0AIt%27s+too+big%0D%0AThere%27s+already+a+project+to...%0D%0APeople+may+misinterpret+the+data%0D%0AWe+might+want+to+use+it+in+a+paper%0D%0AWe+will+get+too+many+enquiries&rules=%3Cp%3EFor+open+data+teams;+print+out+a+copy+and+put+it+on+your+office+wall.+Cross+out+each+excuse+people+give+you.+There+are+no+prizes,+but+you+can+tweet+%22bingo!+%23openDataExcuses%22+if+you+think+it+might+make+you+feel+better*.%3C/p%3E%0D%0A%0D%0A%3Cp+style%3D%27font-size:80%25%27%3E*+it+won%27t%3C/p%3E)
-
-* Level of prior knowledge needed:
-
-    * The participants should have experience with creating/collecting research data.
-
-* Things to bear in mind:
-
-    * Go around and try to help with arguments if needed, especially in the group, which supposed to develop strong arguments for sharing data. Extra help might be needed for these participants to be stronger later in the confrontation with participants from the other group.
-
-* How to adapt for other purposes:
-
-    * This exercise can be adapted to other topics (material would need to be adapted also)
-
-##### **Example 9: Me and my data - Datagramms**
-
-* Format, time needed
-
-    * Group exercise, 1–4 hours (if done as part of a workshop)  
-
-* Topic
-
-    * [Open Research Data](/02OpenScienceBasics/02OpenResearchDataAndMaterials.md)
-
-* Learning objectives
-
-    * Understanding what data is and what type of repository of archive is needed to store them properly
-
-* Exercise description
-
-    * Participants are asked to think about the last scientific work done in relation with a thesis (Bachelor, Master, or Ph.D.) and to reflect about the kind of data they produced.
-
-    * They will then create a datagramm, i.e., write down on a card
-
-        * the subject discipline
-
-        * the title of the thesis
-
-        * a bunch of letters, indicating
-
-            * the format (like pdf, doc, csv, or similar)
-
-            * the size (kb, mb, gb, tb, etc.)
-
-            * the medium (like a for analogue, d for digital, i.e., digitized and b for born digital, or combinations of the three)
-
-            * and finally the type of data, differentiating roughly between O for observations, E for experiments, S for simulations, D for derivations, R for references and D for digitized data, or combinations of them.
-
-    * In several steps, all cards are finally clustered on a wall according to the letters (format, size, medium, and type)
-
-    * The group discusses the different clusters and reflects about the requirements for an open data repository or archive.
-
-* Materials and tools needed
-
-    *  Cards and flipcharts, or better a wall and material to fix the cards on the wall
-
-* Level of prior knowledge needed
-
-    * None as long as the exercise is started with some explanations on how to describe and differentiate data. Basic knowledge of research data, repositories, and archives may be helpful.
-
-* Things to bear in mind: 
-
-    * Make it a step by step approach
-
-* How to adapt for other purposes
-
-    *  not yet applied
-
-##### **Example 10: Find your data publisher**
-
-* Format, time needed: 
-
-    * Individual / pairs, 10–15 minutes
-
-* Topic:
-
-    * [Open Research Data](/02OpenScienceBasics/02OpenResearchDataAndMaterials.md)
-
-* Learning objectives:
-
-    * Becoming aware of appropriate subject-specific data repositories and their characteristics and standards
-
-* Exercise description:
-
-    * The participants have to find a data repository for their research data. They go to re3data.org and search/browse by subject and/or content type. Let them limit their search to data repositories with DOI assignment. Give them time to have a look at the repository description and let them write down relevant repositories. Afterwards their success and experiences are discussed.
-
-* Materials and tools needed:
-
-    * Computer with internet access for every participant (can also be in pairs if necessary)
-
-* Level of prior knowledge needed:
-
-    * The participants should know which kind of research data they produce
-
-    * Not applicable for bachelor students
-
-* Things to bear in mind:
-
-    * Some people might not find an appropriate repository, so prepare a list of generic and institutional repositories that can be used and show/hand it out afterwards
-
-* How to adapt for other purposes:
-
-    * You can adapt this exercise for Open Access by using the Directory of Open Access Journals [DOAJ[https://doaj.org](https://doaj.org)) website
-
-##### **Example 11: What do you need for a data publication?**
-
-* Format, time needed: 
-
-    * Group exercise, 5–10 minutes (depending on group size)
-
-* Topic:
-
-    * [Open Research Data](/02OpenScienceBasics/02OpenResearchDataAndMaterials.md)
-
-* Learning objectives:
-
-    * Remembering the necessary steps for data publication
-
-* Exercise description:
-
-    * This exercise should be used at the end of the training. Let the participants play "I'm packing my suitcase" where they have to name necessary elements for a data publication (e.g., Research data (files), metadata, keywords, documentation, license, ORCID, repository, good title, references/sources, data citation, time, and courage!) 
-
-* Materials and tools needed:
-
-    * No material needed
-
-* Level of prior knowledge needed:
-
-    * The participants know basic elements of data publishing through the course
-
-* Things to bear in mind:
-
-    * If participants forget an element, try to help or give pointers
-
-    * Name as last element "courage"
-
-* How to adapt for other purposes:
-
-    * Can also be adapted for open access publishing process
-
-##### **Example 12: Creating metadata**
-
-* Format, time needed: 
-
-    * Individual / pairs, 5 minutes
-
-* Topic:
-
-    * [Open Research Data](/02OpenScienceBasics/02OpenResearchDataAndMaterials.md)
-
-* Learning objectives:
-
-    * Being able to create metadata for research data
-
-* Exercise description:
-
-    * Let the participants select a file they are currently working on. Let them answer the following questions on a piece of paper: Who created the content? What is the content? When was the content created? How was the content created? Why was the content created? Then discuss with them their results. Was it easy or difficult? Can they repeat this task for all the files in their research process?
-
-* Materials and tools needed:
-
-    * A piece of paper (or prepared form) and a pen
-
-* Level of prior knowledge needed:
-
-    * No prior knowledge needed
-
-* Things to bear in mind:
-
-    * To make the exercise faster prepare a form and print it out or make it available online.
-
-    * For bigger projects with a lot of files offer a data dictionary template
-
-* How to adapt for other purposes:
-
-    * Can also be adapted as a documentation exercise
-
-##### **Example 13: Get started with sharing software openly**
-
-* Format, time needed 
-
-    * Individual / pairs, 20–30 minutes
-
-* Topic
-
-    * [Open Research Software and Open Source](/02OpenScienceBasics/03OpenResearchSoftwareAndOpenSource.md)
-
-* Learning objectives
-
-    * Learn how to use common tools and services for sharing research codes openly.
-
-    * Be able to choose the appropriate license for their software, and understand the difference between permissive and non-permissive licenses
-
-* Exercise description
-
-    * This exercise is meant for any researchers that will use software/code for their research, whether they perform purely computational or experimental work (the latter use software for analysis, etc.). 
-
-    * First, have everyone sign up for a free [GitHub account](https://github.com/) if they do not already have one. This free account will be sufficient for working with exclusively open/public code, although you may let them know that students, educators, and researchers can [request a waiver for a free professional account](https://education.github.com/).
-
-    * In addition, have participants register for a [Zenodo account](https://zenodo.org/), and link this to their GitHub account.
-
-    * Next, have everyone create a new public repository, choosing an appropriate license based on the desired permissions (choosealicense.org can be helpful here). On Zenodo, enable the [GitHub–Zenodo integration](https://guides.github.com/activities/citable-code/) for this repository.
-
-    * Have participants add their source file(s) to the repository, and add some description of the program/script to the README file. Once these files are added, choose a version number and [create a release](https://help.github.com/articles/creating-releases/) of the software.
-
-    * Head to Zenodo, and obtain the DOI that has been generated for your software. 
-
-    * Congratulations, your software is now citeable! You can add a section to the README file with the DOI and suggested citation, or even add the DOI badge that Zenodo provides.
-
-* Materials and tools needed
-
-    * Individuals need to have a computer with internet connection.
-
-    * Participants should have some code, script, or program ready—even if it is "messy"—that they will publicly share.
-
-* Level of prior knowledge needed
-
-    * None
-
-* Things to bear in mind
-
-    * None
-
-* How to adapt for other purposes:
-
-    * Not applicable
-
-##### **Example 14: Establishing a Reproducible Data Analysis Workflow**
-
-* Format, time needed
-
-    * Individually and as a group, 4–8 hours (example [here](http://reproducible-analysis-workshop.readthedocs.io))
-
-* Topic
-
-    * [Reproducible Research and Data Analysis](/02OpenScienceBasics/04ReproducibleResearchAndDataAnalysis.md)
-
-* Learning objectives 
-
-    * Use a (small) computational task relevant to your discipline/background, and establish it as an open and reproducible workflow.
-
-    * Understand the key concepts, tools and services that are useful in the context of reproducibility.
-
-* Exercise description
-
-    * Each participant selects a dataset and corresponding data analysis process that is relevant to their field. Both dataset and the analysis process should be short enough that it concludes within a few minutes. Moreover, for the purposes of this exercise, the programming language should be Python or R, but other languages can be accommodated with slight changes in the underlying tools.
-
-    * The participant initially runs the process in the traditional form, and then asks one of the other participants to re-run it with no external help. Identify both the time required for another person to run this, as well as the obstacles encountered.
-
-    * Apply the same process using the Jupyter / Git / MyBinder approach; write the process as a Jupyter notebook, upload dataset and notebook to a repository on GitHub, and then connect the repository to mybinder. After than, ask again the same person to re-run this. Identify the change in time and accessibility.
-
-* Materials and tools needed
-
-    * Jupyter and Git are necessary (including an account on GitHub). Depending on the language, additional Jupyter kernels might need to be installed. Finally, the trainer can decide on whether to provide a common example for all participants to use, or ask the participants to bring their own. The difference lies to the amount of time required for preparation, as well as on the uniformity of the participants’ background.
-
-* Level of prior knowledge needed
-
-    * The workshop can be performed to different levels of expected prior knowledge, adapting for time. For example, a short basic introduction to Git can be included, but in all cases, the participants should be aware of the computational requirements of their own analysis.
-
-* Things to bear in mind
-
-    * The overall concept is straightforward, but has an initial learning curve of the individual components. Therefore you may consider spending some extra time in the beginning discussing each tool, before connecting them all together.
-
-    * You should consider giving the participants a detailed explanation of the installation process (e.g., for Jupyter and Git), before the workshop, in order to minimize potential technical issues.
-
-* How to adapt for other purposes
-
-    * The workshop can be extended to introduce additional concepts of Open Science, such as Persistent Identifiers for software (such as assigning a DOI from Zenodo to the Git repo), as well as integrating all of the aspects under a common platform (such as the OSF).
-
-##### **Example 15: Choose the right version for the repository**
-
-* Format, time needed 
-
-    * Individual / pairs, 15–20 minutes
-
-* Topic
-
-    * [Open Access to Published Research](/02OpenScienceBasics/05OpenAccessToPublishedResearchResults.md) Publications
-
-* Learning objectives
-
-    * Being able to decide which is the version allowed to be deposit in a repository and state its copyright regime
-
-* Exercise description
-
-    * This exercise could be addressed to repository managers. Choose five different publications and ask participants to select which is the version that could be allowed in a repository and which would be the copyright notice they would include: who is the copyright holder and which copyright regime would hold: all rights reserved, a license, public domain. Discuss with them their results and show them the key elements that define the solutions.
-
-* Materials and tools needed
-
-    * The exercise can be performed with a piece of paper (or prepared form) and a pen
-
-    * Individuals/pairs need to have an internet connection to access the papers and check policies. You may provide physical copies of the articles, too.
-
-* Level of prior knowledge needed
-
-    * Basic copyright notions
-
-    * Knowledge on the different versions of a research paper
-
-* Things to bear in mind
-
-    * The exercise can be translated to an online version if you prepare a set of polls.
-
-    * Use a range of publications including for instance papers published under hybrid models in order to show participants that is not enough to look up at sites with default self archiving policies.
-
-    * The number of cases will determine the time of the exercise.
-
-* How to adapt for other purposes:
-
-    * Can be adapted to training sessions with researchers using their own papers.
-
-
-
-##### **Example 16: Open file formats**
-
-* Format, time needed: 
-
-    * Group exercise, 10–15 minutes
-
-* Topic:
-
-    * [Open Licensing and File Formats](/02OpenScienceBasics/06OpenLicensingAndFileFormats.md)
-
-* Learning objectives:
-
-    * Becoming aware of file formats used daily and their openness
-
-* Exercise description:
-
-    * Let the participants write down on post-its all the file formats they use in their daily work. Then get the post-its and stick them to the whiteboard or flipchart. Try to cluster them as best as you can into categories or groups (text, tabular, statistical, video, image, etc.). Then discuss the results with the audience. Talk about the openness of these file formats and possible alternatives.
-
-* Materials and tools needed:
-
-    * A few stacks of post-its, pen and a whiteboard or flipchart
-
-* Level of prior knowledge needed:
-
-    * No prior knowledge needed
-
-* Things to bear in mind:
-
-    * Prepare for "exotic" file formats that are subject-specific or machine-dependent or let the participants describe them.
-
-* How to adapt for other purposes:
-
-    * You can also use web tools like [PINGO](http://trypingo.com) for the collection of file formats or let them write down their file formats on a piece of paper and collect those, if you don’t want to use post-its
-
-##### **Example 17: Creative Commons License matching**
-
-* Format, time needed: 
-
-    * Group exercise, 5–10 minutes
-
-* Topic:
-
-    * [Open Licensing and File Formats](/02OpenScienceBasics/06OpenLicensingAndFileFormats.md)
-
-* Learning objectives:
-
-    * Being able to differentiate between different Creative Commons licenses and to be able to combine them for works. 
-
-* Exercise description:
-
-    * The participants have to combine two licenses. Let the group guess which Creative Commons license is created by the combination. Repeat the exercise with other combinations. Integrate a combination that is not possible (for example, CC BY-SA and CC BY-NC) and point out pitfalls. Discuss the results with the participants.
-
-* Materials and tools needed:
-
-    * Computer with projector, whiteboard, flipchart, or piece of paper for all attendees
-
-* Level of prior knowledge needed:
-
-    * The participants should know all Creative Commons licenses and/or have a paper to look at
-
-* Things to bear in mind:
-
-    * Wait more than three seconds before taking the answer. This enables participants to think it through and you are able to integrate even weak participants.
-
-* How to adapt for other purposes:
-
-    * First create pairs and let them solve the combinations, then discuss the solutions in the group
-
-    * Use other licenses
-
-##### **Example 18: OER Remix**
-
-* Format, time needed: 
-
-    * Group exercise, 10–15 minutes
-
-* Topic:
-
-    * [Open Licensing and File Formats](/02OpenScienceBasics/06OpenLicensingAndFileFormats.md)
-
-    * [Open Educational Resources](/02OpenScienceBasics/11OpenEducationalResources.md)
-
-* Learning objectives:
-
-    * Being able to distinguish the different elements of the Creative Commons licenses
-
-    * Being able to build content remixing previous works with multiple licenses including public domain and all rights reserved works and determine which will be the resulting license
-
-* Exercise description:
-
-    * There is an [online version](http://www.opencontent.org/game/) and a [printed version](http://www.opencontent.org/game/print/)
-
-    * There is a set of cards marked with a type of content: text, image, music, and video, and each card carries a copyright sign that ranges from all rights reserved to public domain including the set of Creative Commons licenses and the GNU Free Documentation License.
-
-    * One person of the group takes 12 cards and the rest of the group has to combine them building a material with the four type of content: text, image, music and video. Once they choose a right combination they have to decide which is a possible license for this new work.
-
-* Materials and tools needed:
-
-    * For the online game: computer with beamer
-
-    * For the printed game: the set of cards is available at [opencontent.org](http://www.opencontent.org/game/print/) or you can create a set of cards yourself
-
-* Level of prior knowledge needed:
-
-    * The participants should know the elements of all Creative Commons licenses and have a basic notion of copyright issues including the notion of copyleft
-
-* Things to bear in mind:
-
-    * If you use the online version you might do the exercise with all your audience allowing multiple possible answers.
-
-* How to adapt for other purposes:
-
-    * You can adapt it to research elements, for instance to software licensing
-
-    * You can use other licenses, include new kind of contents or define which contents should have the final work
-
-##### **Example 19: Open peer review - participants openly review each others’ texts**
-
-* Format, time needed
-
-    * Small groups, 90 mins
-
-* Topic
-
-    * [Open Peer Review, Metrics and Evaluation](/02OpenScienceBasics/08OpenPeerReviewMetricsAndEvaluation.md)
-
-* Learning objectives
-
-    * Practise in writing constructive peer reviews
-
-    * Critical reflection on the advantages and disadvantages of open peer review
-
-* Exercise description
-
-    * Participants work in groups of three. Each participants writes a short text (~300 words) giving their thoughts on open peer review as discussed in the foregoing workshop. They then pass the text to the person on their left, who writes a brief peer review of the work. The text and the review are then passed to the next person on the left, so each now has a text and a review which they did not write. This person then gives feedback on the review—was it constructive, critical, what could have been better, etc. The group then reads all the texts and reflects on how open identities, open reports, etc. affected how they wrote their reviews, and reflects on the critical feedback from the others.
-
-* Materials and tools needed
-
-    * Pen and paper
-
-* Level of prior knowledge needed
-
-    * None, although the texts will require the knowledge gained in the foregoing workshop.
-
-* Things to bear in mind
-
-    * This exercise requires participants to make criticisms of each other’s work—bear in mind that some people might be uncomfortable doing so, or that some may have difficulty accepting such critique. Where these issues occur, encourage participants to discuss them in the final discussion round.
-
-* How to adapt for other purposes
-
-    * Where this example is being used in a training workshop with a wider focus than just open peer review, it could be used to consolidate learning about other Open Science themes by asking participants to first write a text about those themes instead.
-
-    * Instead of pen and paper, this exercise could also be done using a collaborative writing tool, such as Google Docs, Authorea, or Overleaf/ShareLaTeX. 
-
-##### **Example 20: Open peer review - your 2 cents**
-
-* Format, time needed 
-
-    * Plenary, ~1.5 hour with discussion
-
-* Topic
-
-    * [Open Peer Review, Metrics and Evaluation](/02OpenScienceBasics/08OpenPeerReviewMetricsAndEvaluation.md)
-
-* Learning objectives
-
-    * Realize there are many aspects to open peer review and have knowledge of those different aspects of open peer review
-
-    * Form an opinion on which aspects of open peer review would most benefit science   
-
-    * Have insights in the benefits and possible drawbacks of different aspects of open peer review, from the perspective of the reader, author and reviewer
-
-* Exercise description
-
-    * Introducing different aspects of peer review, including some examples of journals/platforms where they are put in practice
-
-    * Ask participants to individually identify two to three aspects of open peer review they feel would contribute most to open science.
-
-    * On a large printout, participants place a two-cent coin on each of the aspects they selected in the previous step
-
-    * The results are viewed together and the most often chosen aspects identified
-
-    * In small groups, participants then take the role of reader, author, or reviewer (all should be present in each group). They then discuss one of the aspects of open peer review from the perspective of their taken roles. What are the benefits and potential drawbacks?
-
-    * Small groups then report back to the whole group, and additional perspectives/viewpoints can be discussed. 
-
-![image alt text](/Images/image_13.png)
-
-* Materials and tools needed
-
-    * Large printout of [dimensions of peer review](https://doi.org/10.6084/m9.figshare.4210293): one for each participant and a  communal one ([presentation with animated slides](https://doi.org/10.6084/m9.figshare.4210254) also available)
-
-    * Two-cent coins (if available in your monetary system, otherwise any low-denomination coins will do)
-
-![image alt text](/Images/image_14.png)
-
-* Level of prior knowledge needed
-
-    * None, some familiarity with the traditional process of peer review is helpful
-
-* Things to bear in mind
-
-    * For people not familiar with developments in open peer review, some aspects may require more explanation—plan enough time for that
-
-    * In discussions, it can be hard for people to separate their personal opinion from their assigned role. Encourage and remind people to stick to their role where necessary.
-
-    * The number of coins per person depends on the number of participants (e.g., three for smaller groups, two for larger groups)
-
-* How to adapt for other purposes
-
-    * The concept of voting with coins ("your two cents") can be applied to other topics, as can the assignment of roles in small group discussions
-
-##### **Example 21: Taking a stance** 
-
-* Format, time needed
-
-    * Plenary, 15 minutes 
-
-* Topic
-
-    * [Open Science Policies](/02OpenScienceBasics/09OpenSciencePolicies.md)
-
-* Learning objectives 
-
-    * Get participants to take a stance on Open Science policies or principles
-
-    * Show similarity or diversity of opinions across participants 
-
-* Exercise description
-
-    * Ask participants to express their opinion on two questions about Open Science policies or principles.
-
-    * Responses should lie on a linear scale between two extremes (e.g., strongly disagree–strongly agree)
-
-    * Participant vote using an online tool, or by placing sticky dots on a sheet of paper with axes representing the two answer ranges
-
-    * Results are shown to the group, and the similarity or diversity of responses is discussed, e.g., by asking one respondent from each quadrant to explain their opinion. 
-
-    * Example question and results:
-
-        1. For individual researchers, does Open Science have more costs or benefits?
-
-        2. Should Open Science be organized bottom-up or top-down?
-
-![image alt text](/Images/image_15.png)
-
-* Materials and tools needed
-
-    * Access to an online tool like [Mentimeter](https://www.mentimeter.com/); a paid account allows export of the results but is not required for this exercise
-
-    * For each participant, access to smartphone, tablet, or computer with internet access
-
-    * Offline alternative: large paper with axes printed or drawn, sticky dots
-
-* Level of prior knowledge needed
-
-    * None; some background knowledge on the topic is useful to get informed opinions rather than gut feelings (although the latter may be useful to collect too)
-
-* Things to bear in mind
-
-    * If done on paper, it might make sense to have people mark down their answer  individually first, before placing their dot on the map. This prevents peer pressure / bias.
-
-* How to adapt for other purposes
-
-    * This exercise can be adapted to many different questions and topics
-
-    * An alternative online tool (that is also open source) for these kind of exercises is SimpleVote ([https://simplevote.ml](https://simplevote.ml))
-
-    * If the audience is heterogeneous (i.e., researchers, research support people, policy makers) it is informative to distinguish between the different groups, e.g., by creating a separate question for each (in Mentimeter), or using different color sticky dots (on paper)
-
-    * For sticky dots, choose a combination that is colour-blind friendly
-
-##### **Example 22: Plain language explanations** - in progress
-
-* Format, time needed 
-
-    * Small groups, 2–3 hours
-
-* Topic 
-
-    * [Citizen Science](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/blob/master/02OpenScienceBasics/10CitizenScience.md)
-
-    * [Collaborative Platforms](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/blob/master/02OpenScienceBasics/07CollaborativePlatforms.md)
-
-* Learning objectives 
-
-* Exercise description
-
-* Materials and tools needed
-
-* Level of prior knowledge needed
-
-* Things to bear in mind
-
-* How to adapt for other purposes
-
-##### **Example 23: Devil’s advocate - convincing the skeptics**
-
-* Format, time needed 
-
-    * Small groups, 30 minutes
-
-* Topic
-
-    * [Open Advocacy](/02OpenScienceBasics/12OpenAdvocacy.md)
-
-* Learning objectives
-
-    * Formulate arguments against common objections to open science practices
-
-    * Practice discussion with people questioning the value of open science
-
-* Exercise description
-
-    * In small groups of three or four, have one or two person(s) assume the role of open science skeptic and the others the role of open science advocate. 
-
-    * Have the "open science advocates" try to convince the “open science skeptics”
-
-    * After 10 minutes, have participants switch roles and have another discussion (not repeating the same arguments)
-
-    * After two rounds, gather as a group as share experiences. Which arguments were the hardest to refute? Which arguments worked best to convince the skeptics? Do participants feel these be arguments would be useful in real-life situations as well?
-
-* Materials and tools needed
-
-    * none; flexible room setup is useful to allow groups to spread across the room
-
-* Level of prior knowledge needed
-
-    * Familiarity with open science concepts
-
-* Things to bear in mind
-
-    * Encourage the open science skeptics to get into their role as much as possible. Often, people really enjoy taking on this role!
-
-    * Be sure to switch roles to give everyone the chance to experience this exercise from both perspectives. 
-
-* How to adapt for other purposes
-
-    * This exercise could be focused on specific aspects of open science
-
-##### **Example 24: Set up OSF project & link to other platforms - in progress**
-* Format, time needed 
-
-    * Individually or in pairs
-
-* Topic 
+<table>
+<tr>
+<td>8
+</td>
+<td>
+Partage
+des données - le bingo des bonnes excuses
+</td>
+<td>
+Données
+et matériaux de la recherche ouverte
+</td>
+<td>
+Groupe entier
+</td>
+<td>
+20-30
+minutes
+</td>
+</tr>
+<tr>
+<td>
+9
+</td>
+<td>
+Moi et mes données -
+Datagrammes
+</td>
+<td>
+Données et matériaux de la
+recherche ouverte
+</td>
+<td>
+Groupe entier
+</td>
+<td>
+1-4 heures
+</td>
+</tr>
+<tr>
+<td>
+10
+</td>
+<td>
+Trouver
+son entrepôt de données
+</td>
+<td>
+Données
+et matériaux de la recherche ouvertes
+</td>
+<td>
+Seul ou en binôme
+</td>
+<td>
+10-15
+minutes
+</td>
+</tr>
+<tr>
+<td>
+11
+</td>
+<td>De quoi a-t-on besoin pour
+publier ses données ?
+</td>
+<td>
+Données
+et matériaux de la recherche ouvertes
+</td>
+<td>
+Groupe entier
+</td>
+<td>
+10
+minutes
+</td>
+</tr>
+<tr>
+<td>
+12
+</td>
+<td>
+Créer
+des métadonnées
+</td>
+<td>
+Données
+et matériaux de la recherche ouvertes
+</td>
+<td>
+Seul ou en binôme
+</td>
+<td>
+5
+minutes
+</td>
+</tr>
+<tr>
+<td>
+13
+</td>
+<td>
+Démarrer avec le partage
+ouvert de logiciels
+</td>
+<td>
+Logiciels
+libres pour la recherche et open source
+</td>
+<td>
+Seul ou en binôme
+</td>
+<td>
+20-30
+minutes
+</td>
+</tr>
+<tr>
+<td>
+14
+</td>
+<td>Flux de travail pour des
+données reproductibles et analysables
+</td>
+<td>
+Recherche
+reproductible et analyse des données
+</td>
+<td>
+Seul ou en binôme
+</td>
+<td>
+4-8
+heures
+</td>
+</tr>
+<tr>
+<td>
+15
+</td>
+<td>
+Choisir la bonne version
+d’archive ouverte
+</td>
+<td>
+Recherche
+reproductible et analyse de données
+</td>
+<td>
+Seul ou en binôme
+</td>
+<td>
+15-20
+minutes
+</td>
+</tr>
+<tr>
+<td>
+16
+</td>
+<td>
+Formats
+de fichiers ouverts
+</td>
+<td>
+Licences
+et formats de fichiers ouverts
+</td>
+<td>
+Groupe entier
+</td>
+<td>
+10-15
+minutes
+</td>
+</tr>
+<tr>
+<td>
+17
+</td>
+<td>
+Associer les licences
+Creative Commons 
+</td>
+<td>
+Licences et formats de
+fichiers ouverts
+</td>
+<td>
+Groupe entier
+</td>
+<td>
+5-10 minutes
+</td>
+</tr>
+<tr>
+<td>
+18
+</td>
+<td>
+Ressources
+éducatives libres (REL) - Remix
+</td>
+<td>
+Licences et formats de
+fichiers ouverts
+Ressources
+éducatives libres
+</td>
+<td>
+Groupe entier
+</td>
+<td>
+10-15
+minutes
+</td>
+</tr>
+<tr>
+<td>
+19
+</td>
+<td>
+Evaluation ouverte par les
+pairs - les participants évaluent réciproquement leurs textes de
+façon ouverte
+</td>
+<td>
+Evaluation
+ouverte par les pairs et métriques
+</td>
+<td>
+Petits groupes
+</td>
+<td>
+1h30
+</td>
+</tr>
+<tr>
+<td>
+20
+</td>
+<td>
+Evaluation ouverte par les
+pairs - vos 2 centimes
+</td>
+<td>
+Evaluation ouverte par les
+pairs et métriques
+</td>
+<td>
+Groupe entier
+</td>
+<td>
+1h30
+</td>
+</tr>
+<tr>
+<td>
+21
+</td>
+<td>
+Prendre position
+</td>
+<td>
+Politiques de la science
+ouverte
+</td>
+<td>
+Groupe entier
+</td>
+<td>
+10 minutes
+</td>
+</tr>
+<tr>
+<td>
+22
+</td>
+<td>
+Explication en langage
+courant (Chantier en cours)
+</td>
+<td>
+Science citoyenne et
+Plateformes collaboratives de communication scientifique
+</td>
+<td>
+Petits  groupes
+</td>
+<td>
+2-3
+heures
+</td>
+</tr>
+<tr>
+<td>
+23
+</td>
+<td>
+L’avocat du diable -
+convaincre les sceptiques
+</td>
+<td>
+Plaidoyer
+pour la science ouverte
+</td>
+<td>
+Petits  groupes
+</td>
+<td>
+30
+minutes
+</td>
+</tr>
+<tr>
+<td>
+24
+</td>
+<td>
+Construire un cadre de
+travail “science ouverte” et le lier à d’autres plateformes
+(Chantier en cours)
+</td>
+<td>
+Données
+et matériaux de la recherche ouverte
+</td>
+<td>
+Seul ou en binôme
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td>
+25
+</td>
+<td>
+Le
+piège à la publication (chantier en cours)
+</td>
+<td>
+Accès
+ouvert aux résultats de la recherche publiés
+</td>
+<td>
+Exercice en petits groupes
+</td>
+<td>
+2
+heures
+</td>
+</tr>
+<tr>
+<td>
+26
+</td>
+<td>
+(Chantier
+en cours)
+</td>
+<td>
+Données
+et matériaux de la recherche ouverte
+</td>
+<td>
+Exercice en petits groupes
+</td>
+<td>4 jours (5 heures par jour)
+</td>
+</tr>
+<tr>
+<td>
+27
+</td>
+<td>
+“Former le formateur” -
+Jeu de cartes pour la formation à la science ouverte
+</td>
+<td>
+Plaidoyer
+pour la science ouverte
+</td>
+<td>
+Exercice en petits groupes
+</td>
+<td>
+2
+heures
+</td>
+</tr>
+</table>
+
+#### Exemple 1 : Entrez en ligne !
+
+* Format, durée nécessaire
+   * Exercice en groupe, 5--10 minutes
+
+* Thème sujet
+
+    * Briser la glace, peut être lié au thème de la formation ou non
+
+* Objectifs d'apprentissage
+
+    * Amener les participants à se détendre
+
+* Description de l'exercice
+
+    * Une ligne imaginaire dans la classe figure un spectre allant de "Tout à fait d'accord" à "Pas du tout d'accord". l'un des participants ou l'animateur, énonce une affirmation (qui peut être liée ou non au thème de la formation : cela peut aller de : "Les données fermées ne devraient pas être citées" à "Les leggings ne sont pas des pantalons"). Tous les participants doivent se positionner sur la ligne imaginaire selon leur opinion. L'animateur demande à certains d'expliquer leur *positionnement* (au sens propre !).
+
+* Matériel et outils nécessaires
+
+    * aucun
+
+* Prérequis nécessaire
+
+    * aucun
+
+* Éléments à garder à l'esprit
+
+    * Attention à ne pas donner la parole uniquement à ceux qui ont choisi des *positions* extrêmes. Demandez aux personnes qui sont restées au milieu d'expliquer leur point de vue.
+
+* Comment adapter l'exercice à un autre usage
+
+    * adapter le type de question à la situation. Pour un nouveau groupe, autoriser les participants à proposer une affirmation hors-sujet ou triviale, mais cette technique peut aussi être utilisée pour prendre la température sur certains sujets polémiques en lien avec le thème [de l'atelier,] en particulier avec des gens qui travaillent déjà ensemble depuis un certain temps (par exemple le deuxième jour d'une formation/de l'atelier).
+
+#### Exemple 2: Priorisation des besoins de formation 
+
+* Format, temps nécessaire
+
+    * Plénière, ~10 minutes
+
+* Sujet
+
+     * [Open Concepts and Principles](/02OpenScienceBasics/01OpenConceptsAndPrinciples.md)
+
+* Objectifs de formation
+
+    * Identifier les lacunes en termes de connaissances / les domaines dans lesquels les participants estiment qu'ils bénéficieraient le plus d'une formation.
+
+     * (facultatif) Identifier les domaines dans lesquels les participants se sentent compétents (et peuvent donc partager leurs propres connaissances).
+
+    * Description de l'exercice
+
+    * Présentation succincte du cycle de la recherche et des activités correspondantes.
+
+    * Demandez aux participants d'identifier individuellement deux ou trois activités pour lesquelles ils auraient le plus grand intérêt à recevoir une formation (en lien avec la science ouverte).
+
+    * Facultativement, demandez également aux participants quels sont les deux ou trois domaines dans lesquels ils se sentent déjà compétents (là encore, en relation avec la science ouverte).
+
+    * Sur les imprimés individuels, les participants utiliseront des gommettes pour chaque question.
+
+    * Les participants colleront ensuite des gommettes similaires sur l'imprimé commun.
+
+    * Discutez des résultats avec l'ensemble du groupe. Assurez-vous que lorsque les personnes verront les points indiqués, elle se rendent compte qu'elles ont aussi une grande opportunité d'apprendre avec l'aide des autres participants.
+
+
+![](Images/image_7.png)
+
+* Outils nécessaires
+
+    * Version imprimée du Cycle de la recherche et ses activités pour chaque participant + 1 imprimé commun
+    
+    * Gommettes de deux couleurs différentes
+
+![](Images/image_8.png)
+
+* Prérequis
+    
+    * Aucun. Une certaine familiarité avec le cycle de la recherche est utile.
+
+* Éléments à garder à l'esprit
+
+    * Le meilleur moment pour utiliser cet exercice est au début d'un programme de formation long pendant lequel plusieurs sujets seront abordés.
+
+    * Pour les gommettes, choisissez une combinaison de couleurs adaptée aux daltoniens.
+
+    * Le nombre d'activités à choisir dépend du nombre de participants (par exemple, trois pour les petits groupes, deux pour les grands groupes).
+
+    * Les impressions individuelles sont utilisées pour éviter la pression des pairs et les biais.
+
+    * Les impressions individuelles peuvent être conservées à titre de référence pendant le reste de la formation.
+
+* Comment adapter l'exercices pour d'autres usages
+
+    * Cet exercices peut aisément être adapté pour prioritiser d'autre sujets.
+
+##### **Exemple 3 : Sélection des pratiques de la science ouverte**
+
+* Format, temps nécessaire
+
+    * Plénière, 1 heure à 1h30
+
+* Sujet
+
+    * Concepts et principes ouverts
+
+* Objectifs pédagogiques
+
+    * Découvrir le panorama des pratiques de la science ouverte dans l'ensemble du processus de recherche.
+
+    * Évaluer les pratiques sur lesquelles il serait le plus possible et le plus efficace de se concentrer.
+
+* Description de l'exercice
+
+    * Avant l'exercice, triez les cartes selon la phase ou selon l'activité de recherche et répartissez-les dans la salle (par exemple, sur des tables ou sur une grande partie du sol).
+
+    * Marquez sur une grande portion de mur (les fenêtres ou des tableaux d'affichage peuvent également être utilisés) les différentes phases du cycle de recherche (par exemple, préparation, découverte, analyse, rédaction, publication, sensibilisation, évaluation).
+
+    * Demandez aux participants de sélectionner les pratiques qu'ils jugent vraiment importantes pour la science ouverte, et accrochez-les au mur, regroupées par phase de recherche.
+
+    * Encouragez les participants à ajouter des pratiques de recherche qui ne figurent pas sur les cartes.
+
+    * Répartissez les participants en sept groupes.
+
+    * Chaque groupe examine les pratiques sélectionnées pour une phase de recherche et choisit les deux pratiques qu'il juge *les plus faciles à mettre en œuvre* et *les plus efficaces* *pour rendre la recherche plus ouverte*. Déplacez les cartes qu'ils auront choisies plus haut sur le mur ou retirez les autres cartes.
+
+    * Les petits groupes expliquent leur choix aux autres participants.
+
+    * Prises ensemble, les pratiques de recherche sélectionnées peuvent former un schéma directeur d'un flux de travail scientifique ouvert.
+    
+    * Comme exercice de suivi, les participants peuvent discuter des étapes possibles pour mettre en œuvre ces pratiques :
+
+        1. quels outils/plateformes peuvent être utilisés
+
+        2. quels seraient les incitations et les obstacles potentiels
+
+        3. quel soutien serait nécessaire
+
+        4. quels changements de politique seraient nécessaires
+
+
+![](/Images/image_9.png)
+
+![](/Images/image_10.png)
+
+![](/Images/image11.png)
+
+* Matériel et outils nécessaires
+
+    * Un grand mur, des fenêtres, ou plusieurs panneaux d'affichage pour y accrocher des supports
+
+    * Suffisamment d'espace pour se déplacer
+
+    * Des cartes imprimées avec des pratiques scientifiques ouvertes SMASH (également disponibles sous forme de diapositives PowerPoint modifiables SMASH ou dans un tableur Google)
+
+    * Des cartes vierges, des stylos / des marqueurs
+
+    * Des punaises ou du ruban adhésif
+
+* Prérequis nécessaires
+
+    * Aucun, une certaine familiarité avec le processus de recherche est utile.
+
+* Éléments à garder à l'esprit
+
+    * En fonction du nombre de participants, des petits groupes peuvent établir des priorités de pratiques pour plus d'une phase de recherche.
+
+    * Testez d'abord l'utilisation du ruban adhésif sur les fenêtres/murs, certains types sont vraiment difficiles à enlever :-)
+
+    * L'ensemble du groupe peut ne pas être d'accord avec la sélection de pratiques du petit groupe pour une phase de recherche donnée. Décidez au préalable s'il faut s'en tenir aux choix faits, ou s'il y a place pour une discussion et un changement de pratiques sur la base d'un consensus.
+
+* Comment adapter l'exercice pour d'autres usages ?
+
+    * L'exercice pourrait être modifié pour se concentrer sur des activités spécifiques / une phase spécifique du cycle de recherche (par exemple, la publication ou l'évaluation).
+
+    * Il est possible d'utiliser d'autres critères de sélection, par exemple les pratiques que les participants utilisent eux-mêmes, ou les pratiques qui seraient les plus optimales (indépendamment de la faisabilité/des efforts nécessaires).
+
+##### **Exemple 4 - Sujets de discussion autour de la science ouverte** 
+
+* Format et temps nécessaire
+
+    * En petits groupes, 20 à 30 minutes
+
+* Sujet
+
+    * Concepts et principes de l'ouverture
+
+* Objectifs d'apprentissage
+
+    * Confronter ses propres expériences et opinions sur la science ouverte avec le point de vue des autres participants.
+
+![](Images/image_12.png)
+
+* Description de l'exercice
+
+    * Répartissez les participants en groupes de quatre ou cinq et distribuez les sujets de discussion (par exemple, imprimés sur papier).
+
+    * Demandez aux participants à l'intérieur de chaque groupe d'échanger leurs points de vue
+
+    * (Facultatif) Demandez à chaque groupe de résumer les points les plus importants qui ont été soulevés pour l'ensemble du groupe.
+
+    * Quelques suggestions de thèmes :
+        
+        5. "Travailler dans un esprit de science ouverte rend la recherche plus amusante"
+
+        6. "La concurrence est un problème sérieux qui rend l'adoption de la science ouverte difficile"
+
+        7. "Les APC (frais de publication) sont le principal obstacle à la publication d'un plus grand nombre d'ouvrages en libre accès"
+
+        8. "Nous avons besoin d'un soutien plus explicite des bailleurs de fonds et du gouvernement en faveur de la science ouverte"
+
+        9. "S'engager dans une évaluation ouverte par les pairs est problématique pour les jeunes chercheurs qui veulent faire carrière"
+
+        10. "Nous devrions prendre les scientifiques citoyens plus au sérieux et ne pas les considérer uniquement comme des fournisseurs de données".
+
+        11. "Les facteurs d'impact sont un symptôme et non la cause de la course aux publications"
+
+        12. "Il n'y a absolument aucune raison de ne pas prépublier un article dès qu'il est prêt".
+
+        13. "Le simple partage de nos données est une bonne chose, mais pour accélérer la science, nous devons également travailler sur l'interopérabilité et la réutilisation de ces données"
+
+        14. "Partager des idées et des projets par le biais de ResearchGate est un bon moyen de faire connaître notre recherche"
+
+        15. "Les exigences de nos porteurs de projets scientifiques sont probablement la principale raison pour laquelle les jeunes chercheurs ne s'engagent pas davantage dans la science ouverte."
+
+        16. "Nous devrions nous efforcer de créer une sorte de "patrimoine commun" dans lequel nous partagerions tous nos résultats et objets de recherche afin de favoriser la collaboration et la réutilisation".
+
+* Matériel et outils nécessaires*
+    
+    * Des feuilles sur lesquelles ont été imprimés les sujets de discussion
+
+* Prérequis nécessaires
+
+    * Une certaine familiarité avec le système de recherche.
+
+* Éléments à garder à l'esprit
+
+    * Cet exercice est avant tout destiné aux chercheurs (plutôt qu'aux personnels dans les fonctions support), car ils peuvent se référer directement à leur propre situation et parler de leur propre expérience.
+
+* Comment adapter l'exercice à d'autres usages
+
+    * En modifiant les thèmes de discussion, cet exercice peut être adapté à d'autres sujets.
+
+##### **Exemple 5 : Café LIBER Open Science**
+
+* Format, temps nécessaire
+
+    * En petits groupes, 1 heure et demie 
+
+* Sujet
+    
+    * [Concepts et principes ouverts](/02OpenScienceBasics/01OpenConceptsAndPrinciples.md)
+
+* Objectifs d'apprentissage
+
+    * Acquérir des connaissances sur les différents aspects de la science ouverte. 
+
+    * Mettre en relation les différentes parties prenantes pour discuter des déclarations et des sujets. 
+
+
+* Matériel et outils nécessaires
+
+    * Le jeu de cartes LIBER Science Café, ou une pile d'affirmations écrites préparées sur le modèle de World Café 
+
+    * Une table pour 6 à 8 personnes 
+
+* Description de l'exercice
+
+    * Mise en place : 6 à 8 personnes se réunissent autour d'une table. Elles désignent un arbitre, dont le rôle sera de diriger et de modérer les débats, ainsi qu'un(e) secrétaire, qui prendra des notes. Pour lancer la discussion, on leur fournit un jeu de cartes portant des affirmations et des questions liées à la science ouverte et aux projets en jeu. Ces énoncés servent à amorcer la conversation. Quelqu'un choisit une carte, le groupe en parle pendant un certain temps, puis on peut passer à la carte suivante. Ainsi, les participants apprennent les uns des autres et commencent à réfléchir à la situation dans son ensemble. Pendant ce temps, vous pouvez recueillir des informations précieuses auprès des différentes parties prenantes. 
+
+    * Le rôle du (de la) secrétaire est de recueillir les points intéressants de la conversation de deux manières différentes : 
+
+        17. Les cartes mentales : Vous pouvez utiliser ces cartes pour les sujets qui suscitent beaucoup d'attention lors de la conversation. Si les choses vont trop vite, n'ayez pas peur d'interrompre la conversation et de demander aux personnes d'apporter leur contribution à cette carte mentale. Écrivez le sujet principal au centre et travaillez à partir de là. Est-il difficile de trouver des liens ? Vous pouvez également recueillir des pensées et des déclarations disparates ici. 
+
+        18. La carte de citations et idées brillantes : Parfois, quelqu'un dit quelque chose qui est tout simplement WAOUH !, trouve le mot juste, ou met le doigt sur un point-clé. Pour cela, vous disposez de la carte "citations et idées brillantes". Vous n'en avez qu'une, il vous faudra donc être très sélectif. Si vous pensez qu'une idée ou une remarque mérite de figurer sur cette carte, n'hésitez pas et faites-le savoir. 
+
+    * Après 20 à 30 minutes, demandez aux groupes de changer de table. Les arbitres et secrétaires restent assis à la même place. 
+
+    * À la fin, chaque modérateur fait un rapport sur ce que les différents groupes ont dit à sa table. 
+
+
+##### **Exemple 6: Quelles données de recherche pour moi ?** 
+
+* Format, temps nécessaire
+
+    * Individuel/Binôme, 15 minutes
+
+* Sujet
 
     * [Open Research Data and Materials](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/blob/master/02OpenScienceBasics/02OpenResearchDataAndMaterials.md)
 
-* Learning objectives 
+* Objectifs pédagogiques
 
-* Exercise description
+    * Comprendre ses propres données et les données de son domaine de recherche
 
-   * Create an OSF collaborative environment from data to publication.
-   
-      * Connect your OSF project to GitHub.
+* Description de l'exercice
 
-      * Upload any raw code, images, data, tables to project.
+    * Laissez les participants réfléchir aux derniers articles qu'ils ont écrits / lus. Y avait-il du matériel supplémentaire (p. Ex. tableaux, images) ? Laissez-les noter des exemples et des types de données dans leur domaine de recherche. De quelles informations ou données auraient-ils besoin pour réanalyser un article ? Que faudrait-il pour que leur propre thèse / article soit bien compris ? Laissez-les présenter leurs résultats soit par binôme / groupes, puis en plénière
 
-      * Obtain a DOI and ARK identifier for your project.
+* Matériel et outils nécessaires
 
-* Materials and tools needed
+    * Du papier et un crayon
 
-* Level of prior knowledge needed
+* Prérequis nécessaires
 
-* Things to bear in mind
+    * Aucune connaissance préalable requise
 
-* How to adapt for other purposes
+* A garder à l'esprit
 
+    * Donnez aux participants suffisamment de temps pour réfléchir
 
-##### **Example 25: The publishing trap - in progress**
-* Format, time needed 
+* Comment s'adapter à d'autres finalités ?
 
-    * Small group exercise, 2 h
+    * Vous pouvez raccourcir l'activité en évitant le travail en binôme / en groupe et en discutant simplement en plénière.
 
-* Topic 
+##### **Exemple 7 : Pourquoi ne pas partager ses données ?** 
 
-    * [Open Access to Published Research Results](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/blob/master/02OpenScienceBasics/05OpenAccessToPublishedResearchResults.md)
+* Format, temps nécessaire
 
-* Learning objectives 
-   * "The game lets you explore the impact of scholarly communications choices and discuss the role of open access in research by following the lives of four researchers, from doctoral research to their academic legacies." [blogs.kent.ac.uk](https://blogs.kent.ac.uk/osc/2017/10/09/publishing-trap/)
+    * Petits groupes, ~ 20 minutes
 
-* Exercise description
+* Sujet
 
-   * "It is played by four teams of up to four people – sat around a game board and using a playbook to guide the decisions the teams must make. The workshop leader acts as a host and presents the scenarios to the teams during each round. Each round involves making three decisions about publishing choices. After hearing the scenario, each team chooses from the pre-determined options. At the end of each round, the teams discuss the decisions they have reached and are asked to justify their choices." [copyrightliteracy.org](https://copyrightliteracy.org/resources/the-publishing-trap/)
-   
-* Materials and tools needed
+    * [Données et outils de la recherche ouverte](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/blob/master/02OpenScienceBasics/02OpenResearchDataAndMaterials.md)
 
-   * The board, cards, booklets, points and other object has to be downloaded, printed and cut out. They plan to also have a professionally produced game available to purchase. Materials are available here: [copyrightliteracy.org](https://copyrightliteracy.org/resources/the-publishing-trap/the-publishing-trap-resources/)
+* Objectifs pédagogiques
 
-* Level of prior knowledge needed
-   
-   * "The Publishing Trap is aimed at early career researchers and academics, as well as anyone who has a vested interested in understanding how access to information works and how the whole scholarly communication system in higher education operates." [copyrightliteracy.org](https://copyrightliteracy.org/resources/the-publishing-trap/)
+    * Encourager les participants à réfléchir aux obstacles éthiques et pratiques du partage de données et à examiner de manière critique leurs croyances en la matière.
 
-* Things to bear in mind
-   
-   * Maybe stimulate discussions during the game play
-   
-* How to adapt for other purposes
+* Description de l'exercice
 
-* Licensing conditions
-   
-   * The beta version of the game is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 Licence.
-   
-   
-##### **Example 26: - in progress**
+    * En binômes ou en petits groupes, les participants disposent de cinq minutes pour dresser une liste, la plus longue possible, de toutes les raisons pour lesquelles les chercheurs pourraient ne pas souhaiter partager leurs données. Les participants font ensuite un bilan des arguments listés, discutent de leur validité ou non, et des stratégies pour surmonter les préoccupations légitimes. L'équipe qui a listé le plus de préoccupations légitimes gagne (récompense facultative).
 
-* Format, time needed 
+* Matériel et outils nécessaires
 
-    * Small groups, 4 days (5 hours/day)
+    * Matériel de prise de notes (stylo, papier ou document en ligne) ; Facultatif : une récompense.
 
-* Topic 
+* Niveau de connaissance requis
+
+    * Connaissance pratique de l'utilisation de données
+
+* Éléments à garder à l'esprit
+
+    * L'exercice doit être ludique et les participants doivent être encouragés à proposer des exemples ludiques et des exemples sérieux.
+
+* Comment s'adapter à d'autres finalités ?
+
+    * Le même format pourrait facilement être adapté à de nombreux autres éléments de la science ouverte, par exemple, le libre accès (pourquoi ne pas publier en Libre Accès, etc.)
+
+##### **Exemple 8 : Bingo des "Excuses sur l'ouverture des données"** 
+
+* Format, temps nécessaire
+
+    * Exercice en groupe, 20-30 minutes
+
+* Sujet
 
     * [Open Research Data and Materials](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/blob/master/02OpenScienceBasics/02OpenResearchDataAndMaterials.md)
 
-* Learning objectives 
-   
-   * The participants understand the basics of open data and reproducible research, understand the stages to setup a research data management plan, and can build their own data repository. 
+* Objectifs pédagogiques
 
-* Exercise description
+    * Connaître les idées reçues qui empêchent le partage des données de recherche et de comprendre les avantages de l'ouverture des données
 
-1. the knowledge about repository and licensing
-2. data assessment: types, sum, sensitivity
-3. setting up a research data management plan using DMPtool
-4. setting up an OSF repository
-5. using Git for version control
-6. integrating GitHub, Google Drive, and other services to OSF project 
-7. using R, R Studio, and R Markdown to create a reproducible research
-8. exercise in creating a citizen science project 
+* Description de l'exercice
 
-* Materials and tools needed
+    * Cet exercice devrait être utilisé en début de formation. Les participants sont séparés en deux groupes ou plus (selon leur nombre). Un formateur veille à ce qu'un groupe développe des arguments « pour » et les autres des arguments « contre ». En petits groupes, les participants discutent des excuses déjà définies au ["Open Data Excuse" Bingo](http://data.dev8d.org/devbingo/bingo.php?n=1&w=4&h=4&title=%22Open+Data+Excuse%22+Bingo&tag=%23openDataExcuses&statements=Terrorists+will+use+it%0D%0AData+Protection%0D%0ALawyers+want+a+custom+License%0D%0APoor+Quality%0D%0AThieves+will+use+it%0D%0AWe%27ll+get+spam%0D%0AIt%27s+not+very+interesting%0D%0AIt%27s+too+complicated%0D%0AThere%27s+no+API%0D%0AWhat+if+we+want+to+sell+it+later%0D%0AI+don%27t+mind,+but+someone+else+might%0D%0AIt%27s+too+big%0D%0AThere%27s+already+a+project+to...%0D%0APeople+may+misinterpret+the+data%0D%0AWe+might+want+to+use+it+in+a+paper%0D%0AWe+will+get+too+many+enquiries&rules=%3Cp%3EFor+open+data+teams;+print+out+a+copy+and+put+it+on+your+office+wall.+Cross+out+each+excuse+people+give+you.+There+are+no+prizes,+but+you+can+tweet+%22bingo!+%23openDataExcuses%22+if+you+think+it+might+make+you+feel+better*.%3C/p%3E%0D%0A%0D%0A%3Cp+style%3D%27font-size:80%25%27%3E*+it+won%27t%3C/p%3E), ce sont des arguments couramment utilisés par les chercheurs pour expliquer pourquoi ils ne peuvent pas partager leurs données. Pendant les 10 dernières minutes, les groupes doivent confronter leurs arguments. Un formateur aide les participants à développer des arguments pour ouvrir leurs données et à mieux comprendre l'idée de partager leurs données.
 
-   * Registration of: ORCID, OSF, GitHub, and DMPTool
-   * Downloading and installing: Git, R, and R Studio
+* Matériel et outils nécessaires
 
-* Level of prior knowledge needed
+    -   Impression des documents ["Open Data Excuse" Bingo](http://data.dev8d.org/devbingo/bingo.php?n=1&w=4&h=4&title=%22Open+Data+Excuse%22+Bingo&tag=%23openDataExcuses&statements=Terrorists+will+use+it%0D%0AData+Protection%0D%0ALawyers+want+a+custom+License%0D%0APoor+Quality%0D%0AThieves+will+use+it%0D%0AWe%27ll+get+spam%0D%0AIt%27s+not+very+interesting%0D%0AIt%27s+too+complicated%0D%0AThere%27s+no+API%0D%0AWhat+if+we+want+to+sell+it+later%0D%0AI+don%27t+mind,+but+someone+else+might%0D%0AIt%27s+too+big%0D%0AThere%27s+already+a+project+to...%0D%0APeople+may+misinterpret+the+data%0D%0AWe+might+want+to+use+it+in+a+paper%0D%0AWe+will+get+too+many+enquiries&rules=%3Cp%3EFor+open+data+teams;+print+out+a+copy+and+put+it+on+your+office+wall.+Cross+out+each+excuse+people+give+you.+There+are+no+prizes,+but+you+can+tweet+%22bingo!+%23openDataExcuses%22+if+you+think+it+might+make+you+feel+better*.%3C/p%3E%0D%0A%0D%0A%3Cp+style%3D%27font-size:80%25%27%3E*+it+won%27t%3C/p%3E)
 
-   * A basic knowledge in R, R Studio, and Git would be a plus.
-   
-* Things to bear in mind
+* Prérequis nécessaires
 
-   * He/she may have to put more time in explaining the concept of open data and why people should do it. Most debates occur in this preliminary stage.
+    * Les participants doivent avoir une expérience de terrain de la création / collecte de données de recherche.
 
-* How to adapt for other purposes
+* Éléments à garder à l'esprit
 
-   * The exercise is made especially for geo/spatial sciences, but most part of it can used for any science, including citizen science project.
-   
- * Licensing conditions
- 
-   * CC BY - [Dasapta Erwin Irawan](dasaptaerwin@gmail.com), INArxiv, Institut Teknologi Bandung; [Willem Vervoort](willem.vervoort@sydney.edu.au), The University of Sydney; [Gene Melzack](gene.melzack@sydney.edu.au), The University of Sydney
+    * Faites le tour des groupes et essayez de les aider à construire des arguments si besoin. Aidez en particulier le groupe « pour » qui est censé développer des arguments solides en faveur du partage des données. Une aide supplémentaire peut s'avérer nécessaire pour que ces participants soient les plus forts possible lors de la confrontation avec les participants du groupe « contre ».
+
+* Comment adapter l'exercice à d'autres usages
+
+    * Cet exercice peut être adapté à d'autres sujets (mais le matériel devra également être adapté)
+
+##### **Exemple 9 : Moi et mes données - Datagrammes** 
+
+* Format, temps nécessaire
+
+    * Exercice en groupe, 1 à 4 heures (si effectué dans le cadre d'un atelier)
+
+* Sujet
+
+    * [Ouverture des données de la recherche](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/blob/master/02OpenScienceBasics/02OpenResearchDataAndMaterials.md)
+
+* Objectifs d'apprentissage
+
+    * Comprendre ce que sont les données et quel type d'entrepôt est nécessaire pour les stocker correctement
+
+* Description de l'exercice
+
+    * Les participants sont invités à réfléchir aux derniers travaux de recherche qu'ils ont effectués dans le cadre d'une thèse ou d'un mémoire (licence, master ou doctorat) et à se pencher sur le type de données qu'ils ont produites.
+
+    * Ils vont ensuite créer un datagramme, c'est-à-dire noter sur une carte
+
+        * La discipline correspondant au sujet
+
+        * Le titre de la thèse
+
+        * Une série de lettres indiquant :
+
+            * Le format (tel que pdf, doc, csv ou autre)
+
+            * La taille (kb, mb, gb, tb, etc.)
+
+    * Le support (comme « a » pour analogique, « d » pour numérique, c'est-à-dire numérisé, et « b » pour nativement numérique, ou encore une combinaison des trois supports)
+
+    * Et enfin le type de données, en distinguant grossièrement O pour les données d'observation, E pour les expériences, S pour les simulations, D pour les dérivations, R pour les références et D pour les données numérisées, ou des combinaisons de celles-ci.
+
+    * Après ces étapes, toutes les cartes sont finalement regroupées sur un mur en fonction des catégories/lettres (format, taille, support et type).
+
+    * Les participants discutent des différents regroupements et réfléchissent aux conditions d'un dépôt dans un entrepôt de données ou dans une archive ouverte.
+
+* Matériel et outils nécessaires
+
+* Des cartes et des tableaux à feuilles suspendues, ou mieux, un mur et des accessoires pour fixer les cartes au mur.
+
+* Prérequis nécessaires
+
+* Aucun, à condition que l'exercice commence par quelques explications sur la manière de décrire et de distinguer les données entre elles. Des connaissances de base sur les données de la recherche, les entrepôts et les archives peuvent être utiles.
+
+* Éléments à garder à l'esprit
+
+    * Adoptez une approche progressive
+
+* Comment adapter l'exercice à d'autres usages
+
+    * Pas encore expérimenté.
+
+##### **Exemple 10 : Trouvez où publier vos données** 
+
+* Format, temps nécessaire :
+
+    * Individuel / en binôme, 10-15 minutes
+
+* Sujet :
+
+    * Données de recherche ouvertes
+
+* Objectifs d'apprentissage :
+
+    * Prendre connaissance de l'existence des entrepôts de données spécialisés par discipline, de leurs caractéristiques et de leurs normes
+
+* Description de l'exercice :
+
+    * Les participants doivent trouver un dépôt de données pour leurs données de recherche. Ils se rendent sur re3data.org et effectuent une recherche par discipline et/ou par type de contenu. Demandez-leur de limiter leur recherche à des entrepôts de données avec attribution de DOI. Donnez-leur le temps de consulter la description de l'entrepôt et demandez-leur de prendre note des entrepôts pertinents. Organisez ensuite une discussion sur leurs résultats et leurs expériences.
+
+* Matériel et outils nécessaires :
+
+    * Ordinateur avec un accès à l'internet pour chaque participant (peut également être utilisé en binôme si nécessaire)
+
+* Prérequis nécessaires nécessaire :
+
+    * Les participants doivent savoir quel type de données de recherche ils produisent
+
+    * Non applicable aux étudiants en licence
+
+* Éléments à garder à l'esprit :
+
+    * Certaines personnes peuvent ne pas trouver d'entrepôt approprié, aussi préparez une liste d'entrepôts génériques et institutionnels qui peuvent être utilisés et affichez-la ou distribuez-la ensuite.
+
+* Adaptation possible pour d'autres objectifs :
+
+    * Vous pouvez adapter cet exercice à l'open access en utilisant le site web du Directory of Open Access Journals [DOAJhttps://doaj.org).
+
+##### **Exemple 11 : De quoi avez-vous besoin pour publier des données?** 
+
+* Format, temps nécessaire :
+
+    * Exercice en groupe, 5-10 minutes (en fonction de la taille du groupe)
+
+* Sujet :
+
+    * Données de recherche ouvertes
+
+* Objectifs d'apprentissage :
+
+    * Avoir en mémoire les étapes nécessaires à la publication de données
+
+* Description de l'exercice :
+
+    * Il est recommandé d'utiliser cet exercice à la fin de la formation. Demandez aux participants de jouer à un "Je fais ma valise" dans lequel ils doivent nommer les éléments nécessaires pour publier des données (par exemple, données de recherche (fichiers), métadonnées, mots clés, documentation, licence, ORCID, entrepôt, titre approprié, références/sources, citation de données, temps et courage !)
+
+* Matériel et outils nécessaires :
+
+    * Aucun
+
+* Prérequis nécessaires :
+
+    * Les participants connaissent les éléments de base de la publication de données grâce au cours.
+
+* Éléments à garder à l'esprit :
+
+    * Si les participants oublient un élément, essayez de les aider ou de leur donner des indications.
+
+    * Nommez "courage" en dernier dans la liste des éléments.
+
+* Adaptation possible pour d'autres objectifs :
+
+    * Vous pouvez adapter cet exercice pour le processus de publication en libre accès.
+
+##### **Exemple 12 : Comment créer des métadonnées** 
+
+* Format, temps nécessaire :
+
+    * Individuel / en binôme, 5 minutes
+
+* Sujet :
+
+    * Données de recherche ouvertes
+
+* Objectifs d'apprentissage :
+
+    * Etre capable de créer des métadonnées pour des données de recherche
+
+* Description de l'exercice :
+
+    * Demandez aux participants de sélectionner un fichier sur lequel ils travaillent actuellement. Demandez-leur de répondre aux questions suivantes sur un morceau de papier : Qui a créé le contenu ? Quel est le contenu ? Quand le contenu a-t-il été créé ? Comment le contenu a-t-il été créé ? Pourquoi le contenu a-t-il été créé ? Ensuite, discutez avec eux de leurs résultats. Etait-ce facile ou difficile ? Peuvent-ils répéter cette tâche pour tous les fichiers dans leur processus de recherche ?
+
+* Matériel et outils nécessaires :
+
+    * Un morceau de papier (ou un formulaire préparé) et un stylo
+
+* Prérequis nécessaires :
+
+    * Aucune connaissance préalable
+
+* Éléments à garder à l'esprit :
+
+    * Pour accélérer l'exercice, préparez un formulaire et imprimez-le ou mettez-le à disposition en ligne.
+
+    * Pour les projets plus importants comportant beaucoup de fichiers, proposez un modèle de dictionnaire de données
+
+* Comment adapter l'exercice à d'autres usages :
+
+    * Vous pouvez adapter cet exercice comme exercice de documentation.
+
+##### **Exemple 13 : Commencer avec le partage ouvert de logiciel** 
+
+* Format, temps nécessaire :
+
+    * Individuel / en binôme, 20-30 minutes
+
+* Sujet :
+
+    * Logiciel de recherche ouvert et open source
+
+* Objectifs d'apprentissage :
+
+    * Apprendre à utiliser des outils et des services courants pour partager de façon ouverte le code informatique de recherche.
+
+    * Être en mesure de choisir la licence appropriée pour son logiciel, et comprendre la différence entre les licences permissives et non permissives.
+
+* Description de l'exercice :
+
+    * Cet exercice s'adresse à tout chercheur qui utilisera un logiciel/du code pour ses recherches, qu'il effectue des travaux purement informatiques ou expérimentaux (ces derniers utilisent un logiciel d'analyse, etc.).
+
+    * Tout d'abord, demandez à chacun de créer un [compte GitHub](https://github.com/) gratuit s'il n'en possède pas déjà un. Ce compte gratuit sera suffisant pour travailler avec un code exclusivement ouvert/public. Vous pouvez toutefois préciser que les étudiants, les enseignants et les chercheurs peuvent [[être dispensés de payer et bénéficier d'un compte professionnel gratuit]](https://education.github.com/).
+
+    * Demandez aux participants de créer également un [compte Zenodo](https://zenodo.org/),et de le lier à leur compte GitHub.
 
 
-##### **Example 27: Train-the-trainer card game for Open Science training**
+    * Ensuite, demandez à chacun de créer un nouveau dépôt public, en choisissant une licence appropriée en fonction des autorisations souhaitées (choosealicense.org peut être utile ici). Sur Zenodo, activer [l'intégration GitHub-Zenodo](https://guides.github.com/activities/citable-code/) pour ce dépôt.
 
-* Format, time needed 
+    * Demandez aux participants d'ajouter leur(s) fichier(s) source au dépôt, et d'ajouter une description du programme/script au fichier README. Une fois ces fichiers ajoutés, choisir un numéro de version et [créer une version](https://help.github.com/articles/creating-releases/) du logiciel.
 
-    * Small groups, 2 hours
 
-* Topic 
+    * Aller sur Zenodo, et obtenir le DOI qui a été généré pour le logiciel.
 
-    * [Open Advocacy](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/blob/master/02OpenScienceBasics/12OpenAdvocacy.md)
+    * Félicitations, le logiciel est maintenant citable ! On peut ajouter une section au fichier README avec le DOI et la citation suggérée, ou même ajouter le badge DOI fourni par Zenodo.
 
-* Learning objectives 
 
-   * Trainers can use this game to facilitate ‘train-the-trainer’ workshops. Participants design a usable framework for a training – which will they deliver themselves at a later stage -  on (a) topic(s) of their choice. The card game offers the participants the option to preselect audience type, audience size, training type and audience knowledge level. In addition, two ‘unforeseen’ circumstances can be added: audience mood, and ‘trouble’ (uh-oh!).  Apart from going home with a usable design for a training, the audience of this workshop will also benefit from the input and experience of the other participants.  
+* Matériel et outils nécessaires :
 
-* Exercise description
+    * Chaque personne doit disposer d'un ordinateur avec une connexion Internet.
 
-   * INSTRUCTIONS: 
-      * Have each group pick a card (blind) determining: audience type, audience size, audience knowledge level and training type. It is possible that the different cards turn out a training situation that is impossible or that is not in line with to the interests of the group. It can be useful to allow some flexibility and allow people to change cards or switch cards with another group. In most cases, there is an empty card or an ‘other’ card available as well, allowing people to modify the exercise according to their own needs. 
-      * Hand out the persona pages: every member of the group should create one persona according to the conditions laid out on the cards (no longer than 15 mins). 
-      * The group has 1,5 hour to prepare the training according to the conditions laid out by the cards, keeping in mind their target audience(s), with help of the persona pages created. 
-      * Have each group present their training (take note: they don’t have to give the actual training, they only have to describe what they will do!) . Ask the other groups to give feedback afterwards: Is the proposed training suitable for the conditions laid out by the cards? What would they do differently? Do they have any experiences that they can share?
-      * Extra challenge: How would each group deal with unexpected/unpredictable circumstances during the training? Right before their presentation, each group picks (blind) an 'audience mood' card and a 'trouble' card and gives them to the moderator, who will either during the presentation or afterwards discuss these cards with the entire group – allowing the audience to learn from the experience of their colleagues.
+    * Les participants doivent disposer d'un code, d'un script ou d'un programme prêt - même s'il est "désordonné" - qu'ils partageront publiquement.
 
-* Materials and tools needed
+* Prérequis nécessaires :
 
-   * https://www.fosteropenscience.eu/node/2570
-   
-   * You can download the files in pdf and png format via this public dropbox link: https://www.dropbox.com/sh/k314ebvqpb6mqq8/AAABEcJqYF_2PYJxqmYf3mmna?dl=0&fbclid=IwAR0DBmnArU8raKlaoJa7RKPEGRNEv2y74PQRR2Ft_y4Oy7DLfdawF_n5LbQ
+    * Aucune connaissance préalable
 
-* Level of prior knowledge needed
+* Éléments à garder à l'esprit :
 
-   * Participants are expected to be knowledgeable about the topic(s) they will create the training about
+    * Aucun
 
-* Things to bear in mind
+* Adaptation possible pour d'autres objectifs :
 
-   * Timekeeping is essential; limit the time people will work on persona's and training design. Clarify that the presentation should be a description of all the elements of the training they have designed, not actually giving the training. When evaluating with the group, make sure everybody gives input.
+    * Non applicable
 
-* How to adapt for other purposes
+##### **[Exemple 14 :Établir un processus reproductible d'analyse de données** 
 
-   * In principle, all parameters can be adapted and changed to suit a specific training, by creating new cards, new categories, or by removing existing ones. 
-   
-* Licensing conditions
+* Format, temps nécessaire
 
-   * CC BY-SA 4.0. Creator: [Gwen Franck](gwenfranckgcv@gmail.com)
+    * Individuellement ou en groupe, 4 à 8 heures (exemples [ici](http://reproducible-analysis-workshop.readthedocs.io/))
+
+* Sujet
+
+    * [Recherche reproductible et Analyse de Données](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/blob/master/02OpenScienceBasics/04ReproducibleResearchAndDataAnalysis.md)
+
+* Objectifs de formation
+
+    * Utiliser une (petite) tâche de calcul pertinente pour votre discipline ou votre contexte, et l'organiser comme un flux de travail ouvert et reproductible.
+
+    * Comprendre les concepts clés, outils et services utiles dans le contexte de la reproductibilité
+
+* Description de l'exercice
+
+    * Chaque participant sélectionne un jeu de données et un processus d'analyse de données correspondant qui soient pertinents dans son domaine d'activité. Le jeu de données et le processus d'analyse doivent être suffisamment courts pour être traités en quelques minutes. De plus, pour les besoins de cet exercice, le langage de programmation recommandé est Python ou R, mais d'autres langages peuvent être utilisés avec de légères modifications dans les outils sous-jacents.
+
+    * Le participant exécute initialement le processus sous la forme traditionnelle, puis demande à l'un des autres participants de le reproduire sans aide extérieure. Identifiez à la fois le temps nécessaire à une autre personne pour refaire l'exercice, ainsi que les obstacles rencontrés.
+
+    * Appliquez le même processus en utilisant l'approche Jupyter / Git / MyBinder ; écrivez le processus en tant que notebook Jupyter, téléchargez le jeu de données et le notebook dans un répertoire sur GitHub, puis connectez le répertoire à mybinder. Après cela, demandez à nouveau à la même personne de reproduire cette opération. Identifiez la différence en temps et en accessibilité.
+
+* Matériel et outils nécessaires
+
+    * Jupyter et Git sont nécessaires (y compris un compte sur GitHub). En fonction de la langue, des noyaux Jupyter supplémentaires peuvent être nécessaires. Enfin, le formateur peut décider de fournir un exemple commun à tous les participants ou demander aux participants d'apporter le leur. La différence réside dans le temps nécessaire à la préparation, ainsi que dans l'homogénéité du niveau des participants.
+
+
+* Niveau de connaissances préalables requis
+
+    * L'atelier peut être réalisé à différents niveaux de connaissances préalables attendues, en adaptant le temps de réalisation. Par exemple, on peut inclure une brève introduction de base à Git, mais dans tous les cas, les participants doivent être conscients des exigences de calcul informatique de leur propre analyse.
+
+* Éléments à garder à l'esprit
+
+* Le concept général est simple, mais il comporte une courbe d'apprentissage initiale des différentes composantes. Vous pouvez donc envisager de passer un peu plus de temps au début pour discuter de chaque outil, avant de les relier tous ensemble.
+
+* Avant l'atelier, envisagez de donner aux participants une explication détaillée du processus d'installation (par exemple, pour Jupyter et Git), afin de minimiser les problèmes techniques potentiels.
+
+* Comment adapter l'exercice à d'autres usages
+
+* L'atelier peut être élargi pour introduire des concepts supplémentaires de science ouverte, tels que les identifiants pérennes pour les logiciels (exemple : l'attribution d'un DOI de Zenodo dans l'archive ouverte Git), ainsi que pour intégrer tous les aspects sous une plateforme commune (comme l'OSF).
+
+##### **Exemple 15 : Choisir la bonne version d'archive ouverte** 
+
+* Format, temps nécessaire
+
+    * individuel ou en binôme, 15 à 20 minutes
+
+* Sujet
+
+    * [Accès Ouvert à la Recherche Publiée](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/blob/master/02OpenScienceBasics/05OpenAccessToPublishedResearchResults.md) / Publications
+
+* Objectifs de formation
+    
+    * Etre capable de déterminer quelle est la version autorisée à être déposée dans une archive ouverte et définir son statut au regard du droit d'auteur
+
+* Description de l'exercice
+
+* Cet exercice pourrait être destiné aux gestionnaires d'archives ouvertes. Choisissez cinq publications différentes et demandez aux participants de sélectionner la version susceptible d'être autorisée dans une archive ouverte et la mention de droit d'auteur qu'elles devraient comporter ; qui est le détenteur du droit d'auteur et quel régime de droit d'auteur s'appliquerait : tous droits réservés, une licence, domaine public. Discutez avec les apprenants de leurs résultats et montrez-leur les éléments clés qui définissent chaque solution.
+
+* Matériel et outils nécessaires
+
+    * L'exercice peut être effectué avec une feuille de papier (ou un formulaire préparé) et un stylo.
+
+    * Les personnes ou les binômes doivent disposer d'une connexion internet pour accéder aux documents et vérifier les politiques. Vous pouvez également fournir des copies physiques des articles.
+
+* Prérequis nécessaires
+
+    * Notions de bases du droit d'auteur
+
+    * Connaissance sur les différentes versions des articles de recherche
+
+* Éléments à garder à l'esprit
+
+    * L'exercice peut être converti en une version en ligne si vous préparez une série de sondages.
+
+    * Utilisez un éventail de publications, y compris par exemple des articles publiés sous des modèles hybrides, afin de montrer aux participants qu'il ne suffit pas de consulter des sites avec des politiques d'auto-archivage par défaut.
+
+    * Le nombre de cas déterminera la durée de l'exercice.
+
+* Comment adapter l'exercice à d'autres usages
+
+    * Peut être adapté à des sessions de formation avec des chercheurs en utilisant leurs propres articles.
+
+##### **Exemple 16 : Licences ouvertes et formats de fichiers** 
+
+* Format, temps nécessaire :
+
+    * Exercice de groupe, 10--15 minutes
+
+* Sujet :
+
+    * [Licences ouvertes et formats de fichiers](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/blob/master/02OpenScienceBasics/06OpenLicensingAndFileFormats.md)
+
+* Objectifs d'apprentissage :
+
+    * Prendre conscience des formats de fichiers utilisés quotidiennement et de leur degré d'ouverture
+
+    * Description de l'exercice :
+
+    * Laissez les participants noter sur des post-it tous les formats de fichiers qu'ils utilisent dans leur travail quotidien. Récupérez ensuite les post-it et collez-les sur le tableau blanc ou le tableau papier. Essayez de les regrouper le mieux possible par catégories ou groupes (texte, tabulaire, statistique, vidéo, image, etc.). Discutez ensuite des résultats avec le groupe. Discutez du niveau d'ouverture de ces formats de fichiers et des alternatives possibles.
+
+* Matériel et outils nécessaires :
+
+    * Quelques blocs de post-it, un stylo et un tableau blanc ou papier
+
+* Prérequis nécessaires :
+
+    * Aucune connaissance préalable requise
+
+* Éléments à garder à l'esprit :
+
+    * Préparez-vous à des formats de fichiers «exotiques» spécifiques à un sujet ou à une machine. Laissez les participants les décrire
+
+* Comment adapter l'exercice à d'autres usages :
+
+    * Vous pouvez également utiliser des outils Web comme [PINGO](http://trypingo.com/)[ pour la collecte des formats de fichiers. Si vous ne souhaitez pas utiliser de post-it, vous pouvez demander aux participants de noter leurs formats de fichiers sur des feuilles de papier que vous ramasserez].
+
+##### **Exemple 17 : Association de licences Creative Commons** 
+
+* Format, temps nécessaire
+
+    * Exercice de groupe, 5--10 minutes
+
+* Sujet :
+
+    * [Licences ouvertes et formats de fichiers](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/blob/master/02OpenScienceBasics/06OpenLicensingAndFileFormats.md)
+
+* Objectifs d'apprentissage
+
+    * Pouvoir différencier les différentes licences Creative Commons et pouvoir les associer pour les besoins de son travail.
+
+* Description de l'exercice :
+
+    * Les participants doivent créer une combinaison de deux licences. Le groupe doit deviner quelle licence Creative Commons est créée par la combinaison des deux. Répétez l'exercice avec d'autres combinaisons. Intégrez une combinaison qui n'est pas possible (par exemple, CC BY-SA et CC BY-NC) et signalez les pièges. Discutez des résultats avec les participants.
+
+* Matériel et outils nécessaires :
+
+    * Ordinateur avec projecteur, tableau blanc, paperboard ou feuille de papier pour tous les participants
+
+* Prérequis nécessaires :
+
+    * Les participants doivent connaître toutes les licences Creative Commons et/ou pouvoir consulter un document s'y rapportant.
+
+* Éléments à garder à l'esprit
+
+    * Attendez plus de trois secondes avant d'accepter la réponse. Cela permet aux participants de prendre le temps de la réflexion et d'inclure les participants faibles.
+
+* Comment adapter l'exercice à d'autres usages :
+
+    * Créez d'abord des binômes et laissez-les résoudre les combinaisons, puis discutez des solutions en groupe
+
+    * Utilisez d'autres licences
+
+##### **Exemple 18 : Remix Ressources Éducatives Libres** 
+
+* Format, temps nécessaire :
+
+    * Exercice de groupe, 10--15 minutes
+
+* Sujet :
+
+    * [Licences ouvertes et formats de fichiers](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/blob/master/02OpenScienceBasics/06OpenLicensingAndFileFormats.md)
+
+    * [Ressources éducatives libres (REL)](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/blob/master/02OpenScienceBasics/11OpenEducationalResources.md)
+
+* Objectifs d'apprentissage :
+
+    * Être capable de distinguer les différents éléments des licences Creative Commons
+
+    * Être capable de créer du contenu remixant des [œuvres] antérieures sous plusieurs licences, y compris des œuvres domaine public et tous droits réservés, et de déterminer quelle sera la licence résultante.
+
+* Description de l'exercice:
+
+    * Il en existe une [version en ligne](http://www.opencontent.org/game/) et une [version imprimée](http://www.opencontent.org/game/print/)
+
+    * L'exercice est basé sur un jeu de cartes indiquant un type de contenu : texte, image, musique et vidéo ; chaque carte porte un signe de copyright allant de « tous droits réservés » à « domaine public », ainsi que l'ensemble des licences Creative Commons et la documentation gratuite GNU Licence.
+
+    * Une personne du groupe choisit 12 cartes et le reste du groupe doit les combiner en créant un support comportant les quatre types de contenu : texte, image, musique et vidéo. Une fois que les participants ont choisi la bonne combinaison, ils doivent décider quelle est la licence possible pour cette nouvelle œuvre.
+
+* Matériel et outils nécessaires :
+
+    * Pour le jeu en ligne : ordinateur et vidéoprojecteur
+
+    * Pour le jeu imprimé : le jeu de cartes est disponible sur [opencontent.org](http://www.opencontent.org/game/print/) ou vous pouvez créer vous-même un jeu de cartes
+
+
+* Niveau de connaissance préalable requis :
+
+    * Les participants doivent connaître les éléments de toutes les licences Creative Commons et avoir des notions de base des questions de droit d'auteur, y compris la notion de copyleft.
+
+* Éléments **à retenir **
+
+    * Si vous utilisez la version en ligne, vous pourrez faire l'exercice avec tous les membres de votre groupe, en permettant de multiples réponses possibles.
+
+* Comment adapter l'exercice à d'autres usages :
+
+    * Vous pouvez adapter cet exercice à des éléments de recherche, par exemple aux licences logicielles
+
+    * Vous pouvez utiliser d'autres licences, inclure un nouveau type de contenu ou définir quel contenu doit comporter le travail final.
+
+##### **Exemple 19 : Révision ouverte par les pairs - les participants révisent ouvertement les textes les uns des autres** 
+
+* Format, durée nécessaire
+
+    * Petits groupes, 90 minutes
+
+* Sujet
+
+    * [Révision ouverte par les pairs, métriques et évaluation](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/blob/master/02OpenScienceBasics/08OpenPeerReviewMetricsAndEvaluation.md)
+
+* Objectifs de formation
+
+    * S'entraîner à la rédaction d'un rapport d'évaluation constructif
+    Réflexion critique sur les avantages et désavantages de l'évaluation ouverte des articles
+
+* Description de l'exercice
+    
+    * Les participants travaillent par groupes de trois. Chaque participant écrit un court texte (~300 mots) donnant son avis sur l'examen ouvert par les pairs tel qu'évoqué dans l'atelier correspondant. Il transmet ensuite son texte à la personne à sa gauche qui rédige une brève évaluation de ce travail. Le texte et l'évaluation sont ensuite transmis à la personne suivante à gauche, de sorte que chacun dispose maintenant d'un texte et d'une évaluation qu'il n'a pas rédigés. La troisième personne donne son avis sur l'évaluation : était-elle constructive, critique, qu'est ce qui aurait pu être amélioré, etc. ? Le groupe lit ensuite tous les textes et réfléchit en quoi le fait que les identités soient connues, les rapports ouverts, etc. a eu un impact sur la manière dont leur évaluation a été rédigée et sur le retour des autres personnes du groupe.
+
+* Matériel et outils nécessaires
+    
+    * Papier et stylo
+
+* Prérequis nécessaires
+
+    * Aucun, mais les textes feront appel à des connaissances acquises lors de l'atelier sur la révision ouverte par les pairs.
+
+* Éléments à garder à l'esprit
+
+    * Cet exercice demande aux participants de formuler des critiques sur le travail d'autres participants. Ayez à l'esprit que certaines personnes peuvent avoir du mal à le faire, et certaines avoir du mal à accepter la critique. Si cela se produit, encouragez les participants à évoquer le sujet lors de la discussion de groupe finale.
+
+* Comment adapter l'exercice à d'autres usages
+
+    * Cet exercice peut être utilisé dans un atelier de formation ayant un objectif plus large que l'évaluation ouverte par les pairs. On peut envisager de l'utiliser pour consolider l'apprentissage d'autres thèmes de la science ouverte, en demandant aux participants de rédiger en premier un texte sur ces mêmes thèmes.
+
+    * Au lieu d'utiliser un stylo et du papier, cet exercice peut également être réalisé à l'aide d'un outil d'écriture collaboratif, tel que Google Docs, Authorea ou Overleaf/ShareLaTeX.
+
+##### **Exemple 20 : Révision ouverte par les pairs - Vos 2 centimes** 
+
+* Format, temps nécessaire
+
+    * Session plénière, ~une heure et demie avec la discussion
+
+* Sujet
+    
+    * Révision ouverte par les pairs, Métriques et Évaluation
+
+* Objectifs de formation
   
-   
-### Resources
+    * Prendre conscience qu'il existe de nombreux aspects de l'évaluation ouverte par les pairs et en avoir connaissance.
 
-#### What tools & platforms to use / recommend?
+    * Se faire une opinion sur les aspects de l'évaluation ouverte par les pairs qui seraient les plus bénéfiques à la science
+        
+    * Avoir un aperçu des bénéfices et possibles inconvénients des différents aspects de l'évaluation ouverte par les pairs, du point de vue du lecteur, de l'auteur et du reviewer.
+        
+* Description de l'exercice
+  
+    * Introduction des différents aspects de l'évaluation ouverte par les pairs, avec quelques exemples de revues scientifiques / plateformes dans lesquelles ils sont mis en œuvre.
+        
+    * Demandez aux participants d'identifier individuellement deux ou trois aspects de l'évaluation ouverte par les pairs qui selon eux, contribueraient le plus à la science ouverte.
+        
 
-There are many tools and platforms that support Open Science practices (see figure below for a selection). Which tools and platforms to use (or advise) depends on many factors, for example: whether the tool is available (either free of at low cost or licensed to your institution), whether it works in your browser or for your operating system, whether it is available in your language, and whether it meets your security and privacy requirements. In addition to these more technical criteria, consider whether a tool fits with the way you work. Does it work well with other tools and platforms that you use? Do the people you collaborate with use the same tool for the same practice, or at least one that is compatible with the one you use? Also consider the learning curve: do you need to invest a lot of time into learning the new tool, and if so, is that worth it for you? Do you have support (either in real life or online) that can help you learn to use the tool? 
+    * Sur une grande feuille, les participants placent une pièce de deux centimes sur chacun des aspects qu'ils ont sélectionnés à l'étape précédente
+        
 
-Perhaps the best advice is to first consider what it is you would like to do: what is the open science practice you’d like to implement? Then explore which tools/platforms are available, which ones the people in your community use, and why (ask around!). Then make your own decision. Don’t be afraid to experiment and try out something new! 
+    * Les résultats sont analysés collectivement et les aspects les plus souvent sélectionnés sont identifiés
+        
+    * En petits groupes, les participants prennent ensuite le rôle de lecteur, auteur ou reviewer (tous les profils doivent être présents dans chaque groupe). Ils discutent ensuite un des aspects de l'évaluation ouverte par les pairs du point de vue des rôles qu'ils endossent. Quels sont les bénéfices et les potentiels inconvénients ?
 
-A final remark: many tools and platforms support open science practices without themselves being fully open. For example, many commonly used tools are not open source, even though they provide access to content (publications, data) that are open. You will have to follow your own judgement as to whether you will consider such tools and platforms or not. Another consideration is whether you can export all your data when you’d want to switch to another tool, or whether they are locked in? And do you know what will happen to your data when the platform closes down or is sold to a(nother) company? 
+    * Enfin, les petits groupes restituent au groupe complet, et de nouvelles perspectives, de nouveaux points de vue peuvent être discutés.
 
-Some resources listing research tools and platforms:
+
+![](Images/image_13.png)
+
+* Matériels et outils nécessaires
+  
+    * De grandes impressions du schéma des [dimensions de la révision par les pairs](https://doi.org/10.6084/m9.figshare.4210293): une pour chaque participant et une commune à tous (une [présentation avec animations](https://doi.org/10.6084/m9.figshare.4210254) est aussi disponible).
+
+    * Des pièces de deux centimes (si disponibles dans votre système monétaire, sinon n'importe quelle pièce de faible valeur conviendra).
+        
+
+![](/Images/image_14.png)
+
+* Prérequis nécessaires
+
+    * Aucun, une certaine familiarité avec le processus traditionnel de révision par les pairs sera utile.
+
+* Éléments à garder à l'esprit
+
+    * Pour des personnes qui ne sont pas au fait des développements de l'évaluation ouverte par les pairs, certains aspects peuvent nécessiter des explications supplémentaires. Prévoyez suffisamment de temps pour cela.
+
+    * Dans les discussions, il peut être difficile pour les personnes de séparer leur opinion personnelle du rôle qu'elles jouent. Encouragez-les à revenir à leur rôle, si nécessaire.
+
+    * Le nombre de pièces par personne dépend du nombre de participants (par ex. trois pour des petits groupes, deux pour des groupes plus grands)
+
+* Comment adapter l'exercice pour d'autres usages
+
+    * Le concept du vote avec des pièces ("Vos deux centimes") peut être appliqué à d'autres sujets, de même que l'attribution de rôles dans des discussions en petits groupes.
+
+##### **Exemple 21 : Prendre position** 
+
+* Format, temps nécessaire
+
+    * Séance plénière, 15 minutes
+
+* Sujet
+
+    * Politiques de science ouverte
+
+* Objectifs de formation
+
+    * Amener les participants à prendre position concernant les politiques ou les principes de la science ouverte
+
+    * Montrer la similarité ou la diversité des opinions des participants
+
+* Description de l'exercice
+
+    * Demandez aux participants d'exprimer leur opinion sur deux questions concernant les politiques ou les principes de la science ouverte.
+
+    * Les réponses doivent se situer sur une échelle linéaire entre deux extrêmes (par exemple : absolument pas d'accord - tout à fait d'accord).
+
+    * Les participants votent en utilisant un outil en ligne, ou en plaçant des pastilles collantes sur une feuille de papier dont les axes représentent les deux plages de réponses
+
+    * Les résultats sont présentés au groupe et la similitude ou la diversité des réponses est discutée, par exemple en demandant à un répondant de chaque quadrant d'expliquer son opinion.
+
+* Exemple de question et de résultats :
+
+    * Pour les chercheurs individuels, la science ouverte entraîne-t-elle plus de coûts ou d'avantages ?
+
+    * La science ouverte doit-elle être organisée selon une approche de bas en haut ou de haut en bas ?
+
+![](/Images/image_15.png)
+
+* Matériel et outils nécessaires
+
+    * Accès à un outil en ligne comme [Mentimeter](https://www.mentimeter.com/) : un compte payant permet d'exporter les résultats mais n'est pas nécessaire pour cet exercice
+
+    * Pour chaque participant : accès à un smartphone, une tablette ou un ordinateur avec accès à Internet
+
+    * Alternative hors ligne : feuille de papier de grande taille avec des axes imprimés ou dessinés, pastilles collantes
+
+* Prérequis nécessaires
+
+    *  Aucun : toutefois, certaines connaissances de base sur le sujet sont utiles pour obtenir des opinions éclairées plutôt que des réactions instinctives (bien que ces dernières puissent également être utiles à recueillir)
+
+* Éléments à garder à l'esprit
+
+    * Si l'exercice se fait sur papier, il peut être utile de demander aux participants de noter d'abord leur réponse individuellement, avant de placer leur gommette sur la carte. Cela permet d'éviter la pression par les pairs et les préjugés.
+
+* Comment adapter l'exercice à d'autres usages
+
+    * Ce type d'exercice peut être adapté à de nombreuses questions et sujets différents
+
+    * Un autre outil en ligne (également en accès libre) pour ce genre d'exercices est [SimpleVote](https://www.simplevote.ca/).
+
+    * Si le public est hétérogène (mélange de chercheurs, personnes chargées du soutien à la recherche, décideurs politiques), il est instructif de distinguer les différents groupes, par exemple en créant une question distincte pour chacun (en centimètres) ou en utilisant des gommettes de couleur différente (sur le papier).
+
+    * Pour les gommettes, choisissez une combinaison de couleurs visibles par les daltoniens.
+
+
+##### **Exemple 22: Explications en termes clairs -- Chantier en cours** 
+
+* Format, temps nécessaire
+
+    * Petits groupes, 2 à 3 heures
+
+* Sujet
+
+    * [La Science citoyenne](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/blob/master/02OpenScienceBasics/10CitizenScience.md)
+
+    * [Les plateformes collaboratives](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/blob/master/02OpenScienceBasics/07CollaborativePlatforms.md)
+
+
+* Objectifs d'apprentissage
+
+* Description de l'exercice
+
+* Matériel et outils nécessaires
+
+* Prérequis
+
+* Éléments à garder en tête
+
+* Comment adapter l'exercice à d'autre usages
+
+##### [**Exemple 23 : L'avocat du diable -- Comment convaincre les sceptiques**
+
+* Format, temps nécessaire
+
+    * Petits groupes, 30 minutes
+
+* Sujet
+
+    * Plaidoyer pour la science ouverte
+
+* Objectifs d'apprentissage
+
+    * Formuler des arguments pour répondre aux objections courantes relatives aux pratiques de science ouverte
+
+    * Pratiquer le dialogue avec des personnes remettant en question l'intérêt de la science ouverte
+
+* Description de l'exercice
+
+    * En petits groupes de trois ou quatre, demandez à une ou deux personnes d'assumer le rôle de sceptique envers la science ouverte et aux autres celui de défenseurs de la science ouverte.
+
+    * Demandez aux « avocats de la science ouverte » de convaincre les « sceptiques de la science ouverte »
+
+    * Après 10 minutes, demandez aux participants d'inverser les rôles et d'avoir un autre échange (sans répéter les mêmes arguments)
+
+    * Après deux tours, rassemblez-vous en groupe pour partager vos expériences. Quels arguments ont été les plus difficiles à réfuter ? Quels arguments ont le mieux fonctionné pour convaincre les sceptiques ? Les participants pensent-ils que ces arguments seraient également utiles dans des situations réelles ?
+
+* Matériel et outils nécessaires
+
+    * Aucun; une certaine flexibilité dans l'agencement de la salle de formation est utile pour permettre aux groupes d'y circuler.
+
+* Prérequis nécessaires
+
+    * Connaissance des concepts de la science ouverte
+
+* Éléments à garder en tête
+
+    * Encouragez les sceptiques de la science ouverte à jouer le jeu autant que possible. En général, les personnes aiment bien jouer ce rôle!
+
+    * Assurez-vous d'inverser les rôles pour donner à chacun la possibilité de vivre cet exercice sous les deux angles.
+
+* Comment adapter l'exercice à d'autres usages
+
+    * Cet exercice pourrait être adapté aux aspects spécifiques de la science ouverte
+
+##### **Exemple 24 : Configurer le projet OSF et établir un lien avec d'autres plateformes** 
+**Chantier en cours**
+
+* Format, temps nécessaire
+
+    * Individuellement ou en binômes
+
+* Sujet
+
+    * [Données et matériaux de recherche ouverts](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/blob/master/02OpenScienceBasics/02OpenResearchDataAndMaterials.md)
+
+* Objectifs d'apprentissage
+
+* Description de l'exercice
+
+    * Créez un environnement collaboratif OSF de la collecte des données à la publication.
+
+    * Connectez votre projet OSF à GitHub.
+
+    * Téléversez tout code brut, images, données, tableaux sur votre projet.
+
+    * Obtenez un identifiant DOI et ARK pour votre projet.
+
+* Matériel et outils nécessaires
+
+* Prérequis nécessaires
+
+* Éléments à garder en tête
+
+* Comment adapter l'exercice à d'autre usages
+
+##### **Exemple 25 : Le piège de la publication -- Chantier en cours** 
+
+* Format, temps nécessaire
+
+    * Exercice en petit groupe, 2 h
+
+* Sujet
+
+    * [Accès ouvert aux résultats publiés de la de recherche](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/blob/master/02OpenScienceBasics/05OpenAccessToPublishedResearchResults.md)
+
+* Objectifs d'apprentissage
+
+    * "Ce jeu vous amène à explorer l'impact des choix de communication scientifique et à discuter du rôle du libre accès dans la recherche en suivant la vie de quatre chercheurs, du doctorat à la postérité académique ". ([blogs.kent.ac.uk](https://blogs.kent.ac.uk/osc/2017/10/09/publishing-trap/))
+
+* Description de l'exercice
+
+    * "Ce jeu se joue à quatre équipes de quatre personnes maximum -- assises autour d'un plateau de jeu et utilisant un manuel pour guider les décisions que les équipes doivent prendre. L'animateur de l'atelier est le maître du jeu et présente les scénarios aux équipes tour à tour. À chaque tour, l'équipe doit prendre trois décisions sur ses choix de publication. Après avoir entendu le scénario proposé, chaque équipe choisit parmi les options prédéterminées. À la fin de chaque tour, les équipes discutent des décisions qu'elles ont prises et sont invitées à justifier leurs choix." ([copyrightliteracy.org](https://copyrightliteracy.org/resources/the-publishing-trap/))
+
+* Matériel et outils nécessaires
+
+    * Le plateau de jeu, les cartes, les livrets, les points et autres objets doivent être téléchargés, imprimés et découpés. Il est également possible d'acquérir une version du jeu imprimée par des professionnels. Informations disponibles sur ce site : [copyrightliteracy.org](https://copyrightliteracy.org/resources/the-publishing-trap/the-publishing-trap-resources/)
+
+* Prérequis nécessaires
+
+    * "Le piège de la publication" s'adresse aux chercheurs et aux universitaires en début de carrière, ainsi qu'à toute personne intéressée à comprendre comment fonctionne l'accès à l'information et comment fonctionne l'ensemble du système de communication universitaire dans l'enseignement supérieur." [copyrightliteracy.org](https://copyrightliteracy.org/resources/the-publishing-trap/)
+
+
+* Éléments à garder en tête
+
+    * Vous devrez peut-être à stimuler certaines discussions pendant le jeu
+
+* Comment adapter l'exercice à d'autres usages
+
+    * La version bêta du jeu est sous licence Creative Commons Attribution-NonCommercial-NoDerivatives 4.0.
+
+##### **Exemple 26 : Chantier en cours**
+
+* Format, temps nécessaire
+
+    * Petits groupes, 4 jours (5 heures/jour)
+
+* Sujet
+
+    * [Données et matériaux de recherche ouverts](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/blob/master/02OpenScienceBasics/02OpenResearchDataAndMaterials.md)
+
+* Objectifs d'apprentissage
+
+    * Comprendre ce que sont l'ouverture des données de recherche et la recherche reproductible, se familiariser avec les étapes de rédaction d'un plan de gestion des données de recherche et bâtir son propre entrepôt de données
+
+* Description de l'exercice
+
+    * Connaissances générales sur les entrepôts et les licences
+    * Examen des données : typologie, volume, degré de sensibilité
+    * Mise en place d'un plan de gestion des données de recherche à l'aide de DMPtool
+    * Configuration d'un entrepôt OSF
+    * Utilisation de Git pour le versionnement
+    * Intégration de GitHub, Google Drive et d'autres services au projet OSF
+    * Utilisation de R, R Studio et R Markdown pour élaborer une recherche reproductible
+    * Exercice de création d'un projet de science participative
+
+* Matériel et outils nécessaires
+
+    * Inscription à : ORCID, OSF, GitHub et DMPTool
+    * Téléchargement et installation: Git, R et R Studio
+
+* Prérequis nécessaires
+
+    * Une connaissance de base de R, R Studio et Git serait un plus.
+
+* Éléments à garder en tête
+
+    * Il faudra peut-être consacrer plus de temps à expliquer le concept de données ouvertes et son intérêt. La plupart des débats ont lieu à ce stade préliminaire.
+
+* Comment adapter l'exercice à d'autres usages
+
+    * L'exercice a été conçu pour des disciplines de sciences de la terre et de l'espace, mais la plus grande partie peut être utilisée dans n'importe quelle discipline, y compris pour un projet de science participative.
+
+* Conditions de réutilisation
+
+* CC BY - [Dasapta Erwin Irawan](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/blob/master/05ExamplesAndPracticalGuidance/dasaptaerwin@gmail.com), INArxiv, Institut Teknologi Bandung; [Willem Vervoort](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/blob/master/05ExamplesAndPracticalGuidance/willem.vervoort@sydney.edu.au), Université de Sydney; [Gene Melzack](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/blob/master/05ExamplesAndPracticalGuidance/gene.melzack@sydney.edu.au), Université de Sydney
+
+##### **Exemple 27 : Jeu de cartes Formation de formateurs à la science ouverte** 
+
+* Format, temps nécessaire
+
+    * Petits groupes, 2 heures
+
+* Sujet
+
+    * Plaidoyer pour la science ouverte
+
+* Objectifs d'apprentissage
+
+    * Les formateurs peuvent utiliser ce jeu pour animer des formations de formateurs. Les participants conçoivent un scénario de formation - qu'ils dispenseront ultérieurement - sur un ou plusieurs sujets de leur choix. Le jeu de cartes permet aux participants de déterminer à l'avance la typologie, la taille et le niveau de connaissances de l'audience, ainsi que le type de formation. De plus, on peut ajouter deux « imprévus » : l'humeur du public et des "éléments perturbateurs" (ah-ah !). En plus de rentrer à la maison avec un scénario utilisable pour une formation, le public de cet atelier bénéficiera également de l'apport et de l'expérience des autres participants.
+
+* Description de l'exercice
+
+    * CONSIGNES:
+
+        * Demandez à chaque groupe de piocher une carte (à l'aveugle) qui déterminera : le type de public, la taille du public, le niveau de connaissance du public et le type de formation. Il est possible que les différentes cartes correspondent à une configuration de formation impossible ou incompatible avec les intérêts du groupe. Il peut être utile d'autoriser une certaine souplesse et de permettre aux participants de changer de carte ou d'échanger avec un autre groupe. Dans la plupart des cas, une carte vide ou une carte « autre » sont disponibles, permettant aux personnes de modifier l'exercice en fonction de leurs propres besoins.
+        * Distribuez les fiches personnages : chaque membre du groupe doit créer un personnage selon les conditions énoncées sur les cartes (pas plus de 15 minutes).
+        * Le groupe dispose d'une heure et demie pour préparer la formation selon les conditions fixées par les cartes, en gardant à l'esprit son ou ses publics cibles, à l'aide des fiches personnages créées.
+        * Demandez à chaque groupe de présenter sa formation (attention : il ne s'agit pas de délivrer la formation à proprement parler, ils doivent juste décrire ce qu'ils vont faire !). Demandez ensuite aux autres groupes de donner leur avis : la formation proposée est-elle adaptée aux conditions définies par les cartes ? Que feraient-ils différemment ? Ont-ils des expériences à partager ?
+        * Défi supplémentaire : Comment chaque groupe gérerait-il des circonstances inattendues / imprévisibles pendant la formation? Juste avant leur présentation, chaque groupe pioche (à l'aveugle) une carte « humeur du public »' et une carte « élément perturbateur» et les remet au modérateur, qui discutera de ces cartes avec l'ensemble du groupe, pendant la présentation ou après celle-ci, permettant aux participants de bénéficier des retours d'expérience de leurs collègues.
+
+* Matériel et outils nécessaires
+    
+    * [https://www.fosteropenscience.eu/node/2570](https://www.fosteropenscience.eu/node/2570)
+
+    * Vous pouvez télécharger les fichiers au format pdf et png via ce lien dropbox:
+
+    [https://www.dropbox.com/sh/k314ebvqpb6mqq8/AAABEcJqYF_2PYJxqmYf3mmna?dl=0&fbclid=IwAR0DBmnArU8raKlaoJa72KYPYLF](https://www.dropbox.com/sh/k314ebvqpb6mqq8/AAABEcJqYF_2PYJxqmYf3mmna?dl=0&fbclid=IwAR0DBmnArU8raKlaoJa72KYPYLF)
+
+* Prérequis nécessaires
+
+    * Les participants doivent maîtriser le(s) sujet(s) sur lesquels ils vont construire leur formation
+
+* Éléments à garder à l'esprit
+
+    * La maîtrise du temps est essentielle; limiter le temps pendant lequel les participants travailleront sur la conception du personnage et de la formation. Précisez que la présentation consiste à décrire les éléments constitutifs de la formation, et non à l'animer réellement. Lors de l'analyse en groupe, assurez-vous que tout le monde donne son avis.
+
+* Pistes d'adaptation
+
+    * En principe, tous les paramètres peuvent être adaptés et modifiés pour convenir à une formation spécifique, en créant de nouvelles cartes, de nouvelles catégories ou en supprimant les cartes existantes.
+
+* Conditions de licence
+
+    * CC BY-SA 4.0. Créateur: [Gwen Franck](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/blob/master/05ExamplesAndPracticalGuidance/gwenfranckgcv@gmail.com)
+
+
+### Ressources 
+
+#### Quels outils et plateformes utiliser / recommander ?
+
+Il existe de nombreux outils et plateformes en soutien aux pratiques de science ouverte (voir le schéma ci-dessous pour une sélection). Les outils et plateformes à utiliser (ou à conseiller) dépendent de nombreux facteurs, par exemple : si l'outil est disponible (gratuitement ou à faible coût ou sous licence pour votre institution), s'il fonctionne avec votre navigateur ou pour votre système d'exploitation, s'il est disponible dans votre langue et s'il répond à vos exigences en matière de sécurité et de confidentialité. Au-delà de ces critères plus techniques, vérifiez si l'outil correspond à votre façon de travailler. Fonctionne-t-il bien avec les autres outils et plateformes que vous utilisez déjà ? Les personnes avec lesquelles vous collaborez utilisent-elles le même outil pour la même pratique, ou au moins un outil compatible avec celui que vous utilisez ? Prenez également en compte de la courbe d'apprentissage : devez-vous investir beaucoup de temps dans l'apprentissage du nouvel outil et, si oui, cela en vaut-il la peine pour vous ? Disposez-vous d'un soutien (dans la vie réelle ou en ligne) pouvant vous aider à apprendre à utiliser l'outil ?
+
+Le meilleur conseil est peut-être de réfléchir d'abord à ce que vous aimeriez faire : quelle est la pratique de la science ouverte que vous aimeriez mettre en œuvre ? Ensuite, examinez quels sont les outils/plateformes disponibles, ceux que les membres de votre communauté utilisent et pourquoi (renseignez-vous bien !). Prenez ensuite votre propre décision. N'ayez pas peur d'expérimenter et d'essayer quelque chose de nouveau !
+
+Une dernière remarque : de nombreux outils et plateformes soutiennent des pratiques scientifiques ouvertes sans être eux-mêmes totalement ouverts. Par exemple, de nombreux outils couramment utilisés ne sont pas en libre accès, même s'ils donnent accès à des contenus (publications, données) qui sont ouverts. Vous devrez suivre votre propre jugement pour savoir si vous souhaitez prendre en compte ou non de tels outils et plateformes. Un autre élément à considérer est de savoir si vous pouvez exporter toutes vos données lorsque vous souhaitez passer à un autre outil, ou est-ce qu'elles sont verrouillées ? Et savez-vous ce qu'il adviendra de vos données lorsque la plateforme fermera ou sera vendue à une (autre) société ?
+
+Quelques ressources répertoriant des outils et des plateformes de recherche :
+
+* [Connected Researchers](http://connectedresearchers.com/online-tools-for-researchers/) (all disciplines)
+
+* [DIRT Directory](http://dirtdirectory.org/) (Humanities)
 
 * [Connected Researchers](http://connectedresearchers.com/online-tools-for-researchers/) (all disciplines)
 
@@ -1540,7 +1906,7 @@ Some resources listing research tools and platforms:
 ![image alt text](/Images/image_16.png)
 Figure x - Rainbow of open science practices (available on Zenodo in different formats, including as editable slide:[10.5281/zenodo.1147025](http://doi.org/10.5281/zenodo.1147025))
 
-#### Other resources
+### Autres ressources 
 
 * Ask Open Science. [ask-open-science.org](https://ask-open-science.org/)
 
@@ -1566,22 +1932,30 @@ Figure x - Rainbow of open science practices (available on Zenodo in different f
 
 * Sewell (2017). Research Data Management: Activity Cards. [doi.org/10.17863/CAM.10074](https://doi.org/10.17863/CAM.10074).
 
-* Tips on how to build and publish a versionised e-book are given in the github repository [github.com/Pfern/OSODOS](https://github.com/Pfern/OSODOS) - Also  available in GitHub Pages as a website [pfern.github.io/OSODOS/SUMMARY](https://pfern.github.io/OSODOS/SUMMARY). PDF, e-Pub and Mobi versions were made available by [Unglue.it](https://unglue.it/work/229980/)
+* Des conseils sur la manière de construire et de publier un e-book versionné sont donnés sur l'entrepôt [github.com/Pfern/OSODOS](https://github.com/Pfern/OSODOS) - Also available in GitHub Pages as a website [pfern.github.io/OSODOS/SUMMARY](https://pfern.github.io/OSODOS/SUMMARY). PDF, e-Pub and Mobi versions were made available by [Unglue.it](https://unglue.it/work/229980/)
 
 
----------------------------------------------------------------------------------------------------------------
+**Liste d'exercices - Sélection à mettre en forme**
 
-#### Longlist of exercises - selection to be put in template format
 
-Awaiting some formatting to comply with the template
+En attente d'un formatage pour se conformer au modèle
 
-PF - 1  Mind and Concept Maps
 
-The conceptualisation of higher complexity subject matter can benefit a lot from visualizing recently acquired knowledge or skills. A great deal of enthusiasm can be raised when simple open source tools are used, individual and collectively. The general name for this set of  techniques is idea and concept mapping. A relatively simple software like [X-Mind](http://www.xmind.net/) is a good basis to start with. ![image alt text](/Images/image_17.png)
+**PF - 1 Cartes mentales et conceptuelles**
 
-Figure X An example of an idea map to represent content in a training course
+La conceptualisation de sujets plus complexes peut bénéficier grandement de la visualisation des connaissances ou des compétences récemment acquises.
 
-Note: we might replace this by one made for Open Science or a related subject
+On peut susciter beaucoup d'enthousiasme en utilisant de simples outils open source, individuels et collectifs. Le nom général de cet ensemble de techniques est la cartographie des idées et des concepts. Un logiciel relativement simple comme X-Mind est une bonne base de départ.
 
-Learner engagement raises sharply as learners understand the power of visualising ideas, connecting them in diagrams, comparing diagrams between learners in the same group, comparing different groups, comparing learners with instructor maps, etc.
+
+![](/Images/image_17.png)
+
+
+Schéma X - Exemple de carte d'idées pour représenter le contenu d'un cours de formation
+
+Remarque : On peut tout à fait remplacer cette carte par une carte identique conçue pour la science ouverte ou un thème connexe
+
+L'engagement des apprenants augmente fortement à mesure que les apprenants comprennent le pouvoir de visualiser les idées, de les relier dans des schémas, de comparer les schémas entre apprenants d'un même groupe, de comparer différents groupes, de comparer les cartes des apprenants avec celles des formateurs, etc.
+
+
 

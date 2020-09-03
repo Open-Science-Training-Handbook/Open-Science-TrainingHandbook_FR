@@ -1,56 +1,68 @@
-## <img src="/Images/Icons/open_education.png" width="200" height="200" />
-## 11. Open Educational Resources
+![](/Images/Icons/open_education.png)
 
-#### Qu'est-ce que c'est ?
+## 11. Les Ressources Éducatives Libres 
 
-Les ressources éducatives libres (REL) sont définies comme "des matériels d'enseignement, d'apprentissage et de recherche sur tout support - numérique ou autre - qui résident dans le domaine public ou qui ont été publiés sous une licence ouverte qui permet un accès, une utilisation, une adaptation et une redistribution sans frais et sans restrictions ou avec des restrictions limitées" \([Définition Fondation William et Flora Hewlett](https://www.hewlett.org/strategy/open-educational-resources/)\). Les ressources éducatives ouvertes comprennent les cours complets, le matériel didactique, les modules, les manuels, les vidéos en continu, les tests, les images, les logiciels et tout autre outil, matériel ou technique utilisé pour faciliter l'accès au savoir.
+### De quoi parle t-on ? 
 
-#### Justification
+Les ressources éducatives libres (REL) sont définies comme "les matériels d'enseignement, d'apprentissage et de recherche sur tout support - numérique ou autre -- appartenant au domaine public ou ayant été diffusés sous une licence ouverte qui permet l'accès, l'utilisation, l'adaptation et la redistribution à titre gratuit par d'autres personnes, sans restrictions ou avec des restrictions limitées " ([définition de la Fondation William et Flora Hewlett](https://www.hewlett.org/strategy/open-educational-resources/)). Les ressources éducatives libres comprennent les cours complets, les supports de cours, les modules, les manuels scolaires, les vidéos en streaming, les évaluations, les images, les logiciels et tous autres outils, matériels ou techniques utilisés pour favoriser l'accès au savoir.
 
-Dans de nombreux cas, les ressources éducatives ouvertes s'appuient sur les résultats de la recherche. Si vous êtes un praticien de la science ouverte, il est logique que vos ressources pédagogiques maintiennent le niveau d'ouverture de votre recherche. De plus, d'autres instructeurs pourraient utiliser votre matériel pour élaborer de nouvelles ressources ou adapter celles qui existent déjà. En fait, la création de ressources éducatives peut être considérée comme un cycle similaire au cycle de recherche : trouver, composer, adapter, utiliser et partager \([wikieducator.org/OER_Handbook/educator/OER_Lifecycle](http://wikieducator.org/OER_Handbook/educator/OER_Lifecycle)\).
+### Fondement 
 
-## <img src="/Images/Icons/finish.png" width="150" height="150" />
-### Objectifs d'apprentissage
+Dans de nombreux cas, les ressources éducatives libres sont fondées sur les résultats de la recherche. Si vous êtes un adepte de la science ouverte, il serait logique que vos ressources éducatives soient aussi librement accessibles que vos travaux de recherche. En outre, d'autres formateurs pourraient utiliser vos productions pour élaborer de nouveaux outils ou adapter des ressources existantes. En fait, la création de ressources pédagogiques peut être considérée comme un cycle similaire au cycle de recherche : trouver, construire, adapter, utiliser et partager ([wikieducator.org/OER_Handbook/educator/OER_Lifecycle](http://wikieducator.org/OER_Handbook/educator/OER_Lifecycle)).
 
-1. Les participants devraient apprendre la différence entre les ressources éducatives ouvertes et non ouvertes.
-2. L'octroi de licences est un élément essentiel et indique comment utiliser et combiner facilement les REL.
-3. Les participants doivent savoir où trouver et placer les ressources créées par REL.
+![](/Images/Icons/finish.png)
 
-### Composants clés
-## <img src="/Images/Icons/brain.png" width="150" height="150" /> <img src="/Images/Icons/gears.png" width="150" height="150" />
-#### Connaissances et savoirs-faires
+### Objectifs de la formation 
 
-Les ressources éducatives libres ne sont des REL que si elles ont une licence ouverte. Cependant, il n'y a pas de directives claires pour le choix de la licence de votre ressource. Alors, quel type de licence est approprié ? En pratique, les licences Creative Commons (CC) sont le plus souvent utilisées pour les REL. 
-Les licences Creative Commons ouvertes sont [CC0 (Public Domain Dedication)](https://creativecommons.org/publicdomain/zero/1.0/), [CC BY (Attribution)](https://creativecommons.org/licenses/by/4.0/) et [CC BY-SA (Attribution-ShareAlike)](https://creativecommons.org/licenses/by-sa/4.0/), qui peuvent être utilisées pour la plupart des ressources pédagogiques. Pour la distribution de bases de données sous licence libre, Creative Commons n'est pas idéal. Choisissez plutôt une licence ouverte spécialement adaptée comme ODbl, ODC-BY ou PDDL pour être légalement conforme.
+1.  Être capable de faire la différence entre les ressources éducatives libres et celles qui ne le sont pas.
 
-Il est important de souligner la nécessité de définir qui détient le droit d'auteur ou tout autre droit connexe sur les résultats de la recherche. Le titulaire du droit d'auteur est celui qui peut décider de lever les restrictions si elles ne sont pas levées par défaut par les licences. Les licences doivent donc être expliquées en détail afin d'attribuer correctement les auteurs et de créer de véritables REL. Cela inclut également la combinaison de différents types de licences et ses conséquences.
+2.  Prendre conscience du fait qu'attribuer une licence aux REL est essentiel et que le choix indique comment utiliser et associer la licence.
 
-La formation devrait donner un aperçu des plates-formes REL et de leur utilisation prévue. OpenCourseWare \(OCW\) est l'une des premières plateformes de ressources éducatives ouvertes et l'un des principaux initiateurs du mouvement des ressources éducatives ouvertes. Lancé au Massachusetts Institute of Technology (MIT) en 2002, le [Open Education Consortium](http://www.oeconsortium.org) fournit maintenant du matériel provenant du monde entier sous forme de cours sous licence gratuite. D'autres pionniers ont été l'UNESCO et la Fondation William et Flora Hewlett, qui sont toujours attachés aux ressources éducatives libres.
+3.  Savoir où trouver et déposer des ressources éducatives libres.
 
-Voici des exemples pour les plates-formes REL :
+### Éléments clés
 
-- [Creative Commons Search](https://search.creativecommons.org/) pour les fichiers image, audio et vidéo
-- [Open Education Consortium](http://www.oeconsortium.org) pour le matériel de cours ouvert
-- [OERCommons](https://www.oercommons.org/) pour les ressources éducatives.
+![](/Images/Icons/brain.png)
+![](/Images/Icons/gears.png)
 
-## <img src="/Images/Icons/questions.png" width="150" height="150" />
-### Questions, obstacles et idées fausses courantes
+#### Connaissances et Compétences
 
-Q : Comment pouvez-vous assurer la qualité des matériaux ?
+Les ressources éducatives libres ne peuvent se dénommer ainsi que si elles sont diffusées sous une licence libre. Cependant, il n'existe pas de consignes claires pour le choix de la licence de votre ressource. Quel type de licence est donc approprié ? En pratique, les licences Creative Commons (CC) sont le plus souvent utilisées pour les REL. Les licences Creative Commons libres [CC0 (Public Domain Dedication)](https://creativecommons.org/publicdomain/zero/1.0/deed.en), [CC BY (Attribution)](https://creativecommons.org/licenses/by/4.0/) et [CC BY-SA (Attribution-ShareAlike)](https://creativecommons.org/licenses/by-sa/4.0/), peuvent être utilisées pour la plupart des ressources éducatives. Pour la diffusion de bases de données sous licence libre, les licences Creative Commons ne sont pas idéales. Choisissez plutôt une licence libre spécialement adaptée, telle que ODbl, ODC-BY ou PDDL, pour être en conformité avec la législation.
 
-R : Ce n'est pas toujours une évidence. Jusqu'à présent, il n'existe pas de label de qualité pour les matériaux REL. Les commentaires ouverts des utilisateurs, l'évaluation par les pairs et la publication de documents sur les plates-formes d'institutions établies, comme les universités, peuvent fournir une première indication de la qualité. Tout comme pour les textes imprimés, la qualité ne peut cependant pas être garantie. Cela perturbe de nombreux utilisateurs. L'actualité et l'adaptabilité des matériaux parlent néanmoins en faveur de l'utilisation des REL. En fin de compte, vous ne savez que vous-même si le matériau choisi convient à l'usage auquel il est destiné et si son contenu est correct.
+Il est important de souligner la nécessité de définir qui détient les droits d'auteur ou tout autre droit lié aux résultats de la recherche. Le détenteur des droits d'auteur est le seul à pouvoir décider de lever les restrictions si elles ne sont pas levées par défaut via les licences. Ces dernières doivent donc être détaillées, y compris quand elles combinent plusieurs types de licences, afin de désigner correctement les auteurs et de créer de véritables REL.
 
-## <img src="/Images/Icons/output.png" width="150" height="150" />
-### Résultats d'apprentissage
+La formation devrait fournir un aperçu des plateformes de REL et leur utilisation prévue. *OpenCourseWare* *(OCW)* est l'une des premières plateformes de ressources éducatives libres et l'un des initiateurs clés du mouvement des REL. Lancé à l'Institut de Technologie du Massachusetts (MIT) en 2002, l'[Open Education Consortium](http://www.oeconsortium.org/) fournit aujourd'hui des supports éducatifs provenant du monde entier sous la forme de cours sous licences libres. Entre autres pionniers, on trouve l'UNESCO et la Fondation William et Flora Hewlett qui sont toujours engagés dans les ressources éducatives libres.
 
-1. Les personnels en formation seront en mesure de faire la distinction entre les documents protégés par le droit d'auteur et les documents gratuits. 
-2. La combinaison des différents types de licences et leurs effets seront connus. 
-3. Ils pourront trouver, utiliser et créer des ressources éducatives libres. 
+Quelques Exemples de plateformes de REL :
 
-## <img src="/Images/Icons/magnifying_glass.png" width="150" height="150" />
-### Pour en savoir plus
+- [Creative Commons Search](https://search.creativecommons.org/)[pour les fichiers images, audio et vidéo
+- [Open Education Consortium](http://www.oeconsortium.org/)pour les supports de cours ouverts
+- [OERCommons](https://www.oercommons.org/)pour les ressources éducatives
+
+![](/Images/Icons/questions.png)
+
+
+### Questions, obstacles et idées fausses reçues 
+
+Q : Comment peut-on être sûr de la qualité des ressources ?
+
+R : Ce n'est pas toujours évident. A ce jour, il n'existe pas de label de qualité pour les REL. Les commentaires ouverts des utilisateurs, l'évaluation par les pairs et la publication des supports sur les plateformes d'institutions établies comme par exemple, les universités, peuvent fournir une première indication de la qualité. Tout comme pour les textes imprimés, la qualité ne peut cependant pas être garantie. Cela perturbe de nombreux utilisateurs. Néanmoins, l'actualité et l'adaptabilité des documents plaident en faveur de l'utilisation des REL. En fin de compte, ce n'est que vous qui saurez si la ressource sélectionnée convient à l'usage auquel vous la destiniez et si son contenu est correct.
+
+![](/Images/Icons/output.png)
+
+### Acquis de la formation 
+
+1.  Être capable de faire la distinction entre les documents sous droits d'auteur et documents en libre accès.
+2.  Connaître la combinaison des différents types de licence et leurs effets.
+3.  Être capables de trouver, d'utiliser et de créer des ressources éducatives libres.
+
+
+![](/Images/Icons/magnifying_glass.png)
+
+### Lectures complémentaires 
 
 * Butcher (2015). A Basic Guide to Open Educational Resources (OER). [hdl.handle.net](http://hdl.handle.net/11599/36)
+
 
 * Miao et al. (2016). Open Educational Resources: Policy, Costs and Transformation. [hdl.handle.net](http://hdl.handle.net/11599/2306)
 

@@ -1,374 +1,411 @@
-## <img src="/Images/Icons/timetable.png" width="200" height="200" />
-## Organizational aspects
 
-This chapter will guide you through the main practical aspects of organizing a training event. Of course, what you need and will use will depend on the type of event you’ll organize! The checklist should be adjusted accordingly. You will get information on preparation steps and necessary organizational tasks. This will provide you not only with valuable knowledge about event organization, but will reassure you while preparing your training. Note that most of the material in this chapter, and the whole handbook, is focused on training regarding practical workshops. Running a different type of event may require different decisions than the recommendations that follow.
+![](/Images/Icons/timetable.png)
 
-## Training event basics
+## Aspects organisationnels
 
-### Format
+Ce chapitre vous guidera pour les principaux aspects pratiques de l'organisation d'un événement de formation. Bien sûr, ce dont vous aurez besoin et ce que vous utiliserez dépendra du type d'événement que vous organisez ! La liste de contrôle proposée doit donc être ajustée en fonction. Nous vous proposons des informations sur les étapes de préparation et les tâches organisationnelles indispensables. Cela vous fournira non seulement de précieuses bases pour l'organisation d'événements, mais vous rassurera lors de la préparation de votre formation. Notez bien que la plupart des documents cités dans ce chapitre ainsi que dans l'ensemble du manuel sont axés sur la formation dans le cadre d'ateliers pratiques. Le lancement d'un événement de type différent peut nécessiter des choix différents de ceux qui suivent.
 
-Deciding what type of event you want to coordinate is the first critical step in training exercises. Here are some points to consider:
+## **Les bases de l'organisation d'un événement de formation**
 
-* Format of the training: live workshop, seminar, lecture, online training or mixture of online and in-person?
+### Format 
 
-* Will it be participatory, formal, self-contained?
+Décider du type d'événement que vous souhaitez coordonner est la première étape délicate. Voici quelques points à prendre en compte:
 
-* Can the event be integrated into existing curricula?
+* Format de la formation : atelier en présentiel, séminaire, conférence, formation en ligne ou un mélange de présentiel et en cours en ligne ?
 
-* Do you need to invite any other external experts? What are the requirements for that (e.g., funding)?
+* La formation sera-t-elle plutôt participative, formelle, en autonomie ?
 
-* Is the training a requirement, or something participants are choosing to attend?
+* L'événement peut-il être intégré dans des programmes existants ?
 
-* Will attendees receive any form of accreditation for the training?
+* Devez-vous inviter des experts externes ? Quelles sont les contraintes pour cela (par exemple, le financement) ?
 
-* What sort of venue type do you need for this format?
+* La formation est-elle une obligation, ou un événement auquel les personnes ont choisi de participer ?
 
-To provide you with initial guidance over possible types of training and their characteristics, see the table below for recommendations. 
+* Les participants recevront-ils une forme quelconque de validation ou de certificat de formation?
+
+* De quel type de lieu avez-vous besoin ?
+
+Pour les premiers conseils sur les divers types de formation possibles et leurs caractéristiques, veuillez consulter le tableau ci-dessous.
+
 
 <table>
-  <tr>
-    <td></td>
-    <td>TYPE OF TRAINING</td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td>Live workshop</td>
-    <td>Course/ class</td>
-    <td>Lecture</td>
-    <td>Online Training</td>
-  </tr>
-  <tr>
-    <td>Audience Size</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>less than 20</td>
-    <td>x</td>
-    <td>x</td>
-    <td>x</td>
-    <td>x</td>
-  </tr>
-  <tr>
-    <td>less than 40</td>
-    <td></td>
-    <td>x</td>
-    <td>x</td>
-    <td>x</td>
-  </tr>
-  <tr>
-    <td>more than 40</td>
-    <td></td>
-    <td></td>
-    <td>x</td>
-    <td>x</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Funds</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>none</td>
-    <td></td>
-    <td></td>
-    <td>x</td>
-    <td>x</td>
-  </tr>
-  <tr>
-    <td>little</td>
-    <td>x</td>
-    <td>x</td>
-    <td>x</td>
-    <td>x</td>
-  </tr>
-  <tr>
-    <td>loaded</td>
-    <td>x</td>
-    <td>x</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Time</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td> less than ½ day</td>
-    <td>x</td>
-    <td>x</td>
-    <td>x</td>
-    <td>x</td>
-  </tr>
-  <tr>
-    <td>½ - 1 day</td>
-    <td>x</td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>1- 4 days</td>
-    <td>x</td>
-    <td>x</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>more than 4 days</td>
-    <td></td>
-    <td></td>
-    <td>x (series)</td>
-    <td>x (series)</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Training level</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Introductory</td>
-    <td></td>
-    <td></td>
-    <td>x</td>
-    <td>x</td>
-  </tr>
-  <tr>
-    <td>Aware of</td>
-    <td>x</td>
-    <td>x</td>
-    <td></td>
-    <td>x</td>
-  </tr>
-  <tr>
-    <td>Intermediate</td>
-    <td>x</td>
-    <td>x</td>
-    <td></td>
-    <td>x</td>
-  </tr>
-  <tr>
-    <td>Advanced</td>
-    <td>x</td>
-    <td>x</td>
-    <td>x</td>
-    <td>x</td>
-  </tr>
+<tr>
+<td></td>
+<td>TYPE DE FORMATION</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Atelier en présentiel</td>
+<td>Cours/ classe</td>
+<td>Cours magistral</td>
+<td>Formation en ligne</td>
+</tr>
+<tr><td>Nombre de participants</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Moins de 20</td>
+<td>x</td>
+<td>x</td>
+<td>x</td>
+<td>x</td>
+</tr>
+<tr>
+<td>Moins de 40</td>
+<td></td>
+<td>x</td>
+<td>x</td>
+<td>x</td>
+</tr>
+<tr>
+<td>Plus de 40</td>
+<td></td>
+<td></td>
+<td>x</td>
+<td>x</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Budget</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Aucun</td>
+<td></td>
+<td></td>
+<td>x</td>
+<td>x</td>
+</tr>
+<tr>
+<td>Petit</td>
+<td>x</td>
+<td>x</td>
+<td>x</td>
+<td>x</td>
+</tr>
+<tr>
+<td>Important</td>
+<td>x</td>
+<td>x</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Durée</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Moins d’ ½ journée</td>
+<td>x</td>
+<td>x</td>
+<td>x</td>
+<td>x</td>
+</tr>
+<tr>
+<td>½ - 1 journée</td>
+<td>x</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>1- 4 jours</td>
+<td>x</td>
+<td>x</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Plus de 4 jours</td>
+<td></td>
+<td></td>
+<td>x (séries)</td>
+<td>x (séries)</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Niveau de la formation</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Introduction</td>
+<td></td>
+<td></td>
+<td>x</td>
+<td>x</td>
+</tr>
+<tr>
+<td>Débutant</td>
+<td>x</td>
+<td>x</td>
+<td></td>
+<td>x</td>
+</tr>
+<tr>
+<td>Intermédiaire</td>
+<td>x</td>
+<td>x</td>
+<td></td>
+<td>x</td>
+</tr>
+<tr>
+<td>Avancé</td>
+<td>x</td>
+<td>x</td>
+<td>x</td>
+<td>x</td>
+</tr>
 </table>
 
 
+### Public cible, intervenants invités et partenaires 
 
-### Audience, guest speakers, and partners
+Avant de vous engager dans l'organisation de l'événement, assurez-vous d'avoir bien défini votre [public cible](https://github.com/jibe-b/Open-Science-TrainingHandbook_FR/blob/master/03OnLearningAndTraining/#target-audience) et d'être conscient de ses besoins réels. Prenez bien en compte votre public, sa taille et le nombre ou les champs de compétences des formateurs (invités).
 
-Before committing to the event be sure you defined your [target audience](/03OnLearningAndTraining/#target-audience) and that you are aware of their needs. Consider your audience, its size and the number or area of competence of (guest) trainers.
+![](/Images/Icons/collaborate.png)
 
-## <img src="/Images/Icons/collaborate.png" width="150" height="150" />
-#### Cooperating with others
 
-Some forms of training require more than one instructor. Try to get support from colleagues or service units in your institution. Identify institutional support (e.g., funding, room(s), work time) and reach out to decision makers to ask for these things - for example, you could ask for help with registration, or contact the printing service or communication department regarding advertising. Make sure any volunteers are sufficiently briefed on all activities, and know what the aims and practicalities of the event are. Make them aware of the importance of encouraging participation from the attendees. You can also outsource some tasks, if the budget allows for this.
+### Collaborer avec les autres
 
-Consider partnering with other departments at your institution or other local institutions to pool resources and increase impact/collaborating with other projects or programs. These are the key points to work out prior to committing to, or announcing any event. Resolving these will help the training run smoothly for yourself and your participants. Also, consider integrating the training into a recognized conference or local/international event.
+Certains modes de formation nécessitent plus d'un intervenant. Essayez d'obtenir le soutien de collègues ou d'unités de service de votre établissement. Identifiez le soutien institutionnel possible (par exemple, financement, salle(s), temps de travail) et contactez les décideurs pour leur demander cette aide. Par exemple, vous pouvez demander de l'aide pour l'inscription des participants, contacter le service d'imprimerie ou le service de communication pour la promotion de l'événement. Assurez-vous que tous les bénévoles sont suffisamment informés de toutes les activités et connaissent les objectifs et les aspects pratiques de l'événement. Faites-leur prendre conscience de l'importance d'encourager la participation des participants. Vous pouvez également sous-traiter certaines tâches, si le budget le permet.
 
-Identify other trainers or experts/guest speakers that could help with the event. Ideally, these will be other Open Science advocates at the institution or otherwise local to the event, but you may need to find suitable non-local trainers (who may need financial support for travel). Work to have diverse representation (see Representation below). According to [The Carpentries](https://software-carpentry.org/workshops/operations/), a workshop with 40 people needs at least two trainers (and possibly a third) who alternate between talking and supporting learners, including also one helper per 5 participants that will continuously monitor for any issues.
+Envisagez de vous associer à d'autres services de votre établissement ou à d'autres établissements locaux pour mettre en commun les ressources et augmenter l'impact / collaborer avec d'autres projets ou programmes. Ce sont des points clés à maîtriser avant de vous lancer ou d'annoncer un événement. La résolution de ces problèmes facilitera le déroulement de la formation pour vous et vos participants. Envisagez également d'intégrer la formation dans une conférence reconnue ou un événement local ou international.
 
-#### Representation
+Identifiez d'autres formateurs, experts / conférenciers invités qui pourraient contribuer à l'événement. Idéalement, il s'agira d'autres défenseurs de la science ouverte au sein de l'institution ou d'autre événements locaux, mais vous devrez peut-être trouver des formateurs non locaux appropriés (qui peuvent avoir besoin d'un soutien financier pour leurs frais de voyage). Travaillez à regrouper une diversité de profils (voir Représentation ci-dessous). Selon [The Carpentries](https://software-carpentry.org/workshops/operations/), un atelier de 40 personnes nécessite au moins deux formateurs (et peut-être même un troisième) qui alternent entre présentations orales et soutien aux apprenants, y compris également un assistant pour 5 participants chargé de veiller en permanence à anticiper tout problème.
 
-Maintaining an inclusive environment is important for any successful training event. Ensure that each component of your program includes a range of backgrounds. Your organizing team, speakers, and trainers should include representation across gender identities, different disciplines, underrepresented groups, diverse racial backgrounds, and geographic regions (if you intend to open your event to non-local participants). 
 
-Actively invite trainers and speakers from underrepresented groups. Make sure to discuss with them their specific goals and needs, and include these in the planning of the event. To learn more about trainers see On learning and training chapter, [Expectations about a trainer](/03OnLearningAndTraining.md/#expectations-about-a-trainer) subchapter. Ensure that a proportion of participant spots are reserved for attendees across ethnic backgrounds, gender identities, disciplines and geographic regions (see [Inclusive engagement](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/tree/master/03OnLearningAndTraining)). To learn more about how to make your workshop inclusive and welcoming, see the [Conference Planning Checklist by SPARC](https://sparcopen.github.io/opencon-dei-report/checklist.html).
+#### Représentativité 
 
-## <img src="/Images/Icons/home.png" width="150" height="150" />
-### Venue
+ Garantir un environnement inclusif est important pour toute formation réussie. Assurez-vous que chaque composante de votre programme comprend un éventail d'expériences personnelles. Votre équipe d'organisation, vos conférenciers et vos formateurs doivent inclure une multitude de genre, de disciplines, d'origines ethnique et de région géographiques diverses (si vous avez l'intention d'ouvrir votre événement à des participants non locaux). 
+ 
+Invitez des formateurs et des conférenciers de groupes rarement représentés. Assurez-vous de discuter avec eux de leurs objectifs et de leurs besoins spécifiques et veillez à les inclure dès la planification de l'événement. Pour en savoir plus sur les formateurs, reportez-vous au chapitre Apprentissage et Formation » rubrique [Expectations about a trainer](https://github.com/jibe-b/Open-Science-TrainingHandbook_FR/blob/master/03OnLearningAndTraining.md/#expectations-about-a-trainer) [Attentes liées au Formateur](https://github.com/jibe-b/Open-Science-TrainingHandbook_FR/blob/master/03OnLearningAndTraining.md/#expectations-about-a-trainer). Veillez à ce qu'une partie des places des participants soit réservée aux participants de toutes origines ethniques, d'identités de genre, de disciplines et de régions géographiques (voir ][[Engagement inclusif]](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/tree/master/03OnLearningAndTraining). Pour en savoir plus sur la façon de rendre votre atelier inclusif et accueillant, consultez la [Liste de contrôle en planification de conférence de SPARC](https://sparcopen.github.io/opencon-dei-report/checklist.html)
 
-Before organizing a face-to-face training event consider few things related to a venue. It might help you to reduce several obstacles: 
 
-The venue should be easily accessible for the participants. The venue should have elevator access, accessible entrances and ramps as well as clear legible signs. Check if the venue is easily accessible by public transport or car (parking spaces) and that it’s not too far away from rail stations or the airport. For a checklist of what makes a workshop accessible, see the [Accessible Meetings Toolkit from the American Bar Association](http://www.americanbar.org/content/dam/aba/administrative/mental_physical_disability/Accessible_Meetings_Toolkit.authcheckdam.pdf) and the [Conference Planning Checklist by SPARC](https://sparcopen.github.io/opencon-dei-report/checklist.html). Locate a place to greet your attendees and a place for them to circulate and socialize. A separate area for catering should be available. Also, check if the venue offers a maternity room, a prayer room and a gender-neutral washroom. 
+![](/Images/Icons/home.png)
 
-The training room should be sufficiently equipped (see equipment and media). The room should have sufficient WiFi and power access for every participant (possibly via power strips/extension cords). Check to see if furniture can be rearranged in order to suit your requirements. The presenter will need a high (or raisable) table for standing and a microphone (for recording and/or accessibility). An additional microphone for participant questions aids accessibility. 
 
-## <img src="/Images/Icons/break.png" width="150" height="150" />
-### Timing
+### Lieu de la formation 
 
-The length of the event depends on the content and depth of the training you intend to provide. You should have an estimate how much time each component will take. Make sure to define an agenda or time schedule, including any icebreakers and introductions. Allow enough time for lunch and coffee breaks. Be reasonable with your start and end times (see chapter [Starting the training](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/tree/master/03OnLearningAndTraining)). 
+Avant d'organiser un événement de formation en présentiel, prenez en compte plusieurs éléments liés à l'accès au lieu. Cela vous aidera certainement à réduire plusieurs obstacles :
 
-Before scheduling your event think about obstacles that might prevent or induce people to join and try to pick a suitable time and date of the event. Make sure to avoid conflict with any public holidays, religious holidays, or similar events. If your event is hosted at a university, keep class schedules in mind. Consider to place your training session along with a larger conference or meeting in order to bring more attention, increase the attendance and get the chance to bring any speaker attending the other event. A family friendly workshop should avoid evenings and weekends, provide childcare or childcare sponsorships, and ensure areas for breastfeeding mothers. 
+Le lieu doit être facilement accessible aux participants. Le site devrait avoir un accès par ascenseur, des entrées et des rampes accessibles ainsi que des panneaux lisibles et clairs. Vérifiez que le lieu est facilement accessible par les transports en commun ou en voiture (places de parking) et qu'il n'est pas trop éloigné des gares ou de l'aéroport. Pour une liste de contrôle de ce qui rend un atelier accessible, voir la [Boîte à Outils pour l'Organisation de Réunions accessibles de l'Association du Barreau Américain](http://www.americanbar.org/content/dam/aba/administrative/mental_physical_disability/Accessible_Meetings_Toolkit.authcheckdam.pdf) et la [Liste de contrôle en planification de conférence de SPARC](https://sparcopen.github.io/opencon-dei-report/checklist.html) Trouvez un endroit où accueillir vos participants et un endroit où ils puissent se déplacer et se rencontrer. Un espace séparé pour la restauration devrait être disponible. Vérifiez également que le lieu propose une salle de maternité, une salle de prière et des toilettes non genrées.
 
-## <img src="/Images/Icons/budget.png" width="150" height="150" />
-### Budget
+La salle de formation doit être suffisamment équipée (voir équipements et supports). Elle doit disposer d'un accès wifi et d'un câblage électrique suffisant pour chaque participant (éventuellement via des multiprises et /ou rallonges). Vérifiez si le mobilier peut être réorganisé afin de répondre à vos besoins. L'intervenant aura besoin d'une table haute (ou pouvant être surélevée) pour se tenir debout et d'un microphone (pour l'enregistrement et/ou l'accessibilité). Un microphone supplémentaire pour les questions des participants facilite l'accessibilité.
 
-You may need financial support to help run your event, to pay for things like the venue (if the host institution cannot or will not provide this for free), travel support for non-local trainers/experts, refreshments, materials (e.g., name badges, USB drives) and swag. Most types of training will need at least a little money for material and equipment. Also, keep in mind that the costs associated with human resource are often the largest costs associated with running an event. It is good to identify time needed for staff to prepare materials and content which is often not budgeted for. These costs may be covered through as a core aspect of the job, but if not it might be wise to ensure funding to cover this aspect is sourced.
+![](/Images/Icons/break.png) 
 
-Consider different ways of creating a budget for your training. If possible, request funds from your institution. Otherwise, you might have to charge a fee from participants or look for scholarships and other ways of funding. 
+### Durée et Horaire 
 
-#### Fee
+La durée de l'événement dépend du contenu et du niveau de la formation. Vous devriez avoir une estimation du temps nécessaire pour chaque composante du programme. Assurez-vous de définir un ordre du jour ou un calendrier, y compris des moments informels et des présentations. Prévoyez suffisamment de temps pour le déjeuner et les pauses café. Soyez raisonnable avec vos heures de début et de fin (voir le chapitre ][Démarrer la formation]](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/tree/master/03OnLearningAndTraining). 
 
-Collecting and managing funds or fees can be tricky. If you plan to do this, you should consider using an existing online registration service (e.g., Eventbrite, Event Smart) or your institution’s conference/event services. Although any cost impacts accessibility of the event, charging a nominal registration fee (e.g., $20–40 or €15–30) encourages those who register to actually attend—Software Carpentry found this reduced no-shows from almost a third to about 5% (Wilson 2016). 
+Avant de planifier votre événement, pensez aux obstacles qui pourraient empêcher ou au contraire, inciter les gens à participer et essayez de choisir une heure et une date convenables pour l'événement. Assurez-vous d'éviter tout conflit avec des jours fériés, des fêtes religieuses ou des événements similaires. Si votre événement est organisé dans une université, gardez à l'esprit les horaires des cours. Pensez à organiser votre session de formation avec une conférence ou une réunion plus importante afin d'attirer plus d'attention, d'augmenter la participation et d'avoir plus de chance d'amener n'importe quel conférencier participant à un autre événement. Un atelier adapté aux familles évitera les cours en soirée et les week-ends, fournira des services de garde d'enfants ou des parrainages de garderie et prévoira des zones pour les mères qui allaitent.
 
-If planning to charge a fee of any sort, it is good to clarify with your institution's finance team how best to handle this. In some cases, the amount of time/effort required to set such things up can outweigh the value of charging - particularly if it is only a nominal fee being charged. Your institution will likely have specific financial processes and budget codes that need to be used, so speak to them early on to see what the best approach is. This is true even when using external services such as Eventbrite (you'll need an institutional budget center to allow the income to come into your institution).
+![](/Images/Icons/budget.png)
 
-If you do charge a fee, consider making a waiver available upon request for those unable to pay or creating scholarships. Scholarship allocation should be prioritized for groups that face the most barriers for self-funding.
 
-#### Funding
+### Budget 
 
-You can get funding from a few difference sources: the host institution, external sponsors like companies, budgeted funds on faculty/principal investigator’s grants, or through registration fees. Check if there are any internal sources for funding, or relevant local organizations who can sponsor your event. If you have found a potential partner, check the funding conditions. This could include advertising on your event website or at the event itself.
+Il se peut que vous ayez besoin d'une contribution financière pour vous aider à organiser votre événement, pour financer des postes comme le lieu (si l'institution hôte ne peut pas ou ne veut pas le fournir gratuitement), une aide au déplacement pour les formateurs / les experts non locaux, des rafraîchissements, du matériel (par exemple, les badges, clés USB) et la décoration. La plupart des types de formation nécessiteront au minimum un peu d'argent pour le matériel et l'équipement. N'oubliez pas non plus que les coûts liés aux ressources humaines sont souvent les plus importants associés à la gestion d'un événement. Il convient d'identifier le temps nécessaire au personnel pour préparer le matériel et le contenu qui ne sont souvent pas prévus au budget. Ces coûts peuvent être le poste principal de dépense et doivent être couverts, si ce n'est pas encore le cas, il faut s'assurer de trouver un financement additionnel. 
 
-Consider different levels of sponsorship (bronze, silver, gold) in case of bigger events. You might also want to look at other projects or programs to co-organize and  share costs with. 
+Envisagez différentes façons de créer un budget pour votre formation. Si possible, demandez des fonds à votre institution. Sinon, vous devrez peut-être facturer des frais aux participants ou rechercher des bourses et d'autres modes de financement. 
 
-## Organizational tasks 
-## <img src="/Images/Icons/laptop.png" width="150" height="150" /> <img src="/Images/Icons/wifi.png" width="150" height="150" />
-### Equipment & Media 
+#### Frais d'inscription 
 
-#### Long-term preparation
+La collecte et la gestion de fonds ou de frais d'inscription peuvent s'avérer délicates. Si vous prévoyez de le faire, envisagez d'utiliser un service d'inscription en ligne existant (par exemple, Eventbrite, Event Smart) ou les services de conférence de votre institution. Bien que tout coût ait une incidence sur l'accessibilité de l'événement, le fait de facturer des frais d'inscription nominaux (par exemple, 20 à 40$ ou 15 à 30 €) encourage ceux qui s'inscrivent à participer réellement - Software Carpentry a même constaté une réduction des non-présentations, passant de presque un tiers à environ 5%. (Wilson 2016). 
 
-Here are some things to consider:
+Si vous prévoyez de facturer des frais de quelque nature que ce soit, il est bon de clarifier avec l'équipe financière de votre institution, la meilleure façon de gérer la question. Dans certains cas, le temps ou les efforts nécessaires pour mettre en place ces différents points peuvent l'emporter sur la valeur de la facturation - en particulier si vous ne facturez que des frais nominaux. Votre institution aura probablement des procédures financières et des codes budgétaires spécifiques devant être utilisés, alors parlez-en dès le début du projet pour voir quelle est la meilleure approche. Cela est vrai même lorsque vous utilisez des services externes tels que Eventbrite (vous aurez besoin d'un centre budgétaire institutionnel pour permettre aux revenus d'entrer dans votre institution). 
 
-Will participants need access to WI-FI? Make sure that any requirements for access are dealt with ahead of time (e.g., by providing guest account details). Check if the venue has enough power outlets. Make sure to check with the venue owner in advance for availability of technical support. If you are planning on recording the event make sure you have the correct equipment, and that attendees are aware (and have consented) to being recorded. Think about how you are going to license any outcomes: will you apply a CC license to pictures, videos, and training materials? Are the authors ok with that? 
+Si vous facturez des frais d'inscription, prévoyez une dispense possible sur demande pour les personnes qui ne seraient pas en mesure de payer ou d'obtenir une bourse. L'attribution de bourses devrait être priorisée pour les groupes qui rencontrent le plus d'obstacles à l'autofinancement. 
 
-#### Shortly before event
+#### Financement 
 
-Making sure that all of your equipment, media, and materials are in fully functioning order can help to avoid any embarrassing hiccups during your training. Make sure that your laptop, or the device which is hosting your material, is compatible with the media technology in the venue. Ask guest lectures for their presentations in advance and store them all on the same laptop. This will make it easier to switch from one speaker to the other. Make sure to bring any relevant adaptors or extensions. Check WiFi strength and power outlets, as well as, if the speaker and projectors work in advance, and that your file formats are supported. Make sure there is an emergency contact for technical issues.
+Vous pouvez obtenir des financements de différentes sources : l'institution hôte, des sponsors externes comme les entreprises, des fonds budgétés sur les subventions du corps enseignant, des bourses de chercheurs, ou par le biais des frais d'inscription. Vérifiez s'il existe des sources internes de financement ou des organisations locales pertinentes pouvant parrainer votre événement. Si vous avez trouvé un partenaire potentiel, vérifiez les conditions de financement. Cela peut inclure de la publicité sur le site Web de votre événement ou lors de l'événement lui-même.
 
-Make sure to print out any paper handouts in advance, and to have enough of them to go around. If you plan to hand out a lot of material, consider providing folders or binders to help with organization. Or, consider just making all your material available digitally via your event website.
+Envisagez différents niveaux de parrainage (bronze, argent, or) en cas d'événements plus importants. Vous pouvez également rechercher d'autres projets ou programmes avec lesquels partager l'organisation et les coûts.
 
-Preparing a variety of media can help engage an audience with diverse learning styles. You should prepare any teaching aids in advance (e.g, flipcharts, practical exercises, games). Bring notepads, post-it notes, pens, thumbtacks. If participants need any other computer-based materials make sure these are well-organized and available in advance.
+## Tâches organisationnelles 
 
-#### During the event
+![](/Images/Icons/laptop.pn)
+![](/Images/Icons/wifi.png)
 
-If your equipment fails, do not panic. Call the IT support and explain the problem to the attendees. Most people understand that. What might feel like hours to you are just a few minutes of lost time. If the equipment still not works try to work offline with flip charts for example. If you are relying heavily on media equipment and it is just a small group of participants suggest to reschedule the training.
+### Équipement & Médias 
 
-## <img src="/Images/Icons/shout.png" width="150" height="150" />
-### Marketing & Advertising Strategy
+#### **Planification à long terme**
 
-#### Long before the event
+Voici quelques questions à se poser au préalable :
 
-Developing a strong marketing and communication strategy is fundamental to driving participation, as well as teaching you how to develop and refine your messaging.
+Les participants auront-ils besoin d'un accès au wifi ? Assurez-vous que toutes les problématiques d'accès soient traitées bien en amont (par exemple en transmettant les codes d'accès aux invités). Vérifiez si le lieu d'accueil comporte assez de prises. Vérifiez avec le propriétaire du lieu la possibilité de bénéficier d'une assistance technique. Si vous avez prévu d'enregistrer la séance, assurez-vous de disposer d'un équipement conforme et opérationnel. Les participants doivent être au courant que l'événement est filmé et auront au préalable consenti à l'utilisation de leur image.
 
-Consider which kind of name your training will have. Think about your framing and messaging. What are the common values that you can appeal to? For example, will you run an "Open Access workshop", or a workshop on “How to get published”? How are you going to get people in the room? Remember, training is not unidirectional, and can be incentivized by framing it as a networking opportunity. For example, find some partners in Graduate Schools, Master Schools, Support Staff trainings, Valorisation Center etc.
+Pensez aux autorisations qui seront nécessaires pour l'exploitation des résultats : quelle licence CC allez-vous appliquer aux photos, vidéos et aux supports de formation ? Est-ce que les auteurs ont bien validé le choix ?
 
-Consider both digital and non-digital media. Use institutional mailing lists and social media (e.g., Twitter, Facebook, blog). Will you have dedicated social media profiles? What sort of content will you share on them? Think about relevant images and logos. This is more important if you want to run more than one event. If the event is being run with the sponsorship of, or in coordination with, an institutional organization (e.g., the library, a particular college/department), then you may want or need to use the profiles of the organization. This might require someone else to post the material, so keep that in mind. Several of these recommendations might require organizational sign off or additional budget support - start investigating these options as soon as possible. 
+#### Peu de temps avant l'événement 
 
-Find out if you can post flyers or posters at your institution. Are you going to design a poster? What sort of logos, images, text, and information do you need to include? Make sure to clearly communicate the pre-defined objectives (skills and knowledge). Ask relevant organizations to help with advertising. Connect with relevant media, create a press release. Use existing communication channels, e.g. at the university library you might ask subject librarians to promote the event to their academic communities.
+S'assurer que tous les équipements médias, matériels sont tous opérationnels, peut éviter les imprévus embarrassant pendant votre formation. Assurez-vous que votre ordinateur portable ou la machine sur laquelle vous travaillerez est compatible avec la technologie multimédia du lieu d'accueil. Demandez aux intervenants de vous transmettre leur présentation afin de les stocker ensemble sur un seul portable. Ce sera plus facile de passer d'un intervenant à l'autre. Pensez à apporter des adaptateurs et rallonges qui pourraient être utiles.
 
-#### Shortly before the event
+Vérifiez la puissance du wifi et le fonctionnement des prises de courant, du micro et du vidéoprojecteur ainsi que la compatibilité de vos formats de fichiers avec les différents équipements. Assurez-vous d'avoir un numéro d'urgence en cas de problème technique.
 
-Send a reminder on social media and mailing lists. Put up signs so your attendees find the room.
+Pensez à imprimer au préalable tous les documents à distribuer en quantité suffisante. Si vous envisagez de distribuer plusieurs documents imprimés, pensez peut-être à fournir des chemises cartonnées ou des classeurs pour que les participants puissent organiser leurs documents. Vous pouvez tout simplement mettre à disposition toutes les ressources en ligne sur le site dédié à votre événement.
 
-#### During the event
+Proposer différents supports de communication peut favoriser l'engagement du public à travers différents modes d'apprentissage. Il vous faudra préparer chaque outil pédagogique à l'avance (tableaux, exercices pratiques, jeux). N'oubliez pas d'apporter blocs-notes, post-it, stylos, punaises. Si les participants ont besoin d'autres supports informatiques, assurez-vous que tout soit bien préparé en amont.
 
-Publish pictures and short videos from the event on the website and social media. Tell participants the hashtag for the training and ask them to send at least one tweet/message during the event. Collect reasons for attendance for advertising of future events.
+#### Pendant l'événement 
 
-## <img src="/Images/Icons/check.png" width="150" height="150" />
-### Registration
+Si vous avez un problème technique, pas de panique! Contactez l'assistance informatique et expliquez le problème à votre public. La majorité des gens sont compréhensifs. Vous aurez sans doute l'impression d'avoir attendu une éternité pour résoudre le problème mais au final ce ne seront que quelques minutes de perdues. Si l'équipement ne fonctionne plus, travaillez "hors ligne" avec des tableaux par exemple. Si votre présentation repose principalement sur les équipements multimédias, que l'effectif de votre groupe de participants est réduit, vous pouvez suggérer de reprogrammer la séance.
 
-#### Long before the event
+![](/Images/Icons/shout.png)
 
-Set up an event registration using a service like [Eventbrite](https://www.eventbrite.com) or [Event Smart](https://eventsmart.com) (which are free for free events, but may include fees if your event has a registration cost), or something like Google Forms to capture basic information. For smaller events you can also use registration via email. But don’t forget to send them a confirmation, when they register and before the event to send a reminder. 
+### Marketing et stratégie publicitaire 
 
-Think about the fee you want/need to charge (see budget). Think about the credits students can get. Is a certificate needed (see certification of attendance)?
+#### Bien en amont de l'événement 
 
-Be sensible and transparent about the information you collect. If you need to ask information like gender, age or nationality, keep into account that this is not always as straightforward as you might think - always offer the option of a blank field. Please do not use the distinction between Mrs. and Ms.
+Développer une stratégie marketing et de communication est fondamental pour attirer la participation et vous permettra de développer et d'affiner votre message.
 
-You can make a short poll to measure what do participants already know about the topic (their pre-knowledge). It can help you to prepare training material. Make clear what data is going to be shared/retained and why. Always offer people the option of opting out, and keep any information you do archive safely stored. Consider creating a list of interested participants for a newsletter or for keeping in touch, but be aware of data protection (like the EU General Data Protection Regulation (Regulation (EU) 2016/679)). 
+Quel intitulé allez-vous donner à votre formation? Réfléchissez au cadrage et au message. A quelles valeurs communes souhaitez-vous faire appel ? Par exemple, allez-vous diriger un atelier "Accès Libre" ou un atelier "Comment être publié" ? Comment allez-vous attirer les personnes dans la salle ? Souvenez-vous, la formation n'est pas unidirectionnelle. Vous pouvez l'encourager en la structurant comme une opportunité de réseautage. Vous pouvez par exemple trouver des partenaires dans les écoles doctorales, les masters, les services de formation des équipes support, le centre de valorisation de la recherche etc.
 
-#### Shortly before the event
+Envisagez un mode de communication numérique et non numérique. Utilisez des listes de diffusion institutionnelles ainsi que les réseaux sociaux (Facebook, Twitter, Blog) ; Avez-vous prévu des profils dédiés sur les réseaux sociaux ? Quels contenus allez-vous partager sur les réseaux sociaux ? Pensez à des illustrations et logos pertinents. Ce sera essentiel si vous souhaitez organiser plus d'un événement. Si l'événement est organisé avec l'aide de sponsors ou en coordination avec des partenaires privés ou institutionnels [(par exemple, la bibliothèque, un collège / un département particulier)], vous souhaiterez sans doute ou aurez besoin d'utiliser les profils de l'institution. Cela veut dire qu'il faudra que quelqu'un d'autre poste les supports, gardez cela à l'esprit. Plusieurs de ces recommandations nécessiteront sans doute des validations hiérarchiques et peut-être aussi un soutien budgétaire supplémentaire. Commencez donc à examiner ces différentes options dès que possible.
 
-Depending on the size of the audience, provide a separate staffed registration desk. Make sure staff has all information including a participants list, and let them take care of badges and attendance sheets/certificates. 
+Cherchez si vous pouvez afficher des flyers ou des posters au sein de votre institution. Allez-vous créer un poster ? Quel type de logos, images, texte et informations doivent y figurer ?
 
-If there is no separate registration desk, prepare a cheat sheet with information to keep at hand (think: public transportation, emergency numbers, requests for certificates, safety during the event  etc.). 
+Assurez-vous de communiquer clairement sur les objectifs pré-définis (compétences et connaissances). Demandez à des organisations expertes de vous aider pour la publicité. Contactez les médias pertinents, rédigez un communiqué de presse. Pensez à utiliser les réseaux de communication existants : par exemple informez les bibliothécaires de la spécialité pour qu'ils assurent la promotion de l'événement auprès de leurs communautés académiques.
 
-#### During the event
+#### Peu de temps avant l'événement
 
-Do you have consent from participants to re-use or share their contact information or to take pictures and publish them? Did all participants sign the participants list?
+Envoyez un rappel de l'événement sur les réseaux sociaux et via les listes de diffusion. [Mettez des panneaux de signalisation pour que vos participants trouvent la salle.]
 
-## <img src="/Images/Icons/email.png" width="150" height="150" />
-### Communication
+#### Pendant l'événement 
 
-#### Long before the event
+Publiez des photos et courtes vidéos de l'événement sur le site internet dédié et sur les réseaux sociaux. Informez les participants du hashtag de l'événement et incitez-les à envoyer au moins un tweet ou un message pendant la formation.
 
-Prepare and send formal invitations to participants, guest and keynote speakers. 
+![](/Images/Icons/check.png)
 
-Create a website for the training event, such as using GitHub Pages or on an institutional website. [link to examples/template]
+Collectez les motifs de participation pour construire l'argumentaire publicitaire de vos futurs événements.
 
-Make sure any key resources are visible and accessible if needed. If you want the participants to come with research outputs (e.g., papers, code, data) for exercises, let them know with plenty of time to prepare (and consider making this optional).
+### Inscription 
 
-#### Shortly before the event
+#### Bien en amont de l'événement 
 
-Communicate requirements to your audience in advance.
+Organisez les inscriptions en utilisant un service comme [Eventbrite](https://www.eventbrite.fr/) ou [Even Smart](https://eventsmart.com/) (lesquels sont gratuits pour les événements gratuits, mais peuvent comporter des frais si votre événement prélève des frais d'inscription), ou un outil comme Google Forms pour recueillir les informations principales sur vos participants.
 
-* Let them know if they need to bring laptops or other work materials.
+Pour les petits événements vous pouvez aussi gérer les inscriptions courrier électronique. Mais n'oubliez pas d'envoyer une confirmation aux participants suite à leur inscription, ainsi qu'un rappel à l'approche de la date de l'événement.
 
-* Make sure any prerequisites for software or programming abilities are communicated in advance.
+Pensez au montant des frais d'inscription que vous souhaitez ou devez faire payer (Voir Budget). Les étudiants peuvent-ils obtenir des crédits en participant à l'événement ? Faut-il envisager un certificat de formation (Voir Certification et présence) ?
 
-* Provide basic contextual reading materials, so you don’t have to start at the beginning point.
+Soyez prudents et transparents sur les informations collectées concernant les participants. Si vous devez demander des informations telles que le genre, l'âge ou la nationalité, ne présumez pas qu'elles vous seront délivrées aussi facilement que vous le pensez -- laissez toujours l'option de laisser le champ en blanc. Enfin, ne faites pas de distinction entre "Madame" et "Mademoiselle".
 
-Send a reminder email to your attendees a day or two in advance of the event, if possible (this may not be necessary if you are relying on a registration service). 
+Vous pouvez faire un rapide sondage pour savoir ce que les participants connaissent déjà du sujet (connaissances préalables). Cela peut vous aider à préparer vos supports de formation.
 
-Remind people about reachability and accessibility of the venue. Send detailed instructions for parking and public transport options.
+D'autre part, soyez clairs sur les données qui seront partagées ou conservées et expliquez pourquoi.
 
-#### During the event
+Toujours offrir la possibilité aux participants de se désister et conservez toutes les informations personnelles dans une archive sécurisée.
 
-Dedicate some time to housekeeping at the start of your event. Write down hashtags and WiFi passwords.
+Envisagez de créer une liste de participants intéressés par une newsletter et/ou dans l'optique de garder le contact, mais soyez bien informé de la législation sur la protection des données personnelles (Règlement UE 2016/679 [RGPD](https://www.cnil.fr/fr/comprendre-le-rgpd)).
 
-## <img src="/Images/Icons/lunch_break.png" width="150" height="150" />
-### Catering
+#### Peu avant l'événement 
 
-#### Long before the event
+Selon la taille de votre public, prévoyez un bureau d'accueil séparé tenu par un personnel disposant de toutes les informations nécessaires, dont la liste des participants et chargé aussi de la distribution des badges, la gestion des listes d'émargements et la remise des attestations de présence.
 
-What refreshments will you either need to provide, or will people need to bring their own? If you provide refreshments, you may need to obtain funding or charge for registration. 
+Si vous ne disposez pas d'un bureau d'accueil séparé, préparez une fiche repère contenant toutes les informations utiles à garder à portée de main (transports publics, numéros d'urgence, demandes d'attestations, consignes de sécurité pendant l'événement, etc).
 
-If relevant, you can ask during registration in advance for dietary requirements - but keep in mind this might make it very complicated for you. Sometimes it’s better to ask the caterer to provide sufficient varieties (vegetarian, vegan, gluten free, etc.) and add one free field on your submission forms so that participants can fill in specific requests if necessary (e.g. intolerances and allergies). 
+#### Pendant l'événement
 
-#### Shortly before the event
+Avez-vous le consentement de tous les participants pour la réutilisation / le partage de leurs données de contact, la prise et la publication de photos ? Tous les participants ont-ils signé la feuille d'émargement ?
 
-Check the venue and inform the caterer where and when to deliver the refreshments. 
+![](/Images/Icons/email.png)
 
-#### During the event
+### Communication 
 
-Be sure you have the contact information of the caterer if the catering is not showing up, delivering the wrong lunch or forgot something.
+#### Bien en amont de l'événement 
 
-## <img src="/Images/Icons/write.png" width="150" height="150" />
-### Code of Conduct
+Préparez et envoyez les invitations officielles aux participants, invités ainsi qu'aux conférenciers.
 
-#### Long before the event
+Créez un site internet dédié à l'événement de formation, en utilisant des pages GitHub ou un site institutionnel. (Lien vers des exemples/modèles)
 
-To help ensure your workshop is a friendly, inclusive, and respectful environment for trainers and participants, identify or create a robust Code of Conduct (CoC) for your event. Make sure the Code of Conduct is communicated in advance—we recommend prominent placement on your event website (see task 2) and onsite. Participants should be asked to review and acknowledge the Code of Conduct while registering for the workshop. Included in your Code of Conduct should be clear consequences of violation (for example, removal from the workshop). Ensure the reporting process for violations is communicated clearly before and during the event and that at least one designated organizer is identified as the point of contact, who is easily accessible to receive reports of code of conduct violations. Examples you can borrow or adapt from include: 
+Assurez-vous que l'ensemble des ressources clés soient visible et accessibles, si besoin.
+
+Si vous souhaitez que les participants viennent avec leurs propres résultats de recherche (articles, code, données) pour les exercices, informez-les bien à l'avance pour qu'ils aient largement le temps de se préparer. (Proposez l'utilisation de leur données comme une option)
+
+#### Peu avant l'événement 
+
+Communiquez à l'avance les consignes à votre public.
+
+* Dîtes-leur s'ils doivent apporter leur ordinateur portable ou tout autre outil de travail.
+
+* Assurez-vous de les informer bien à l'avance de tous prérequis concernant les logiciels ou leurs compétences en programmation.
+
+* Fournissez des supports de lecture contextuelle de base, afin qu'ils aient une connaissance minimale du sujet.
+
+Si possible, envoyez un courriel de rappel à vos participants un jour ou deux avant l'événement. Cela peut ne pas être nécessaire si vous utilisez sur un service d'inscription dédié).
+
+Rappelez aux gens les informations sur l'accès et l'accessibilité au lieu de la manifestation. Envoyez des instructions détaillées sur les possibilités de stationnement et de transport en commun.
+
+#### Pendant l'événement 
+
+Consacrez un peu de temps à un rangement rapide au début de votre événement. Notez les hashtags et les mots de passe Wifi. 
+
+![](/Images/Icons/lunch_break.pn)
+
+### **Restauration**
+
+#### Bien en amont de l'événement
+
+Quels rafraîchissements devrez-vous fournir? Les participants doivent-ils apporter leurs propres rafraîchissements ? Si vous fournissez des rafraîchissements, il vous faudra peut-être obtenir un financement ou faire payer des frais d'inscription.
+
+Le cas échéant, vous pouvez demander à l'avance, lors de l'inscription, les exigences alimentaires de chacun - mais soyez conscient que cela risque de vous compliquer la tâche. Parfois, il est préférable de demander au traiteur de fournir suffisamment d'options variées (repas végétarien, végétalien, sans gluten, etc.) et ajoutez un champ libre dans vos formulaires d'inscription afin que les participants puissent exprimer leurs demandes spécifiques, si nécessaire (par exemple, intolérances et allergies).
+
+#### Peu avant l'événement 
+
+Vérifiez les lieux et informez le traiteur du lieu et de la date de livraison des boissons et repas.
+
+#### Pendant l'événement
+
+Assurez-vous d'avoir les coordonnées du traiteur si celui-ci ne se présente pas, s'il ne livre pas la bonne commande ou s'il a oublié quelque chose.
+
+![](/Images/Icons/write.png)
+
+
+### Code de conduite 
+
+#### Bien en amont de la manifestation 
+
+Pour vous assurer d'organiser un atelier sympathique, inclusif et respectueux des formateurs et des participants, repérez ou rédigez un Code de conduite solide pour votre manifestation. Assurez-vous de communiquer ce code de conduite à tous, bien à l'avance. Nous recommandons de le mettre bien en évidence sur le site internet de la manifestation (voir tâche 2) et de l'afficher sur place. Demandez aux participants de lire et d'accepter le code de conduite au moment de s'enregistrer pour l'atelier. Le code de conduite doit préciser clairement les conséquences de sa violation (par exemple, l'expulsion de l'atelier). Assurez-vous que le processus de signalement des violations soit clairement présenté avant et pendant la manifestation, et qu'au-moins un organisateur désigné soit identifié comme point de contact et facilement accessible pour recevoir les rapports de violation du code de conduite. Voici quelques exemples que vous pourrez réutiliser ou adapter :
 
 * [The Mozilla Science Lab Code of Conduct](https://science.mozilla.org/code-of-conduct)
 
-* [Contributor Covenant Code of Conduct](https://www.contributor-covenant.org) 
+* [Contributor Covenant Code of Conduct](https://www.contributor-covenant.org/)
 
 * [FORCE2017 Conference Code of Conduct](https://www.force2017.org/information/code_of_conduct.html)
 
@@ -376,314 +413,527 @@ To help ensure your workshop is a friendly, inclusive, and respectful environmen
 
 * [Mozilla Science Lab: Getting Started with Codes of Conduct](http://mozillascience.github.io/working-open-workshop/code_of_conduct/)
 
-#### Shortly before the event
+#### Peu avant la manifestation
 
-Make sure the Code of Conduct is clearly visible/accessible from the event website (if one exists); if your event does not have or need a website, print out the CoC and give it to participants.
+Assurez-vous que le code de conduite est bien visible et accessible sur le site internet de l'événement (s'il existe). Si votre manifestation ne possède pas ou ne nécessite pas de site internet, imprimez le code de conduite et distribuez-le aux participants.
 
-#### During the event
+#### Pendant la manifestation 
 
-Make sure there is a safe space for participants to report any breaches of the Code of Conduct. Communicate sanctions, and follow through if any breaches occur.
+Assurez-vous que les participants disposent d'un endroit sûr pour signaler tout manquement au Code de conduite. Faites connaître les sanctions et allez jusqu'au bout de l'application du code si un manquement se produit.
 
-## <img src="/Images/Icons/badge.png" width="150" height="150" />
-### Certification of attendance
+![](/Images/Icons/badge.png)
 
-#### Long before the event
 
-Prepare a template and assign who will keep records or monitor registration process. 
+### Attestation de présence 
 
-#### Shortly before the event
+#### Bien en amont de **la** **manifestation**
 
-Prepare a generic certificate of attendance with event or organiser’s logos and event information that can be distributed digitally when requested.  
+Préparez un modèle et identifiez la personne qui enregistrera les participants ou gérera le processus d'enregistrement des participants.
 
-#### During the event
+#### **Peu avant la** **manifestation**
 
-Ask participants if a certificate of attendance is needed.
+Préparez une attestation de présence générique comportant les logos de l'organisateur et les informations sur la manifestation, qui pourra être distribuée par voie électronique sur demande.
 
-If a signature sheet is required, make sure you do a check during the day or ask to complete it at registration. 
+#### Pendant la manifestation 
 
-## <img src="/Images/Icons/sign_left.png" width="150" height="150" /> <img src="/Images/Icons/sign_right.png" width="150" height="150" />
-### Signs
+Demandez aux participants s'ils ont besoin d'une attestation de présence.
 
-#### Long before the event
+Si une feuille d'émargement est nécessaire, contrôlez la présence pendant la journée, ou demandez aux participants de signer à l'enregistrement.
 
-Check the venue and define spots to be marked by signs to help participants to easily find a room. 
+![](/Images/Icons/sign_left.png)
 
-#### Immediately before the event
+### Signalisation 
 
-Design, print and place the signs and leave useful information at the reception desk. 
+#### Bien en amont de la manifestation 
 
-#### During the event
+Vérifiez le lieu de la manifestation et déterminez les endroits qui devront être signalés par des panneaux pour aider les participants à trouver facilement la salle.
 
-Remove the signs after the event.
+#### Juste avant la manifestation 
 
-## <img src="/Images/Icons/social_facebook.png" width="150" height="150" /> <img src="/Images/Icons/social_twitter.png" width="150" height="150" />
-### Social media and notes 
+Concevez, imprimez, placez les panneaux et laissez toutes les informations utiles à la table d'accueil.
 
-#### Long before the event
+#### Pendant la manifestation 
 
-Plan your social media activities, ask colleagues from other departments and/or partner organization to help you in sharing information. 
+Retirez tous les panneaux à la fin de la **manifestation**.
 
-#### Immediately before the event
+![](/Images/Icons/social_facebook.png)
+![](/Images/Icons/social_twitter.png)
 
-Prepare note documents (e.g. public Google Docs or etherpads). Make announcements on social media.
 
-#### During the event
+### Réseaux sociaux et notes 
 
-Ask your audience whether they are ok with being filmed, photographed and featured on social media. If it's a big audience, you might consider handing out stickers to those who do not want to be featured.
+####  Bien en amont de la manifestation 
 
-Assign note takers and people responsible for social media. Ideally, rotate heavily to avoiding slacking and loss of attention. 
+Programmez vos activités sur les réseaux sociaux, demandez à des collègues d'autres départements et/ou d'une organisation partenaire de vous aider à partager l'information.
 
-## <img src="/Images/Icons/key.png" width="150" height="150" />
-## Event closure
+#### Juste avant la manifestation 
 
-### Venue
+Préparez les documents pour la prise de notes (par ex Google Docs public ou Etherpad). Annonces l'événement sur les réseaux sociaux.
 
-Make sure you leave the venue neat and clean, unless your agreement for using it doesn’t require this.
 
-### Debrief
+#### Pendant l'événement
 
-Debrief with the other trainers/speakers to self-assess how the event went.
+Demandez à vos participants s'ils sont d'accord pour être filmés, photographiés et présentés sur les médias sociaux. Si vous avez un public nombreux, vous pouvez envisager de remettre des autocollants pour identifier ceux qui ne souhaitent pas que leur image soit utilisée.
+
+Affectez des personnes à la prise de notes et désignez un/des responsable(s) pour les réseaux sociaux. Si possible, alternez fréquemment les rôles pour éviter le relâchement et la baisse d'attention.
+
+
+![](/Images/Icons/key.png)
+
+## Clôture de la manifestation
+
+### Lieu 
+
+Assurez-vous de laisser le lieu de la manifestation rangé et propre, sauf si l'accord que vous avez obtenu ne le prévoit pas.
+
+### Bilan 
+
+Faites un bilan oral avec les autres formateurs/orateurs pour auto-évaluer le déroulement de la manifestation.
 
 ### Evaluation
 
-Send post-training assessment survey to participants (see [Training evaluation](/03OnLearningAndTraining.md/#training-evaluation)) or distribute an evaluation form during the event and make sure people hand it in at the end.
+Envoyez un questionnaire d'évaluation aux participants après la formation (voir [Training evaluation](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/blob/master/03OnLearningAndTraining.md/#training-evaluation)) ou distribuez un questionnaire pendant la manifestation et assurez-vous que les participants le remettent à la fin.
 
-Read and count the questions in the evaluation form. Make your self-evaluation.
+Lisez et comptez les questions dans le questionnaire. Faites votre auto-évaluation.
 
-### Dissemination
+### Diffusion
 
-Upload all the material used during the event (presentations, documents) if they were not available beforehand. Make sure to provide open licenses if possible, and make sure participants are not identifiable (e.g., within a notes document). 
+Chargez tout le matériel utilisé pendant la manifestation (présentations, documents) s'il n'était pas disponible à l'avance. Assurez-vous d'attribuer des licences ouvertes si cela est possible, et vérifiez que les participants ne sont pas identifiables (par ex. dans un document de notes).
 
-Prepare a report for your funder or institution and if needed make it public (e.g. blog, twitter, website). 
+Rédigez un rapport pour votre financeur ou votre institution, et si nécessaire rendez-le public (par ex. via un blog, twitter ou un site internet).
 
-## <img src="/Images/Icons/coffee_break.png" width="150" height="150" /> <img src="/Images/Icons/toilets.png" width="150" height="150" />
-## Checklist
+![](/Images/Icons/coffee_break.png)
+![](/Images/Icons/toilets.png)
+
+## Liste de contrôle
+
 
 <table>
-  <tr>
-    <td>What</td>
-    <td>When and who?</td>
-    <td>Done?</td>
-  </tr>
-  <tr>
-    <td>Equipment/media</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Determine what technical equipment is needed</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Check if enough power outlets are available</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Order WiFi for participants</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Organize video recording and taking pictures</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Test equipment a few days before the training</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Print out handouts, feedback forms and material for exercises or publish them online</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Prepare flip charts and pinboards</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Venue</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Check elevator access, accessible entrances, ramps</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Check public transport and parking availability</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Locate maternity room, prayer room and gender neutral washrooms</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Clear, legible signs</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Brief your helpers before the event</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Marketing/advertising</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Identify communication channels</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Set up online presence</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Send event information to mailing lists</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Inform about your event in social media</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Registration</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Set up registration module</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Collect information on dietary needs and allergies</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Ask for childcare needs</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Provide hotel information for events over several days</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Send confirmations/invitations to attendees and provide clear text and image instructions to the venue</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Send a reminder 1 or 2 days before the event</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Prepare name tags and print participants list</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Prepare a registration desk</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Organize a wardrobe checkroom for larger events</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Catering</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Identify catering options and needs</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Order catering </td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Check if meals are clearly labeled (especially regarding dietary needs and allergies)</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Communication during event</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Inform the participants where to find emergency exits, food/beverages and restrooms etc.</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Hand out consent forms for video recordings, live streaming and/or photos</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Post event dissemination</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Make photos of flip charts and other non-digital material or results</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Hand out or send certificates of attendance</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Provide or send training material (slides, notes, video recordings) to the attendees</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Provide a report for your funder or institution</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Evaluation</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Hand out or provide an online or printed form for feedback</td>
-    <td></td>
-    <td></td>
-  </tr>
+<tr>
+<td>Préparatifs</td>
+<td>Quand le faire ? Qui le fait?</td>
+<td>C’est fait ?</td>
+</tr>
+<tr>
+<td><b>Équipement/média</b></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Définir l’équipement technique nécessaire </td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Vérifier s’il y a assez	de prises de courant </td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Prévoir un réseau sans fil pour accueillir tous les  participants</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Organiser l’enregistrement vidéo et la prise de photos</td>
+<td></td>
+<td></td>
+</tr>
 </table>
 
-## <img src="/Images/Icons/magnifying_glass.png" width="150" height="150" />
-## References
+
+<table>
+	<tr>
+		<td>
+			Tester l’équipement
+			quelques  jours avant la formation
+		</td>
+		<td>			
+		</td>
+		<td>			
+		</td>
+	</tr>
+	<tr>
+		<td>
+			Imprimer des prospectus,
+			fiches d’évaluation et supports pour les exercices, ou les
+			publier en ligne
+		</td>
+		<td>
+		</td>
+		<td>			
+		</td>
+	</tr>
+	<tr>
+		<td>
+			Préparer des tableaux à
+			feuilles mobiles ou des tableaux d’affichage
+		</td>
+		<td>
+		</td>
+		<td>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<b>Lieux</b>
+		</td>
+		<td>
+		</td>
+		<td>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			Vérifier les accès par
+			ascenseur, l’accessibilité des entrées, les rampes d’accès
+		</td>
+		<td>
+		</td>
+		<td>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			Vérifier la possibilité
+			d’accès par les transports publics et de stationnement
+		</td>
+		<td>
+		</td>
+		<td>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			Localiser la salle de
+			maternité, la salle de prière et des toilettes non genrées
+		</td>
+		<td>			
+		</td>
+		<td>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			Créer une signalisation
+			claire et lisible
+		</td>
+		<td>
+		</td>
+		<td>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			Informer vos assistants
+			avant l’événement
+		</td>
+		<td>
+		</td>
+		<td>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<b>Promotion et publicité</b>
+		</td>
+		<td>
+		</td>
+		<td>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			Identifier les canaux de
+			communication
+		</td>
+		<td>
+		</td>
+		<td>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			Mettre en place votre
+			présence en ligne
+		</td>
+		<td>
+		</td>
+		<td>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			Envoyer les informations sur
+			l’événement à des listes de diffusion
+		</td>
+		<td>
+		</td>
+		<td>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			Faites connaître votre
+			événement sur les réseaux sociaux
+		</td>
+		<td>
+		</td>
+		<td>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<b>Inscription</b>
+		</td>
+		<td>
+		</td>
+		<td>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			Mettre en place le module
+			d’inscription
+		</td>
+		<td>
+		</td>
+		<td>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			Recueillir des informations
+			sur les régimes alimentaires particuliers et les allergies
+		</td>
+		<td>
+		</td>
+		<td>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			Demander si une garde
+			d’enfants est à prévoir
+		</td>
+		<td>
+		</td>
+		<td>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			Fournir des informations sur
+			les hôtels si l’événement dure plusieurs jours
+		</td>
+		<td>
+		</td>
+		<td>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			Envoyer des confirmations /
+			invitations aux inscrits et fournir des instructions claires par
+			textes et images sur la manière d’arriver sur les lieux
+		</td>
+		<td>
+		</td>
+		<td>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			Envoyer un rappel un jour ou
+			deux avant l’événement
+		</td>
+		<td>
+		</td>
+		<td>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			Préparer des étiquettes
+			nominatives et imprimer la liste des participants
+		</td>
+		<td>
+		</td>
+		<td>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			Prévoir un bureau
+			d’enregistrement
+		</td>
+		<td>
+		</td>
+		<td>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			Pour les grands événements,
+			organiser un vestiaires
+		</td>
+		<td>
+		</td>
+		<td>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<b>Restauration</b>
+		</td>
+		<td>
+		</td>
+		<td>			
+		</td>
+	</tr>
+	<tr>
+		<td>
+			Identifier les options de
+			restauration et les besoins
+		</td>
+		<td>
+		</td>
+		<td>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			Commander le service de
+			restauration
+		</td>
+		<td>
+		</td>
+		<td>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			Vérifier que les plats sont
+			clairement étiquetés (pour tenir compte des régimes
+			particuliers et des allergies)
+		</td>
+		<td>
+		</td>
+		<td>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<b>Communication pendant
+			l’événement</b>
+		</td>
+		<td>
+		</td>
+		<td>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			Indiquer aux participants où
+			se trouvent les issues de secours, la nourriture, les boissons,
+			les toilettes, etc.
+		</td>
+		<td>
+		</td>
+		<td>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			Distribuer les formulaires
+			de consentement pour l'enregistrement de vidéos, la diffusion en
+			direct et / ou les photos
+		</td>
+		<td>
+		</td>
+		<td>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<b>Diffusion après
+			l’événement</b>
+		</td>
+		<td>
+		</td>
+		<td>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			Prendre des photos des
+			feuillets des tableaux et d’autres supports ou productions non
+			numériques
+		</td>
+		<td>
+		</td>
+		<td>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			Distribuer ou envoyer les
+			attestations de présence
+		</td>
+		<td>
+		</td>
+		<td>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			Fournir ou envoyer aux
+			participants les supports de formation (diapositives, notes,
+			enregistrements vidéo)
+		</td>
+		<td>
+		</td>
+		<td>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			Remettre un rapport à votre
+			financeur ou à votre institution
+		</td>
+		<td>
+		</td>
+		<td>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<b>Evaluation</b>
+		</td>
+		<td>
+		</td>
+		<td>
+		</td>
+	</tr>
+</table>
+
+
+**Lieux**                                                                             
+
+<table>
+	<tr>
+		<td>Distribuer ou fournir un
+			questionnaire d’évaluation sur papier ou en ligne</td>
+		<td>
+		</td>
+		<td><p>
+			</p>
+		</td>
+	</tr>
+</table>
+                          
+
+## **Références**
 
 * Christodolou et al. (2014). How to conduct a successful workshop: The trainee’s perspective (Arab Journal of Urology), 12(1), 12-14. [doi.org/10.1016/j.aju.2013.08.004](https://doi.org/10.1016/j.aju.2013.08.004)
 
@@ -695,7 +945,9 @@ Prepare a report for your funder or institution and if needed make it public (e.
 
 * Wilson G. Software Carpentry: lessons learned [version 2; referees: 3 approved]. F1000Research. 2016;3:62. [doi.org/10.12688/f1000research.3-6e 2.v2](https://doi.org/10.12688/f1000research.3-62.v2) 
 
-**Inspirations**
+    
+
+**Sources d'inspiration**
 
 * International Council on Archives (2010). Organising training workshops and seminars: Guidelines for professional association. [PDF](https://www.ica.org/sites/default/files/SPA_2010_Guidelines_Organising-training-seminars-workshops_EN.pdf)
 
