@@ -7,7 +7,7 @@
 
 Nous pourrions définir les politiques de science ouverte comme les stratégies et actions visant à promouvoir les principes de science ouverte et à reconnaître les pratiques de science ouverte. Ces politiques sont généralement établies par des institutions de recherche, des bailleurs de fonds, des gouvernements ou des éditeurs. Les politiques initiales visaient à exiger une diffusion ouverte des résultats de la recherche en se fondant sur l'idée que les résultats obtenus par la recherche financée par des fonds publics devraient être disponibles au public sans aucune restriction. Cependant, la portée de ces politiques s'est aujourd'hui élargie et les politiques nationales encouragent les pratiques de science ouverte à tous les stades de la recherche. De plus, il existe également des dispositions spécifiques dans les lois, règlementations et directives nouvelles ou déjà existantes.
 
-![](f/Images/02 Open Science Basics/02_open_policies.png)
+![](/Images/02%20Open%20Science%20Basics/02_open_policies.png)
 
 ### Fondement
 
