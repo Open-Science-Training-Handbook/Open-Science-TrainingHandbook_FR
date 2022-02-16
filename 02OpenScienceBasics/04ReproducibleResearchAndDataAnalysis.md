@@ -88,19 +88,19 @@ Il y a plusieurs conseils pratiques à garder à l'esprit lorsqu'on souhaite lis
 
 ![](/Images/Icons/task.png)
 
-###### 1. Planifiez la reproductibilité avant de commencer
+#### 1. Planifiez la reproductibilité avant de commencer
 
-###### Créez un plan d'étude ou un protocole.
+##### Créez un plan d'étude ou un protocole.
 
 Commencez la documentation dès le lancement de l'étude en rédigeant un plan ou un protocole d'étude qui inclue la conception et les méthodes d'étude que vous proposez. Utilisez les directives du réseau Equateur ([Equator Network](http://www.equator-network.org/)), le cas échéant. Faites le suivi des modifications apportées à votre plan ou protocole d'étude à l'aide de logiciel de contrôle de versions (Version Control). Calculez la puissance ou la taille d'échantillon nécessaires et rapportez ce calcul dans votre protocole, car les études qui manquent de puissance ont moins de chances d'être reproductibles.
 
-###### Choisissez des outils et matériels reproductibles
+##### Choisissez des outils et matériels reproductibles
 
-Sélectionnez des anticorps qui fonctionnent en utilisant un moteur de recherche d'anticorps comme[CiteAb](https://www.citeab.com/). Augmentez vos chances d'être reproductible en utilisant des lignées cellulaires authentifiées par le Comité International d'Authentification des Lignées Cellulaires [International Cell Line Authentication Committee](http://iclac.org/)). Dans la mesure du possible, choisissez des logiciels et matériels avec lesquels vous pouvez conserver la propriété de vos recherches et qui vous permettent de migrer vos recherches hors de la plate-forme pour les réutiliser (voir la section Logiciels de Recherche Libres et Codes Source Ouverts).
+Sélectionnez des anticorps qui fonctionnent en utilisant un moteur de recherche d'anticorps comme [CiteAb](https://www.citeab.com/). Augmentez vos chances d'être reproductible en utilisant des lignées cellulaires authentifiées par le Comité International d'Authentification des Lignées Cellulaires [International Cell Line Authentication Committee](http://iclac.org/)). Dans la mesure du possible, choisissez des logiciels et matériels avec lesquels vous pouvez conserver la propriété de vos recherches et qui vous permettent de migrer vos recherches hors de la plate-forme pour les réutiliser (voir la section Logiciels de Recherche Libres et Codes Source Ouverts).
 
-###### Mettez en œuvre un projet reproductible
+##### Mettez en œuvre un projet reproductible
 
-Centralisez et organisez la gestion de votre projet à l'aide d'une plateforme en ligne, une centrale de dépôt en ligne, ou d'un dossier pour tous vos fichiers de recherche. Vous pouvez utiliser GitHub pour stocker des fichiers de projet ensemble ou tout gérer à l'aide d'un cahier de laboratoire électronique tel que [Benchling](https://benchling.com/)[Labguru](https://www.labguru.com/)[SciNote](https://scinote.net/). Au sein de votre projet centralisé, adoptez les bonnes pratiques en séparant vos données de votre code dans différents dossiers. Paramétrez vos données brutes en lecture seule et séparez-les des données traitées (référence à la gestion des données).
+Centralisez et organisez la gestion de votre projet à l'aide d'une plateforme en ligne, une centrale de dépôt en ligne, ou d'un dossier pour tous vos fichiers de recherche. Vous pouvez utiliser GitHub pour stocker des fichiers de projet ensemble ou tout gérer à l'aide d'un cahier de laboratoire électronique tel que [Benchling](https://benchling.com/), [Labguru](https://www.labguru.com/), [SciNote](https://scinote.net/). Au sein de votre projet centralisé, adoptez les bonnes pratiques en séparant vos données de votre code dans différents dossiers. Paramétrez vos données brutes en lecture seule et séparez-les des données traitées (référence à la gestion des données).
 
 Lors de la sauvegarde et de l'enregistrement de vos fichiers de recherche, choisissez des formats et des noms de fichiers informatifs permettant la réutilisation. Les noms de fichiers doivent être lisibles à la fois par la machine et par l'homme (référence à Gestion des Données). Dans votre analyse et votre code logiciel, utilisez des chemins relatifs. Évitez les formats de fichiers propriétaires et utilisez des formats de fichiers ouverts (voir 6 Formats de fichiers et licences ouvertes).
 
@@ -109,41 +109,41 @@ Lors de la sauvegarde et de l'enregistrement de vos fichiers de recherche, chois
 
 #### 2. Gardez des traces de vos travaux 
 
-###### Consignation dans un registre
+##### Consignation dans un registre
 
 Consignez à l'avance les informations importantes relatives à la conception et à l'analyse des études afin d'accroître la transparence et de contrer le biais consistant à ne pas publier des résultats négatifs. Parmi les outils gratuits que vous pouvez utiliser pour votre premier enregistrement, on trouve : [AsPredicted](https://aspredicted.org/)[Open Science Framework](https://osf.io/) et [Registered Reports](https://cos.io/rr/). Il est recommandé aux essais cliniques d'utiliser [Clinicaltrials.gov](https://clinicaltrials.gov/).
 
-###### Contrôle de versions
+##### Contrôle de versions
 
 Suivez les modifications apportées à vos fichiers, en particulier à votre code d'analyse, grâce au contrôle de versions (Voir la section Logiciels de recherche libres et Codes Source Ouverts).
 
-###### Documentation
+##### Documentation
 
 Documentez tout ce qui a été fait à la main dans un fichier LISEZMOI. Créez un dictionnaire de données (également appelé "codebook", "livre de code") pour décrire les informations importantes concernant vos données. Pour une introduction facile, utilisez le [module d'organisation des données de Karl Broman](http://kbroman.org/dataorg/pages/dictionary.html) et référez à la section Gestion des données.
 
-######Programmation lettrée
+##### Programmation lettrée
 
-Envisagez d'utiliser[notebooks](http://jupyter.org/)[ Jupyter](http://jupyter.org/)[KnitR](https://yihui.name/knitr/)[Sweave](https://support.rstudio.com/hc/en-us/articles/200552056-Using-Sweave-and-knitr) ou d'autres approches de la programmation lettrée pour intégrer votre code à votre récit et à votre documentation.
+Envisagez d'utiliser [Jupyter notebooks](http://jupyter.org/), [KnitR](https://yihui.name/knitr/), [Sweave](https://support.rstudio.com/hc/en-us/articles/200552056-Using-Sweave-and-knitr) ou d'autres approches de la programmation lettrée pour intégrer votre code à votre récit et à votre documentation.
 
 ## <img src="/Images/Icons/open_licenses.png" width="150" height="150" />
 
-##### 3. Partagez vos recherches et attribuez-leur des licences
+#### 3. Partagez vos recherches et attribuez-leur des licences
 
-###### Données
+##### Données
 
 Évitez les fichiers annexes, faîtes le choix d'une licence permissive acceptable et partagez vos données à l'aide d'un dépôt. Suivez les bonnes pratiques décrites dans le chapitre Données et Matériels de la Recherche Ouverte.
 
-###### Matériels
+##### Matériels
 
-Partagez vos documents afin qu'ils puissent être réutilisés. Stockez les réactifs dans des entrepôts tels que [Addgene](https://www.addgene.org/)[The Bloomington Drosophila Stock Center](https://bdsc.indiana.edu/) et [ATCC](https://www.atcc.org/) pour les rendre facilement accessibles à d'autres chercheurs. Pour plus d'informations, consultez le paragraphe [Matériaux ouverts](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/blob/master/02OpenScienceBasics/02OpenResearchDataAndMaterials.md) dans la section "Données et matériaux de la Recherche ouverte".
+Partagez vos documents afin qu'ils puissent être réutilisés. Stockez les réactifs dans des entrepôts tels que [Addgene](https://www.addgene.org/), [The Bloomington Drosophila Stock Center](https://bdsc.indiana.edu/) et [ATCC](https://www.atcc.org/) pour les rendre facilement accessibles à d'autres chercheurs. Pour plus d'informations, consultez le paragraphe [Matériaux ouverts](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/blob/master/02OpenScienceBasics/02OpenResearchDataAndMaterials.md) dans la section "Données et matériaux de la Recherche ouverte".
 
-###### Logiciels, notebooks et conteneurs
+##### Logiciels, notebooks et conteneurs
 
-Attribuez une licence à votre code pour indiquer les conditions auxquelles vous permettez qu'il soit (ré)utilisé. Partagez les notebooks avec des services tels que [mybinder](http://mybinder.org/) qui permettent de visualiser et d'exécuter l'intégralité du notebook sur des ressources partagées. Partagez des conteneurs ou des notebooks avec des services tels que[Rocker](https://arxiv.org/abs/1710.03675) ou [Code Ocean](https://codeocean.com/). Suivez les meilleures pratiques décrites dans le chapitre Logiciels de recherche libres et Code source ouvert.
+Attribuez une licence à votre code pour indiquer les conditions auxquelles vous permettez qu'il soit (ré)utilisé. Partagez les notebooks avec des services tels que [mybinder](http://mybinder.org/) qui permettent de visualiser et d'exécuter l'intégralité du notebook sur des ressources partagées. Partagez des conteneurs ou des notebooks avec des services tels que [Rocker](https://arxiv.org/abs/1710.03675) ou [Code Ocean](https://codeocean.com/). Suivez les meilleures pratiques décrites dans le chapitre Logiciels de recherche libres et Code source ouvert.
 
 ![](Images/Icons/open_scholarship.png)
 
-##### 4. Rendez compte de vos recherches de manière transparente
+#### 4. Rendez compte de vos recherches de manière transparente
 
 Rendez compte de vos méthodes et interventions et publiez-les de manière explicite, transparente et exhaustive, afin de permettre leur réplication. Les lignes directrices du réseau Equateur ([Equator Network]](http://www.equator-network.org/)), les outils tels que [Protocols.io](https://www.protocols.io/) ou des processus tels que [Registered Reports](https://cos.io/rr/) peuvent vous aider à rendre compte de manière reproductible. N'oubliez pas de publier vos résultats sur une plateforme d'enregistrement publique (telle que [ClinicalTrials.gov](https://www.socialscienceregistry.org/) ou [SocialScienceRegistry](https://www.socialscienceregistry.org/)) dans l'année suivant la fin de votre étude, quelle que soit la nature ou l'orientation de vos résultats.
 
