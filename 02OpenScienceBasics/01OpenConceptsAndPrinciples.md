@@ -3,7 +3,7 @@
 
 ### De quoi parle-t-on ? 
 
-La science ouverte est une manière de pratiquer la science permettant à d'autres personnes de collaborer et de contribuer ; les données de recherche, les notes de laboratoire et autres processus de recherche y sont librement accessibles, dans des conditions qui permettent la réutilisation, la redistribution et la reproduction de la recherche et de ses données et méthodes sous-jacentes [Définition](https://www.fosteropenscience.eu/foster-taxonomy/open-science-definition) FOSTER de la Science Ouverte]). En résumé, la science ouverte est un savoir transparent et accessible, partagé et développé via des réseaux collaboratifs (Vicente-Sáez & Martínez-Fuentes 2018).
+La science ouverte est une manière de pratiquer la science permettant à d'autres personnes de collaborer et de contribuer ; les données de recherche, les notes de laboratoire et autres processus de recherche y sont librement accessibles, dans des conditions qui permettent la réutilisation, la redistribution et la reproduction de la recherche et de ses données et méthodes sous-jacentes ([définition FOSTER de la Science Ouverte](https://www.fosteropenscience.eu/foster-taxonomy/open-science-definition)). En résumé, la science ouverte est un savoir transparent et accessible, partagé et développé via des réseaux collaboratifs (Vicente-Sáez & Martínez-Fuentes 2018).
 
 La science ouverte vise à accroître la rigueur, la responsabilisation et la reproductibilité de la recherche. Elle est fondée sur les principes d'inclusion, de justice, d'équité et de partage et son but ultime est de changer la façon dont la recherche est effectuée, les personnes qui y participent et la manière dont elle est valorisée. Elle vise à rendre la recherche plus ouverte à la participation, à l'évaluation/la réfutation, à l'amélioration et à la (ré)utilisation pour le bénéfice du plus grand nombre.
 
@@ -51,7 +51,7 @@ La science ouverte, telle que définie ci-dessus, englobe un grand nombre de cha
 
 * Histoire de la science ouverte et motivations derrière le mouvement :
 
-  * Les origines de l'édition académique remontent au XVII^e^ siècle avec les premières revues savantes.
+  * Les origines de l'édition académique remontent au XVIIème siècle avec les premières revues savantes.
     
   * La volonté d'accroître la motivation à partager les ressources entre les disciplines de recherche, ainsi que la transparence pour plus d'efficacité, de rigueur, de capacité à rendre des comptes, de durabilité pour les générations futures et de reproductibilité.
 
@@ -77,7 +77,7 @@ La science ouverte, telle que définie ci-dessus, englobe un grand nombre de cha
   
 ## <img src="/Images/Icons/questions.png" width="150" height="150" />
 
-### Questions, obstacles et idées fausses courantes 
+### Questions, obstacles et idées reçues courantes 
 
 Q : « Quelle est la différence entre science ouverte et « science » ? »
 
@@ -100,7 +100,7 @@ R : Il vaut mieux avoir trop d'informations à traiter que d'en avoir trop peu e
 
 ## <img src="/Images/Icons/output.png" width="150" height="150" />
 
-### Acquis de formation {#acquis-de-formation .western style="text-indent: 0.18cm"}
+### Acquis de formation 
 
 1.  Être capable d'expliquer les principes et concepts académiques, économiques et sociétaux fondamentaux qui sous-tendent la science ouverte, et en quoi elle est importante pour vous en termes d'impacts plus larges.
     
@@ -111,8 +111,6 @@ R : Il vaut mieux avoir trop d'informations à traiter que d'en avoir trop peu e
 ## <img src="/Images/Icons/magnifying_glass.png" width="150" height="150" />
 
 ### Lectures complémentaires
-
-![Image43](final_html_fbee9c368f9a401f.gif)
 
 * European Commission's Directorate-General for Research & Innovation (RTD) (2016). Open innovation, Open Science, open to the world - a vision for Europe. [ec.europa.eu/digital-single-market/en/news/open-innovation-open-science-open-world-vision-europe](https://ec.europa.eu/digital-single-market/en/news/open-innovation-open-science-open-world-vision-europe)
 
