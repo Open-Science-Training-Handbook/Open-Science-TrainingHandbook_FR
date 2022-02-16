@@ -35,9 +35,9 @@ La formation devrait fournir un aperçu des plateformes de REL et leur utilisati
 
 Quelques Exemples de plateformes de REL :
 
-- [Creative Commons Search](https://search.creativecommons.org/)[pour les fichiers images, audio et vidéo
-- [Open Education Consortium](http://www.oeconsortium.org/)pour les supports de cours ouverts
-- [OERCommons](https://www.oercommons.org/)pour les ressources éducatives
+- [Creative Commons Search](https://search.creativecommons.org/) pour les fichiers images, audio et vidéo
+- [Open Education Consortium](http://www.oeconsortium.org/) pour les supports de cours ouverts
+- [OERCommons](https://www.oercommons.org/) pour les ressources éducatives
 
 ![](/Images/Icons/questions.png)
 
