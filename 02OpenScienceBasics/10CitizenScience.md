@@ -60,7 +60,7 @@ Bien que le débat soit encore ouvert quant à la manière d'évaluer certaines 
 
 ![](/Images/Icons/output.png)
 
-### Acquis de la formation {
+### Acquis de la formation 
 
 1.  Les stagiaires seront en mesure de connaître les différentes approches des projets de science citoyenne et sauront comment traiter les aspects juridiques et éthiques, notamment en ce qui concerne la gestion des données.
 
