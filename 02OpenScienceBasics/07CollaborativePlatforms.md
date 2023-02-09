@@ -10,7 +10,7 @@ Les plateformes collaboratives en ligne relient des chercheurs dispersés géogr
 
 ### Fondement 
 
-La recherche collaborative connaît une croissance exponentielle et les équipes deviennent de plus en plus interdisciplinaires, à mesure que les chercheurs travaillent dans des consortiums internationaux et interdisciplinaires pour permettre de multiples perspectives sur des questions de recherches spécifiques. Encourager la recherche collaborative nationale et internationale est une priorité croissante pour les financeurs. La recherche collaborative se situe ainsi au cœur de la stratégie du Commissaire Européen à la Recherche, Carlos Moedas : ["Science ouverte, innovation ouverte, ouvertes sur le monde"](https://euraxess.ec.europa.eu/content/open-science-%E2%80%93-open-innovation-%E2%80%93-open-world).
+La recherche collaborative connaît une croissance exponentielle et les équipes deviennent de plus en plus interdisciplinaires, à mesure que les chercheurs travaillent dans des consortiums internationaux et interdisciplinaires pour permettre de multiples perspectives sur des questions de recherches spécifiques. Encourager la recherche collaborative nationale et internationale est une priorité croissante pour les financeurs. La recherche collaborative se situe ainsi au cœur de la stratégie du Commissaire Européen à la Recherche, Carlos Moedas : ["Science ouverte, innovation ouverte, ouvertes sur le monde"](https://ec.europa.eu/commission/presscorner/detail/fr/SPEECH_15_5243).
 
 Les environnements virtuels de recherche et les plateformes collaboratives permettent la collaboration à travers les continents, les fuseaux horaires et les disciplines. Dans ce module, vous allez acquérir des connaissances sur les plateformes collaboratives qui fonctionnent actuellement, et découvrir comment elles peuvent grandement améliorer vos processus de recherche.
 
@@ -46,13 +46,13 @@ Un aspect important ici est la nature disciplinaire spécifique à bon nombre de
 
 * [BlueBRIDGE](http://www.bluebridge-vres.eu/) - Création d'environnements de recherche pour favoriser l'innovation, la prise de décision, la gouvernance et l'éducation pour soutenir la croissance bleue
 
-* [VRE4EIC](https://www.vre4eic.eu/) - Environnement virtuel de recherche interopérable à l'échelle européenne pour autonomiser les communautés de recherche multidisciplinaires et accélérer l'innovation et la collaboration
+* [VRE4EIC](https://vre4eic.ercim.eu/) - Environnement virtuel de recherche interopérable à l'échelle européenne pour autonomiser les communautés de recherche multidisciplinaires et accélérer l'innovation et la collaboration
 
-* [West-Life](https://about.west-life.eu/network/west-life/west-life) - E-infrastructure mondiale pour la biologie structurale
+* [West-Life](https://www.sciencedirect.com/science/article/pii/S2590152419300042) - E-infrastructure mondiale pour la biologie structurale
 
 ![](/Images/Icons/datamining.png)
 
-Certaines bibliothèques proposent déjà des EVR personnalisés pour des projets spécifiques. Par exemple, la [bibliothèque de l'université de Leyde](https://www.library.universiteitleiden.nl/research-and-publishing/collaboration-tools) propose des EVR pour tous les projets associant plus de cinq personnes, financés par l'extérieur.
+Certaines bibliothèques proposent déjà des EVR personnalisés pour des projets spécifiques. Par exemple, la [bibliothèque de l'université de Leyde](https://www.library.universiteitleiden.nl/researchers/use-of-digital-data/vre) propose des EVR pour tous les projets associant plus de cinq personnes, financés par l'extérieur.
 
 Une plateforme de collaboration particulièrement importante dans le contexte de la science ouverte est l'[Open Science Framework](https://osf.io/) (OSF). Basé sur des technologies à source ouverte et créé par le [Center for Open Science](https://cos.io/), une organisation à but non lucratif, l'OSF se présente comme un "bien commun scientifique permettant de relier l'ensemble du cycle de recherche". L'OSF permet aux chercheurs de travailler sur des projets en privé avec un nombre limité de collaborateurs et de rendre une partie ou la totalité de leur projet public. L'OSF se connecte directement à de nombreux autres systèmes de collaboration tels que dropbox, GitHub et Google Docs, et peut être utilisé pour stocker et archiver des données, des protocoles et matériels de recherche.
 
