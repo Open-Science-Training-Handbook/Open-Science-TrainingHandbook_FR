@@ -111,19 +111,19 @@ Lors de la sauvegarde et de l'enregistrement de vos fichiers de recherche, chois
 
 ##### Consignation dans un registre
 
-Consignez à l'avance les informations importantes relatives à la conception et à l'analyse des études afin d'accroître la transparence et de contrer le biais consistant à ne pas publier des résultats négatifs. Parmi les outils gratuits que vous pouvez utiliser pour votre premier enregistrement, on trouve : [AsPredicted](https://aspredicted.org/)[Open Science Framework](https://osf.io/) et [Registered Reports](https://cos.io/rr/). Il est recommandé aux essais cliniques d'utiliser [Clinicaltrials.gov](https://clinicaltrials.gov/).
+Consignez à l'avance les informations importantes relatives à la conception et à l'analyse des études afin d'accroître la transparence et de contrer le biais consistant à ne pas publier des résultats négatifs. Parmi les outils gratuits que vous pouvez utiliser pour votre premier enregistrement, on trouve : [AsPredicted](https://aspredicted.org/), [Open Science Framework](https://osf.io/) et [Registered Reports](https://cos.io/rr/). Il est recommandé aux essais cliniques d'utiliser [Clinicaltrials.gov](https://clinicaltrials.gov/).
 
 ##### Contrôle de versions
 
-Suivez les modifications apportées à vos fichiers, en particulier à votre code d'analyse, grâce au contrôle de versions (Voir la section Logiciels de recherche libres et Codes Source Ouverts).
+Suivez les modifications apportées à vos fichiers, en particulier à votre code d'analyse, grâce au contrôle de versions (Voir la section 3 Logiciels de Recherche Ouverts et de Source ouverte).
 
 ##### Documentation
 
-Documentez tout ce qui a été fait à la main dans un fichier LISEZMOI. Créez un dictionnaire de données (également appelé "codebook", "livre de code") pour décrire les informations importantes concernant vos données. Pour une introduction facile, utilisez le [module d'organisation des données de Karl Broman](http://kbroman.org/dataorg/pages/dictionary.html) et référez à la section Gestion des données.
+Documentez tout ce qui a été fait à la main dans un fichier LISEZMOI (README). Créez un dictionnaire de données (également appelé "codebook", "livre de code") pour décrire les informations importantes concernant vos données. Pour une introduction facile, utilisez le [module d'organisation des données de Karl Broman](http://kbroman.org/dataorg/pages/dictionary.html) et référez à la section 2 Données et Outils de la Recherche Ouverte.
 
 ##### Programmation lettrée
 
-Envisagez d'utiliser [Jupyter notebooks](http://jupyter.org/), [KnitR](https://yihui.name/knitr/), [Sweave](https://support.rstudio.com/hc/en-us/articles/200552056-Using-Sweave-and-knitr) ou d'autres approches de la programmation lettrée pour intégrer votre code à votre récit et à votre documentation.
+Envisagez d'utiliser [Jupyter notebooks](http://jupyter.org/), [KnitR](https://yihui.name/knitr/), [Sweave](https://support.rstudio.com/hc/en-us/articles/200552056-Using-Sweave-and-knitr) ou d'autres approches de la programmation lettrée (<i>literate programming</i>) pour intégrer votre code à votre récit et à votre documentation.
 
 ## <img src="/Images/Icons/open_licenses.png" width="150" height="150" />
 
@@ -131,15 +131,15 @@ Envisagez d'utiliser [Jupyter notebooks](http://jupyter.org/), [KnitR](https://y
 
 ##### Données
 
-Évitez les fichiers annexes, faîtes le choix d'une licence permissive acceptable et partagez vos données à l'aide d'un dépôt. Suivez les bonnes pratiques décrites dans le chapitre Données et Matériels de la Recherche Ouverte.
+Évitez les fichiers annexes, faîtes le choix d'une licence permissive acceptable et partagez vos données à l'aide d'un dépôt. Suivez les bonnes pratiques décrites dans le chapitre 2 Données et Matériels de la Recherche Ouverte.
 
 ##### Matériels
 
-Partagez vos documents afin qu'ils puissent être réutilisés. Stockez les réactifs dans des entrepôts tels que [Addgene](https://www.addgene.org/), [The Bloomington Drosophila Stock Center](https://bdsc.indiana.edu/) et [ATCC](https://www.atcc.org/) pour les rendre facilement accessibles à d'autres chercheurs. Pour plus d'informations, consultez le paragraphe [Matériaux ouverts](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/blob/master/02OpenScienceBasics/02OpenResearchDataAndMaterials.md) dans la section "Données et matériaux de la Recherche ouverte".
+Partagez vos documents afin qu'ils puissent être réutilisés. Stockez les réactifs dans des entrepôts tels que [Addgene](https://www.addgene.org/), [The Bloomington Drosophila Stock Center](https://bdsc.indiana.edu/) et [ATCC](https://www.atcc.org/) pour les rendre facilement accessibles à d'autres chercheurs. Pour plus d'informations, consultez le paragraphe [Matériaux ouverts](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/blob/master/02OpenScienceBasics/02OpenResearchDataAndMaterials.md) dans la section 2 Données et matériaux de la Recherche ouverte.
 
 ##### Logiciels, notebooks et conteneurs
 
-Attribuez une licence à votre code pour indiquer les conditions auxquelles vous permettez qu'il soit (ré)utilisé. Partagez les notebooks avec des services tels que [mybinder](http://mybinder.org/) qui permettent de visualiser et d'exécuter l'intégralité du notebook sur des ressources partagées. Partagez des conteneurs ou des notebooks avec des services tels que [Rocker](https://arxiv.org/abs/1710.03675) ou [Code Ocean](https://codeocean.com/). Suivez les meilleures pratiques décrites dans le chapitre Logiciels de recherche libres et Code source ouvert.
+Attribuez une licence à votre code pour indiquer les conditions auxquelles vous permettez qu'il soit (ré)utilisé. Partagez les notebooks avec des services tels que [mybinder](http://mybinder.org/) qui permettent de visualiser et d'exécuter l'intégralité du notebook sur des ressources partagées. Partagez des conteneurs ou des notebooks avec des services tels que [Rocker](https://arxiv.org/abs/1710.03675) ou [Code Ocean](https://codeocean.com/). Suivez les meilleures pratiques décrites dans le chapitre 3 Logiciels de recherche libres et Code source ouvert.
 
 ![](Images/Icons/open_scholarship.png)
 
@@ -154,7 +154,7 @@ Rendez compte de vos méthodes et interventions et publiez-les de manière expli
 
 Q : "Tout est dans l'article ; n'importe qui peut reproduire cette recherche à partir de là !
 
-R : C'est l'une des idées fausses les plus répandues. Même en disposant d'une description extrêmement détaillée des méthodes et du processus de travail utilisées pour parvenir au résultat final, cela ne suffira pas, dans la plupart des cas, pour le reproduire. Il peut y avoir plusieurs raisons à cela, notamment à des environnements de calcul différents, des différences entre les versions de logiciel, des biais implicites qui n'ont pas été clairement énoncés, etc.
+R : C'est l'une des idées fausses les plus répandues. Même en disposant d'une description extrêmement détaillée des méthodes et du processus de travail utilisées pour parvenir au résultat final, cela ne suffira pas, dans la plupart des cas, pour le reproduire. Il peut y avoir plusieurs raisons à cela, notamment des environnements de calcul différents, des différences entre les versions de logiciel, des biais implicites qui n'ont pas été clairement énoncés, etc.
 
 Q : "Je n'ai pas le temps d'apprendre à mettre en place un processus de travail reproductible".
 
@@ -162,7 +162,7 @@ R : Outre le nombre important de services en ligne disponibles gratuitement que 
 
 Q : "La terminologie décrivant la reproductibilité est difficile à saisir".
 
-R : Cf. Barba (2018) : Discussion sur la terminologie décrivant la reproductibilité et la réplicabilité.
+R : Cf. [Barba (2018)](https://arxiv.org/abs/1802.03311) : Terminologies for Reproducible Research (Discussion sur la terminologie décrivant la reproductibilité et la réplicabilité).
 
 
 ![](/Images/Icons/output.png)
