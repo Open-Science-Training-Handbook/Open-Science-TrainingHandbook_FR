@@ -35,7 +35,7 @@ S'il est important de comprendre toute la gamme des facteurs qui contribuent à 
 
 Source: Rapport du symposium « Reproductibilité et fiabilité de la recherche biomédicale : Comment améliorer les pratiques de recherche » Octobre 2015 [PDF](https://acmedsci.ac.uk/viewFile/56314e40aac61.pdf).
 
-[Goodman, Fanelli, & Ioannidis (2016)](https://doi.org/10/gc5sjs) notent qu'en épidémiologie, en biologie computationnelle, en économie et dans les essais cliniques, la reproductibilité est souvent définie comme :
+[Goodman, Fanelli, & Ioannidis (2016)](https://doi.org/10/gc5sjs) [[PDF(https://osf.io/dw23g)]] notent qu'en épidémiologie, en biologie computationnelle, en économie et dans les essais cliniques, la reproductibilité est souvent définie comme :
 
 _"*la capacité d'un chercheur à reproduire les résultats d'une étude antérieure en utilisant les mêmes matériaux que ceux utilisés par le chercheur initial. C'est-à-dire qu'un deuxième chercheur pourra utiliser les mêmes données brutes pour construire les mêmes fichiers d'analyse et mettre en œuvre la même analyse statistique afin de tenter de produire les mêmes résultats*"._
 
