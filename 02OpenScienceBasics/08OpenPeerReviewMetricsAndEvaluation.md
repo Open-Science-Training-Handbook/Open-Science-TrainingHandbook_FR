@@ -112,7 +112,7 @@ Exemples d'exercices
 
 * Procéder à la révision d'un article déposé sur un serveur de prépublications.
 
-* [Utiliser un service gratuit de bibliométrie ou de métrique alternative (par exemple [Impactstory](https://impactstory.org/) [Paperbuzz](https://paperbuzz.org/)[Altmetric bookmarklet](https://www.altmetric.com/products/free-tools/bookmarklet/)[Dimensions.ai](https://www.dimensions.ai/) pour analyser les métriques d'un article, puis écrire un court texte explicatif sur la façon exacte dont les différentes métriques utilisées par chacun de ces services sont calculées (c'est plus compliqué qu'il n'y paraît, c'est une gageure de trouver une documentation complète sur ces métriques même avec des services qui semblent les plus transparents.
+* [Utiliser un service gratuit de bibliométrie ou de métrique alternative (par exemple [Impactstory](https://impactstory.org/) [Paperbuzz](https://paperbuzz.org/) [Altmetric bookmarklet](https://www.altmetric.com/products/free-tools/bookmarklet/) [Dimensions.ai](https://www.dimensions.ai/) pour analyser les métriques d'un article, puis écrire un court texte explicatif sur la façon exacte dont les différentes métriques utilisées par chacun de ces services sont calculées (c'est plus compliqué qu'il n'y paraît, c'est une gageure de trouver une documentation complète sur ces métriques même avec des services qui semblent les plus transparents.
 
 
 ![](/Images/Icons/questions.png)
@@ -149,7 +149,7 @@ R: L'évaluation de la recherche est aussi équitable que le sont les méthode e
 
 * NISO Alternative Assessment Metrics (Altmetrics) Initiative. [niso.org](http://www.niso.org/standards-committees/altmetrics)
 
-* Open Rev. [openrev.org](https://en.wikipedia.org/wiki/Open_Rev)
+* Open Rev. [openrev.org](https://en.wikipedia.org/wiki/Open_Rev.)
 
 * OpenUP Hub. [openuphub.eu](https://www.openuphub.eu/review)
 
