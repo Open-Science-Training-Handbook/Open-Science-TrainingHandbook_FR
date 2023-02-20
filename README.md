@@ -8,7 +8,7 @@ Le sprint a été financé par le [Comité pour la science ouverte](https://www.
 Les passages du manuel déjà traduits en français par l'association HackYourResearch ont été mis à disposition des sprinters.
 
 
-Le 26 juin 2020 s'est déroulé le sprint traduction en ligne du manuel de formateurs [*[Open Science Training Handbook]*](https://github.com/Open-Science-Training-Handbook)[[, de Foster Open Science]](https://github.com/Open-Science-Training-Handbook), lui-même issu d'un book sprint organisé en 2018. Les sprinters ont traduit en français l'intégralité de l'ouvrage en une journée, grâce au soutien de Gisèle Massol, traductrice professionnelle et d'Elisa de Castro Guerra, facilitatrice du sprint.
+Le 26 juin 2020 s'est déroulé le sprint traduction en ligne du manuel de formateurs [*Open Science Training Handbook*](https://github.com/Open-Science-Training-Handbook), de [Foster Open Science](https://github.com/Open-Science-Training-Handbook), lui-même issu d'un book sprint organisé en 2018. Les sprinters ont traduit en français l'intégralité de l'ouvrage en une journée, grâce au soutien de Gisèle Massol, traductrice professionnelle et d'Elisa de Castro Guerra, facilitatrice du sprint.
 
 En binôme ou en trio, les sprinters ont travaillé à distance depuis différentes villes de France et même du Royaume-Uni.
 
@@ -27,7 +27,8 @@ Le contexte sanitaire lié à la crise de la Covid-19 ayant rendu caduques ces m
 Enfin, pour maintenir le suspense, la composition des équipes et les contenus des lots ont été annoncés le jour même.
 
 ### La mise à jour pour publication 2023
-Un petit groupe de membre du Comité pour la Science Ouverte s'est proposé pour finir de mettre au propre cette traduction française de l'OSTH afin de pouvoir la publier. L'objectif était de restituer le matériel original de la manière la plus fidèle possible, en corrigeant simplement les coquilles et liens morts. Des mises à jour ont également été proposées pour certaines ressources documentaires, mais sont notifiées par l'indication suivnate : ":heavy_plus_sign: *2023*".
+Un petit groupe de membre du Comité pour la Science Ouverte s'est proposé pour finir de mettre au propre cette traduction française de l'OSTH afin de pouvoir la publier. L'objectif était de restituer le matériel original de la manière la plus fidèle possible, en corrigeant simplement les coquilles et liens morts. Des mises à jour ont également été proposées pour certaines ressources documentaires, mais sont notifiées par l'indication suivnate :
+":heavy_plus_sign: *2023*".
 
 ## Le Manuel de Formation à la Science Ouverte
 
