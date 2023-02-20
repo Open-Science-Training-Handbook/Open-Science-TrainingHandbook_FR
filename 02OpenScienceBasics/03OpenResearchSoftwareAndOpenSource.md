@@ -149,4 +149,14 @@ Idée fausse courante : le simple fait de mettre un code en ligne en fait un log
 
 * Vandewalle (2012). Code Sharing Is Associated with Research Impact in Image Processing. [PDF](https://infoscience.epfl.ch/record/206184/files/Vandewalle12.pdf) 
 
+:heavy_plus_sign: *2023*
+
+* Guide du comité pour la Science ouverte : [Science ouverte - Code & logiciels](https://www.ouvrirlascience.fr/science-ouverte-codes-et-logiciels/), 2022 
+
+* [Les codes sources : définition, enjeux et préservation](https://doranum.fr/stockage-archivage/les-codes-sources-definition-enjeux-et-preservation_10_13143_7tj2-gw58/), utilisation de HAL et Software Heritage, 2021
+
+* Déposer le code source d’un logiciel, HAL : https://doc.archives-ouvertes.fr/deposer_old/deposer-le-code-source/
+
+* Bonnes pratiques de l'Open Source Hardware : https://www.oshwa.org/sharing-best-practices/bonnes-pratiques-de-lopen-source-hardware-1-0/
+
 
