@@ -70,7 +70,7 @@ Bien que le débat soit encore ouvert quant à la manière d'évaluer certaines 
 
 ### Lectures complémentaires 
 
-* [Bonn et al. (2016): Green Paper Citizen Science Strategy 2020 for Germany. Bürger Schaffen Wissen (GEWISS) publication.](http://www.buergerschaffenwissen.de/sites/default/files/grid/2017/11/21/gewiss_cs_strategy_englisch_0.pdf) [PDF from buergerschaffenwissen.de](http://www.buergerschaffenwissen.de/sites/default/files/grid/2017/11/21/gewiss_cs_strategy_englisch_0.pdf)
+* Bonn et al. (2016): Green Paper Citizen Science Strategy 2020 for Germany. Bürger Schaffen Wissen (GEWISS). [PDF from buergerschaffenwissen.de](http://www.buergerschaffenwissen.de/sites/default/files/grid/2017/11/21/gewiss_cs_strategy_englisch_0.pdf)
 
 
 * Citizen Science Cost Action. Training Schools. [cs-eu.net](https://www.cs-eu.net/training-schools)
