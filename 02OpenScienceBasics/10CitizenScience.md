@@ -2,7 +2,7 @@
 ## 10. La Science citoyenne 
 
 ### De quoi parle t-on ? 
-La science citoyenne ou science collaborative, est la participation du public non universitaire au processus de recherche scientifique, qu'il s'agisse de recherche communautaire ou d'enquêtes mondiales ([citizenscience.org](https://www.citizenscience.org/)). Les citoyens font du travail scientifique - souvent en collaboration avec des experts ou des institutions scientifiques. Ils soutiennent la collecte, l'analyse ou la description des données de recherche et apportent une contribution précieuse à la science. Le premier projet documenté de science citoyenne a eu lieu à Noël en 1900 aux États-Unis, lorsque la National Audubon Society a effectué un [recensement des oiseaux de Noël](https://www.audubon.org/conservation/science/christmas-bird-count). Autre exemple, le "[Galaxy Zoo](https://www.zooniverse.org/projects/zookeeper/galaxy-zoo/)", associant plus de 150 000 participants qui ont classifié les galaxies en un an, est probablement le projet de science citoyenne le plus réussi à ce jour.
+La science citoyenne ou science collaborative, ou encore recherche participative, est la participation du public non universitaire au processus de recherche scientifique, qu'il s'agisse de recherche communautaire ou d'enquêtes mondiales ([citizenscience.org](https://www.citizenscience.org/)). Les citoyens font du travail scientifique - souvent en collaboration avec des experts ou des institutions scientifiques. Ils soutiennent la collecte, l'analyse ou la description des données de recherche et apportent une contribution précieuse à la science. Le premier projet documenté de science citoyenne a eu lieu à Noël en 1900 aux États-Unis, lorsque la National Audubon Society a effectué un [recensement des oiseaux de Noël](https://www.audubon.org/conservation/science/christmas-bird-count). Autre exemple, le "[Galaxy Zoo](https://www.zooniverse.org/projects/zookeeper/galaxy-zoo/)", associant plus de 150 000 participants qui ont classifié les galaxies en un an, est probablement le projet de science citoyenne le plus réussi à ce jour.
 
 La science citoyenne est essentiellement le résultat d'une communication scientifique réussie ou d'un engagement public. À l'ère des technologies numériques en réseau, les chercheurs disposent d'une multitude de canaux pour diffuser leurs travaux à un public non universitaire plus large. Alors que la recherche était traditionnellement diffusée de manière restreinte par le biais de documents de conférence, d'articles de recherche et de publications d'ouvrages, les chercheurs peuvent désormais utiliser des blogs, des médias en ligne, des sites d'hébergement vidéo et un large éventail de réseaux sociaux numériques pour cibler et élargir leurs activités de diffusion.
 
@@ -73,7 +73,7 @@ Bien que le débat soit encore ouvert quant à la manière d'évaluer certaines 
 * Bonn et al. (2016): Green Paper Citizen Science Strategy 2020 for Germany. Bürger Schaffen Wissen (GEWISS). [PDF from buergerschaffenwissen.de](http://www.buergerschaffenwissen.de/sites/default/files/grid/2017/11/21/gewiss_cs_strategy_englisch_0.pdf)
 
 
-* Citizen Science Cost Action. Training Schools. [cs-eu.net](https://www.cs-eu.net/training-schools)
+* Citizen Science Cost Action. Training Schools. https://www.cost.eu/actions/CA15212/
 
 
 * Community Places (2014). Community Planning Toolkit - Community Engagement [PDF from communityplanningtoolkit.org](https://www.communityplanningtoolkit.org/sites/default/files/Engagement.pdf)
@@ -82,7 +82,7 @@ Bien que le débat soit encore ouvert quant à la manière d'évaluer certaines 
 * Grey et al. (2016). Citizen science at universities. Trends, guidelines and recommendations. [leru.org](https://www.leru.org/publications/citizen-science-at-universities-trends-guidelines-and-recommendations)
 
 
-* Socientize consortium (2014). White Paper on Citizen Science for Europe. [socientize.eu](http://www.socientize.eu/sites/default/files/white-paper_0.pdf)
+* Socientize consortium (2014). White Paper on Citizen Science for Europe. [socientize.eu](https://ec.europa.eu/futurium/en/content/white-paper-citizen-science.html)
 
 
 * Pettibone et al. (2016). Citizen science for all -- a guide for citizen science practitioners. Bürger Schaffen Wissen (GEWISS) publication. [PDF from buergerschaffenwissen.de](http://www.buergerschaffenwissen.de/sites/default/files/grid/2017/11/20/handreichunga5_engl_web.pdf)
@@ -91,7 +91,19 @@ Bien que le débat soit encore ouvert quant à la manière d'évaluer certaines 
 * Quality Criteria for Citizen Science Projects on 'Österreich forscht'. [fosterscience.eu](https://www.fosteropenscience.eu/content/quality-criteria-citizen-science-projects-osterreich-forscht)
 
 * Panorama de projets de science citoyenne :
-  * Socientize Project. [socientize.eu](http://socientize.eu/)
   * ZOONIVERSE - People-powered research. [zooniverse.org](https://www.zooniverse.org/projects)
-  * Crowdcrafting scifabric. [crowdcrafting.org](https://crowdcrafting.org/)
-  * German Citizen Science Projects. [citizen-science.at](https://www.citizen-science.at/)
+  * Austrian Citizen Science Projects. [citizen-science.at](https://www.citizen-science.at/)
+
+:heavy_plus_sign: *2023*
+
+* Recommandation de l’UNESCO sur la Science Ouverte (2021) (*voir notamment les sections 10., 11. et 12.*) https://unesdoc.unesco.org/ark:/48223/pf0000379949_fre 
+
+* Francois Houllier, Jean-Baptiste Merilhou-Goudard. Les sciences participatives en France : Etats des lieux, bonnes pratiques et recommandations. 2016, 63 p. ⟨hal-02801940⟩ https://hal.science/hal-02801940/ 
+
+* Citizen Science Skilling for Library Staff, Researchers, and the Public – LIBER. By Jitka Stilund Hansen, Technical University of Denmark, ORCID iD: 0000-0002-5888-1221 e-mail: jstha@dtu.dk Article DOI: 10.25815/rr9w-cw53 https://cs4rl.github.io/guide/#/files/cs1002introduction 
+
+* Charte des sciences et recherches participatives en France (20/06/2017) https://franceuniversites.fr/wp-content/uploads/2017/03/2017-03-20-Chartes-Sciences-Participatives-final.pdf
+
+* Les ressources de l'association [Sciences Citoyennes](https://sciencescitoyennes.org/) en France
+
+* Numéro spécial 01 NOV’AE [Sciences et recherches participatives à INRAE](https://www6.inrae.fr/novae/Les-articles-parus/Les-n-Speciaux/Sciences-et-recherches-participatives-a-INRAE2) (2021). Voir aussi *Les sciences et recherches participatives à l'INRAE* (Institut national de recherche pour l'agriculture, l'alimentation et l'environnement) https://www.inrae.fr/sciences-recherches-participatives-inrae
