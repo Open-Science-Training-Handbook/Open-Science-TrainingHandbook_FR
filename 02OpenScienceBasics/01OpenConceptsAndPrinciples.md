@@ -7,7 +7,7 @@ La science ouverte est une manière de pratiquer la science permettant à d'autr
 
 La science ouverte vise à accroître la rigueur, la responsabilisation et la reproductibilité de la recherche. Elle est fondée sur les principes d'inclusion, de justice, d'équité et de partage et son but ultime est de changer la façon dont la recherche est effectuée, les personnes qui y participent et la manière dont elle est valorisée. Elle vise à rendre la recherche plus ouverte à la participation, à l'évaluation/la réfutation, à l'amélioration et à la (ré)utilisation pour le bénéfice du plus grand nombre.
 
-Il existe plusieurs définitions de l'«ouverture» en fonction des divers aspects de la science ; l'[Open Definition](http://opendefinition.org/) la décrit ainsi : « Les données et les contenus ouverts peuvent être librement utilisés, modifiés et partagés par n'importe qui à n'importe quelle fin ». La science ouverte englobe une variété de pratiques, incluant habituellement des domaines tels que le libre accès aux publications, les données de recherche ouvertes, les logiciels et outils libres, les flux de travail ouverts, la science citoyenne, les ressources éducatives ouvertes et les méthodes alternatives d'évaluation de la recherche, y compris l'évaluation ouverte par les pairs ([Pontika et al., 2015](https://f1000research.com/articles/6-588/v2#ref-59)). ![](/Images/image_0.png) Pontika et al. (2015)
+Il existe plusieurs définitions de l'«ouverture» en fonction des divers aspects de la science ; l'[Open Definition](http://opendefinition.org/) la décrit ainsi : « Les données et les contenus ouverts peuvent être librement utilisés, modifiés et partagés par n'importe qui à n'importe quelle fin ». La science ouverte englobe une variété de pratiques, incluant habituellement des domaines tels que le libre accès aux publications, les données de recherche ouvertes, les logiciels et outils libres, les flux de travail ouverts, la science citoyenne, les ressources éducatives ouvertes et les méthodes alternatives d'évaluation de la recherche, y compris l'évaluation ouverte par les pairs ([Pontika et al., 2015](https://dx.doi.org/10.1145/2809563.2809571 )). ![](/Images/image_0.png) Pontika et al. (2015)
 
 Les objectifs et les postulats qui sous-tendent les efforts déployés pour mettre en œuvre ces diverses pratiques ont été étudiés par Fecher & Friesike ([2013](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2272036)), dont les analyses de la littérature sur le sujet ont révélé cinq grandes préoccupations, ou « écoles de pensée ». Celles-ci sont :
 
@@ -121,3 +121,14 @@ R : Il vaut mieux avoir trop d'informations à traiter que d'en avoir trop peu e
 * Masuzzo and Martens (2017). Do you speak Open Science? Resources and tips to learn the language. [doi.org/10.7287/peerj.preprints.2689v1](https://doi.org/10.7287/peerj.preprints.2689v1)
 
 * Watson (2015). When will ‘Open Science’ become simply ‘science’?. [doi.org/10.1186/s13059-015-0669-2](https://doi.org/10.1186/s13059-015-0669-2)
+
+:heavy_plus_sign: *2023*
+
+* Rapport de l’UNESCO : Recommandations sur la Science Ouverte (2021) https://unesdoc.unesco.org/ark:/48223/pf0000379949.locale=fr 
+
+* Introduction à la science ouverte, Urfist de Rennes : https://urfist.univ-rennes2.fr/ressources/introduction-la-science-ouverte?destination=ressources
+
+* Passeport pour la science ouverte. Guide à l’usage des doctorants. Ouvrir la science (2022) : https://www.ouvrirlascience.fr/passeport-pour-la-science-ouverte-guide-pratique-a-lusage-des-doctorants/
+
+* La science ouverte. MOOC Sorbonne université : https://www.fun-mooc.fr/fr/cours/la-science-ouverte/
+
