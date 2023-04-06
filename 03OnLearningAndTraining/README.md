@@ -415,7 +415,7 @@ Dans tous les cas, ayez en tête quoi faire si une conversation parallèle s'eng
 
 ### Restitution immédiate 
 
-À la fin de chaque module, demandez une restitution immédiate aux participants sur le modèle "un plus/un moins", c'est-à-dire indiquer une chose qui était utile/bien dans le module et une chose qui n'était pas claire/qui pourrait être améliorée. Cette restitution peut également être faite sous la forme d'une échelle à plusieurs niveaux ; [voici](http://www.academis.eu/posts/fist_or_five) un exemple de restitution sur 6 niveaux.
+À la fin de chaque module, demandez une restitution immédiate aux participants sur le modèle "un plus/un moins", c'est-à-dire indiquer une chose qui était utile/bien dans le module et une chose qui n'était pas claire/qui pourrait être améliorée. Cette restitution peut également être faite sous la forme d'une échelle à plusieurs niveaux.
 
 Une autre façon d'obtenir une restitution instantanée, en particulier à des points prédéfinis, est de recourir à des sondages en continu. Slack peut par exemple être utilisé pour fournir une restitution anonyme sur le rythme du cours, en donnant la possibilité aux membres d'un canal de changer leur choix de réponse au sondage à tout moment. Il est recommandé de montrer le résultat de la restitution aux participants. La présentation de totaux ou de graphiques peut être une source de motivation. Les outils en ligne suscitent plus d'implication, notamment parce que la dépendance à des dispositifs tels que les boîtiers de réponse est en voie de disparition. Les apprenants peuvent utiliser des appareils mobiles connectés à Internet et se sentir plus autonomes. Les exemples de ce type sont nombreux. Il est recommandé de tester les méthodes avant de les utiliser avec un public réel, et de commencer par les systèmes pour lesquels les étapes de familiarisation sont les plus faciles, comme [Socrative](https://www.socrative.com/) et [](https://www.pearson.com/us/higher-education/products-services-teaching/learning-engagement-tools/learning-catalytics.html) [Learning Catalytics](https://www.pearson.com/us/higher-education/products-services-teaching/learning-engagement-tools/learning-catalytics.html), [](https://www.polleverywhere.com/) [Polleverywhere](https://www.polleverywhere.com/), [](http://directpoll.com/) [Directpoll](http://directpoll.com/).
 
@@ -458,11 +458,11 @@ _Restitution entre pairs_
 
 Pour évaluer un cours, vous devez d'abord déterminer ce à quoi vous voulez que vos apprenants se familiarisent, qu'ils sachent, analysent de manière critique ou soient capables d'expliquer. Pourquoi suivez-vous ce cours ? Quels sont les objectifs que vous souhaitez atteindre ? Une fois le cours terminé, vous devez vérifier si vous avez atteint ces objectifs. Il existe différents critères permettant de mesurer le succès et l'efficacité de votre cours (Kirkpatrick & Kirkpatrick, 1994) :
 
-* Réaction ( réponse aux attentes) : Les stagiaires sont-ils satisfaits du cours ? Ont-ils atteint leurs objectifs d'apprentissage ? Les attentes étaient-elles réalistes ? Comment les participants ont-ils réagi au cours ? Y avait-il une structure claire ou un fil conducteur ?
+* Réaction (réponse aux attentes) : Les stagiaires sont-ils satisfaits du cours ? Ont-ils atteint leurs objectifs d'apprentissage ? Les attentes étaient-elles réalistes ? Comment les participants ont-ils réagi au cours ? Y avait-il une structure claire ou un fil conducteur ?
 
-* Apprentissage : Les participants ont-ils appris quelque chose de nouveau ? Le contenu est-il utile dans leur situation actuelle ? Ont-ils tout compris ? Peuvent-ils établir les liens appropriés entre les outils/plateformes présentés et les pratiques de science ouverte? Répondent-ils aux objectifs d'apprentissage prédéfinis ?
+* Apprentissage : Les participants ont-ils appris quelque chose de nouveau ? Le contenu est-il utile dans leur situation actuelle ? Ont-ils tout compris ? Peuvent-ils établir les liens appropriés entre les outils/plateformes présentés et les pratiques de science ouverte ? Répondent-ils aux objectifs d'apprentissage prédéfinis ?
 
-* Comportement : Vont-ils changer leur façon de mener des recherches ? Que feront-ils des connaissances qu'ils ont acquises ? Recommanderont-ils la formation/son contenu à d'autres personnes?
+* Comportement : Vont-ils changer leur façon de mener des recherches ? Que feront-ils des connaissances qu'ils ont acquises ? Recommanderont-ils la formation/son contenu à d'autres personnes ?
 
 * Résultats : quels sont les résultats qui, une fois atteints, auront un impact plus positif au regard des objectifs ? Quels sont ceux qui ont apporté le plus de bénéfices ?
 
@@ -520,11 +520,6 @@ Vous pouvez appliquer des exercices similaires pour des formations à destinatio
 
 ### Lectures complémentaires
 
-**Sur la taxonomie de Bloom**
-
-* Davis (2014). Using Bloom’s Taxonomy to Write Learning Outcomes. [pearsoened.com](https://www.pearsoned.com/using-blooms-taxonomy-to-write-learning-outcomes/)
-* Clinton Community College (1966-2017). List of Measurable Verbs Used to Assess Learning Outcomes. [clinton.edu](https://www.clinton.edu/curriculumcommittee/listofmeasurableverbs.cxml)
-
 **Ressources / Exercices pour briser la glace**
 
 * Mindtools. Ice Breakers. Easing Group Contribution. [mindtools.com](https://www.mindtools.com/pages/article/newLDR_76.htm)
@@ -533,7 +528,7 @@ Vous pouvez appliquer des exercices similaires pour des formations à destinatio
 
 **Références**
 
-* Ambrose, Bridges, DiPietro, Lovett, Norman and Mayer. How learning works. [Highlights summarized by Brent and Felder](http://bit.ly/2El88Im). Seven research-based principles for smart teaching";  ISBN: 978-0-470-48410-4. 
+* Ambrose, Bridges, DiPietro, Lovett, Norman and Mayer. How learning works. Seven research-based principles for smart teaching";  ISBN: 978-0-470-48410-4. https://firstliteracy.org/wp-content/uploads/2015/07/How-Learning-Works.pdf
 
 * Dale (1969). Audio-Visual Methods in Teaching, 3rd ed., Holt, Rinehart & Winston, New York, p.10.
 
@@ -541,7 +536,7 @@ Vous pouvez appliquer des exercices similaires pour des formations à destinatio
 
 * Fung (2017). A Connected Curriculum for Higher Education. UCL Press. [ucl.ac.uk](http://www.ucl.ac.uk/ucl-press/browse-books/a-connected-curriculum-for-higher-education)
 
-* Felder and Brent (n.y.).  Active learning. An introduction. [PDF](http://www4.ncsu.edu/unity/lockers/users/f/felder/public/Tutorials/Active/Active-learning.pdf)
+* Felder and Brent (2009). Active learning. An introduction. [PDF](https://www.engr.ncsu.edu/wp-content/uploads/drive/1XaOo9WCKcMq6-fTcQGidOT2SDGqg70l5/2009-ALpaper(ASQ).pdf)
 
 * Kirkpatrick and Kirkpatrick (1994). Evaluating Training Programs, Berrett-Koehler Publishers.
 
@@ -553,7 +548,7 @@ Vous pouvez appliquer des exercices similaires pour des formations à destinatio
 
 * Rowe (1986). Wait Time: Slowing Down May Be A Way of Speeding Up! Journal of Teacher Education, 37\(1\), 43–50. [doi.org/10.1177/002248718603700110](https://doi.org/10.1177/002248718603700110)
 
-* Siemens (2006). Knowing Knowledge. [PDF](http://www.elearnspace.org/KnowingKnowledge_LowRes.pdf)
+* Siemens (2006). Knowing Knowledge. [PDF](https://issuu.com/johoedu/docs/siemens--2006--knowingknowledge)
     
 
 **Pour approfondir votre compréhension du sujet**
