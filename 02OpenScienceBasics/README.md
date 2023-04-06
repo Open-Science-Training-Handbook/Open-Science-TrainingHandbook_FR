@@ -14,7 +14,7 @@ Chaque chapitre est structuré de manière à inclure une brève description du 
 * [4. Recherche reproductible et analyse des données](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/blob/master/02OpenScienceBasics/04ReproducibleResearchAndDataAnalysis.md)
 * [5. Accès ouvert aux résultats publiés de la recherche](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/blob/master/02OpenScienceBasics/05OpenAccessToPublishedResearchResults.md)
 * [6. Licences ouvertes et formats de fichiers](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/blob/master/02OpenScienceBasics/06OpenLicensingAndFileFormats.md)
-* [7. Plateformes c[ollaborative](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/blob/master/02OpenScienceBasics/07CollaborativePlatforms.md)
+* [7. Plateformes collaborative](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/blob/master/02OpenScienceBasics/07CollaborativePlatforms.md)
 * [8. Révision par les pairs, métrique et évaluation ouvertes](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/blob/master/02OpenScienceBasics/08OpenPeerReviewMetricsAndEvaluation.md)
 * [9. Politiques de science ouverte](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/blob/master/02OpenScienceBasics/09OpenSciencePolicies.md)
 * [10. Science citoyenne 63](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/blob/master/02OpenScienceBasics/10CitizenScience.md)
