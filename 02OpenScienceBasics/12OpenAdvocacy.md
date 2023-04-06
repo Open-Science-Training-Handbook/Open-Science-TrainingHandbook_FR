@@ -160,38 +160,27 @@ Le formateur pourra envisager l'événement de formation dans le contexte d'un p
 
 * A Crowdsourced Resource by OpenCon attendees. Starting Open Projects From Scratch. [CC Zero Google Doc](https://docs.google.com/document/d/1qSXBZa3-uBKdkFCkukt5lxRsYoREWNYf0_2OpOnh3mQ/edit?usp=sharing) 
 
-* Bolick et al. (2017). How open access is crucial to the future of science. [doi.org/10.1002/jwmg.21216](https://doi.org/10.1002/jwmg.21216) (*comment by authors: rebuttal article written in the Journal of Wildlife Management after a misleading / fear mongering article about OA*)
-
 * Clyburne-Sherin (FSCI2017). Advocating for transparency policies - a toolkit for researchers, staff, and librarians. [github.com](https://github.com/AllTrialsUSA/FSCI2017/blob/master/Transparency-advocacy-toolkit.md)
 
+*  JISC Pathfinder project Pathways to Open Access (non-daté). Advocating Open Access - a toolkit for librarians and research support staff. [PDF](http://blogs.ucl.ac.uk/open-access/files/2015/06/Advocacy-toolkit.pdf)
 
-*  JISC Pathfinder project Pathways to Open Access (n.y.). Advocating Open Access - a toolkit for librarians and research support staff. [PDF](http://blogs.ucl.ac.uk/open-access/files/2015/06/Advocacy-toolkit.pdf)
+* Jones (2015). Open science and its advocacy. [fosteropenscience.eu](https://www.fosteropenscience.eu/sites/default/files/pdf/2047.pdf)
 
-* Jones (2015). Open science and its advocacy. [fosteropenscience.eu](https://www.fosteropenscience.eu/content/open-science-and-its-advocacy)
+* Kotter (non-daté). Kotter's 8-Step Change Model of Managementt. [study.com](http://study.com/academy/lesson/kotters-8-step-change-model-of-management.html)
 
-* Kotter (n.y.). Kotter's 8-Step Change Model of Managementt. [study.com](http://study.com/academy/lesson/kotters-8-step-change-model-of-management.html)
-
-* Lingua / Glossa articles on their move away from Elsevier - their advocacy as editors with a publishing organization [Wikipedia](https://en.wikipedia.org/wiki/Lingua_(journal))
+* Jaschik, Scott (2015). "Language of Protest". [Inside Higher Ed](https://www.insidehighered.com/news/2015/11/02/editors-and-editorial-board-quit-top-linguistics-journal-protest-subscription-fees).
 
 * Mozilla Science Lab (2015). Open Science Leadership Workshop. Working OpenProject Guide. [github.com](https://github.com/mozillascience/open-science-leadership-workshop)
 
-* Smith (2014). The Open Access Movement and Activism for the “Knowledge Commons”. [asanet.org](http://www.asanet.org/sites/default/files/savvy/footnotes/mayjun14/asaforum_0514.html) (*comment by authors: example of a letter to a scholarly society advocating for Open Access*) 
+* Smith (2014). The Open Access Movement and Activism for the “Knowledge Commons”. [asanet.org](http://www.asanet.org/wp-content/uploads/savvy/footnotes/mayjun14/asaforum_0514.html) (*commentaire des auteurs : exemple d’une lettre en faveur du libre accès adressée à une société savante*) 
 
-* Smith (2015). Defending the global knowledge commons. [opendemocracy.net](https://www.opendemocracy.net/jackie-smith/defending-global-knowledge-commons)
-
-
-* SPARC*. Author Rights & the SPARC Author Addendum. Your work, your rights. [sparcopen.org](https://sparcopen.org/our-work/author-rights/)
+* *SPARC*. Author Rights & the SPARC Author Addendum. Your work, your rights. [sparcopen.org](https://sparcopen.org/our-work/author-rights/)
 
 * Rapport webinaire : Organising and advocating (2018). How can early-career researchers make their voices heard? eLife ECRwednesday webinar. [elifesciences.org](https://elifesciences.org/inside-elife/c458eb7c/webinar-report-organising-and-advocating)
-
-* 8 Steps to Good Advocacy. [PDF](http://www.chpca.net/media/7413/8_Steps_to_Good_Advocacy.pdf)
 
 ### Initiatives et projets 
 
 * FOSTER Plus Project (2017-2019). Fostering the practical implementation of Open Science in Horizon 2020 and beyond. [fosteropenscience.eu](https://www.fosteropenscience.eu/about)
-
-* PATH. Strengthen Advocacy. [sites.path.org](http://sites.path.org/advocacyandpolicy/how-we-do-it/strengthen-advocacy-capacity/)
-
 
 * PASTEUR4OA. Advocacy Resources. [pasteur4oa.eu](http://www.pasteur4oa.eu/resources)
 
