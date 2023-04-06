@@ -27,7 +27,7 @@ Le contexte sanitaire lié à la crise de la Covid-19 ayant rendu caduques ces m
 Enfin, pour maintenir le suspense, la composition des équipes et les contenus des lots ont été annoncés le jour même.
 
 ### La mise à jour pour publication 2023
-Un petit groupe de membre du Comité pour la Science Ouverte s'est proposé pour finir de mettre au propre cette traduction française de l'OSTH afin de pouvoir la publier. L'objectif était de restituer le matériel original de la manière la plus fidèle possible, en corrigeant simplement les coquilles et liens morts. Des mises à jour ont également été proposées pour certaines ressources documentaires, mais sont notifiées par l'indication suivnate :
+Un petit groupe de membre du Comité pour la Science Ouverte s'est proposé pour finir de mettre au propre cette traduction française de l'OSTH afin de pouvoir la publier. L'objectif était de restituer le matériel original de la manière la plus fidèle possible, en corrigeant simplement les coquilles et liens morts. Des mises à jour ont également été proposées pour certaines ressources documentaires, mais sont notifiées par l'indication suivante :
 ":heavy_plus_sign: *2023*".
 
 ## Le Manuel de Formation à la Science Ouverte
