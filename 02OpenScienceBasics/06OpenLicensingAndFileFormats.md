@@ -130,3 +130,10 @@ Adéquation des licences : les licences CC ne doivent par exemple pas être util
 
 * World Intellectual Property Organization. Universitites and Intellectual Property. [wipo.int](http://www.wipo.int/about-ip/en/universities_research/)
 
+:heavy_plus_sign: *2023*
+
+* CoopIST - Connaître et utiliser les licences Creative Commons [https://coop-ist.cirad.fr/etre-auteur/utiliser-les-licences-creative-commons/1-droits-d-auteurs-et-droit-des-bases-de-donnees](https://coop-ist.cirad.fr/etre-auteur/utiliser-les-licences-creative-commons/1-droits-d-auteurs-et-droit-des-bases-de-donnees)
+
+* Guide des licences ouvertes, DoRANum [https://view.genial.ly/6273836ed008880011a06050/guide-prodvg-guide-licences](https://view.genial.ly/6273836ed008880011a06050/guide-prodvg-guide-licences)
+* Format ouvert ou fermé ? DoRANum [https://doranum.fr/stockage-archivage/quiz-format-ouvert-ou-ferme_10_13143_mcwq-qs64/](https://doranum.fr/stockage-archivage/quiz-format-ouvert-ou-ferme_10_13143_mcwq-qs64/)
+* Licences de réutilisation : data.gouv.fr [https://www.data.gouv.fr/fr/pages/legal/licences/](https://www.data.gouv.fr/fr/pages/legal/licences/)
