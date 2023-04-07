@@ -184,3 +184,10 @@ R : Cf. [Barba (2018)](https://arxiv.org/abs/1802.03311) : Terminologies for Re
 
 
 * Karl Broman (n.y.). Data Organization. Choose good names for things. [kbroman.org](http://kbroman.org/dataorg/pages/names.html)
+
+:heavy_plus_sign: *2023*
+* Konrad Hinsen. Ined. (2022, 7 novembre). Le pourquoi et le comment de la recherche reproductible. [Vidéo]. Canal-U [https://www.canal-u.tv/134662](https://www.canal-u.tv/134662). (Consultée le 8 février 2023)
+* Amiard Anabelle, Baczynski Céline, Blanchet Christophe, Brevern Alexandre de, Dorlanne-Messiaen Emmanuelle, Grognard Eric, Kisselova Galina, Malpertuy Alain, Jamet Jeanne Menez, Racle Ivan et Rouger Céline, « Le cahier de laboratoire électronique (CLE) », STP Pharma Pratiques, 23 décembre 2011, vol. 21, no 6, p. 475. [https://www.hal.inserm.fr/inserm-00680791](https://www.hal.inserm.fr/inserm-00680791)
+* COSO, « Grille de critères pour le choix d’un cahier de laboratoire électronique », juillet 2022, consulté le 8 février 2023, [https://www.ouvrirlascience.fr/grille-de-criteres-pour-le-choix-dun-cahier-de-laboratoire-electronique](https://www.ouvrirlascience.fr/grille-de-criteres-pour-le-choix-dun-cahier-de-laboratoire-electronique).
+* Utiliser un cahier de laboratoire numérique [Bonnes pratiques]  [https://www.datacc.org/bonnes-pratiques/utiliser-un-cahier-de-laboratoire-numerique/](https://www.datacc.org/bonnes-pratiques/utiliser-un-cahier-de-laboratoire-numerique/)
+* Typologie de 8 cahiers de laboratoire [https://www.datacc.org/bonnes-pratiques/utiliser-un-cahier-de-laboratoire-numerique/typologie-de-8-cahiers-de-laboratoire-a-destination-des-chimistes/](https://www.datacc.org/bonnes-pratiques/utiliser-un-cahier-de-laboratoire-numerique/typologie-de-8-cahiers-de-laboratoire-a-destination-des-chimistes/)
