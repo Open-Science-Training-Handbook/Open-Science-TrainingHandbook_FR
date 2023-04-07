@@ -71,6 +71,15 @@ Parmi d'autres concepts plus complexes, citons les tests automatisés et l'inté
 
 Les principes de l'open source ci-dessus s'étendent au matériel. Les chercheurs utilisent souvent dans leurs recherches des instruments ou du matériel propriétaires qui ne sont pas librement accessibles, réutilisables ou adaptables. Le matériel scientifique comprend tout, des outils de séquençage et des microscopes aux équipements de test spécialisés et aux collisionneurs de particules. La communauté Open Science Hardware (OScH), par exemple, mène une campagne pour que le mouvement open source inclue les outils scientifiques, le matériel et les infrastructures de recherche au moyen de sa Feuille de Route Globale pour le Matériel Scientifique Ouvert ([Global Open Science Hardware Roadmap](http://openhardware.science/global-open-science-hardware-roadmap)).
 
+:heavy_plus_sign: *2023*
+L'Open Source Hardware Association propose une [définition du matériel libre](https://www.oshwa.org/definition/french/), soit la conception matérielle réalisée publiquement et disponible de manière à ce que n’importe qui puisse étudier, modifier, distribuer, créer et vendre un “design” ou un produit basé sur ce design. Cela présuppose :
+- Un format accessible et modifiable
+- Des composants et matériaux facilement approvisionnables, des procédés de fabrication standards, des infrastructures libres, ainsi que ds contenus libres de droit et outils de conception “Open-source”
+Le matériel libre engendre en outre un contrôle sur la technologie. On parle aussi « d’Open design » ([Bonvoisin 2021](http://www.cambridge.org/core/journals/design-science/article/seven-observations-and-research-questions-about-open-design-and-open-source-hardware/985195D3A9DF51C6B74226087C291E77)),
+- Partage de plans sous licence libre
+- Création de plans dont la conception est accessible
+- Co-construction, co-création (*Open-Source Product Development* : ouverture du produit et du procédé de conception)
+
 ![](/Images/Icons/gears.png)
 
 
@@ -158,5 +167,7 @@ Idée fausse courante : le simple fait de mettre un code en ligne en fait un log
 * Déposer le code source d’un logiciel, HAL : https://doc.archives-ouvertes.fr/deposer_old/deposer-le-code-source/
 
 * Bonnes pratiques de l'Open Source Hardware : https://www.oshwa.org/sharing-best-practices/bonnes-pratiques-de-lopen-source-hardware-1-0/
+
+* Projet Européen *Open Next* sur l'Open Source Hardware (2019-2022) : https://opennext.eu/
 
 
