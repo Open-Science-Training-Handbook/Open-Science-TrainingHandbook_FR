@@ -160,3 +160,11 @@ R: L'évaluation de la recherche est aussi équitable que le sont les méthode e
 * Responsible Metrics. [responsiblemetrics.org](https://responsiblemetrics.org/)
 
 * Snowball Metrics. Des métriques de recherche standardisées -- par le secteur pour le secteur. [snowballmetrics.com](https://www.snowballmetrics.com/)
+
+:heavy_plus_sign: *2023*
+
+* Evaluation ouverte par les pairs : de l’expérimentation à la modélisation. Julien Bordier [https://hal.science/hal-01283582](https://hal.science/hal-01283582)
+* Types de documents et activités éligibles à une évaluation. Ouvrir la science [https://www.ouvrirlascience.fr/types-de-documents-productions-et-activites-valorisees-par-la-science-ouverte-et-eligibles-a-une-evaluation/](https://www.ouvrirlascience.fr/types-de-documents-productions-et-activites-valorisees-par-la-science-ouverte-et-eligibles-a-une-evaluation/)
+* Expérimenter l’annotation avec l’évaluation ouverte par les pairs post-publication. Claire Dandieu : [https://dlis.hypotheses.org/5149](https://dlis.hypotheses.org/5149)
+* Vers une “évaluation par les pairs” accessible à tous. The conversation [https://theconversation.com/vers-une-evaluation-par-les-pairs-accessible-a-tous-158646](https://theconversation.com/vers-une-evaluation-par-les-pairs-accessible-a-tous-158646)
+* Bibliométrie et science ouverte. Maxence Larrieu [https://urfist.univ-rennes2.fr/ressources/bibliometrie-et-science-ouverte?destination=ressources](https://urfist.univ-rennes2.fr/ressources/bibliometrie-et-science-ouverte?destination=ressources)
