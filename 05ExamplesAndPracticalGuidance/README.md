@@ -1934,6 +1934,9 @@ Figure x - Rainbow of open science practices (available on Zenodo in different f
 
 * Des conseils sur la manière de construire et de publier un e-book versionné sont donnés sur l'entrepôt [github.com/Pfern/OSODOS](https://github.com/Pfern/OSODOS) - Also available in GitHub Pages as a website [pfern.github.io/OSODOS/SUMMARY](https://pfern.github.io/OSODOS/SUMMARY). PDF, e-Pub and Mobi versions were made available by [Unglue.it](https://unglue.it/work/229980/)
 
+:heavy_plus_sign: *2023*
+
+* Cours "[Comprendre la Science Ouverte](https://callisto-formation.fr/course/view.php?id=187)" sur la plateforme Callisto, adapté du MOOC FOSTER Open Science, mis à jour en français.
 
 **Liste d'exercices - Sélection à mettre en forme**
 

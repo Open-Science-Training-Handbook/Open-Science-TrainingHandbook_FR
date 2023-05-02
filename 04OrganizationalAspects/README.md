@@ -210,7 +210,7 @@ Identifiez d'autres formateurs, experts / conférenciers invités qui pourraient
 
 #### Représentativité 
 
- Garantir un environnement inclusif est important pour toute formation réussie. Assurez-vous que chaque composante de votre programme comprend un éventail d'expériences personnelles. Votre équipe d'organisation, vos conférenciers et vos formateurs doivent inclure une multitude de genre, de disciplines, d'origines ethnique et de région géographiques diverses (si vous avez l'intention d'ouvrir votre événement à des participants non locaux). 
+ Garantir un environnement inclusif est important pour toute formation réussie. Assurez-vous que chaque composante de votre programme comprend un éventail d'expériences personnelles. Votre équipe d'organisation, vos conférenciers et vos formateurs doivent inclure une multitude de genres, de disciplines, d'origines ethnique et de région géographiques diverses (si vous avez l'intention d'ouvrir votre événement à des participants non locaux). 
  
 Invitez des formateurs et des conférenciers de groupes rarement représentés. Assurez-vous de discuter avec eux de leurs objectifs et de leurs besoins spécifiques et veillez à les inclure dès la planification de l'événement. Pour en savoir plus sur les formateurs, reportez-vous au chapitre Apprentissage et Formation » rubrique [Expectations about a trainer](https://github.com/jibe-b/Open-Science-TrainingHandbook_FR/blob/master/03OnLearningAndTraining.md/#expectations-about-a-trainer) [Attentes liées au Formateur](https://github.com/jibe-b/Open-Science-TrainingHandbook_FR/blob/master/03OnLearningAndTraining.md/#expectations-about-a-trainer). Veillez à ce qu'une partie des places des participants soit réservée aux participants de toutes origines ethniques, d'identités de genre, de disciplines et de régions géographiques (voir ][[Engagement inclusif]](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/tree/master/03OnLearningAndTraining). Pour en savoir plus sur la façon de rendre votre atelier inclusif et accueillant, consultez la [Liste de contrôle en planification de conférence de SPARC](https://sparcopen.github.io/opencon-dei-report/checklist.html)
 
@@ -284,7 +284,7 @@ Proposer différents supports de communication peut favoriser l'engagement du pu
 
 #### Pendant l'événement 
 
-Si vous avez un problème technique, pas de panique! Contactez l'assistance informatique et expliquez le problème à votre public. La majorité des gens sont compréhensifs. Vous aurez sans doute l'impression d'avoir attendu une éternité pour résoudre le problème mais au final ce ne seront que quelques minutes de perdues. Si l'équipement ne fonctionne plus, travaillez "hors ligne" avec des tableaux par exemple. Si votre présentation repose principalement sur les équipements multimédias, que l'effectif de votre groupe de participants est réduit, vous pouvez suggérer de reprogrammer la séance.
+Si vous avez un problème technique, pas de panique ! Contactez l'assistance informatique et expliquez le problème à votre public. La majorité des gens sont compréhensifs. Vous aurez sans doute l'impression d'avoir attendu une éternité pour résoudre le problème mais au final ce ne seront que quelques minutes de perdues. Si l'équipement ne fonctionne plus, travaillez "hors ligne" avec des tableaux par exemple. Si votre présentation repose principalement sur les équipements multimédias, que l'effectif de votre groupe de participants est réduit, vous pouvez suggérer de reprogrammer la séance.
 
 ![](/Images/Icons/shout.png)
 
@@ -490,7 +490,7 @@ Assurez-vous de laisser le lieu de la manifestation rangé et propre, sauf si l'
 
 Faites un bilan oral avec les autres formateurs/orateurs pour auto-évaluer le déroulement de la manifestation.
 
-### Evaluation
+### Évaluation
 
 Envoyez un questionnaire d'évaluation aux participants après la formation (voir [Training evaluation](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/blob/master/03OnLearningAndTraining.md/#training-evaluation)) ou distribuez un questionnaire pendant la manifestation et assurez-vous que les participants le remettent à la fin.
 

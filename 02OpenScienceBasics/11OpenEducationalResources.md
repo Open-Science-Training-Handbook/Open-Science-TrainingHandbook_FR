@@ -27,17 +27,17 @@ Dans de nombreux cas, les ressources éducatives libres sont fondées sur les r�
 
 #### Connaissances et Compétences
 
-Les ressources éducatives libres ne peuvent se dénommer ainsi que si elles sont diffusées sous une licence libre. Cependant, il n'existe pas de consignes claires pour le choix de la licence de votre ressource. Quel type de licence est donc approprié ? En pratique, les licences Creative Commons (CC) sont le plus souvent utilisées pour les REL. Les licences Creative Commons libres [CC0 (Public Domain Dedication)](https://creativecommons.org/publicdomain/zero/1.0/deed.en), [CC BY (Attribution)](https://creativecommons.org/licenses/by/4.0/) et [CC BY-SA (Attribution-ShareAlike)](https://creativecommons.org/licenses/by-sa/4.0/), peuvent être utilisées pour la plupart des ressources éducatives. Pour la diffusion de bases de données sous licence libre, les licences Creative Commons ne sont pas idéales. Choisissez plutôt une licence libre spécialement adaptée, telle que ODbl, ODC-BY ou PDDL, pour être en conformité avec la législation.
+Les ressources éducatives libres ne peuvent se dénommer ainsi que si elles sont diffusées sous une licence libre. Cependant, il n'existe pas de consignes claires pour le choix de la licence de votre ressource. Quel type de licence est donc approprié ? En pratique, les licences Creative Commons (CC) sont le plus souvent utilisées pour les REL. Les licences Creative Commons libres [CC0 (Public Domain Dedication)](https://creativecommons.org/publicdomain/zero/1.0/deed.fr), [CC BY (Attribution)](https://creativecommons.org/licenses/by/4.0/deed.fr) et [CC BY-SA (Attribution-ShareAlike)](https://creativecommons.org/licenses/by-sa/4.0/deed.fr), peuvent être utilisées pour la plupart des ressources éducatives. Pour la diffusion de bases de données sous licence libre, les licences Creative Commons ne sont pas idéales. Choisissez plutôt une licence libre spécialement adaptée, telle que ODbl, ODC-BY ou PDDL, pour être en conformité avec la législation.
 
 Il est important de souligner la nécessité de définir qui détient les droits d'auteur ou tout autre droit lié aux résultats de la recherche. Le détenteur des droits d'auteur est le seul à pouvoir décider de lever les restrictions si elles ne sont pas levées par défaut via les licences. Ces dernières doivent donc être détaillées, y compris quand elles combinent plusieurs types de licences, afin de désigner correctement les auteurs et de créer de véritables REL.
 
-La formation devrait fournir un aperçu des plateformes de REL et leur utilisation prévue. *OpenCourseWare* *(OCW)* est l'une des premières plateformes de ressources éducatives libres et l'un des initiateurs clés du mouvement des REL. Lancé à l'Institut de Technologie du Massachusetts (MIT) en 2002, l'[Open Education Consortium](http://www.oeconsortium.org/) fournit aujourd'hui des supports éducatifs provenant du monde entier sous la forme de cours sous licences libres. Entre autres pionniers, on trouve l'UNESCO et la Fondation William et Flora Hewlett qui sont toujours engagés dans les ressources éducatives libres.
+La formation devrait fournir un aperçu des plateformes de REL et leur utilisation prévue. [*OpenCourseWare*](https://fr.wikipedia.org/wiki/OpenCourseWare) (OCW) est l'une des premières plateformes de ressources éducatives libres et l'un des initiateurs clés du mouvement des REL. Lancé à l'Institut de Technologie du Massachusetts (MIT) en 2002, l'[Open Education Consortium](http://www.oeconsortium.org/) fournit aujourd'hui des supports éducatifs provenant du monde entier sous la forme de cours sous licences libres. Entre autres pionniers, on trouve l'UNESCO et la Fondation William et Flora Hewlett qui sont toujours engagés dans les ressources éducatives libres.
 
 Quelques Exemples de plateformes de REL :
 
-- [Creative Commons Search](https://search.creativecommons.org/)[pour les fichiers images, audio et vidéo
-- [Open Education Consortium](http://www.oeconsortium.org/)pour les supports de cours ouverts
-- [OERCommons](https://www.oercommons.org/)pour les ressources éducatives
+- [Creative Commons Search](https://search.creativecommons.org/) pour les fichiers images, audio et vidéo
+- [Open Education Consortium](http://www.oeconsortium.org/) pour les supports de cours ouverts
+- [OERCommons](https://www.oercommons.org/) pour les ressources éducatives
 
 ![](/Images/Icons/questions.png)
 
@@ -63,9 +63,16 @@ R : Ce n'est pas toujours évident. A ce jour, il n'existe pas de label de quali
 
 * Butcher (2015). A Basic Guide to Open Educational Resources (OER). [hdl.handle.net](http://hdl.handle.net/11599/36)
 
-
 * Miao et al. (2016). Open Educational Resources: Policy, Costs and Transformation. [hdl.handle.net](http://hdl.handle.net/11599/2306)
 
 * OECD (2007). Giving Knowledge for Free: The Emergence of Open Educational Resources. OECD Publishing, Paris. [doi.org/10.1787/9789264032125-en](http://dx.doi.org/10.1787/9789264032125-en)
 
 * Open Knowledge Foundation (2014). Open Education Handbook 2014. [education.okfn.org](https://education.okfn.org/handbooks/handbook/)
+
+:heavy_plus_sign: *2023*
+
+* Les ressources éducatives libres, un enjeu d’avenir, Julien Jacqmin https://www.ouvrirlascience.fr/les-ressources-educatives-libres-un-enjeu-davenir/
+
+* Luc Massou, « Usage pédagogique des ressources éducatives libres : quelles tensions entre ouverture et didactisation des ressources numériques ? », Alsic [En ligne], Vol. 24, n° 2 | 2021, mis en ligne le 01 septembre 2021, consulté le 06 avril 2023. URL : http://journals.openedition.org.sid2nomade-2.grenet.fr/alsic/5670 ; DOI : https://doi-org.sid2nomade-2.grenet.fr/10.4000/alsic.5670
+
+* Alain Jaillet, « Les ressources éducatives libres pour sauver le monde (de l’éducation) ou repenser l’éducation avec le numérique pour améliorer la qualité ? », Distances et médiations des savoirs [En ligne], 31 | 2020, mis en ligne le 28 septembre 2020, consulté le 06 avril 2023. URL : http://journals.openedition.org.sid2nomade-2.grenet.fr/dms/5523 ; DOI : https://doi-org.sid2nomade-2.grenet.fr/10.4000/dms.5523

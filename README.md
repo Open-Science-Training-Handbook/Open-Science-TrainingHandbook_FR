@@ -1,13 +1,14 @@
 ![](/Images/Icons/balloon_thought.png) <img src="/Images/Icons/planning_design.png" width="200" height="200" />
 
-## Dans les coulisses de la version française : le sprint en ligne 2020
+## Dans les coulisses de la version française
+### Le sprint en ligne 2020
 
 Le sprint a été financé par le [Comité pour la science ouverte](https://www.ouvrirlascience.fr/) et la Mission de la pédagogie et du numérique pour l'enseignement supérieur (Mipnes) et est soutenu par Foster Open Science.
 
 Les passages du manuel déjà traduits en français par l'association HackYourResearch ont été mis à disposition des sprinters.
 
 
-Le 26 juin 2020 s'est déroulé le sprint traduction en ligne du manuel de formateurs [*[Open Science Training Handbook]*](https://github.com/Open-Science-Training-Handbook)[[, de Foster Open Science]](https://github.com/Open-Science-Training-Handbook), lui-même issu d'un book sprint organisé en 2018. Les sprinters ont traduit en français l'intégralité de l'ouvrage en une journée, grâce au soutien de Gisèle Massol, traductrice professionnelle et d'Elisa de Castro Guerra, facilitatrice du sprint.
+Le 26 juin 2020 s'est déroulé le sprint traduction en ligne du manuel de formateurs [*Open Science Training Handbook*](https://github.com/Open-Science-Training-Handbook), de [Foster Open Science](https://github.com/Open-Science-Training-Handbook), lui-même issu d'un book sprint organisé en 2018. Les sprinters ont traduit en français l'intégralité de l'ouvrage en une journée, grâce au soutien de Gisèle Massol, traductrice professionnelle et d'Elisa de Castro Guerra, facilitatrice du sprint.
 
 En binôme ou en trio, les sprinters ont travaillé à distance depuis différentes villes de France et même du Royaume-Uni.
 
@@ -25,6 +26,9 @@ Le contexte sanitaire lié à la crise de la Covid-19 ayant rendu caduques ces m
 
 Enfin, pour maintenir le suspense, la composition des équipes et les contenus des lots ont été annoncés le jour même.
 
+### La mise à jour pour publication 2023
+Un petit groupe de membre du Comité pour la Science Ouverte s'est proposé pour finir de mettre au propre cette traduction française de l'OSTH afin de pouvoir la publier. L'objectif était de restituer le matériel original de la manière la plus fidèle possible, en corrigeant simplement les coquilles et liens morts. Des mises à jour ont également été proposées pour certaines ressources documentaires, mais sont notifiées par l'indication suivante :
+":heavy_plus_sign: *2023*".
 
 ## Le Manuel de Formation à la Science Ouverte
 
@@ -77,7 +81,7 @@ Si vous souhaitez en savoir davantage sur les auteurs et les facilitateurs du sp
 
 * Simon Worthington (TIB, Hanovre, Allemagne) pour ses conseils sur le maintien et la conversion des métadonnées bibliographiques.
 
-## Déclaration de droits d'auteur {
+## Déclaration de droits d'auteur 
 
 *Le Manuel de formation à la science ouverte* est une ressource éducative ouverte et est par conséquent disponible selon les termes du [Creative Commons Public Domain Dedication (CC0 1.0 Universal)](https://creativecommons.org/publicdomain/zero/1.0/). Vous n'avez pas à nous demander la permission pour réutiliser et copier les informations contenues dans ce manuel.
 

@@ -58,11 +58,11 @@ Ce diagramme simplifié résume leurs principales caractéristiques dans des ter
 Retranscrit de 
 [https://onlinelearninginsights.wordpress.com/2013/05/15/how-couse-design-puts-the-focus-on-learning-not-teaching/](https://onlinelearninginsights.wordpress.com/2013/05/15/how-couse-design-puts-the-focus-on-learning-not-teaching/)
 
-Le travail réalisé par The Software Carpentry aide aussi à comprendre les processus d'apprentissage : [https://carpentries.github.io/instructor-training/](https://carpentries.github.io/instructor-training/)
+Le travail réalisé par The Software Carpentry aide aussi à comprendre les processus d'apprentissage : https://preview.carpentries.org/instructor-training/ 
 
 ### Le cadre pédagogique connecté
 
-Le récent mouvement "Connected Curriculum Framework ou Cadre Pédagogique Connecté" a pour but de moderniser les approches d'apprentissage pour les adapter aux apprenants du XVIIe siècle. L'objectif général de ce cadre est de renforcer les liens entre la formation des étudiants et les pratiques de recherche, en supprimant les barrières inutiles. Le cadre valorise un dialogue enrichi, la recherche active, les collaborations et interactions entre étudiants et chercheurs, ainsi qu'entre universités et communautés élargies. Cette démarche suscite des espoirs prometteurs dans les domaines de la science ouverte, de la science citoyenne, de la production participative, etc. Le cadre pédagogique connecté peut être consulté via ce lien :
+Le récent mouvement "Connected Curriculum Framework ou Cadre Pédagogique Connecté" a pour but de moderniser les approches d'apprentissage pour les adapter aux apprenants du XXIe siècle. L'objectif général de ce cadre est de renforcer les liens entre la formation des étudiants et les pratiques de recherche, en supprimant les barrières inutiles. Le cadre valorise un dialogue enrichi, la recherche active, les collaborations et interactions entre étudiants et chercheurs, ainsi qu'entre universités et communautés élargies. Cette démarche suscite des espoirs prometteurs dans les domaines de la science ouverte, de la science citoyenne, de la production participative, etc. Le cadre pédagogique connecté peut être consulté via ce lien :
 [http://www.ucl.ac.uk/ucl-press/browse-books/a-connected-curriculum-for-higher-education](http://www.ucl.ac.uk/ucl-press/browse-books/a-connected-curriculum-for-higher-education)
 
 #### En quoi cela vous concerne-t-il ? 
@@ -192,7 +192,7 @@ Spécifier les résultats d'apprentissage fait partie de la gestion de la format
 
 ![](/Images/03 On Learning and Training/03_bloom_s_taxonomy.png)
 
-[Une version actualisée (de 2001) est également disponible sur ce site :](https://thesecondprinciple.com/teaching-essentials/beyond-bloom-cognitive-taxonomy-revised/) 
+[Une version actualisée (de 2001) est également disponible sur ce site :](https://www.uky.edu/~rsand1/china2018/texts/Anderson-Krathwohl%20-%20A%20taxonomy%20for%20learning%20teaching%20and%20assessing.pdf) 
 
 La taxonomie de Bloom est une méthode de classification sur six niveaux. Le travail d'utilisation de la taxonomie de Bloom en vaut la peine car elle représente une avancée importante vers la volonté de construire une formation et un enseignement solides. Outre la taxonomie de Bloom, vous pouvez vous appuyer sur plusieurs types d'aides à la conception telles que des terminologies annotées, des listes de verbes à utiliser ou à éviter dans la planification de vos cours ou la rédaction de vos questionnaires d'évaluation.
 
@@ -235,8 +235,6 @@ Voici une tentative pour clarifier la situation et lever les ambiguïtés :
 
 * Les acquis sont des critères clairs et mesurables qui guident l'enseignement, l'apprentissage et le processus d'évaluation dans le cadre du cours.
 
-(Adapté de [http://provost.rpi.edu/learning-assessment/learning-outcomes/objectives-vs-outcomes](http://provost.rpi.edu/learning-assessment/learning-outcomes/objectives-vs-outcomes))
-
 Pour les objectifs pédagogiques de la science ouverte, voir ce document FOSTER : https://doi.org/10.5281/zenodo.15603 SMASH (Voir pages 13 & 14)
 
 ** Exemple d'objectif de formation **
@@ -253,7 +251,7 @@ Pour les objectifs pédagogiques de la science ouverte, voir ce document FOSTER 
 
 L'un des éléments clés d'une formation est de s'assurer que le manque de confiance que peuvent ressentir les participants lorsqu'ils découvrent un nouveau domaine (la science ouverte, en l'occurrence) ne les dissuade pas d'aller plus loin. Même si certains participants sont généralement familiarisés avec les concepts présentés dans le cadre de la formation, il est important de détecter les situations dans lesquelles les personnes se sentent perdues. Reconnaître que leurs incompréhensions sont légitimes est essentiel pour encourager leur esprit de progression et les motiver à accepter et à adopter les pratiques de la science ouverte.
 
-Plusieurs stratégies peuvent être utilisées tout au long de la formation pour motiver les participants. (Extrait de The Carpentry Instructor Training, https://carpentries.github.io/instructor-training/08-motivation/)
+Plusieurs stratégies peuvent être utilisées tout au long de la formation pour motiver les participants. (Extrait de The Carpentry Instructor Training, https://preview.carpentries.org/instructor-training/)
 
 * **Stratégies de valorisation**
   
@@ -295,15 +293,13 @@ SMART est une technique intéressante pour préciser les buts / objectifs et ell
 
 * Votre objectif est **simple** s'il peut être compris par une personne qui ne connaît pas le sujet. Autrement dit, vous devez pouvoir expliquer à vos élèves en amont de la formation, ce qu'ils vont apprendre. C'est généralement une bonne idée que de présenter votre objectif au début d'une leçon. Simple signifie que l'objectif doit pouvoir être formulé en une seule phrase concise.
 
-* Votre objectif est **mesurable** si vous pouvez déterminer objectivement si le but a été atteint. La mesurabilité empêche des objectifs imprécis tels que «les étudiants doivent comprendre la science ouverte», qui est trop large et difficile à mesurer car il existe de nombreuses composantes différentes. Utilisez plutôt des verbes d'action : identifier, dessiner, nommer, expliquer, calculer, etc. Les verbes correspondant à de bons objectifs pédagogiques ont été classés par la taxonomie de Bloom des domaines cognitifs ([clinton.edu/curriculumcommittee/listofmeasurableverbs.cxml](https://www.clinton.edu/curriculumcommittee/listofmeasurableverbs.cxml). Ce genre de mesure vous aidera, vous et vos élèves, à évaluer ou à auto-évaluer les progrès.
+* Votre objectif est **mesurable** si vous pouvez déterminer objectivement si le but a été atteint. La mesurabilité empêche des objectifs imprécis tels que « les étudiants doivent comprendre la science ouverte », qui est trop large et difficile à mesurer car il existe de nombreuses composantes différentes. Utilisez plutôt des verbes d'action : identifier, dessiner, nommer, expliquer, calculer, etc. Les verbes correspondant à de bons objectifs pédagogiques ont été classés par la taxonomie de Bloom des domaines cognitifs. Ce genre de mesure vous aidera, vous et vos élèves, à évaluer ou à auto-évaluer les progrès.
 
-* Votre objectif est **ambitieux** si vous proposez un défi à vos élèves. Y a-t-il un avantage évident pour eux ? Voulez-vous que la leçon élargisse leur horizon ? En quoi cela leur donne-t-il un avantage ? Être ambitieux signifie avoir une réponse à la question: qu'est-ce que les élèves apprendront qu'ils ne pourraient pas apprendre par ailleurs ? Si vous ressentez le désir de faire la différence et de défendre votre point de vue, cela est probablement ambitieux.
+* Votre objectif est **ambitieux** si vous proposez un défi à vos élèves. Y a-t-il un avantage évident pour eux ? Voulez-vous que la leçon élargisse leur horizon ? En quoi cela leur donne-t-il un avantage ? Être ambitieux signifie avoir une réponse à la question : qu'est-ce que les élèves apprendront qu'ils ne pourraient pas apprendre par ailleurs ? Si vous ressentez le désir de faire la différence et de défendre votre point de vue, cela est probablement ambitieux.
 
 * Votre objectif est **réaliste** si vous croyez sincèrement que votre objectif d'apprentissage peut être atteint dans le délai imparti. Être réaliste implique du travail personnel : vos élèves possèdent-ils les savoirs de base nécessaires ? De quelles compétences pratiques ont-ils besoin ? Quels sont les prérequis techniques ? Êtes-vous prêt à répondre à des questions inattendues ? Par exemple, comprendre toutes les licences Creative Commons en une heure peut être un objectif réaliste pour un groupe, mais hors de portée pour un autre.
 
 * Votre objectif est **temporellement défini** s'il existe un cadre temporel dans lequel l'objectif doit être atteint. Les enseignants débutants dépassent souvent le temps qui leur est alloué. Fixer des délais pour vos objectifs d'apprentissage vous aide à structurer votre leçon, à reconnaître et à réagir aux retards inattendus. Un bon moyen de planifier son cours est de disposer d'un horaire détaillé ou un plan de leçon.
-
-Adapté de *"[Objectifs SMART Goals, How to create objective, measurable project goals](http://www.academis.eu/posts/smart_goals)"* par Kristian Rother.
 
 #### Planification basée sur les résultats plutôt que sur les objectifs 
 
@@ -315,11 +311,11 @@ Utiliser la conception pédagogique inversée (Backward design) est une techniqu
 
 3. Choisissez le meilleur format et le meilleur contenu pour préparer le public à ce qu'il devra faire pendant l'évaluation sommative.
 
-4. Trier le contenu par ordre croissant de complexité, puis fournir le contenu et la motivation dont ont besoin les apprenants pour combler l'écart entre ce qu'ils savent et ce qu'ils doivent savoir pour terminer l'évaluation sommative. ([Formation d'instructeur de Software Carpentry](http://swcarpentry.github.io/instructor-training/19-lessons/))
+4. Trier le contenu par ordre croissant de complexité, puis fournir le contenu et la motivation dont ont besoin les apprenants pour combler l'écart entre ce qu'ils savent et ce qu'ils doivent savoir pour terminer l'évaluation sommative. ([Formation d'instructeur de Software Carpentry](https://carpentries.github.io/instructor-training/index.html))
 
 La conception inversée remet en question les méthodes "traditionnelles" de planification des programmes. Dans la planification traditionnelle des programmes de formation, une liste des contenus qui seront enseignés est créée et / ou sélectionnée. Dans une conception inversée, l'éducateur commence par les objectifs, crée ou planifie des évaluations et enfin définit des plans de cours. Les partisans de la conception inversée comparent le processus à l'utilisation d'une "feuille de route". Dans ce cas, la destination est choisie en premier, puis la feuille de route est utilisée pour planifier le voyage vers la destination souhaitée. A l'inverse, dans la planification de cours traditionnelle, aucune destination officielle n'est identifiée avant le début du voyage.
 
-L'idée dans la conception inversée est d'enseigner pour atteindre le «point final» ou les objectifs d'apprentissage, ce qui garantit généralement que le contenu enseigné reste concentré et organisé. Ceci, à son tour, vise à promouvoir une meilleure compréhension du contenu ou des processus à enseigner aux étudiants. Le formateur est capable de se concentrer sur ce que les élèves ont besoin d'apprendre, sur les données qui peuvent être collectées pour montrer que les élèves ont appris les résultats souhaités (ou [normes d'apprentissage](https://en.wikipedia.org/wiki/Learning_standards)) et comment être sûr que les élèves apprendront.
+L'idée dans la conception inversée est d'enseigner pour atteindre le « point final » ou les objectifs d'apprentissage, ce qui garantit généralement que le contenu enseigné reste concentré et organisé. Ceci, à son tour, vise à promouvoir une meilleure compréhension du contenu ou des processus à enseigner aux étudiants. Le formateur est capable de se concentrer sur ce que les élèves ont besoin d'apprendre, sur les données qui peuvent être collectées pour montrer que les élèves ont appris les résultats souhaités (ou [normes d'apprentissage](https://en.wikipedia.org/wiki/Learning_standards)) et comment être sûr que les élèves apprendront.
 
 ![](/Images/Icons/journal.png)
 
@@ -332,9 +328,9 @@ Veuillez consulter le chapitre sur les Exemples et Conseils Pratiques qui contie
 
 #### Réduction du contenu 
 
-L'un des plus grands défis dans la conception de cours de formation est de réduire le contenu au format de formation. Si vous ne disposez que de deux heures, vous devez fournir les informations les plus importantes sur le sujet dans ce délai. En tant que formateur, cependant, vous possédez généralement beaucoup plus de connaissances que vous aimeriez transmettre. Essayez de réduire le contenu aux points clés essentiels. Que faut-il vraiment savoir et quels éléments ne sont que des détails ou des thèmes marginaux? Fixez des priorités thématiques, soyez transparent sur les omissions et informez vos participants à ce sujet.
+L'un des plus grands défis dans la conception de cours de formation est de réduire le contenu au format de formation. Si vous ne disposez que de deux heures, vous devez fournir les informations les plus importantes sur le sujet dans ce délai. En tant que formateur, cependant, vous possédez généralement beaucoup plus de connaissances que vous aimeriez transmettre. Essayez de réduire le contenu aux points clés essentiels. Que faut-il vraiment savoir et quels éléments ne sont que des détails ou des thèmes marginaux ? Fixez des priorités thématiques, soyez transparent sur les omissions et informez vos participants à ce sujet.
 
-Et essayez de garder suffisamment de temps pour les questions libres, les discussions ou le partage d'expérience entre les participants. Cela vous aidera à obtenir les «bonnes» questions. Elles seront souvent bien plus simples que vous ne pensiez ou plus détaillés et spécifiques que prévu.
+Et essayez de garder suffisamment de temps pour les questions libres, les discussions ou le partage d'expérience entre les participants. Cela vous aidera à obtenir les « bonnes » questions. Elles seront souvent bien plus simples que vous ne pensiez ou plus détaillées et spécifiques que prévu.
 
 ![](/Images/Icons/rocket.png)
 
@@ -348,7 +344,7 @@ Selon la taille de votre public, le temps disponible et le niveau d'interaction 
 
 Sachez qu'il n'est pas absolument nécessaire d'adapter immédiatement le contenu, il suffit d'être clair en faisant savoir aux participants ce qui sera abordé ou pas.
 
-Une fois de plus, les informations fournies par [[Software Carpentry]](https://carpentries.github.io/instructor-training/08-motivation/) peuvent être utiles pour aider à créer la meilleure ambiance.
+Une fois de plus, les informations fournies par [[Software Carpentry]](https://carpentries.github.io/instructor-training/08-motivation.html) peuvent être utiles pour aider à créer la meilleure ambiance.
 
 ![](/Images/05 Examples _ Practical Guidance/05_icebreaker.png)
 
@@ -386,8 +382,7 @@ L'apprentissage actif permet de contourner la diversité des modes d'acquisition
 
 #### La Ludification 
 
-Les fondements de la méthodologie de l'Apprentissage actif se trouvent dans les théories modernes de l'apprentissage (en partie dans le constructivisme et en partie dans le connectivisme) et ajoutent des techniques d'engagement dans l'apprentissage pour faire tomber les barrières et aplanir autant d'obstacles que possible. Par exemple, la ludification d'une session d'apprentissage peut faire glisser les participants de l'acquisition passive de contenu à un engagement total, ce qui amène à repositionner l'apprenant dans une posture réflexive de recul et d'observation du processus d'apprentissage et de son fonctionnement. Un exemple de ludification est donné ici : [CURATE: The Digital Curator Game](http://www.digcur-education.org/eng/Resources/CURATE-Game).
-
+Les fondements de la méthodologie de l'Apprentissage actif se trouvent dans les théories modernes de l'apprentissage (en partie dans le constructivisme et en partie dans le connectivisme) et ajoutent des techniques d'engagement dans l'apprentissage pour faire tomber les barrières et aplanir autant d'obstacles que possible. Par exemple, la ludification d'une session d'apprentissage peut faire glisser les participants de l'acquisition passive de contenu à un engagement total, ce qui amène à repositionner l'apprenant dans une posture réflexive de recul et d'observation du processus d'apprentissage et de son fonctionnement. Un exemple de ludification est donné ici : [CURATE: The Digital Curator Game](https://zenodo.org/record/438694).
 
 #### L'engagement inclusif 
 
@@ -420,7 +415,7 @@ Dans tous les cas, ayez en tête quoi faire si une conversation parallèle s'eng
 
 ### Restitution immédiate 
 
-À la fin de chaque module, demandez une restitution immédiate aux participants sur le modèle "un plus/un moins", c'est-à-dire indiquer une chose qui était utile/bien dans le module et une chose qui n'était pas claire/qui pourrait être améliorée. Cette restitution peut également être faite sous la forme d'une échelle à plusieurs niveaux ; [voici](http://www.academis.eu/posts/fist_or_five) un exemple de restitution sur 6 niveaux.
+À la fin de chaque module, demandez une restitution immédiate aux participants sur le modèle "un plus/un moins", c'est-à-dire indiquer une chose qui était utile/bien dans le module et une chose qui n'était pas claire/qui pourrait être améliorée. Cette restitution peut également être faite sous la forme d'une échelle à plusieurs niveaux.
 
 Une autre façon d'obtenir une restitution instantanée, en particulier à des points prédéfinis, est de recourir à des sondages en continu. Slack peut par exemple être utilisé pour fournir une restitution anonyme sur le rythme du cours, en donnant la possibilité aux membres d'un canal de changer leur choix de réponse au sondage à tout moment. Il est recommandé de montrer le résultat de la restitution aux participants. La présentation de totaux ou de graphiques peut être une source de motivation. Les outils en ligne suscitent plus d'implication, notamment parce que la dépendance à des dispositifs tels que les boîtiers de réponse est en voie de disparition. Les apprenants peuvent utiliser des appareils mobiles connectés à Internet et se sentir plus autonomes. Les exemples de ce type sont nombreux. Il est recommandé de tester les méthodes avant de les utiliser avec un public réel, et de commencer par les systèmes pour lesquels les étapes de familiarisation sont les plus faciles, comme [Socrative](https://www.socrative.com/) et [](https://www.pearson.com/us/higher-education/products-services-teaching/learning-engagement-tools/learning-catalytics.html) [Learning Catalytics](https://www.pearson.com/us/higher-education/products-services-teaching/learning-engagement-tools/learning-catalytics.html), [](https://www.polleverywhere.com/) [Polleverywhere](https://www.polleverywhere.com/), [](http://directpoll.com/) [Directpoll](http://directpoll.com/).
 
@@ -463,11 +458,11 @@ _Restitution entre pairs_
 
 Pour évaluer un cours, vous devez d'abord déterminer ce à quoi vous voulez que vos apprenants se familiarisent, qu'ils sachent, analysent de manière critique ou soient capables d'expliquer. Pourquoi suivez-vous ce cours ? Quels sont les objectifs que vous souhaitez atteindre ? Une fois le cours terminé, vous devez vérifier si vous avez atteint ces objectifs. Il existe différents critères permettant de mesurer le succès et l'efficacité de votre cours (Kirkpatrick & Kirkpatrick, 1994) :
 
-* Réaction ( réponse aux attentes) : Les stagiaires sont-ils satisfaits du cours ? Ont-ils atteint leurs objectifs d'apprentissage ? Les attentes étaient-elles réalistes ? Comment les participants ont-ils réagi au cours ? Y avait-il une structure claire ou un fil conducteur ?
+* Réaction (réponse aux attentes) : Les stagiaires sont-ils satisfaits du cours ? Ont-ils atteint leurs objectifs d'apprentissage ? Les attentes étaient-elles réalistes ? Comment les participants ont-ils réagi au cours ? Y avait-il une structure claire ou un fil conducteur ?
 
-* Apprentissage : Les participants ont-ils appris quelque chose de nouveau ? Le contenu est-il utile dans leur situation actuelle ? Ont-ils tout compris ? Peuvent-ils établir les liens appropriés entre les outils/plateformes présentés et les pratiques de science ouverte? Répondent-ils aux objectifs d'apprentissage prédéfinis ?
+* Apprentissage : Les participants ont-ils appris quelque chose de nouveau ? Le contenu est-il utile dans leur situation actuelle ? Ont-ils tout compris ? Peuvent-ils établir les liens appropriés entre les outils/plateformes présentés et les pratiques de science ouverte ? Répondent-ils aux objectifs d'apprentissage prédéfinis ?
 
-* Comportement : Vont-ils changer leur façon de mener des recherches ? Que feront-ils des connaissances qu'ils ont acquises ? Recommanderont-ils la formation/son contenu à d'autres personnes?
+* Comportement : Vont-ils changer leur façon de mener des recherches ? Que feront-ils des connaissances qu'ils ont acquises ? Recommanderont-ils la formation/son contenu à d'autres personnes ?
 
 * Résultats : quels sont les résultats qui, une fois atteints, auront un impact plus positif au regard des objectifs ? Quels sont ceux qui ont apporté le plus de bénéfices ?
 
@@ -525,11 +520,6 @@ Vous pouvez appliquer des exercices similaires pour des formations à destinatio
 
 ### Lectures complémentaires
 
-**Sur la taxonomie de Bloom**
-
-* Davis (2014). Using Bloom’s Taxonomy to Write Learning Outcomes. [pearsoened.com](https://www.pearsoned.com/using-blooms-taxonomy-to-write-learning-outcomes/)
-* Clinton Community College (1966-2017). List of Measurable Verbs Used to Assess Learning Outcomes. [clinton.edu](https://www.clinton.edu/curriculumcommittee/listofmeasurableverbs.cxml)
-
 **Ressources / Exercices pour briser la glace**
 
 * Mindtools. Ice Breakers. Easing Group Contribution. [mindtools.com](https://www.mindtools.com/pages/article/newLDR_76.htm)
@@ -538,7 +528,7 @@ Vous pouvez appliquer des exercices similaires pour des formations à destinatio
 
 **Références**
 
-* Ambrose, Bridges, DiPietro, Lovett, Norman and Mayer. How learning works. [Highlights summarized by Brent and Felder](http://bit.ly/2El88Im). Seven research-based principles for smart teaching";  ISBN: 978-0-470-48410-4. 
+* Ambrose, Bridges, DiPietro, Lovett, Norman and Mayer. How learning works. Seven research-based principles for smart teaching";  ISBN: 978-0-470-48410-4. https://firstliteracy.org/wp-content/uploads/2015/07/How-Learning-Works.pdf
 
 * Dale (1969). Audio-Visual Methods in Teaching, 3rd ed., Holt, Rinehart & Winston, New York, p.10.
 
@@ -546,7 +536,7 @@ Vous pouvez appliquer des exercices similaires pour des formations à destinatio
 
 * Fung (2017). A Connected Curriculum for Higher Education. UCL Press. [ucl.ac.uk](http://www.ucl.ac.uk/ucl-press/browse-books/a-connected-curriculum-for-higher-education)
 
-* Felder and Brent (n.y.).  Active learning. An introduction. [PDF](http://www4.ncsu.edu/unity/lockers/users/f/felder/public/Tutorials/Active/Active-learning.pdf)
+* Felder and Brent (2009). Active learning. An introduction. [PDF](https://www.engr.ncsu.edu/wp-content/uploads/drive/1XaOo9WCKcMq6-fTcQGidOT2SDGqg70l5/2009-ALpaper(ASQ).pdf)
 
 * Kirkpatrick and Kirkpatrick (1994). Evaluating Training Programs, Berrett-Koehler Publishers.
 
@@ -558,7 +548,7 @@ Vous pouvez appliquer des exercices similaires pour des formations à destinatio
 
 * Rowe (1986). Wait Time: Slowing Down May Be A Way of Speeding Up! Journal of Teacher Education, 37\(1\), 43–50. [doi.org/10.1177/002248718603700110](https://doi.org/10.1177/002248718603700110)
 
-* Siemens (2006). Knowing Knowledge. [PDF](http://www.elearnspace.org/KnowingKnowledge_LowRes.pdf)
+* Siemens (2006). Knowing Knowledge. [PDF](https://issuu.com/johoedu/docs/siemens--2006--knowingknowledge)
     
 
 **Pour approfondir votre compréhension du sujet**
