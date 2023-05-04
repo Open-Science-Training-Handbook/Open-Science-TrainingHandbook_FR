@@ -92,7 +92,7 @@ Principaux objectifs du programme de sensibilisation :
 
 * Défendre vos propres droits en tant qu'auteur
 
-* Les étapes clés pour parvenir à un changement de culture locale ([[Kotter n.y.]](https://study.com/academy/lesson/kotters-8-step-change-model-of-management.html))
+* Les étapes clés pour parvenir à un changement de culture locale ([Kotter n.y.](https://study.com/academy/lesson/kotters-8-step-change-model-of-management.html))
 
 * Plaidoyer auprès de vos pairs : Rédaction de lettres et d'articles pour défendre la cause de la science ouverte
 

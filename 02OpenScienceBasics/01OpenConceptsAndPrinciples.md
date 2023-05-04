@@ -122,7 +122,7 @@ R : Il vaut mieux avoir trop d'informations à traiter que d'en avoir trop peu e
 
 * Watson (2015). When will ‘Open Science’ become simply ‘science’?. [doi.org/10.1186/s13059-015-0669-2](https://doi.org/10.1186/s13059-015-0669-2)
 
-:heavy_plus_sign: *2023*
+***+ 2023***
 
 * Rapport de l’UNESCO : Recommandations sur la Science Ouverte (2021) https://unesdoc.unesco.org/ark:/48223/pf0000379949.locale=fr 
 

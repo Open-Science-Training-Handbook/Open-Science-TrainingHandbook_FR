@@ -69,7 +69,7 @@ R : Ce n'est pas toujours évident. A ce jour, il n'existe pas de label de quali
 
 * Open Knowledge Foundation (2014). Open Education Handbook 2014. [education.okfn.org](https://education.okfn.org/handbooks/handbook/)
 
-:heavy_plus_sign: *2023*
+***+ 2023***
 
 * Les ressources éducatives libres, un enjeu d’avenir, Julien Jacqmin https://www.ouvrirlascience.fr/les-ressources-educatives-libres-un-enjeu-davenir/
 

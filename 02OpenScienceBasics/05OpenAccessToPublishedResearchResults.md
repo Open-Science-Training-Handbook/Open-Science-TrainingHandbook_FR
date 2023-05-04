@@ -57,8 +57,7 @@ En ce qui concerne la version de l'article, certaines revues autorisent la diffu
 
 En ce qui concerne le moment auquel l'article peut être mis à la disposition du public, de nombreuses revues fixent un délai à compter de la publication originale d'un article, appelé période d'embargo, qui peut aller de zéro à 60 mois. Certaines revues définissent ou non un embargo en fonction des versions de l'article. Par exemple, la version acceptée peut être mise à la disposition du public dès sa publication, mais la version publiée devra attendre 12 mois.
 
-**Focus : la stratégie de non-cession des droits**
-:heavy_plus_sign: *2023* 
+**Focus : la stratégie de non-cession des droits**  ***+ 2023***
 
 La cOAlition S, qui regroupe 28 organisations de financement de la recherche, propose une stratégie de non-cession des droits afin que les articles issus des recherches qu’elle finance soient diffusés en libre accès dès leur date de publication et sous une licence Creative Commons CC-BY. Pour cela, les auteurs doivent informer leur éditeur qu’une licence CC-BY s’applique à l’ensemble des versions de leur article entre la version soumise et la version acceptée pour publication. Un [guide](https://www.ouvrirlascience.fr/mettre-en-oeuvre-la-strategie-de-non-cession-des-droits-sur-les-publications-scientifiques/) publié par le Comité français pour la science ouverte propose une aide pour mettre en œuvre cette stratégie. 
 
@@ -131,7 +130,7 @@ Vous pouvez débattre de l'avenir de la communication scientifique en présentan
 
 * The Open Access Directory. [oad.simmons.edu/oadwiki](http://oad.simmons.edu/oadwiki/Main_Page)
 
-:heavy_plus_sign: *2023*
+***+ 2023***
 
 * Comité français pour la science ouverte (2018). Guide d’application de la loi pour une République numérique (art. 30). https://www.ouvrirlascience.fr/guide-application-loi-republique-numerique-article-30-ecrits-scientifiques-version-courte/ 
 
