@@ -217,5 +217,7 @@ Ayant étudié les sciences sociales, je suis bibliothécaire de formation et je
 Lorsque j'organise des ateliers (par exemple, un atelier d'une demi-journée pour les doctorants et les post-docs de l'Association de recherche Leibniz en Allemagne depuis 2017, sur la question du profil scientifique et des services de rédaction collaborative), c'est toujours un plaisir d'exploiter la curiosité des apprenants. Même l'étudiant le plus occupé a des expériences, des questions et imagine comment les choses pourraient fonctionner au mieux pour lui. J'aime utiliser cette énergie positive ! Et cela permet à un formateur d'animer beaucoup plus facilement une session de formation.
 
 ## Les auteurs lors de la mise à jour en 2023
-:heavy_plus_sign: *2023*
+
+***+ 2023***
+
 Quatre membres du collège Formation du [Comité pour la science ouverte](ouvrirlascience.fr/) ont participé à la finalisation de la traduction française, en corrigeant les coquilles restantes et mettant à jour certaines ressources. Il s'agit de Florence Bouchet, Romain Feret, Sacha Hodencq et Alain Marois. 
