@@ -8,14 +8,17 @@ Chaque chapitre est structuré de manière à inclure une brève description du 
 
 ## Chapitres 
 
-* [1. Concepts et Principes de la science ouverte](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/blob/master/02OpenScienceBasics/01OpenConceptsAndPrinciples.md) 
-* [2. Données et outils de la recherche ouverte](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/blob/master/02OpenScienceBasics/02OpenResearchDataAndMaterials.md)
-* [3. Logiciels de recherche ouverts et de source ouverte](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/blob/master/02OpenScienceBasics/03OpenResearchSoftwareAndOpenSource.md) 
-* [4. Recherche reproductible et analyse des données](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/blob/master/02OpenScienceBasics/04ReproducibleResearchAndDataAnalysis.md)
-* [5. Accès ouvert aux résultats publiés de la recherche](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/blob/master/02OpenScienceBasics/05OpenAccessToPublishedResearchResults.md)
-* [6. Licences ouvertes et formats de fichiers](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/blob/master/02OpenScienceBasics/06OpenLicensingAndFileFormats.md)
-* [7. Plateformes collaborative](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/blob/master/02OpenScienceBasics/07CollaborativePlatforms.md)
-* [8. Révision par les pairs, métrique et évaluation ouvertes](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/blob/master/02OpenScienceBasics/08OpenPeerReviewMetricsAndEvaluation.md)
-* [9. Politiques de science ouverte](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/blob/master/02OpenScienceBasics/09OpenSciencePolicies.md)
-* [10. Science citoyenne 63](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/blob/master/02OpenScienceBasics/10CitizenScience.md)
-* [11. Ressources éducatives libres](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/blob/master/02OpenScienceBasics/11OpenEducationalResources.md)
+* [1. Concepts et Principes de la science ouverte](https://github.com/Open-Science-Training-Handbook/Open-Science-TrainingHandbook_FR/blob/master/02OpenScienceBasics/01OpenConceptsAndPrinciples.md) 
+* [2. Données et outils de la recherche ouverte](https://github.com/Open-Science-Training-Handbook/Open-Science-TrainingHandbook_FR/blob/master/02OpenScienceBasics/02OpenResearchDataAndMaterials.md)
+* [3. Logiciels de recherche ouverts et de source ouverte](https://github.com/Open-Science-Training-Handbook/Open-Science-TrainingHandbook_FR/blob/master/02OpenScienceBasics/03OpenResearchSoftwareAndOpenSource.md) 
+* [4. Recherche reproductible et analyse des données](https://github.com/Open-Science-Training-Handbook/Open-Science-TrainingHandbook_FR/blob/master/02OpenScienceBasics/04ReproducibleResearchAndDataAnalysis.md)
+* [5. Accès ouvert aux résultats publiés de la recherche](https://github.com/Open-Science-Training-Handbook/Open-Science-TrainingHandbook_FR/blob/master/02OpenScienceBasics/05OpenAccessToPublishedResearchResults.md)
+* [6. Licences ouvertes et formats de fichiers](https://github.com/Open-Science-Training-Handbook/Open-Science-TrainingHandbook_FR/blob/master/02OpenScienceBasics/06OpenLicensingAndFileFormats.md)
+* [7. Plateformes collaborative](https://github.com/Open-Science-Training-Handbook/Open-Science-TrainingHandbook_FR/blob/master/02OpenScienceBasics/07CollaborativePlatforms.md)
+* [8. Révision par les pairs, métrique et évaluation ouvertes](https://github.com/Open-Science-Training-Handbook/Open-Science-TrainingHandbook_FR/blob/master/02OpenScienceBasics/08OpenPeerReviewMetricsAndEvaluation.md)
+* [9. Politiques de science ouverte](https://github.com/Open-Science-Training-Handbook/Open-Science-TrainingHandbook_FR/blob/master/02OpenScienceBasics/09OpenSciencePolicies.md)
+* [10. Science citoyenne](https://github.com/Open-Science-Training-Handbook/Open-Science-TrainingHandbook_FR/blob/master/02OpenScienceBasics/10CitizenScience.md)
+* [11. Ressources éducatives libres](https://github.com/Open-Science-Training-Handbook/Open-Science-TrainingHandbook_FR/blob/master/02OpenScienceBasics/11OpenEducationalResources.md)
+* [12. Plaidoyer pour la Science Ouverte](https://github.com/Open-Science-Training-Handbook/Open-Science-TrainingHandbook_FR/blob/master/02OpenScienceBasics/12OpenAdvocacy.md)
+
+Ils peuvent tous être retrouvés sur le répertoire en ligne [*Open Science Basics*](https://github.com/Open-Science-Training-Handbook/Open-Science-TrainingHandbook_FR/tree/master/02OpenScienceBasics) 
