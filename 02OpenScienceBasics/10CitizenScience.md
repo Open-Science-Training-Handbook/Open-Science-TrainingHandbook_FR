@@ -94,7 +94,7 @@ Bien que le débat soit encore ouvert quant à la manière d'évaluer certaines 
   * ZOONIVERSE - People-powered research. [zooniverse.org](https://www.zooniverse.org/projects)
   * Austrian Citizen Science Projects. [citizen-science.at](https://www.citizen-science.at/)
 
-:heavy_plus_sign: *2023*
+***+ 2023***
 
 * Recommandation de l’UNESCO sur la Science Ouverte (2021) (*voir notamment les sections 10., 11. et 12.*) https://unesdoc.unesco.org/ark:/48223/pf0000379949_fre 
 
