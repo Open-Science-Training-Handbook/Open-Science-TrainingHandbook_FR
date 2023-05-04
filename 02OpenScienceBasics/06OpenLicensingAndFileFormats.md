@@ -130,7 +130,7 @@ Adéquation des licences : les licences CC ne doivent par exemple pas être util
 
 * World Intellectual Property Organization. Universitites and Intellectual Property. [wipo.int](http://www.wipo.int/about-ip/en/universities_research/)
 
-:heavy_plus_sign: *2023*
+***+ 2023***
 
 * CoopIST - Connaître et utiliser les licences Creative Commons [https://coop-ist.cirad.fr/etre-auteur/utiliser-les-licences-creative-commons/1-droits-d-auteurs-et-droit-des-bases-de-donnees](https://coop-ist.cirad.fr/etre-auteur/utiliser-les-licences-creative-commons/1-droits-d-auteurs-et-droit-des-bases-de-donnees)
 
