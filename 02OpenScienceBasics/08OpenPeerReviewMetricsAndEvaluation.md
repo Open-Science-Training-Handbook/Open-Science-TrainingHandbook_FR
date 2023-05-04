@@ -161,7 +161,7 @@ R: L'évaluation de la recherche est aussi équitable que le sont les méthode e
 
 * Snowball Metrics. Des métriques de recherche standardisées -- par le secteur pour le secteur. [snowballmetrics.com](https://www.snowballmetrics.com/)
 
-:heavy_plus_sign: *2023*
+***+ 2023***
 
 * Evaluation ouverte par les pairs : de l’expérimentation à la modélisation. Julien Bordier [https://hal.science/hal-01283582](https://hal.science/hal-01283582)
 * Types de documents et activités éligibles à une évaluation. Ouvrir la science [https://www.ouvrirlascience.fr/types-de-documents-productions-et-activites-valorisees-par-la-science-ouverte-et-eligibles-a-une-evaluation/](https://www.ouvrirlascience.fr/types-de-documents-productions-et-activites-valorisees-par-la-science-ouverte-et-eligibles-a-une-evaluation/)
